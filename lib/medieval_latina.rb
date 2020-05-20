@@ -7,15 +7,15 @@ class MedievalLatina
 
   def pronounce
     text.chars.map do |character|
-      DICTIONARY[character.downcase.intern]
-    end.join('-')
+      DICTIONARY[character.downcase.intern] || character
+    end.join('')
   end
 
   private
 
   attr_reader :text
 
-  DICTIONARY = { a: 'ah', i: 'ee', v: 'v'}
+  DICTIONARY = { a: 'ah', e: 'ay', i: 'ee', o: 'oh', u: 'oo', v: 'v' }
 
   class Error < StandardError; end
 end
