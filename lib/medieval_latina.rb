@@ -1,11 +1,15 @@
 require "medieval_latina/version"
 
 class MedievalLatina
+  def self.[](text)
+    new(text).call
+  end
+
   def initialize(text)
     @text = text
   end
 
-  def pronounce
+  def call
     text.chars.map { |character|
       DICTIONARY[character.downcase.intern] || character
     }.join("")
