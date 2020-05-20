@@ -9,7 +9,7 @@ RSpec.describe MedievalLatina do
     context 'via' do
       let(:text) { 'via' }
 
-      it { expect(subject.pronounce).to eq("vee-ah")}
+      it { expect(subject.pronounce).to eq("v-ee-ah")}
     end
   end
 end
