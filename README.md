@@ -22,8 +22,10 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-word = 'Deus'
-MedievalLatina[word] # => 'dayoos'
+["deus", "luna", "via"].each { |word| puts MedievalLatina[word] }
+ # "dayoos"
+ # "loonah"
+ # "veeah"
 ```
 
 ## Development

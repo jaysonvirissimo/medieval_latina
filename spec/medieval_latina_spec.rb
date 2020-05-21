@@ -6,10 +6,14 @@ RSpec.describe MedievalLatina do
   describe "[]" do
     {
       ambulo: "ahmbooloh",
-      via: "veeah",
+      # caelum: 'chayloom',
       deus: "dayoos",
+      gloria: "glohreeah",
+      jesus: "yaysoos",
+      laudo: "lowdoh",
+      luna: "loonah",
       toga: "tohgah",
-      luna: "loonah"
+      via: "veeah"
     }.each do |latin, pronounciation|
       it "pronounces '#{latin}' as '#{pronounciation}'" do
         expect(described_class[latin.to_s]).to eq(pronounciation)
