@@ -6,7 +6,7 @@ RSpec.describe MedievalLatina do
   describe "[]" do
     {
       ambulo: "ahmbooloh",
-      # caelum: 'chayloom',
+      caelum: "chayloom",
       deus: "dayoos",
       gloria: "glohreeah",
       jesus: "yaysoos",

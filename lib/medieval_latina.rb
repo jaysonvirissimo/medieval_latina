@@ -14,9 +14,9 @@ class MedievalLatina
     array = []
 
     until index >= text.length
-      this_character = text[index]
-      next_character = text[index + 1]
-      result = vowel(this_character, next_character) || consonent(this_character)
+      character = text[index]
+      rest = text.chars.drop(index + 1).join
+      result = vowel(character, rest.chars.first) || consonent(character, rest)
       array.push(result.substring)
       self.index = index + result.increment_by
     end
@@ -35,14 +35,28 @@ class MedievalLatina
 
   Result = Struct.new(:substring, :increment_by)
 
-  def consonent(character)
-    consonent = CONSONENTS[character.intern] || character
+  def c(penultimate, ultimate)
+    if (["e", "i", "ae", "oe"] & [penultimate, "#{penultimate}#{ultimate}"]).length.positive?
+      "ch"
+    else
+      "k"
+    end
+  end
+
+  def consonent(character, rest)
+    consonent = if character == "c"
+      penultimate, ultimate = rest.chars.take(2)
+      c(penultimate, ultimate)
+    else
+      CONSONENTS[character.intern] || character
+    end
+
     Result.new(consonent, 1)
   end
 
-  def vowel(this_character, next_character)
-    vowel_team = VOWEL_TEAMS["#{this_character}#{next_character}".intern]
-    vowel = VOWELS[this_character.intern]
+  def vowel(character, next_character)
+    vowel_team = VOWEL_TEAMS["#{character}#{next_character}".intern]
+    vowel = VOWELS[character.intern]
 
     if vowel_team
       Result.new(vowel_team, 2)
