@@ -7,11 +7,13 @@ RSpec.describe MedievalLatina do
     {
       ambulo: "ahmbooloh",
       caelum: "chayloom",
+      clamo: "klahmoh",
       deus: "dayoos",
       gloria: "glohreeah",
       jesus: "yaysoos",
       laudo: "lowdoh",
       luna: "loonah",
+      regina: "rayjeenah",
       toga: "tohgah",
       via: "veeah"
     }.each do |latin, pronounciation|

@@ -29,26 +29,21 @@ class MedievalLatina
   attr_accessor :index
   attr_reader :text
 
-  CONSONENTS = {j: "y", c: "k"}
+  CONSONENTS = {
+    c: ->(rest) { SOFT_C.any? { |item| rest.start_with?(item) } ? "ch" : "k" },
+    j: ->(rest) { "y" }
+  }
+  SOFT_C = ["e", "i", "ae", "oe"]
   VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ow"}
   VOWELS = {a: "ah", e: "ay", i: "ee", o: "oh", u: "oo"}
 
   Result = Struct.new(:substring, :increment_by)
 
-  def c(penultimate, ultimate)
-    if (["e", "i", "ae", "oe"] & [penultimate, "#{penultimate}#{ultimate}"]).length.positive?
-      "ch"
-    else
-      "k"
-    end
-  end
-
   def consonent(character, rest)
-    consonent = if character == "c"
-      penultimate, ultimate = rest.chars.take(2)
-      c(penultimate, ultimate)
+    consonent = if CONSONENTS.key?(character.intern)
+      CONSONENTS[character.intern].call(rest)
     else
-      CONSONENTS[character.intern] || character
+      character
     end
 
     Result.new(consonent, 1)
