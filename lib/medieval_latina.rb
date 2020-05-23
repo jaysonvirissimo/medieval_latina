@@ -31,9 +31,11 @@ class MedievalLatina
 
   CONSONENTS = {
     c: ->(rest) { SOFT_C.any? { |item| rest.start_with?(item) } ? "ch" : "k" },
+    g: ->(rest) { SOFT_G.any? { |item| rest.start_with?(item) } ? "j" : "g" },
     j: ->(rest) { "y" }
   }
   SOFT_C = ["e", "i", "ae", "oe"]
+  SOFT_G = SOFT_C
   VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ow"}
   VOWELS = {a: "ah", e: "ay", i: "ee", o: "oh", u: "oo"}
 
