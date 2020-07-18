@@ -34,6 +34,7 @@ class MedievalLatina
     g: ->(rest) { SOFT_G.any? { |item| rest.start_with?(item) } ? "j" : "g" },
     j: ->(rest) { "y" }
   }
+  CONSONENT_TEAMS = {qu: "kw"}
   SOFT_C = ["e", "i", "ae", "oe"]
   SOFT_G = SOFT_C
   VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ow"}
@@ -42,13 +43,18 @@ class MedievalLatina
   Result = Struct.new(:substring, :increment_by)
 
   def consonent(character, rest)
+    consonent_team = CONSONENT_TEAMS["#{character}#{rest.chars.first}".intern]
     consonent = if CONSONENTS.key?(character.intern)
       CONSONENTS[character.intern].call(rest)
     else
       character
     end
 
-    Result.new(consonent, 1)
+    if consonent_team
+      Result.new(consonent_team, 2)
+    elsif consonent
+      Result.new(consonent, 1)
+    end
   end
 
   def vowel(character, next_character)

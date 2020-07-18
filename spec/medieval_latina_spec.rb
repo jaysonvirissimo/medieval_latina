@@ -6,6 +6,7 @@ RSpec.describe MedievalLatina do
   describe "[]" do
     {
       ambulo: "ahmbooloh",
+      aqua: "ahkwah",
       caelum: "chayloom",
       clamo: "klahmoh",
       deus: "dayoos",
