@@ -15,8 +15,7 @@ class MedievalLatina
 
     until index >= text.length
       substring = Substring.new(text[index], text.chars.drop(index + 1).join)
-      character, rest = substring.character, substring.rest
-      result = vowel(character, rest) || consonant(character, rest) || Result.new(character, 1)
+      result = vowel(substring.character, substring.rest) || consonant(substring.character, substring.rest) || Result.new(substring.character, 1)
       array.push(result.substring)
       self.index = index + result.increment_by
     end
