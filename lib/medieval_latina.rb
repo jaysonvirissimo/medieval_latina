@@ -15,7 +15,7 @@ class MedievalLatina
 
     until index >= text.length
       substring = Substring.new(text[index], text.chars.drop(index + 1).join)
-      result = vowel(substring.character, substring.rest) || consonant(substring.character, substring.rest) || Result.new(substring.character, 1)
+      result = vowel(substring) || consonant(substring) || Result.new(substring.character, 1)
       array.push(result.substring)
       self.index = index + result.increment_by
     end
@@ -42,10 +42,10 @@ class MedievalLatina
   Result = Struct.new(:substring, :increment_by)
   Substring = Struct.new(:character, :rest)
 
-  def consonant(character, rest)
-    consonant_team = CONSONENT_TEAMS[to_team(character, rest)]
-    consonant = if CONSONENTS.key?(character.intern)
-      CONSONENTS[character.intern].call(rest)
+  def consonant(substring)
+    consonant_team = CONSONENT_TEAMS[to_team(substring.character, substring.rest)]
+    consonant = if CONSONENTS.key?(substring.character.intern)
+      CONSONENTS[substring.character.intern].call(substring.rest)
     end
 
     if consonant_team
@@ -59,9 +59,9 @@ class MedievalLatina
     "#{character}#{rest.chars.first}".intern
   end
 
-  def vowel(character, rest)
-    vowel_team = VOWEL_TEAMS[to_team(character, rest)]
-    vowel = VOWELS[character.intern]
+  def vowel(substring)
+    vowel_team = VOWEL_TEAMS[to_team(substring.character, substring.rest)]
+    vowel = VOWELS[substring.character.intern]
 
     if vowel_team
       Result.new(vowel_team, 2)
