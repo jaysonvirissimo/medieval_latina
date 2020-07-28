@@ -16,7 +16,7 @@ class MedievalLatina
     until index >= text.length
       character = text[index]
       rest = text.chars.drop(index + 1).join
-      result = vowel(character, rest.chars.first) || consonant(character, rest)
+      result = vowel(character, rest.chars.first) || consonant(character, rest) || Result.new(character, 1)
       array.push(result.substring)
       self.index = index + result.increment_by
     end
@@ -46,8 +46,6 @@ class MedievalLatina
     consonant_team = CONSONENT_TEAMS["#{character}#{rest.chars.first}".intern]
     consonant = if CONSONENTS.key?(character.intern)
       CONSONENTS[character.intern].call(rest)
-    else
-      character
     end
 
     if consonant_team
