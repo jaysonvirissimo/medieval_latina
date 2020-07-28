@@ -14,8 +14,8 @@ class MedievalLatina
     array = []
 
     until index >= text.length
-      character = text[index]
-      rest = text.chars.drop(index + 1).join
+      substring = Substring.new(text[index], text.chars.drop(index + 1).join)
+      character, rest = substring.character, substring.rest
       result = vowel(character, rest) || consonant(character, rest) || Result.new(character, 1)
       array.push(result.substring)
       self.index = index + result.increment_by
@@ -41,6 +41,7 @@ class MedievalLatina
   VOWELS = {a: "ah", e: "ay", i: "ee", o: "oh", u: "oo"}
 
   Result = Struct.new(:substring, :increment_by)
+  Substring = Struct.new(:character, :rest)
 
   def consonant(character, rest)
     consonant_team = CONSONENT_TEAMS[to_team(character, rest)]
