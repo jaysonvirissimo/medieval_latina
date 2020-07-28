@@ -5,18 +5,19 @@ RSpec.describe MedievalLatina do
 
   describe "[]" do
     {
-      ambulo: "ahmbooloh",
-      aqua: "ahkwah",
-      caelum: "chayloom",
-      clamo: "klahmoh",
-      deus: "dayoos",
-      gloria: "glohreeah",
-      jesus: "yaysoos",
-      laudo: "lowdoh",
-      luna: "loonah",
-      regina: "rayjeenah",
-      toga: "tohgah",
-      via: "veeah"
+      "ambulo" => "ahmbooloh",
+      "aqua" => "ahkwah",
+      "caelum" => "chayloom",
+      "clamo" => "klahmoh",
+      "deus" => "dayoos",
+      "gloria" => "glohreeah",
+      "jesus" => "yaysoos",
+      "laudo" => "lowdoh",
+      "luna" => "loonah",
+      "mea culpa" => "mayah koolpah",
+      "regina" => "rayjeenah",
+      "toga" => "tohgah",
+      "via" => "veeah"
     }.each do |latin, pronounciation|
       it "pronounces '#{latin}' as '#{pronounciation}'" do
         expect(described_class[latin.to_s]).to eq(pronounciation)
