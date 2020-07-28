@@ -43,7 +43,7 @@ class MedievalLatina
   Result = Struct.new(:substring, :increment_by)
 
   def consonant(character, rest)
-    consonant_team = CONSONENT_TEAMS["#{character}#{rest.chars.first}".intern]
+    consonant_team = CONSONENT_TEAMS[to_team(character, rest)]
     consonant = if CONSONENTS.key?(character.intern)
       CONSONENTS[character.intern].call(rest)
     end
@@ -55,8 +55,12 @@ class MedievalLatina
     end
   end
 
+  def to_team(character, rest)
+    "#{character}#{rest.chars.first}".intern
+  end
+
   def vowel(character, rest)
-    vowel_team = VOWEL_TEAMS["#{character}#{rest.chars.first}".intern]
+    vowel_team = VOWEL_TEAMS[to_team(character, rest)]
     vowel = VOWELS[character.intern]
 
     if vowel_team
