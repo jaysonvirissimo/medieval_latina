@@ -10,6 +10,7 @@ RSpec.describe MedievalLatina do
       "caelum" => "chayloom",
       "clamo" => "klahmoh",
       "deus" => "dayoos",
+      "duo" => "doo-oh",
       "gloria" => "glohreeah",
       "jesus" => "yaysoos",
       "laudo" => "lowdoh",

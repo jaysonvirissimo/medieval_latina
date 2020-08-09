@@ -1,7 +1,7 @@
 # MedievalLatina
 
 There are good text-to-speech engines for English and classical Latin, but none for medieval Latin.
-`MedievalLatina` converts Latin text to a kind of phonetic spelling that can be read by English text-to-speech engines.
+`MedievalLatina` converts Latin text to a kind of phonetic spelling that can be read by English language text-to-speech engines.
 
 ## Installation
 

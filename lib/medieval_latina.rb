@@ -1,20 +1,23 @@
+require "medieval_latina/dictionary"
 require "medieval_latina/version"
 
 class MedievalLatina
   def self.[](text)
-    new(text).call
+    text.split(" ").map do |word|
+      DICTIONARY[word.downcase] || new(word).call
+    end.join(" ")
   end
 
-  def initialize(text)
+  def initialize(word)
     @index = 0
-    @text = text
+    @word = word
   end
 
   def call
     array = []
 
-    until index >= text.length
-      substring = Substring.new(text, index)
+    until index >= word.length
+      substring = Substring.new(word, index)
       result = vowel(substring) || consonant(substring) || Result.new(substring.character, 1)
       array.push(result.substring)
       self.index = index + result.increment_by
@@ -26,7 +29,7 @@ class MedievalLatina
   private
 
   attr_accessor :index
-  attr_reader :text
+  attr_reader :word
 
   CONSONENTS = {
     c: ->(rest) { SOFT_C.any? { |item| rest.start_with?(item) } ? "ch" : "k" },
