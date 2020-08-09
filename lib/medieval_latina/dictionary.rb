@@ -1,5 +1,6 @@
 class MedievalLatina
   DICTIONARY = {
-    "duo" => "doo-oh"
-  }.freeze 
+    "duo" => "doo-oh",
+    "octo" => "awk-toh"
+  }.freeze
 end

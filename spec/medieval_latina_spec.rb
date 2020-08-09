@@ -16,6 +16,7 @@ RSpec.describe MedievalLatina do
       "laudo" => "lowdoh",
       "luna" => "loonah",
       "mea culpa" => "mayah koolpah",
+      "octo" => "awk-toh",
       "regina" => "rayjeenah",
       "toga" => "tohgah",
       "via" => "veeah"

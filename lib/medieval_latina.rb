@@ -3,9 +3,9 @@ require "medieval_latina/version"
 
 class MedievalLatina
   def self.[](text)
-    text.split(" ").map do |word|
+    text.split(" ").map { |word|
       DICTIONARY[word.downcase] || new(word).call
-    end.join(" ")
+    }.join(" ")
   end
 
   def initialize(word)
