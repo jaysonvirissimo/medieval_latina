@@ -34,7 +34,8 @@ class MedievalLatina
   CONSONENTS = {
     c: ->(rest) { SOFT_C.any? { |item| rest.start_with?(item) } ? "ch" : "k" },
     g: ->(rest) { SOFT_G.any? { |item| rest.start_with?(item) } ? "j" : "g" },
-    j: ->(rest) { "y" }
+    j: ->(rest) { "y" },
+    x: ->(rest) { "ks" }
   }
   CONSONENT_TEAMS = {qu: "kw"}
   SOFT_C = ["e", "i", "ae", "oe"]

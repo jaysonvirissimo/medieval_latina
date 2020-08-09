@@ -18,6 +18,7 @@ RSpec.describe MedievalLatina do
       "mea culpa" => "mayah koolpah",
       "octo" => "awk-toh",
       "regina" => "rayjeenah",
+      "sex" => "sayks",
       "toga" => "tohgah",
       "via" => "veeah"
     }.each do |latin, pronounciation|
