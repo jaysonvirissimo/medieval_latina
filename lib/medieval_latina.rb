@@ -40,7 +40,7 @@ class MedievalLatina
   CONSONENT_TEAMS = {qu: "kw"}
   SOFT_C = ["e", "i", "ae", "oe"]
   SOFT_G = SOFT_C
-  VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ow"}
+  VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ou"}
   VOWELS = {a: "ah", e: "ay", i: "ee", o: "oh", u: "oo"}
 
   Result = Struct.new(:substring, :increment_by)
