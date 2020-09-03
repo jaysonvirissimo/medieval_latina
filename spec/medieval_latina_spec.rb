@@ -5,6 +5,7 @@ RSpec.describe MedievalLatina do
 
   describe "[]" do
     {
+      "alma mater" => "almuh mah-tare",
       "ambulo" => "ahmbooloh",
       "aqua" => "ahkwah",
       "aut" => "out",
@@ -12,6 +13,7 @@ RSpec.describe MedievalLatina do
       "clamo" => "klahmoh",
       "deus" => "dayoos",
       "duo" => "doo-oh",
+      "et" => "ate",
       "ex" => "ex",
       "gloria" => "glohreeah",
       "jesus" => "yaysoos",
@@ -19,6 +21,7 @@ RSpec.describe MedievalLatina do
       "luna" => "loonah",
       "mea culpa" => "mayah koolpah",
       "octo" => "awk-toh",
+      "optime" => "op-tee-may",
       "quo" => "quo",
       "regina" => "rayjeenah",
       "sex" => "sayks",
