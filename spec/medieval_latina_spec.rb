@@ -22,6 +22,7 @@ RSpec.describe MedievalLatina do
       "mea culpa" => "mayah koolpah",
       "octo" => "awk-toh",
       "optime" => "op-tee-may",
+      "pugno" => "poon-yoh",
       "quo" => "quo",
       "regina" => "rayjeenah",
       "sex" => "sayks",
