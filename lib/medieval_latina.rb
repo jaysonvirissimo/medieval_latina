@@ -37,7 +37,7 @@ class MedievalLatina
     j: ->(rest) { "y" },
     x: ->(rest) { "ks" }
   }
-  CONSONENT_TEAMS = {qu: "kw"}
+  CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}
   SOFT_C = ["e", "i", "ae", "oe"]
   SOFT_G = SOFT_C
   VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ou"}
