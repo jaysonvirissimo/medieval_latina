@@ -47,5 +47,7 @@ jobs:
         with:
           ruby-version: ${{ matrix.ruby }}
           bundler-cache: true
+      - name: Install Dependencies
+        run: gem install bundler -v 2.1.2 && bin/setup
       - name: Test
         run: rake spec || $ALLOW_FAILURES
