@@ -48,4 +48,4 @@ jobs:
           ruby-version: ${{ matrix.ruby }}
           bundler-cache: true
       - name: Test
-        run: bin/setup && rake spec || $ALLOW_FAILURES
+        run: rake spec || $ALLOW_FAILURES
