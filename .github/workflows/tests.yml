@@ -35,7 +35,7 @@ jobs:
             ruby: ruby-head
             allow_failures: true
     env:
-      BUNDLE_GEMFILE: "${{ matrix.gemfile }}"
+      BUNDLE_GEMFILE: Gemfile
       ALLOW_FAILURES: "${{ matrix.allow_failures }}"
     runs-on: ${{ matrix.os }}-latest
     continue-on-error: ${{ endsWith(matrix.ruby, 'head') || matrix.ruby == 'debug' }}
@@ -47,7 +47,5 @@ jobs:
         with:
           ruby-version: ${{ matrix.ruby }}
           bundler-cache: true
-      - name: Install Dependencies
-        run: gem install bundler -v 2.1.2 && bin/setup
       - name: Test
         run: rake spec || $ALLOW_FAILURES
