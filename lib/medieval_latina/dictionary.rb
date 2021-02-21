@@ -1,6 +1,7 @@
 class MedievalLatina
   DICTIONARY = {
     "alma" => "almuh",
+    "ego" => "ay-goh",
     "et" => "ate",
     "ex" => "ex",
     "duo" => "doo-oh",

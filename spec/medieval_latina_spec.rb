@@ -13,6 +13,7 @@ RSpec.describe MedievalLatina do
       "clamo" => "klahmoh",
       "deus" => "dayoos",
       "duo" => "doo-oh",
+      "ego" => "ay-goh",
       "et" => "ate",
       "ex" => "ex",
       "gloria" => "glohreeah",
