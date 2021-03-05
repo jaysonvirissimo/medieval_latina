@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    medieval_latina (1.0.9)
+    medieval_latina (1.0.10)
 
 GEM
   remote: https://rubygems.org/
@@ -52,4 +52,4 @@ DEPENDENCIES
   standard
 
 BUNDLED WITH
-   2.1.2
+   2.2.13

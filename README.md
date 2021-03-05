@@ -22,10 +22,10 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-["deus", "luna", "via"].each { |word| puts MedievalLatina[word] }
- # "dayoos"
- # "loonah"
- # "veeah"
+["caelum", "omnia", "pugno"].each { |word| puts MedievalLatina[word] }
+ # "chay-loom"
+ # "onm-nee-ah"
+ # "poon-yoh"
 ```
 
 ## Development
