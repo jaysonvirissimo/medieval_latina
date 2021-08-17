@@ -9,7 +9,7 @@ RSpec.describe MedievalLatina do
       "ambulo" => "ahmbooloh",
       "aqua" => "ahkwah",
       "aut" => "out",
-      "caelum" => "chayloom",
+      "Caelum" => "chayloom",
       "clamo" => "klahmoh",
       "deus" => "dayoos",
       "duo" => "doo-oh",

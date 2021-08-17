@@ -10,7 +10,7 @@ class MedievalLatina
 
   def initialize(word)
     @index = 0
-    @word = word
+    @word = word.downcase
   end
 
   def call
@@ -74,11 +74,11 @@ class MedievalLatina
 
     def initialize(text, index)
       @character = text[index]
-      @rest = text.chars.drop(index + 1).join
+      @rest = text[index + 1..-1].chars.join
     end
 
     def to_team
-      "#{character}#{rest.chars.first}".intern
+      "#{character}#{rest[0]}".intern
     end
   end
 
