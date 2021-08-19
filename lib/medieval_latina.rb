@@ -35,13 +35,15 @@ class MedievalLatina
     c: ->(rest) { SOFT_C.any? { |item| rest.start_with?(item) } ? "ch" : "k" },
     g: ->(rest) { SOFT_G.any? { |item| rest.start_with?(item) } ? "j" : "g" },
     j: ->(rest) { "y" },
+    t: ->(rest) { SOFT_T.any? { |item| rest.start_with?(item) } ? "ts" : "t" },
     x: ->(rest) { "ks" }
   }
-  CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}
-  SOFT_C = ["e", "i", "ae", "oe"]
+  CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}.freeze
+  SOFT_C = ["e", "i", "ae", "oe"].freeze
   SOFT_G = SOFT_C
-  VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ou"}
-  VOWELS = {a: "ah", e: "ay", i: "ee", o: "oh", u: "oo"}
+  SOFT_T = ["i"].freeze
+  VOWEL_TEAMS = {ae: "ay", oe: "ay", au: "ou"}.freeze
+  VOWELS = {a: "ah", e: "ay", i: "ee", o: "oh", u: "oo"}.freeze
 
   Result = Struct.new(:substring, :increment_by)
 
