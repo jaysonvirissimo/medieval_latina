@@ -20,6 +20,7 @@ RSpec.describe MedievalLatina do
       "et" => "ate",
       "ex" => "ex",
       "gloria" => "glohreeah",
+      "gratia" => "grahtseeah",
       "jesus" => "yaysoos",
       "laudo" => "loudoh",
       "luna" => "loonah",
