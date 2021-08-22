@@ -1,17 +1,19 @@
 class MedievalLatina
   DICTIONARY = {
     "alma" => "almuh",
+    "amo" => "amo",
     "ego" => "ay-goh",
-    "et" => "ate",
     "es" => "es",
     "est" => "est",
-    "estis" => "estees",
+    "estis" => "estis",
     "ex" => "ex",
+    "et" => "et",
     "duo" => "doo-oh",
     "mater" => "mah-tare",
     "octo" => "awk-toh",
-    "omnia" => "ohm-nee-ah",
+    "omnia" => "ohm-nia",
     "optime" => "op-tee-may",
-    "quo" => "quo"
+    "quo" => "quo",
+    "toga" => "toga"
   }.freeze
 end

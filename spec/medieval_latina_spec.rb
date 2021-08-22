@@ -7,6 +7,7 @@ RSpec.describe MedievalLatina do
     {
       "alma mater" => "almuh mah-tare",
       "ambulo" => "ahmbooloh",
+      "amo" => "amo",
       "aqua" => "ahkwah",
       "aut" => "out",
       "Caelum" => "chayloom",
@@ -16,8 +17,8 @@ RSpec.describe MedievalLatina do
       "ego" => "ay-goh",
       "es" => "es",
       "est" => "est",
-      "estis" => "estees",
-      "et" => "ate",
+      "estis" => "estis",
+      "et" => "et",
       "ex" => "ex",
       "gloria" => "glohreeah",
       "gratia" => "grahtseeah",
@@ -26,13 +27,13 @@ RSpec.describe MedievalLatina do
       "luna" => "loonah",
       "mea culpa" => "mayah koolpah",
       "octo" => "awk-toh",
-      "omnia" => "ohm-nee-ah",
+      "omnia" => "ohm-nia",
       "optime" => "op-tee-may",
       "pugno" => "poon-yoh",
       "quo" => "quo",
       "regina" => "rayjeenah",
       "sex" => "sayks",
-      "toga" => "tohgah",
+      "toga" => "toga",
       "via" => "veeah"
     }.each do |latin, pronounciation|
       it "pronounces '#{latin}' as '#{pronounciation}'" do
