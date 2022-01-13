@@ -1,5 +1,6 @@
 class MedievalLatina
   DICTIONARY = {
+    "ad" => "add",
     "alma" => "almuh",
     "amo" => "amo",
     "ego" => "ay-goh",
@@ -13,6 +14,7 @@ class MedievalLatina
     "octo" => "awk-toh",
     "omnia" => "ohm-nia",
     "optime" => "op-tee-may",
+    "pater" => "pah-tare",
     "quo" => "quo",
     "toga" => "toga"
   }.freeze
