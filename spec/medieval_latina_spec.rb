@@ -31,6 +31,7 @@ RSpec.describe MedievalLatina do
       "omnia" => "ohm-nia",
       "optime" => "op-tee-may",
       "pater" => "pah-tare",
+      "puella" => "poo-elah",
       "pugno" => "poon-yoh",
       "quo" => "quo",
       "regina" => "rayjeenah",

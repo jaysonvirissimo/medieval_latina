@@ -15,6 +15,7 @@ class MedievalLatina
     "omnia" => "ohm-nia",
     "optime" => "op-tee-may",
     "pater" => "pah-tare",
+    "puella" => "poo-elah",
     "quo" => "quo",
     "toga" => "toga"
   }.freeze
