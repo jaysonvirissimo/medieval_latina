@@ -1,6 +1,7 @@
 class MedievalLatina
   DICTIONARY = {
     "ad" => "add",
+    "adveniat" => "ad-vayniat",
     "alma" => "almuh",
     "amo" => "amo",
     "ego" => "ay-goh",
