@@ -18,6 +18,7 @@ class MedievalLatina
     "pater" => "pah-tare",
     "puella" => "poo-elah",
     "quo" => "quo",
+    "sanctificetur" => "sahnk-teefee-chaytoor",
     "toga" => "toga"
   }.freeze
 end

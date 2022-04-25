@@ -36,6 +36,7 @@ RSpec.describe MedievalLatina do
       "pugno" => "poon-yoh",
       "quo" => "quo",
       "regina" => "rayjeenah",
+      "sanctificetur" => "sahnk-teefee-chaytoor",
       "sex" => "sayks",
       "toga" => "toga",
       "via" => "veeah"
