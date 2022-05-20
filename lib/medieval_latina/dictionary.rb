@@ -12,6 +12,7 @@ class MedievalLatina
     "et" => "et",
     "duo" => "doo-oh",
     "mater" => "mah-tare",
+    "moveo" => "mo-vey-oh",
     "octo" => "awk-toh",
     "omnia" => "ohm-nia",
     "optime" => "op-tee-may",
