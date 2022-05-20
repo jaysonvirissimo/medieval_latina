@@ -11,6 +11,7 @@ class MedievalLatina
     "ex" => "ex",
     "et" => "et",
     "duo" => "doo-oh",
+    "hominem" => "hominem",
     "mater" => "mah-tare",
     "moveo" => "mo-vey-oh",
     "octo" => "awk-toh",

@@ -24,6 +24,7 @@ RSpec.describe MedievalLatina do
       "ex" => "ex",
       "gloria" => "glohreeah",
       "gratia" => "grahtseeah",
+      "hominem" => "hominem",
       "jesus" => "yaysoos",
       "laudo" => "loudoh",
       "luna" => "loonah",
