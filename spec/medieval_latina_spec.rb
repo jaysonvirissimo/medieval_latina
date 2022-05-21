@@ -10,7 +10,9 @@ RSpec.describe MedievalLatina do
       "alma mater" => "almuh mah-tare",
       "ambulo" => "ahmbooloh",
       "amo" => "amo",
+      "appello" => "appello",
       "aqua" => "ahkwah",
+      "aeternus" => "aeternus",
       "aut" => "out",
       "Caelum" => "chayloom",
       "clamo" => "klahmoh",
@@ -40,6 +42,8 @@ RSpec.describe MedievalLatina do
       "regina" => "rayjeenah",
       "sanctificetur" => "sahnk-teefee-chaytoor",
       "sex" => "sayks",
+      "sextus" => "sextus",
+      "timeo" => "teemayo",
       "toga" => "toga",
       "via" => "veeah"
     }.each do |latin, pronounciation|

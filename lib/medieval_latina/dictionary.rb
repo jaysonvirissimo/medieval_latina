@@ -2,8 +2,10 @@ class MedievalLatina
   DICTIONARY = {
     "ad" => "add",
     "adveniat" => "ad-vayniat",
+    "aeternus" => "aeternus",
     "alma" => "almuh",
     "amo" => "amo",
+    "appello" => "appello",
     "ego" => "ay-goh",
     "es" => "es",
     "est" => "est",
@@ -21,6 +23,8 @@ class MedievalLatina
     "puella" => "poo-elah",
     "quo" => "quo",
     "sanctificetur" => "sahnk-teefee-chaytoor",
+    "sextus" => "sextus",
+    "timeo" => "teemayo",
     "toga" => "toga"
   }.freeze
 end
