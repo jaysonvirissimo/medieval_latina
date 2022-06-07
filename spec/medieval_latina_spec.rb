@@ -43,6 +43,7 @@ RSpec.describe MedievalLatina do
       "sanctificetur" => "sahnk-teefee-chaytoor",
       "sex" => "sayks",
       "sextus" => "sextus",
+      "stibium" => "stih-bium",
       "timeo" => "teemayo",
       "toga" => "toga",
       "via" => "veeah"

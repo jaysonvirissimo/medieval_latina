@@ -24,6 +24,7 @@ class MedievalLatina
     "quo" => "quo",
     "sanctificetur" => "sahnk-teefee-chaytoor",
     "sextus" => "sextus",
+    "stibium" => "stih-bium",
     "timeo" => "teemayo",
     "toga" => "toga"
   }.freeze
