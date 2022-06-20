@@ -54,5 +54,9 @@ RSpec.describe MedievalLatina do
         expect(described_class[latin.to_s]).to eq(pronounciation)
       end
     end
+
+    it "delegates to the dictionary, even when containing punctuation" do
+      expect(described_class["est."]).to eq("est")
+    end
   end
 end

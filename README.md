@@ -23,9 +23,9 @@ Or install it yourself as:
 
 ```ruby
 ["caelum", "omnia", "pugno"].each { |word| puts MedievalLatina[word] }
- # "chay-loom"
- # "onm-nee-ah"
- # "poon-yoh"
+# "chayloom"
+# "ohm-nia"
+# "poon-yoh"
 ```
 
 ## Development

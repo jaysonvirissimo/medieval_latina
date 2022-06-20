@@ -1,11 +1,22 @@
 require "medieval_latina/dictionary"
 require "medieval_latina/version"
+require "set"
 
 class MedievalLatina
   def self.[](text)
-    text.split(" ").map { |word|
+    clean(text).split(" ").map { |word|
       DICTIONARY[word.downcase] || new(word).call
     }.join(" ")
+  end
+
+  def self.clean(text)
+    text.chars.map do |character|
+      if PUNCTUATION.member?(character)
+        " "
+      else
+        character
+      end
+    end.join
   end
 
   def initialize(word)
@@ -39,6 +50,7 @@ class MedievalLatina
     x: ->(rest) { "ks" }
   }
   CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}.freeze
+  PUNCTUATION = Set.new([".", ",", "!"]).freeze
   SOFT_C = ["e", "i", "ae", "oe"].freeze
   SOFT_G = SOFT_C
   SOFT_T = ["i"].freeze
