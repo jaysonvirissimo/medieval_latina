@@ -7,6 +7,7 @@ RSpec.describe MedievalLatina do
     {
       "ad" => "add",
       "adveniat" => "ad-vayniat",
+      "africa" => "africa",
       "alma mater" => "almuh mah-tare",
       "ambulo" => "ahmbooloh",
       "amo" => "amo",

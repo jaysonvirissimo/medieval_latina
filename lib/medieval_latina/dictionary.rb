@@ -3,6 +3,7 @@ class MedievalLatina
     "ad" => "add",
     "adveniat" => "ad-vayniat",
     "aeternus" => "aeternus",
+    "africa" => "africa",
     "alma" => "almuh",
     "amo" => "amo",
     "appello" => "appello",
