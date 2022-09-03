@@ -7,6 +7,7 @@ class MedievalLatina
     "alma" => "almuh",
     "amo" => "amo",
     "appello" => "appello",
+    "creavit" => "kray-ah-veet",
     "ego" => "ay-goh",
     "es" => "es",
     "est" => "est",
@@ -28,6 +29,8 @@ class MedievalLatina
     "sanctificetur" => "sahnk-teefee-chaytoor",
     "sextus" => "sextus",
     "stibium" => "stih-bium",
+    "terra" => "terra",
+    "terram" => "terram",
     "timeo" => "teemayo",
     "toga" => "toga"
   }.freeze

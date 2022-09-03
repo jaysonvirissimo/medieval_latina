@@ -17,6 +17,7 @@ RSpec.describe MedievalLatina do
       "aut" => "out",
       "Caelum" => "chayloom",
       "clamo" => "klahmoh",
+      "creavit" => "kray-ah-veet",
       "deus" => "dayoos",
       "duo" => "doo-oh",
       "ego" => "ay-goh",
@@ -47,6 +48,8 @@ RSpec.describe MedievalLatina do
       "sex" => "sayks",
       "sextus" => "sextus",
       "stibium" => "stih-bium",
+      "terra" => "terra",
+      "terram" => "terram",
       "timeo" => "teemayo",
       "toga" => "toga",
       "via" => "veeah"
