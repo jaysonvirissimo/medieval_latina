@@ -20,6 +20,7 @@ RSpec.describe MedievalLatina do
       "creavit" => "kray-ah-veet",
       "deus" => "dayoos",
       "duo" => "doo-oh",
+      "duodeviginti" => "duo-day-veejin-tee",
       "ego" => "ay-goh",
       "es" => "es",
       "est" => "est",
@@ -45,6 +46,7 @@ RSpec.describe MedievalLatina do
       "regina" => "rayjeenah",
       "rex" => "rex",
       "sanctificetur" => "sahnk-teefee-chaytoor",
+      "septemdecim" => "septem-daycheem",
       "sex" => "sayks",
       "sextus" => "sextus",
       "stibium" => "stih-bium",
@@ -52,6 +54,7 @@ RSpec.describe MedievalLatina do
       "terram" => "terram",
       "timeo" => "teemayo",
       "toga" => "toga",
+      "undeviginti" => "oon-day-veejin-tee",
       "via" => "veeah"
     }.each do |latin, pronounciation|
       it "pronounces '#{latin}' as '#{pronounciation}'" do

@@ -15,6 +15,7 @@ class MedievalLatina
     "ex" => "ex",
     "et" => "et",
     "duo" => "doo-oh",
+    "duodeviginti" => "duo-day-veejin-tee",
     "hominem" => "hominem",
     "mater" => "mah-tare",
     "moveo" => "mo-vey-oh",
@@ -27,11 +28,13 @@ class MedievalLatina
     "quo" => "quo",
     "rex" => "rex",
     "sanctificetur" => "sahnk-teefee-chaytoor",
+    "septemdecim" => "septem-daycheem",
     "sextus" => "sextus",
     "stibium" => "stih-bium",
     "terra" => "terra",
     "terram" => "terram",
     "timeo" => "teemayo",
-    "toga" => "toga"
+    "toga" => "toga",
+    "undeviginti" => "oon-day-veejin-tee"
   }.freeze
 end
