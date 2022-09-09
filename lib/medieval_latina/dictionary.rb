@@ -14,6 +14,7 @@ class MedievalLatina
     "estis" => "estis",
     "ex" => "ex",
     "et" => "et",
+    "gens" => "gens",
     "duo" => "doo-oh",
     "duodeviginti" => "duo-day-veejin-tee",
     "hominem" => "hominem",
