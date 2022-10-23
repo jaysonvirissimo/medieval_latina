@@ -47,6 +47,7 @@ RSpec.describe MedievalLatina do
       "puella" => "poo-elah",
       "pugno" => "poon-yoh",
       "quo" => "quo",
+      "rhenus" => "ray-noose",
       "regina" => "rayjeenah",
       "repetite" => "reppa-teetay", 
       "rex" => "rex",

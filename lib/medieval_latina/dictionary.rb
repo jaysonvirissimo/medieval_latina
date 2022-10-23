@@ -30,6 +30,7 @@ class MedievalLatina
     "principio" => "preen-cheepio",
     "puella" => "poo-elah",
     "quo" => "quo",
+    "rhenus" => "ray-noose",
     "repetite" => "reppa-teetay",
     "rex" => "rex",
     "sanctificetur" => "sahnk-teefee-chaytoor",
