@@ -49,7 +49,7 @@ RSpec.describe MedievalLatina do
       "quo" => "quo",
       "rhenus" => "ray-noose",
       "regina" => "rayjeenah",
-      "repetite" => "reppa-teetay", 
+      "repetite" => "reppa-teetay",
       "rex" => "rex",
       "sanctificetur" => "sahnk-teefee-chaytoor",
       "septemdecim" => "septem-daycheem",
@@ -71,6 +71,7 @@ RSpec.describe MedievalLatina do
 
     it "delegates to the dictionary, even when containing punctuation" do
       expect(described_class["est."]).to eq("est")
+      expect(described_class["Rhenus?"]).to eq("ray-noose")
     end
   end
 end

@@ -4,19 +4,13 @@ require "set"
 
 class MedievalLatina
   def self.[](text)
-    clean(text).split(" ").map { |word|
-      DICTIONARY[word.downcase] || new(word).call
-    }.join(" ")
+    prepare(text).map do |word|
+      DICTIONARY[word] || new(word).call
+    end.join(" ")
   end
 
-  def self.clean(text)
-    text.chars.map do |character|
-      if PUNCTUATION.member?(character)
-        " "
-      else
-        character
-      end
-    end.join
+  def self.prepare(text)
+    text.gsub(/\W+/, " ").downcase.split(" ")
   end
 
   def initialize(word)
@@ -50,7 +44,6 @@ class MedievalLatina
     x: ->(rest) { "ks" }
   }
   CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}.freeze
-  PUNCTUATION = Set.new([".", ",", "!"]).freeze
   SOFT_C = ["e", "i", "ae", "oe"].freeze
   SOFT_G = SOFT_C
   SOFT_T = ["i"].freeze
