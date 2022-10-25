@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    medieval_latina (1.2.0)
+    medieval_latina (1.2.1)
 
 GEM
   remote: https://rubygems.org/

@@ -29,6 +29,7 @@ RSpec.describe MedievalLatina do
       "et" => "ett",
       "ex" => "ex",
       "gens" => "gens",
+      "germania" => "jer-maneeah",
       "gloria" => "glohreeah",
       "gratia" => "grahtseeah",
       "hominem" => "hominem",

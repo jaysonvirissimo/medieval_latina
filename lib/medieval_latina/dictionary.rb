@@ -18,6 +18,7 @@ class MedievalLatina
     "ex" => "ex",
     "et" => "ett",
     "gens" => "gens",
+    "germania" => "jer-maneeah",
     "hominem" => "hominem",
     "italia" => "italia",
     "mater" => "mah-tare",
