@@ -1,5 +1,5 @@
-# MedievalLatina
-<a href="https://github.com/jaysonvirissimo/medieval_latina"> <img src="https://img.shields.io/github/repo-size/jaysonvirissimo/medieval_latina"> <br>
+# MedievalLatina <a href="https://github.com/jaysonvirissimo/medieval_latina"> <img src="https://img.shields.io/github/repo-size/jaysonvirissimo/medieval_latina"></a>
+
 There are good text-to-speech engines for English and classical Latin, but none for medieval Latin.
 `MedievalLatina` converts Latin text to a kind of phonetic spelling that can be read by English language text-to-speech engines.
 
