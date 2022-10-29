@@ -17,6 +17,7 @@ class MedievalLatina
     "estis" => "estis",
     "ex" => "ex",
     "et" => "ett",
+    "europa" => "yoorope-uh",
     "gens" => "gens",
     "germania" => "jer-maneeah",
     "hominem" => "hominem",

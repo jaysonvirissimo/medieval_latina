@@ -27,6 +27,7 @@ RSpec.describe MedievalLatina do
       "est" => "est",
       "estis" => "estis",
       "et" => "ett",
+      "europa" => "yoorope-uh",
       "ex" => "ex",
       "gens" => "gens",
       "germania" => "jer-maneeah",
