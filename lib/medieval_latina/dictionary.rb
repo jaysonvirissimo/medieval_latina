@@ -37,6 +37,7 @@ class MedievalLatina
     "rex" => "rex",
     "sanctificetur" => "sahnk-teefee-chaytoor",
     "septemdecim" => "septem-daycheem",
+    "septimus" => "sep-tee-moose",
     "sextus" => "sextus",
     "stibium" => "stih-bium",
     "terra" => "terra",

@@ -55,6 +55,7 @@ RSpec.describe MedievalLatina do
       "rex" => "rex",
       "sanctificetur" => "sahnk-teefee-chaytoor",
       "septemdecim" => "septem-daycheem",
+      "septimus" => "sep-tee-moose",
       "sex" => "sayks",
       "sextus" => "sextus",
       "stibium" => "stih-bium",
