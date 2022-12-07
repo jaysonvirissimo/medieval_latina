@@ -13,6 +13,10 @@ class MedievalLatina
     text.gsub(/\W+/, " ").downcase.split(" ")
   end
 
+  def self.verbs
+    VERBS
+  end
+
   def initialize(word)
     @index = 0
     @word = word.downcase

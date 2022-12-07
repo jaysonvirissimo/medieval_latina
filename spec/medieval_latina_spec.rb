@@ -77,4 +77,9 @@ RSpec.describe MedievalLatina do
       expect(described_class["Rhenus?"]).to eq("ray-noose")
     end
   end
+
+  describe ".verbs" do
+    specify { expect(described_class.verbs).to include("voco") }
+    specify { expect(described_class.verbs).not_to include("nauta") }
+  end
 end
