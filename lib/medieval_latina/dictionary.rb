@@ -48,6 +48,65 @@ class MedievalLatina
     "undeviginti" => "oon-day-veejin-tee"
   }.freeze
 
+  ADVERBS = %w[
+    abhinc
+    adhuc
+    admodum
+    alias
+    aliter
+    aliqua
+    aliquando
+    amplius
+    ante
+    bis
+    breviter
+    ceterum
+    circa
+    clam
+    comminus
+    contra
+    cotidie
+    deinde
+    demisse
+    diligenter
+    diu
+    eo
+    facile
+    fere
+    fortasse
+    fortiter
+    graviter
+    haud
+    ibi
+    interdum
+    intus
+    ita
+    item
+    iterum
+    nunc
+    palam
+    partim
+    parum
+    passim
+    plane
+    prius
+    prope
+    recte
+    retro
+    saepe
+    semel
+    sic
+    statim
+    subito
+    tum
+    tunc
+    ultro
+    undique
+    utinam
+    vere
+    vix
+  ].freeze
+
   VERBS = %w[
     abeo
     accedo

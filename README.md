@@ -32,6 +32,9 @@ MedievalLatina.verbs.include?("voco")
 
 MedievalLatina.verbs.include?("nauta")
 => false
+
+MedievalLatina.adverbs?("facile")
+=> true
 ```
 
 ## Development

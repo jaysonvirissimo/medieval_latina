@@ -1,3 +1,3 @@
 class MedievalLatina
-  VERSION = "1.2.4".freeze
+  VERSION = "1.2.5".freeze
 end
