@@ -78,6 +78,11 @@ RSpec.describe MedievalLatina do
     end
   end
 
+  describe ".adjectives" do
+    specify { expect(described_class.adjectives).to include("certus") }
+    specify { expect(described_class.adjectives).not_to include("alias") }
+  end
+
   describe ".adverbs" do
     specify { expect(described_class.adverbs).to include("facile") }
     specify { expect(described_class.adverbs).not_to include("sum") }

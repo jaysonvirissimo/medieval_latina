@@ -33,7 +33,10 @@ MedievalLatina.verbs.include?("voco")
 MedievalLatina.verbs.include?("nauta")
 => false
 
-MedievalLatina.adverbs?("facile")
+MedievalLatina.adverbs.include?("facile")
+=> true
+
+MedievalLatina.adjectives.include?("certus")
 => true
 ```
 

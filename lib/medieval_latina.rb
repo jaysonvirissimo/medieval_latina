@@ -13,6 +13,10 @@ class MedievalLatina
     text.gsub(/\W+/, " ").downcase.split(" ")
   end
 
+  def self.adjectives
+    ADJECTIVES
+  end
+
   def self.adverbs
     ADVERBS
   end
