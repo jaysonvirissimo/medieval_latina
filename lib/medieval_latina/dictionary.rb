@@ -1,3 +1,5 @@
+require "set"
+
 class MedievalLatina
   DICTIONARY = {
     "ad" => "add",
@@ -154,7 +156,7 @@ class MedievalLatina
     velox
     verus
     vetus
-  ].freeze
+  ].to_set.freeze
 
   ADVERBS = %w[
     abhinc
@@ -213,7 +215,7 @@ class MedievalLatina
     utinam
     vere
     vix
-  ].freeze
+  ].to_set.freeze
 
   VERBS = %w[
     abeo
@@ -443,5 +445,5 @@ class MedievalLatina
     voco
     volo
     vulnero
-  ].freeze
+  ].to_set.freeze
 end

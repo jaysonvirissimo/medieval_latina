@@ -79,17 +79,33 @@ RSpec.describe MedievalLatina do
   end
 
   describe ".adjectives" do
-    specify { expect(described_class.adjectives).to include("certus") }
-    specify { expect(described_class.adjectives).not_to include("alias") }
+    specify { expect(described_class).to respond_to(:adjectives) }
   end
 
   describe ".adverbs" do
-    specify { expect(described_class.adverbs).to include("facile") }
-    specify { expect(described_class.adverbs).not_to include("sum") }
+    specify { expect(described_class).to respond_to(:adverbs) }
   end
 
   describe ".verbs" do
-    specify { expect(described_class.verbs).to include("voco") }
-    specify { expect(described_class.verbs).not_to include("nauta") }
+    specify { expect(described_class).to respond_to(:verbs) }
+  end
+
+  describe ".words" do
+    specify { expect(described_class).to respond_to(:words) }
+  end
+
+  describe "#adjective?" do
+    specify { expect(described_class.adjective?("Certus")).to be_truthy }
+    specify { expect(described_class.adjective?("Alias")).to be_falsey }
+  end
+
+  describe "#abverb?" do
+    specify { expect(described_class.adverb?("facile.")).to be_truthy }
+    specify { expect(described_class.adverb?("sum.")).to be_falsey }
+  end
+
+  describe "#verb?" do
+    specify { expect(described_class.verb?("Voco,")).to be_truthy }
+    specify { expect(described_class.verb?("Nauta,")).to be_falsey }
   end
 end

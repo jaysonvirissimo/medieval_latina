@@ -4,13 +4,31 @@ require "set"
 
 class MedievalLatina
   def self.[](text)
-    prepare(text).map do |word|
+    prepare_text(text).map do |word|
       DICTIONARY[word] || new(word).call
     end.join(" ")
   end
 
-  def self.prepare(text)
-    text.gsub(/\W+/, " ").downcase.split(" ")
+  def self.prepare_text(text)
+    text.split(" ").map do |word|
+      prepare_word(word)
+    end
+  end
+
+  def self.prepare_word(word)
+    word.gsub(/\W+/, " ").strip.downcase
+  end
+
+  def self.adjective?(word)
+    ADJECTIVES.member?(prepare_word(word))
+  end
+
+  def self.adverb?(word)
+    ADVERBS.member?(prepare_word(word))
+  end
+
+  def self.verb?(word)
+    VERBS.member?(prepare_word(word))
   end
 
   def self.adjectives
@@ -23,6 +41,10 @@ class MedievalLatina
 
   def self.verbs
     VERBS
+  end
+
+  def self.words
+    ADJECTIVES | ADVERBS | Set.new(DICTIONARY.keys) | VERBS
   end
 
   def initialize(word)
