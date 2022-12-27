@@ -90,6 +90,10 @@ RSpec.describe MedievalLatina do
     specify { expect(described_class).to respond_to(:verbs) }
   end
 
+  describe ".verbs" do
+    specify { expect(described_class).to respond_to(:nouns) }
+  end
+
   describe ".words" do
     specify { expect(described_class).to respond_to(:words) }
   end
@@ -102,6 +106,11 @@ RSpec.describe MedievalLatina do
   describe "#abverb?" do
     specify { expect(described_class.adverb?("facile.")).to be_truthy }
     specify { expect(described_class.adverb?("sum.")).to be_falsey }
+  end
+
+  describe "#noun?" do
+    specify { expect(described_class.noun?("canis.")).to be_truthy }
+    specify { expect(described_class.noun?("sum.")).to be_falsey }
   end
 
   describe "#verb?" do

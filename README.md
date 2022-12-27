@@ -27,16 +27,19 @@ Or install it yourself as:
 => "ohm-nia"
 => "poon-yoh"
 
-MedievalLatina.verbs.include?("voco")
+MedievalLatina.verb?("voco")
 => true
 
-MedievalLatina.verbs.include?("nauta")
+MedievalLatina.verb?("nauta")
 => false
 
-MedievalLatina.adverbs.include?("facile")
+MedievalLatina.adverb?("facile")
 => true
 
-MedievalLatina.adjectives.include?("certus")
+MedievalLatina.adjective?("certus")
+=> true
+
+MedievalLatina.noun?("canis")
 => true
 ```
 
