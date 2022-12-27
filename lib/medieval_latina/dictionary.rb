@@ -1,3 +1,5 @@
+require "set"
+
 class MedievalLatina
   DICTIONARY = {
     "ad" => "add",

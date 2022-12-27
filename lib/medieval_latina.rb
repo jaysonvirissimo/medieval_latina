@@ -1,5 +1,6 @@
 require "medieval_latina/dictionary"
 require "medieval_latina/version"
+require "set"
 
 class MedievalLatina
   def self.[](text)
@@ -122,7 +123,7 @@ class MedievalLatina
 
     def initialize(text, index)
       @character = text[index]
-      @rest = text[index + 1..].chars.join
+      @rest = text[index + 1..-1].chars.join
     end
 
     def to_team
