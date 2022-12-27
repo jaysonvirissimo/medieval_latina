@@ -1,6 +1,5 @@
 require "medieval_latina/dictionary"
 require "medieval_latina/version"
-require "set"
 
 class MedievalLatina
   def self.[](text)
@@ -27,6 +26,10 @@ class MedievalLatina
     ADVERBS.member?(prepare_word(word))
   end
 
+  def self.noun?(word)
+    NOUNS.member?(prepare_word(word))
+  end
+
   def self.verb?(word)
     VERBS.member?(prepare_word(word))
   end
@@ -39,12 +42,16 @@ class MedievalLatina
     ADVERBS
   end
 
+  def self.nouns
+    NOUNS
+  end
+
   def self.verbs
     VERBS
   end
 
   def self.words
-    ADJECTIVES | ADVERBS | Set.new(DICTIONARY.keys) | VERBS
+    ADJECTIVES | ADVERBS | Set.new(DICTIONARY.keys) | NOUNS | VERBS
   end
 
   def initialize(word)
@@ -71,10 +78,10 @@ class MedievalLatina
   attr_reader :word
 
   CONSONENTS = {
-    c: ->(rest) { SOFT_C.any? { |item| rest.start_with?(item) } ? "ch" : "k" },
-    g: ->(rest) { SOFT_G.any? { |item| rest.start_with?(item) } ? "j" : "g" },
+    c: ->(rest) { (SOFT_C.any? { |item| rest.start_with?(item) }) ? "ch" : "k" },
+    g: ->(rest) { (SOFT_G.any? { |item| rest.start_with?(item) }) ? "j" : "g" },
     j: ->(rest) { "y" },
-    t: ->(rest) { SOFT_T.any? { |item| rest.start_with?(item) } ? "ts" : "t" },
+    t: ->(rest) { (SOFT_T.any? { |item| rest.start_with?(item) }) ? "ts" : "t" },
     x: ->(rest) { "ks" }
   }
   CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}.freeze
@@ -115,7 +122,7 @@ class MedievalLatina
 
     def initialize(text, index)
       @character = text[index]
-      @rest = text[index + 1..-1].chars.join
+      @rest = text[index + 1..].chars.join
     end
 
     def to_team
