@@ -4,14 +4,22 @@ require "set"
 
 class MedievalLatina
   def self.[](text)
-    prepare_text(text).map do |word|
-      DICTIONARY[word] || new(word).call
-    end.join(" ")
+    prepare_text(text).map do |string|
+      if string.match?(/\w/)
+        DICTIONARY[string] || new(string).call
+      else
+        string
+      end
+    end.join(" ").gsub(/ +?,/, ",").gsub(/ +?;/, ";").gsub(/ +?\./, ".").gsub(/ +?\?/, "?")
   end
 
   def self.prepare_text(text)
-    text.split(" ").map do |word|
-      prepare_word(word)
+    text.scan(/[\w'-]+|[[:punct:]]+/).map do |string|
+      if string.match?(/\w/)
+        prepare_word(string)
+      else
+        string
+      end
     end
   end
 

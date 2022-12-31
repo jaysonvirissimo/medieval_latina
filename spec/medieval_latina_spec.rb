@@ -73,8 +73,14 @@ RSpec.describe MedievalLatina do
     end
 
     it "delegates to the dictionary, even when containing punctuation" do
-      expect(described_class["est."]).to eq("est")
-      expect(described_class["Rhenus?"]).to eq("ray-noose")
+      expect(described_class["est."]).to eq("est.")
+      expect(described_class["Rhenus?"]).to eq("ray-noose?")
+    end
+
+    it "preserves punctuation without wonky space between" do
+      actual = described_class["Pater noster, qui es in caelis;"]
+      expected = "pah-tare nohstayr, kwee es een chaylees;"
+      expect(actual).to eq(expected)
     end
   end
 
