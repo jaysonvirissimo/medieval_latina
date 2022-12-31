@@ -4,18 +4,20 @@ require "set"
 
 class MedievalLatina
   def self.[](text)
-    prepare_text(text).map do |string|
-      if string.match?(/\w/)
+    prepared_words = prepare_text(text).map do |string|
+      if word?(string)
         DICTIONARY[string] || new(string).call
       else
         string
       end
-    end.join(" ").gsub(/ +?,/, ",").gsub(/ +?;/, ";").gsub(/ +?\./, ".").gsub(/ +?\?/, "?")
+    end
+
+    rejoin_words(prepared_words)
   end
 
   def self.prepare_text(text)
     text.scan(/[\w'-]+|[[:punct:]]+/).map do |string|
-      if string.match?(/\w/)
+      if word?(string)
         prepare_word(string)
       else
         string
@@ -55,8 +57,21 @@ class MedievalLatina
     NOUNS
   end
 
+  def self.rejoin_words(array)
+    array
+      .join(" ")
+      .gsub(/ +?,/, ",")
+      .gsub(/ +?;/, ";")
+      .gsub(/ +?\./, ".")
+      .gsub(/ +?\?/, "?")
+  end
+
   def self.verbs
     VERBS
+  end
+
+  def self.word?(string)
+    string.match?(/\w/)
   end
 
   def self.words
@@ -131,7 +146,7 @@ class MedievalLatina
 
     def initialize(text, index)
       @character = text[index]
-      @rest = text[index + 1..-1].chars.join
+      @rest = text[index + 1..].chars.join
     end
 
     def to_team
