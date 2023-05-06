@@ -1053,229 +1053,483 @@ class MedievalLatina
   "audīre" => { meaning: "hear, listen to", part: "Verb", conjugation: "4th" },
   "audīvī" => { meaning: "hear, listen to", part: "Verb", conjugation: "4th" },
   "audiī" => { meaning: "hear, listen to", part: "Verb", conjugation: "4th" },
-  "audītum" => { meaning: "hear, listen to", part: "Verb", conjugation: "4th" }
+  "audītum" => { meaning: "hear, listen to", part: "Verb", conjugation: "4th" },
+  "putō" => { meaning: "think, suppose", part: "Verb", conjugation: "1st" },
+  "putāre" => { meaning: "think, suppose", part: "Verb", conjugation: "1st" },
+  "annus" => { meaning: "year", part: "Noun", declension: "2nd", gender: :masculine },
+  "stō" => { meaning: "stand", part: "Verb", conjugation: "1st" },
+  "stāre" => { meaning: "stand", part: "Verb", conjugation: "1st" },
+  "stetī" => { meaning: "stand", part: "Verb", conjugation: "1st" },
+  "statum" => { meaning: "stand", part: "Verb", conjugation: "1st" },
+  "vōx" => { meaning: "voice, utterance", part: "Noun", declension: "3rd", gender: :feminine },
+  "vōcis" => { meaning: "voice, utterance", part: "Noun", declension: "3rd", gender: :feminine },
+  "genus" => { meaning: "origin, lineage, kind", part: "Noun", declension: "3rd", gender: :neuter },
+  "generis" => { meaning: "origin, lineage, kind", part: "Noun", declension: "3rd", gender: :neuter },
+  "referō" => { meaning: "bring back; report", part: "Verb", irregular: true },
+  "referre" => { meaning: "bring back; report", part: "Verb", irregular: true },
+  "rettulī" => { meaning: "bring back; report", part: "Verb", irregular: true },
+  "relātum" => { meaning: "bring back; report", part: "Verb", irregular: true },
+  "sciō" => { meaning: "know", part: "Verb", conjugation: "4th" },
+  "scīre" => { meaning: "know", part: "Verb", conjugation: "4th" },
+  "scīvī" => { meaning: "know", part: "Verb", conjugation: "4th" },
+  "scītum" => { meaning: "know", part: "Verb", conjugation: "4th" },
+  "mēns" => { meaning: "mind", part: "Noun", declension: "3rd", gender: :feminine },
+  "mentis" => { meaning: "mind", part: "Noun", declension: "3rd", gender: :feminine },
+  "reddō" => { meaning: "return, give back", part: "Verb", conjugation: "3rd" },
+  "reddere" => { meaning: "return, give back", part: "Verb", conjugation: "3rd" },
+  "reddidī" => { meaning: "return, give back", part: "Verb", conjugation: "3rd" },
+  "redditum" => { meaning: "return, give back", part: "Verb", conjugation: "3rd" },
+  "licet" => { meaning: "it is permitted", part: "Verb", impersonal: true },
+  "licēre" => { meaning: "it is permitted", part: "Verb", impersonal: true },
+  "licuit" => { meaning: "it is permitted", part: "Verb", impersonal: true },
+  "licitum" => { meaning: "it is permitted", part: "Verb", impersonal: true },
+  "est" => { meaning: "is", part: "Verb", conjugation: "irregular" },
+  "sōlus" => { meaning: "only, alone", part: "Adjective", declension: "1st", gender: :masculine },
+  "sōla" => { meaning: "only, alone", part: "Adjective", declension: "1st", gender: :feminine },
+  "sōlum" => { meaning: "only, alone", part: "Adjective", declension: "1st", gender: :neuter },
+  "fugiō" => { meaning: "flee, escape", part: "Verb", conjugation: "3rd", variation: "iō" },
+  "fugere" => { meaning: "flee, escape", part: "Verb", conjugation: "3rd", variation: "iō" },
+  "fūgī" => { meaning: "flee, escape", part: "Verb", conjugation: "3rd", variation: "iō" },
+  "fugitum" => { meaning: "flee, escape", part: "Verb", conjugation: "3rd", variation: "iō" },
+  "ūllus" => { meaning: "any, anyone", part: "Adjective", declension: "1st", gender: :masculine },
+  "ūlla" => { meaning: "any, anyone", part: "Adjective", declension: "1st", gender: :feminine },
+  "ūllum" => { meaning: "any, anyone", part: "Adjective", declension: "1st", gender: :neuter },
+  "nēmō" => { meaning: "no one", part: "Pronoun", gender: :common },
+  "nūllīus" => { meaning: "no one", part: "Pronoun", gender: :common },
+  "nūllī" => { meaning: "no one", part: "Pronoun", gender: :common },
+  "nūllō" => { meaning: "no one", part: "Pronoun", gender: :masculine },
+  "nūllā" => { meaning: "no one", part: "Pronoun", gender: :feminine },
+  "nātūra" => { meaning: "nature", part: "Noun", declension: "1st", gender: :feminine },
+  "nātūrae" => { meaning: "nature", part: "Noun", declension: "1st", gender: :feminine },
+  "mōs" => { meaning: "custom, habit", part: "Noun", declension: "3rd", gender: :masculine },
+  "mōris" => { meaning: "custom, habit", part: "Noun", declension: "3rd", gender: :masculine },
+  "beneficium" => { meaning: "service, kindness", part: "Noun", declension: "2nd", gender: :neuter },
+  "beneficiī" => { meaning: "service, kindness", part: "Noun", declension: "2nd", gender: :neuter },
+  "pectus" => { meaning: "chest, breast", part: "Noun", declension: "3rd", gender: :neuter },
+  "pectoris" => { meaning: "chest, breast", part: "Noun", declension: "3rd", gender: :neuter },
+  "fidēs" => { meaning: "trust, faith", part: "Noun", declension: "5th", gender: :feminine },
+  "fidēī" => { meaning: "trust, faith", part: "Noun", declension: "5th", gender: :feminine },
+  "patior" => { meaning: "permit, endure", part: "Verb", conjugation: "Deponent" },
+  "patī" => { meaning: "permit, endure", part: "Verb", conjugation: "Deponent" },
+  "passus" => { meaning: "permit, endure", part: "Verb", conjugation: "Deponent" },
+  "cūra" => { meaning: "care, concern", part: "Noun", declension: "1st", gender: :feminine },
+  "cūrae" => { meaning: "care, concern", part: "Noun", declension: "1st", gender: :feminine },
+  "īra" => { meaning: "wrath, anger", part: "Noun", declension: "1st", gender: :feminine },
+  "īrae" => { meaning: "wrath, anger", part: "Noun", declension: "1st", gender: :feminine },
+  "verbum" => { meaning: "word", part: "Noun", declension: "2nd", gender: :neuter },
+  "verbī" => { meaning: "word", part: "Noun", declension: "2nd", gender: :neuter },
+  "prope" => { meaning: "near, next; nearly, almost", part: "Preposition" },
+  "parēns" => { meaning: "parent", part: "Noun", declension: "3rd" },
+  "parentis" => { meaning: "parent", part: "Noun", declension: "3rd" },
+  "puer" => { meaning: "boy; slave", part: "Noun", declension: "2nd", gender: :masculine },
+  "puerī" => { meaning: "boy; slave", part: "Noun", declension: "2nd", gender: :masculine },
+  "moveō" => { meaning: "move", part: "Verb", conjugation: "2nd" },
+  "movēre" => { meaning: "move", part: "Verb", conjugation: "2nd" },
+  "mōvī" => { meaning: "move", part: "Verb", conjugation: "2nd" },
+  "mōtum" => { meaning: "move", part: "Verb", conjugation: "2nd" },
+  "dolor" => { meaning: "pain, grief", part: "Noun", declension: "3rd", gender: :masculine },
+  "dolōris" => { meaning: "pain, grief", part: "Noun", declension: "3rd", gender: :masculine },
+  "gēns" => { meaning: "family, clan", part: "Noun", declension: "3rd", gender: :feminine },
+  "gentis" => { meaning: "family, clan", part: "Noun", declension: "3rd", gender: :feminine },
+  "modus" => { meaning: "measure, manner, kind", part: "Noun", declension: "2nd", gender: :masculine },
+  "modī" => { meaning: "measure, manner, kind", part: "Noun", declension: "2nd", gender: :masculine },
+  "via" => { meaning: "way, street", part: "Noun", declension: "1st", gender: :feminine },
+  "viae" => { meaning: "way, street", part: "Noun", declension: "1st", gender: :feminine },
+  "quisque" => { meaning: "each one, everyone", part: "Pronoun" },
+  "quaeque" => { meaning: "each one, everyone", part: "Pronoun" },
+  "quidque" => { meaning: "each one, everyone", part: "Pronoun" },
+  "amīcus" => { meaning: "friendly; friend", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "amīca" => { meaning: "friendly; friend", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "amīcum" => { meaning: "friendly; friend", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "pēs" => { meaning: "foot", part: "Noun", declension: "3rd", gender: :masculine },
+  "pedis" => { meaning: "foot", part: "Noun", declension: "3rd", gender: :masculine },
+  "imperium" => { meaning: "command, power", part: "Noun", declension: "2nd", gender: :neuter },
+  "imperiī" => { meaning: "command, power", part: "Noun", declension: "2nd", gender: :neuter },
+  "labor" => { meaning: "toil, exertion", part: "Noun", gender: :masculine, declension: "3rd" },
+  "ingēns" => { meaning: "huge, enormous", part: "Adjective", declension: "3rd" },
+  "ingentis" => { meaning: "huge, enormous", part: "Adjective", declension: "3rd" },
+  "tālis" => { meaning: "such", part: "Adjective", declension: "3rd" },
+  "tāle" => { meaning: "such", part: "Adjective", declension: "3rd" },
+  "parum" => { meaning: "too little", part: "Adverb" },
+  "apud" => { meaning: "near, in the presence of", part: "Preposition" },
+  "oculus" => { meaning: "eye", part: "Noun", declension: "2nd", gender: :masculine },
+  "unda" => { meaning: "wave, flowing water, water", part: "Noun", declension: "1st", gender: :feminine },
+  "itaque" => { meaning: "and so, therefore", part: "Conjunction" },
+  "vultus" => { meaning: "look, expression, face", part: "Noun", declension: "4th", gender: :masculine },
+  "cadō" => { meaning: "fall, be killed", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "cadere" => { meaning: "fall, be killed", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "cecidī" => { meaning: "fall, be killed", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "cāsum" => { meaning: "fall, be killed", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "nātus" => { meaning: "son", part: "Noun", declension: "2nd", gender: :masculine },
+  "quis" => { meaning: "who? what? which?", part: "Pronoun" },
+  "quid" => { meaning: "who? what? which?", part: "Pronoun" },
+  "trahō" => { meaning: "drag, draw", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "trahere" => { meaning: "drag, draw", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "trāxī" => { meaning: "drag, draw", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "trāctum" => { meaning: "drag, draw", part: "Verb", conjugation: "3rd", variant: "-ō" },
+  "sanguis" => { meaning: "blood", part: "Noun", declension: "3rd", gender: :masculine },
+  "sanguinis" => { meaning: "blood", part: "Noun", declension: "3rd", gender: :masculine },
+  "metus" => { meaning: "fear, dread", part: "Noun", declension: "4th", gender: :masculine },
+  "tantum" => { meaning: "only", part: "Adverb" },
+  "tantummodo" => { meaning: "only", part: "Adverb" },
+  "cōnsilium" => { meaning: "plan; council, group of advisors", part: "Noun", declension: "2nd", gender: :neuter },
+  "coniunx" => { meaning: "spouse, husband, wife", part: "Noun", declension: "3rd", gender: :masculine_feminine },
+  "coniugis" => { meaning: "spouse, husband, wife", part: "Noun", declension: "3rd", gender: :masculine_feminine },
+  "amō" => { meaning: "to love; amāns -ntis m./f.: lover", part: "Verb", conjugation: "1st" },
+  "amāre" => { meaning: "to love; amāns -ntis m./f.: lover", part: "Verb", conjugation: "1st" },
+  "levis" => { meaning: "light, trivial", part: "Adjective", declension: "3rd" },
+  "leve" => { meaning: "light, trivial", part: "Adjective", declension: "3rd" },
+  "duo" => { meaning: "two", part: "Adjective", type: "Numeral" },
+  "duae" => { meaning: "two", part: "Adjective", type: "Numeral" },
+  "duo" => { meaning: "two", part: "Adjective", type: "Numeral" },
+  "ferus" => { meaning: "wild, fierce; fera -ae f.: wild animal", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "fera" => { meaning: "wild, fierce; wild animal", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "ferum" => { meaning: "wild, fierce; fera -ae f.: wild animal", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "poena" => { meaning: "penalty, punishment", part: "Noun", declension: "1st", gender: :feminine },
+  "castrum" => { meaning: "fortress, (regularly plural, castra camp)", part: "Noun", declension: "2nd", gender: :neuter },
+  "frāter" => { meaning: "brother", part: "Noun", declension: "3rd", gender: :masculine },
+  "frātris" => { meaning: "brother", part: "Noun", declension: "3rd", gender: :masculine },
+  "haud" => { meaning: "not", part: "Adverb" },
+  "malus" => { meaning: "bad, evil", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "mala" => { meaning: "bad, evil", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "malum" => { meaning: "bad, evil", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "iaceō" => { meaning: "lie", part: "Verb", conjugation: "2nd" },
+  "iacēre" => { meaning: "lie", part: "Verb", conjugation: "2nd" },
+  "iacuī" => { meaning: "lie", part: "Verb", conjugation: "2nd" },
+  "līber" => { meaning: "free; līberī (m. pl.): freeborn children", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "lībera" => { meaning: "free; līberī (m. pl.): freeborn children", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "līberum" => { meaning: "free; līberī (m. pl.): freeborn children", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "iter" => { meaning: "journey, route", part: "Noun", declension: "3rd", gender: :neuter },
+  "itineris" => { meaning: "journey, route", part: "Noun", declension: "3rd", gender: :neuter },
+  "ferrum" => { meaning: "iron, iron weapon or implement", part: "Noun", declension: "2nd", gender: :neuter },
+  "spēs" => { meaning: "hope", part: "Noun", declension: "5th", gender: :feminine },
+  "speī" => { meaning: "hope", part: "Noun", declension: "5th", gender: :feminine },
+  "puella" => { meaning: "girl; girl-friend", part: "Noun", declension: "1st", gender: :feminine },
+  "silva" => { meaning: "forest, grove", part: "Noun", declension: "1st", gender: :feminine },
+  "bene" => { meaning: "well", part: "Adverb" },
+  "fīnis" => { meaning: "end, boundary", part: "Noun", declension: "3rd", gender: :masculine },
+  "fīnis" => { meaning: "end, boundary", part: "Noun", declension: "3rd", gender: :masculine },
+  "gerō" => { meaning: "bear, manage; bellum gerere, wage war", part: "Verb", conjugation: "3rd -ō" },
+  "ne" => { meaning: "interrogative particle attached to the emphatic word in a question", part: "Adverb" },
+  "dux" => { meaning: "leader, general", part: "Noun", declension: "3rd", gender: :masculine_feminine },
+  "ducis" => { meaning: "leader, general", part: "Noun", declension: "3rd", gender: :masculine_feminine },
+  "premō" => { meaning: "press, pursue, overwhelm", part: "Verb", conjugation: "3rd -ō" },
+  "dominus" => { meaning: "household master, lord", part: "Noun", declension: "2nd", gender: :masculine },
+  "domina" => { meaning: "mistress", part: "Noun", declension: "1st", gender: :feminine },
+  "mōns" => { meaning: "mountain", part: "Noun", declension: "3rd", gender: :masculine },
+  "montis" => { meaning: "mountain", part: "Noun", declension: "3rd", gender: :masculine },
+  "uterque" => { meaning: "each of two", part: "Conjunction" },
+  "utraque" => { meaning: "each of two", part: "Conjunction" },
+  "utrumque" => { meaning: "each of two", part: "Conjunction" },
+  "saevus" => { meaning: "fierce, raging, wrathful", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "saeva" => { meaning: "fierce, raging, wrathful", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "saevum" => { meaning: "fierce, raging, wrathful", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "lītus" => { meaning: "shore", part: "Noun", declension: "3rd", gender: :neuter },
+  "lītoris" => { meaning: "shore", part: "Noun", declension: "3rd", gender: :neuter },
+  "soleō" => { meaning: "be accustomed", part: "Verb", conjugation: "2nd" },
+  "mīlle" => { meaning: "thousand", part: "Adjective", type: "Numeral" },
+  "mīlia" => { meaning: "thousand", part: "Adjective", type: "Numeral" },
+  "equus" => { meaning: "horse", part: "Noun", declension: "2nd", gender: :masculine },
+  "dūrus" => { meaning: "hard, tough, harsh", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "dūra" => { meaning: "hard, tough, harsh", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "dūrum" => { meaning: "hard, tough, harsh", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "cōgō" => { meaning: "drive together; compel", part: "Verb", conjugation: "3rd -ō" },
+  "numquam" => { meaning: "never", part: "Adverb" },
+  "prīmum" => { meaning: "at first, firstly", part: "Adverb" },
+  "morior" => { meaning: "die", part: "Verb", conjugation: "Deponent" },
+  "carmen" => { meaning: "song", part: "Noun", declension: "3rd", gender: :neuter },
+  "cārminis" => { meaning: "song", part: "Noun", declension: "3rd", gender: :neuter },
+  "tēlum" => { meaning: "missile, weapon, spear", part: "Noun", declension: "2nd", gender: :neuter },
+  "ratiō" => { meaning: "method, plan, reason", part: "Noun", declension: "3rd", gender: :feminine },
+  "ratiōnis" => { meaning: "method, plan, reason", part: "Noun", declension: "3rd", gender: :feminine },
+  "umbra" => { meaning: "shade, shadow", part: "Noun", declension: "1st", gender: :feminine },
+  "umbrae" => { meaning: "shade, shadow", part: "Noun", declension: "1st", gender: :feminine },
+  "ars" => { meaning: "skill", part: "Noun", declension: "3rd", gender: :feminine },
+  "artis" => { meaning: "skill", part: "Noun", declension: "3rd", gender: :feminine },
+  "tot" => { meaning: "so many", part: "Adverb" },
+  "dexter" => { meaning: "right", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "dextra" => { meaning: "right hand", part: "Noun", declension: "1st", gender: :feminine },
+  "sīgnum" => { meaning: "sign, standard, mark", part: "Noun", declension: "2nd", gender: :neuter },
+  "sīgnī" => { meaning: "sign, standard, mark", part: "Noun", declension: "2nd", gender: :neuter },
+  "laetus" => { meaning: "glad, joyful", part: "Adjective", declension: "1st and 2nd", gender: :masculine },
+  "laeta" => { meaning: "glad, joyful", part: "Adjective", declension: "1st and 2nd", gender: :feminine },
+  "laetum" => { meaning: "glad, joyful", part: "Adjective", declension: "1st and 2nd", gender: :neuter },
+  "quālis" => { meaning: "of what kind? what?", part: "Pronoun" },
+  "lēx" => { meaning: "law", part: "Noun", declension: "3rd", gender: :feminine },
+  "lēgis" => { meaning: "law", part: "Noun", declension: "3rd", gender: :feminine },
+  "perīculum" => { meaning: "danger", part: "Noun", declension: "2nd", gender: :neuter },
+  "perīculī" => { meaning: "danger", part: "Noun", declension: "2nd", gender: :neuter },
+  "nāscor" => { meaning: "be born", part: "Verb", conjugation: "Deponent" },
+  "exercitus" => { meaning: "army", part: "Noun", declension: "4th", gender: :masculine },
+  "exercitūs" => { meaning: "army", part: "Noun", declension: "4th", gender: :masculine },
+  "pereō" => { meaning: "perish, be lost", part: "Verb", conjugation: "Irregular" },
+  "ventus" => { meaning: "wind", part: "Noun", declension: "2nd", gender: :masculine },
+  "ventī" => { meaning: "wind", part: "Noun", declension: "2nd", gender: :masculine },
+  "audeō" => { meaning: "dare, be eager", part: "Verb", conjugation: "2nd" },
+  "audēre" => { meaning: "dare, be eager", part: "Verb", conjugation: "2nd" },
+  "ausus" => { meaning: "dare, be eager", part: "Verb", conjugation: "2nd" },
+  "contrā" => { meaning: "against, opposite", part: "Preposition" },
+  "aqua" => { meaning: "water", part: "Noun", declension: "1st", gender: :feminine },
+  "aquae" => { meaning: "water", part: "Noun", declension: "1st", gender: :feminine },
+  "rapiō" => { meaning: "seize, tear away", part: "Verb", conjugation: "3rd -iō" },
+  "rapere" => { meaning: "seize, tear away", part: "Verb", conjugation: "3rd -iō" },
+  "rapuī" => { meaning: "seize, tear away", part: "Verb", conjugation: "3rd -iō" },
+  "raptum" => { meaning: "seize, tear away", part: "Verb", conjugation: "3rd -iō" },
+  "simul" => { meaning: "at the same time", part: "Adverb" },
+  "trīstis" => { meaning: "sad, solemn, grim", part: "Adjective", declension: "3rd" },
+  "mūnus" => { meaning: "gift, offering; duty, obligation; gladiatorial show", part: "Noun", declension: "3rd", gender: :neuter },
+  "mūneris" => { meaning: "gift, offering; duty, obligation; gladiatorial show", part: "Noun", declension: "3rd", gender: :neuter },
+  "iuvenis" => { meaning: "youth", part: "Noun", declension: "3rd", gender: :masculine },
+  "iuvenis" => { meaning: "youth", part: "Noun", declension: "3rd", gender: :masculine },
+  "fāma" => { meaning: "rumor, fame", part: "Noun", declension: "1st", gender: :feminine },
+  "fāmae" => { meaning: "rumor, fame", part: "Noun", declension: "1st", gender: :feminine },
+  "adsum" => { meaning: "be present", part: "Verb", conjugation: "Irregular" },
+  "adesse" => { meaning: "be present", part: "Verb", conjugation: "Irregular" },
+  "affuī" => { meaning: "be present", part: "Verb", conjugation: "Irregular" },
+  "quisquam" => { meaning: "any (single) person, anyone at all", part: "Pronoun" },
+  "quicquam" => { meaning: "any (single) person, anyone at all", part: "Pronoun" },
+  "quidquam" => { meaning: "any (single) person, anyone at all", part: "Pronoun" },
+  "vērō" => { meaning: "in fact, certainly, without doubt", part: "Adverb" },
+  "pār" => { meaning: "equal", part: "Adjective", declension: "3rd" },
+  "paris" => { meaning: "equal", part: "Adjective", declension: "3rd" },
+  "vester" => { meaning: "your", part: "Adjective", declension: "1st and 2nd" },
+  "vestra" => { meaning: "your", part: "Adjective", declension: "1st and 2nd" },
+  "vestrum" => { meaning: "your", part: "Adjective", declension: "1st and 2nd" },
+  "flūmen" => { meaning: "stream, river", part: "Noun", declension: "3rd", gender: :neuter },
+  "flūminis" => { meaning: "stream, river", part: "Noun", declension: "3rd", gender: :neuter },
+  "quīcumque" => { meaning: "who-, whatever", part: "Pronoun" },
+  "quaecumque" => { meaning: "who-, whatever", part: "Pronoun" },
+  "quodcumque" => { meaning: "who-, whatever", part: "Pronoun" },
+  "certus" => { meaning: "sure, fixed", part: "Adjective", declension: "1st and 2nd" },
+  "certa" => { meaning: "sure, fixed", part: "Adjective", declension: "1st and 2nd" },
+  "certum" => { meaning: "sure, fixed", part: "Adjective", declension: "1st and 2nd" },
+  "iuvenis" => { meaning: "youth", part: "Noun", declension: "3rd", gender: :masculine },
+  "iuvenis" => { meaning: "youth", part: "Noun", declension: "3rd", gender: :masculine },
+  "fāma" => { meaning: "rumor, fame", part: "Noun", declension: "1st", gender: :feminine },
+  "fāmae" => { meaning: "rumor, fame", part: "Noun", declension: "1st", gender: :feminine },
+  "adsum" => { meaning: "be present", part: "Verb", conjugation: "Irregular" },
+  "adesse" => { meaning: "be present", part: "Verb", conjugation: "Irregular" },
+  "affuī" => { meaning: "be present", part: "Verb", conjugation: "Irregular" },
+  "quisquam" => { meaning: "any (single) person, anyone at all", part: "Pronoun" },
+  "quicquam" => { meaning: "any (single) person, anyone at all", part: "Pronoun" },
+  "quidquam" => { meaning: "any (single) person, anyone at all", part: "Pronoun" },
+  "vērō" => { meaning: "in fact, certainly, without doubt", part: "Adverb" },
+  "pār" => { meaning: "equal", part: "Adjective", declension: "3rd" },
+  "paris" => { meaning: "equal", part: "Adjective", declension: "3rd" },
+  "vester" => { meaning: "your", part: "Adjective", declension: "1st and 2nd" },
+  "vestra" => { meaning: "your", part: "Adjective", declension: "1st and 2nd" },
+  "vestrum" => { meaning: "your", part: "Adjective", declension: "1st and 2nd" },
+  "flūmen" => { meaning: "stream, river", part: "Noun", declension: "3rd", gender: :neuter },
+  "flūminis" => { meaning: "stream, river", part: "Noun", declension: "3rd", gender: :neuter },
+  "quīcumque" => { meaning: "who-, whatever", part: "Pronoun" },
+  "quaecumque" => { meaning: "who-, whatever", part: "Pronoun" },
+  "quodcumque" => { meaning: "who-, whatever", part: "Pronoun" },
+  "certus" => { meaning: "sure, fixed", part: "Adjective", declension: "1st and 2nd" },
+  "certa" => { meaning: "sure, fixed", part: "Adjective", declension: "1st and 2nd" },
+  "certum" => { meaning: "sure, fixed", part: "Adjective", declension: "1st and 2nd" },
+  "eques" => { meaning: "horseman, knight", part: "Noun", declension: "3rd", gender: :masculine },
+  "equitis" => { meaning: "horseman, knight", part: "Noun", declension: "3rd", gender: :masculine },
+  "trādō" => { meaning: "hand over, yield", part: "Verb", conjugation: "3rd -ō" },
+  "trādere" => { meaning: "hand over, yield", part: "Verb", conjugation: "3rd -ō" },
+  "trādidī" => { meaning: "hand over, yield", part: "Verb", conjugation: "3rd -ō" },
+  "trāditum" => { meaning: "hand over, yield", part: "Verb", conjugation: "3rd -ō" },
+  "flamma" => { meaning: "flame, fire", part: "Noun", declension: "1st", gender: :feminine },
+  "flammae" => { meaning: "flame, fire", part: "Noun", declension: "1st", gender: :feminine },
+  "lūx" => { meaning: "light of day", part: "Noun", declension: "3rd", gender: :feminine },
+  "lūcis" => { meaning: "light of day", part: "Noun", declension: "3rd", gender: :feminine },
+  "unde" => { meaning: "from where", part: "Adverb", category: "Place" },
+  "redeō" => { meaning: "go back, return", part: "Verb", conjugation: "Irregular" },
+  "redīre" => { meaning: "go back, return", part: "Verb", conjugation: "Irregular" },
+  "rediī" => { meaning: "go back, return", part: "Verb", conjugation: "Irregular" },
+  "reditum" => { meaning: "go back, return", part: "Verb", conjugation: "Irregular" },
+  "sentiō" => { meaning: "perceive, feel, hear, see", part: "Verb", conjugation: "4th" },
+  "sentīre" => { meaning: "perceive, feel, hear, see", part: "Verb", conjugation: "4th" },
+  "sēnsī" => { meaning: "perceive, feel, hear, see", part: "Verb", conjugation: "4th" },
+  "sēnsum" => { meaning: "perceive, feel, hear, see", part: "Verb", conjugation: "4th" },
+  "aurum" => { meaning: "gold", part: "Noun", declension: "2nd", gender: :neuter },
+  "aurī" => { meaning: "gold", part: "Noun", declension: "2nd", gender: :neuter },
+  "quō" => { meaning: "for which reason; to or in what place; to what end, for what purpose?", part: "Adverb", category: "Pronouns/Interrogatives" },
+  "saxum" => { meaning: "rock, cliff, crag", part: "Noun", declension: "2nd", gender: :neuter },
+  "saxī" => { meaning: "rock, cliff, crag", part: "Noun", declension: "2nd", gender: :neuter },
+  "ve" => { meaning: "or (postpositive enclitic)", part: "Conjunction", category: "Conjunctions/Adverbs" },
+  "aetās" => { meaning: "age, time of life", part: "Noun", declension: "3rd", gender: :feminine },
+  "aetātis" => { meaning: "age, time of life", part: "Noun", declension: "3rd", gender: :feminine },
+  "fēlīx" => { meaning: "lucky", part: "Adjective", declension: "3rd" },
+  "fēlīcis" => { meaning: "lucky", part: "Adjective", declension: "3rd" },
+  "loquor" => { meaning: "speak, talk", part: "Verb", conjugation: "Deponent" },
+  "loquī" => { meaning: "speak, talk", part: "Verb", conjugation: "Deponent" },
+  "locūtus" => { meaning: "speak, talk", part: "Verb", conjugation: "Deponent" },
+  "locūtus sum" => { meaning: "speak, talk", part: "Verb", conjugation: "Deponent" },
+  "quantus" => { meaning: "how great?; of what size, amount, etc.; what amount?; which amount; quantī, at what price?; at which price", part: "Pronoun", category: "Pronouns/Interrogatives" },
+  "quanta" => { meaning: "how great?; of what size, amount, etc.; what amount?; which amount; quantī, at what price?; at which price", part: "Pronoun", category: "Pronouns/Interrogatives" },
+  "quantum" => { meaning: "how great?; of what size, amount, etc.; what amount?; which amount; quantī, at what price?; at which price", part: "Pronoun", category: "Pronouns/Interrogatives" },
+  "coepī" => { meaning: "begin", part: "Verb", conjugation: "Irregular" },
+  "coepisse" => { meaning: "begin", part: "Verb", conjugation: "Irregular" },
+  "coeptus" => { meaning: "begin", part: "Verb", conjugation: "Irregular" },
+  "igitur" => { meaning: "therefore", part: "Conjunction" },
+  "iūs" => { meaning: "right, justice, law", part: "Noun", declension: "3rd", gender: :neuter },
+  "iūris" => { meaning: "right, justice, law", part: "Noun", declension: "3rd", gender: :neuter },
+  "mūtō" => { meaning: "change", part: "Verb", conjugation: "1st" },
+  "mūtāre" => { meaning: "change", part: "Verb", conjugation: "1st" },
+  "inveniō" => { meaning: "find; discover", part: "Verb", conjugation: "4th" },
+  "invenīre" => { meaning: "find; discover", part: "Verb", conjugation: "4th" },
+  "invēnī" => { meaning: "find; discover", part: "Verb", conjugation: "4th" },
+  "inventum" => { meaning: "find; discover", part: "Verb", conjugation: "4th" },
+  "prīnceps" => { meaning: "first, chief; leader, person in charge", part: "Adjective", declension: "3rd" },
+  "prīncipis" => { meaning: "first, chief; leader, person in charge", part: "Adjective", declension: "3rd" },
+  "ops" => { meaning: "assistance, resources", part: "Noun", declension: "3rd", gender: :feminine },
+  "opis" => { meaning: "assistance, resources", part: "Noun", declension: "3rd", gender: :feminine },
+  "recipiō" => { meaning: "take back, receive; sē recipere, betake oneself, go", part: "Verb", conjugation: "3rd -iō" },
+  "recipere" => { meaning: "take back, receive; sē recipere, betake oneself, go", part: "Verb", conjugation: "3rd -iō" },
+  "recēpī" => { meaning: "take back, receive; sē recipere, betake oneself, go", part: "Verb", conjugation: "3rd -iō" },
+  "receptum" => { meaning: "take back, receive; sē recipere, betake oneself, go", part: "Verb", conjugation: "3rd -iō" }
+  "sōl" => { meaning: "sun", part: "Noun", declension: "3rd", gender: :masculine },
+  "sōlis" => { meaning: "sun", part: "Noun", declension: "3rd", gender: :masculine },
+  "cōnsul" => { meaning: "consul", part: "Noun", declension: "3rd", gender: :masculine },
+  "cōnsulis" => { meaning: "consul", part: "Noun", declension: "3rd", gender: :masculine },
+  "orbis" => { meaning: "circle; orbis terrārum: world", part: "Noun", declension: "3rd", gender: :masculine },
+  "turba" => { meaning: "crowd, uproar", part: "Noun", declension: "1st", gender: :feminine },
+  "turbae" => { meaning: "crowd, uproar", part: "Noun", declension: "1st", gender: :feminine },
+  "ager" => { meaning: "field", part: "Noun", declension: "2nd", gender: :masculine },
+  "agrī" => { meaning: "field", part: "Noun", declension: "2nd", gender: :masculine },
+  "solvō" => { meaning: "release, set sail", part: "Verb", conjugation: "2nd" },
+  "solvere" => { meaning: "release, set sail", part: "Verb", conjugation: "2nd" },
+  "solvī" => { meaning: "release, set sail", part: "Verb", conjugation: "2nd" },
+  "solūtum" => { meaning: "release, set sail", part: "Verb", conjugation: "2nd" },
+  "vitium" => { meaning: "flaw, fault, crime", part: "Noun", declension: "2nd", gender: :neuter },
+  "vitī" => { meaning: "flaw, fault, crime", part: "Noun", declension: "2nd", gender: :neuter },
+  "vulnus" => { meaning: "wound", part: "Noun", declension: "3rd", gender: :neuter },
+  "vulneris" => { meaning: "wound", part: "Noun", declension: "3rd", gender: :neuter },
+  "inde" => { meaning: "from there, from then", part: "Adverb" },
+  "senātus" => { meaning: "senate", part: "Noun", declension: "4th", gender: :masculine },
+  "senātūs" => { meaning: "senate", part: "Noun", declension: "4th", gender: :masculine },
+  "ūtor" => { meaning: "use, consume, employ (+ abl.)", part: "Verb", type: "Deponent" },
+  "ūtī" => { meaning: "use, consume, employ (+ abl.)", part: "Verb", type: "Deponent" },
+  "ūsus" => { meaning: "use, consume, employ (+ abl.)", part: "Verb", type: "Deponent" },
+  "cōpia" => { meaning: "abundance; (pl.) troops", part: "Noun", declension: "1st", gender: :feminine },
+  "cōpiae" => { meaning: "abundance; (pl.) troops", part: "Noun", declension: "1st", gender: :feminine },
+  "opus" => { meaning: "work", part: "Noun", declension: "3rd", gender: :neuter },
+  "operis" => { meaning: "work", part: "Noun", declension: "3rd", gender: :neuter },
+  "colō" => { meaning: "inhabit, cultivate", part: "Verb", conjugation: "3rd -ō" },
+  "colere" => { meaning: "inhabit, cultivate", part: "Verb", conjugation: "3rd -ō" },
+  "coluī" => { meaning: "inhabit, cultivate", part: "Verb", conjugation: "3rd -ō" },
+  "cultum" => { meaning: "inhabit, cultivate", part: "Verb", conjugation: "3rd -ō" },
+  "vōtum" => { meaning: "solemn promise, vow; hope", part: "Noun", declension: "2nd", gender: :neuter },
+  "vōtī" => { meaning: "solemn promise, vow; hope", part: "Noun", declension: "2nd", gender: :neuter },
+  "iugum" => { meaning: "yoke; ridge, chain of hills", part: "Noun", declension: "2nd", gender: :neuter },
+  "iugī" => { meaning: "yoke; ridge, chain of hills", part: "Noun", declension: "2nd", gender: :neuter },
+  "quā" => { meaning: "where, how", part: "Pronoun" },
+  "tellus" => { meaning: "earth", part: "Noun", declension: "3rd", gender: :feminine },
+  "tellūris" => { meaning: "earth", part: "Noun", declension: "3rd", gender: :feminine },
+  "numerus" => { meaning: "number, amount", part: "Noun", declension: "2nd", gender: :masculine },
+  "numerī" => { meaning: "number, amount", part: "Noun", declension: "2nd", gender: :masculine },
+  "cōgnōscō" => { meaning: "learn, understand", part: "Verb", conjugation: "3rd -ō" },
+  "cōgnōscere" => { meaning: "learn, understand", part: "Verb", conjugation: "3rd -ō" },
+  "cōgnōvī" => { meaning: "learn, understand", part: "Verb", conjugation: "3rd -ō" },
+  "cōgnitum" => { meaning: "learn, understand", part: "Verb", conjugation: "3rd -ō" },
+  "victor" => { meaning: "conqueror", part: "Noun", declension: "3rd", gender: :masculine },
+  "victōris" => { meaning: "conqueror", part: "Noun", declension: "3rd", gender: :masculine },
+  "satis" => { meaning: "enough, sufficient, sufficiently", part: "Adverb" },
+  "sat" => { meaning: "enough, sufficient, sufficiently", part: "Adverb" },
+  "patria" => { meaning: "fatherland, country", part: "Noun", declension: "1st", gender: :feminine },
+  "patriae" => { meaning: "fatherland, country", part: "Noun", declension: "1st", gender: :feminine },
+  "seu" => { meaning: "whether; seu ... seu: whether ... or", part: "Conjunction" },
+  "cāsus" => { meaning: "a fall; chance, accident", part: "Noun", declension: "4th", gender: :masculine },
+  "cāsūs" => { meaning: "a fall; chance, accident", part: "Noun", declension: "4th", gender: :masculine },
+  "frangō" => { meaning: "break, shatter", part: "Verb", conjugation: "3rd -ō" },
+  "frangere" => { meaning: "break, shatter", part: "Verb", conjugation: "3rd -ō" },
+  "frēgī" => { meaning: "break, shatter", part: "Verb", conjugation: "3rd -ō" },
+  "frāctum" => { meaning: "break, shatter", part: "Verb", conjugation: "3rd -ō" },
+  "cīvitās" => { meaning: "citizenship, state", part: "Noun", declension: "3rd", gender: :feminine },
+  "cīvitātis" => { meaning: "citizenship, state", part: "Noun", declension: "3rd", gender: :feminine },
+  "nōscō" => { meaning: "learn, know", part: "Verb", conjugation: "3rd -ō" },
+  "nōscere" => { meaning: "learn, know", part: "Verb", conjugation: "3rd -ō" },
+  "nōvī" => { meaning: "learn, know", part: "Verb", conjugation: "3rd -ō" },
+  "nōtum" => { meaning: "learn, know", part: "Verb", conjugation: "3rd -ō" },
+  "proelium" => { meaning: "battle", part: "Noun", declension: "2nd", gender: :neuter },
+  "proelī" => { meaning: "battle", part: "Noun", declension: "2nd", gender: :neuter },
+  "ēripiō" => { meaning: "snatch away, rescue, save", part: "Verb", conjugation: "3rd -iō" },
+  "ēripere" => { meaning: "snatch away, rescue, save", part: "Verb", conjugation: "3rd -iō" },
+  "ēripuī" => { meaning: "snatch away, rescue, save", part: "Verb", conjugation: "3rd -iō" },
+  "ēreptum" => { meaning: "snatch away, rescue, save", part: "Verb", conjugation: "3rd -iō" },
+  "mundus" => { meaning: "world, universe, heavens", part: "Noun", declension: "2nd", gender: :masculine },
+  "mundī" => { meaning: "world, universe, heavens", part: "Noun", declension: "2nd", gender: :masculine },
+  "cursus" => { meaning: "course, advance", part: "Noun", declension: "4th", gender: :masculine },
+  "cursūs" => { meaning: "course, advance", part: "Noun", declension: "4th", gender: :masculine },
+  "vix" => { meaning: "scarcely", part: "Adverb" },
+  "nāvis" => { meaning: "ship", part: "Noun", declension: "3rd", gender: :feminine },
+  "nāvīs" => { meaning: "ship", part: "Noun", declension: "3rd", gender: :feminine },
+  "lacrima" => { meaning: "tear", part: "Noun", declension: "1st", gender: :feminine },
+  "lacrimae" => { meaning: "tear", part: "Noun", declension: "1st", gender: :feminine },
+  "hūmānus" => { meaning: "human", part: "Adjective", declension: "1st and 2nd" },
+  "hūmāna" => { meaning: "human", part: "Adjective", declension: "1st and 2nd" },
+  "hūmānum" => { meaning: "human", part: "Adjective", declension: "1st and 2nd" },
+  "mollis" => { meaning: "soft, yielding, gentle", part: "Adjective", declension: "3rd" },
+  "mollis" => { meaning: "soft, yielding, gentle", part: "Adjective", declension: "3rd" },
+  "maneō" => { meaning: "remain", part: "Verb", conjugation: "2nd" },
+  "manēre" => { meaning: "remain", part: "Verb", conjugation: "2nd" },
+  "mānsī" => { meaning: "remain", part: "Verb", conjugation: "2nd" },
+  "mānsum" => { meaning: "remain", part: "Verb", conjugation: "2nd" },
+  "āgmen" => { meaning: "line of march", part: "Noun", declension: "3rd", gender: :neuter },
+  "āgminis" => { meaning: "line of march", part: "Noun", declension: "3rd", gender: :neuter },
+  "sīdus" => { meaning: "star, constellation", part: "Noun", declension: "3rd", gender: :neuter },
+  "sīderis" => { meaning: "star, constellation", part: "Noun", declension: "3rd", gender: :neuter },
+  "glōria" => { meaning: "glory, fame", part: "Noun", declension: "1st", gender: :feminine },
+  "glōriae" => { meaning: "glory, fame", part: "Noun", declension: "1st", gender: :feminine },
+  "diū" => { meaning: "for a long time", part: "Adverb" },
+  "sīve" => { meaning: "whether; sīve ... sīve: whether ... or", part: "Conjunction" },
+  "tamquam" => { meaning: "so as, just as", part: "Adverb" },
+  "fuga" => { meaning: "flight, route", part: "Noun", declension: "1st", gender: :feminine },
+  "fugae" => { meaning: "flight, route", part: "Noun", declension: "1st", gender: :feminine },
+  "tūtus" => { meaning: "safe, protected", part: "Adjective", declension: "1st and 2nd" },
+  "tūta" => { meaning: "safe, protected", part: "Adjective", declension: "1st and 2nd" },
+  "tūtum" => { meaning: "safe, protected", part: "Adjective", declension: "1st and 2nd" },
+  "auris" => { meaning: "ear", part: "Noun", declension: "3rd", gender: :feminine },
+  "auris" => { meaning: "ear", part: "Noun", declension: "3rd", gender: :feminine },
+  "aliēnus" => { meaning: "foreign, strange", part: "Adjective", declension: "1st and 2nd" },
+  "aliēna" => { meaning: "foreign, strange", part: "Adjective", declension: "1st and 2nd" },
+  "aliēnum" => { meaning: "foreign, strange", part: "Adjective", declension: "1st and 2nd" },
+  "hūc" => { meaning: "to this place", part: "Adverb" },
+  "taceō" => { meaning: "be silent", part: "Verb", conjugation: "2nd" },
+  "tacēre" => { meaning: "be silent", part: "Verb", conjugation: "2nd" },
+  "tacuī" => { meaning: "be silent", part: "Verb", conjugation: "2nd" },
+  "tacitum" => { meaning: "be silent", part: "Verb", conjugation: "2nd" },
+  "legiō" => { meaning: "legion", part: "Noun", declension: "3rd", gender: :feminine },
+  "legiōnis" => { meaning: "legion", part: "Noun", declension: "3rd", gender: :feminine },
+  "ostendō" => { meaning: "show, hold out", part: "Verb", conjugation: "3rd" },
+  "ostendere" => { meaning: "show, hold out", part: "Verb", conjugation: "3rd" },
+  "ostendī" => { meaning: "show, hold out", part: "Verb", conjugation: "3rd" },
+  "ostentum" => { meaning: "show, hold out", part: "Verb", conjugation: "3rd" },
+  "socius" => { meaning: "friendly, allied; partner, comrade", part: "Adjective", declension: "1st and 2nd" },
+  "socii" => { meaning: "friendly, allied; partner, comrade", part: "Adjective", declension: "1st and 2nd" },
+  "prōsum" => { meaning: "be of use, do good, help (+ dat.)", part: "Verb", conjugation: "Irregular" },
+  "prodesse" => { meaning: "be of use, do good, help (+ dat.)", part: "Verb", conjugation: "Irregular" },
+  "profuī" => { meaning: "be of use, do good, help (+ dat.)", part: "Verb", conjugation: "Irregular" },
+  "āra" => { meaning: "altar", part: "Noun", declension: "1st", gender: :feminine },
+  "ārae" => { meaning: "altar", part: "Noun", declension: "1st", gender: :feminine },
+  "lūmen" => { meaning: "light", part: "Noun", declension: "3rd", gender: :neuter },
+  "luminis" => { meaning: "light", part: "Noun", declension: "3rd", gender: :neuter },
+  "tegō" => { meaning: "cover, conceal", part: "Verb", conjugation: "3rd" },
+  "tegere" => { meaning: "cover, conceal", part: "Verb", conjugation: "3rd" },
+  "tēxī" => { meaning: "cover, conceal", part: "Verb", conjugation: "3rd" },
+  "tēctum" => { meaning: "cover, conceal", part: "Verb", conjugation: "3rd" },
+  "turpis" => { meaning: "ugly, unsightly; disgraceful", part: "Adjective", declension: "3rd" },
+  "voluptās" => { meaning: "pleasure, enjoyment", part: "Noun", declension: "3rd", gender: :feminine },
+  "voluptātis" => { meaning: "pleasure, enjoyment", part: "Noun", declension: "3rd", gender: :feminine },
+  "adhūc" => { meaning: "thus far, to this point", part: "Adverb" },
+  "grātia" => { meaning: "favor, influence, gratitude", part: "Noun", declension: "1st", gender: :feminine },
+  "grātiae" => { meaning: "favor, influence, gratitude", part: "Noun", declension: "1st", gender: :feminine },
+  "iniūria" => { meaning: "injustice, wrong, affront", part: "Noun", declension: "1st", gender: :feminine },
+  "iniūriae" => { meaning: "injustice, wrong, affront", part: "Noun", declension: "1st", gender: :feminine },
+  "latus" => { meaning: "side, flank", part: "Noun", declension: "3rd", gender: :neuter },
+  "lateris" => { meaning: "side, flank", part: "Noun", declension: "3rd", gender: :neuter },
+  "dulcis" => { meaning: "sweet", part: "Adjective", declension: "3rd" },
+  "dulce" => { meaning: "sweet", part: "Adjective", declension: "3rd" },
+  "postquam" => { meaning: "after", part: "Conjunction" },
+
 }.freeze
 
-putō -āre	think, suppose	Verb: 1st Conjugation	Education/Knowledge	166
-annus -ī m.	year	Noun: 2nd Declension	Lengths of Time	167
-stō stāre stetī statum	stand	Verb: 1st Conjugation	Life and Being	168
-vōx vōcis f.	voice, utterance	Noun: 3rd Declension	Speech/Oratory	169
-genus generis n.	origin, lineage, kind	Noun: 3rd Declension	The Household	170
-referō referre rettulī relātum	bring back; report	Verb: Irregular	Verbs of Transport	171
-sciō -īre -īvī/-iī -ītum	know	Verb: 4th Conjugation	Education/Knowledge	172
-mēns mentis f.	mind	Noun: 3rd Declension	The Body	173
-reddō -dere -didī -ditum	return, give back	Verb: 3rd Conjugation -ō	Verbs of Transport	174
-licet licēre licuit licitum est	it is permitted (+ dat. + infin.)	Verb: Impersonal	Justice	175
-sōlus -a -um	only, alone	Adjective: 1st and 2nd Declension	Measurement	176
-fugiō fugere fūgī fugitum	flee, escape	Verb: 3rd Conjugation -iō	Travel	177
-ūllus -a -um	any, anyone	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives	178
-nēmō	no one (gen. nūllīus, dat. nūllī, abl. nūllō or nūllā → nūllus -a -um)	Pronoun	Pronouns/Interrogatives	179
-nātūra -ae f.	nature	Noun: 1st Declension	Life and Being	180
-mōs mōris m.	custom, habit; (pl.) character	Noun: 3rd Declension	Social Life	181
-beneficium -ī n.	service, kindness	Noun: 2nd Declension	Social Life	182
-pectus -oris n.	chest, breast	Noun: 3rd Declension	The Body	183
-fidēs -eī f.	trust, faith	Noun: 5th Declension	Personality Traits/Characteristics	184
-patior patī passus sum	permit, endure	Verb: Deponent	Verbs of Compelling/Directing	185
-cūra -ae f.	care, concern	Noun: 1st Declension	Love	186
-īra irae f.	wrath, anger	Noun: 1st Declension	Emotions	187
-verbum -ī n.	word	Noun: 2nd Declension	Writing/Poetry	188
-prope	near, next; (comp.) propior, (superl.) proximus; (adv.) prope, nearly, almost	Preposition	Place	189
-parēns -ntis m./f.	parent	Noun: 3rd Declension	The Household	190
-puer puerī m.	boy; slave	Noun: 2nd Declension	People	191
-moveō -ēre mōvī mōtum	move	Verb: 2nd Conjugation	Motion	192
-dolor -ōris m.	pain, grief	Noun: 3rd Declension	Emotions	193
-gēns gentis f.	family, clan	Noun: 3rd Declension	The Household	194
-modus -ī m.	measure, manner, kind	Noun: 2nd Declension	Measurement	195
-via -ae f.	way, street	Noun: 1st Declension	Travel	196
-quisque quaeque quidque	each one, everyone	Pronoun	Pronouns/Interrogatives	197
-amīcus -a -um	friendly; (as subst.) friend	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics	198
-pēs pedis m.	foot	Noun: 3rd Declension	The Body	199
-imperium -ī n.	command, power	Noun: 2nd Declension	War and Peace	200
-labor -ōris m.	toil, exertion	Noun: 3rd Declension	Business/Money	201
-ingēns ingentis	huge, enormous	Adjective: 3rd Declension	Measurement	202
-tālis tāle	such	Adjective: 3rd Declension	Measurement	203
-parum	too little	Adverb	Measurement	204
-apud	near, in the presence of (+acc.)	Preposition	Place	205
-oculus -ī m.	eye	Noun: 2nd Declension	The Body	206
-unda -ae f.	wave, flowing water, water	Noun: 1st Declension	Earth and Water	207
-itaque	and so, therefore	Conjunction	Conjunctions/Adverbs	208
-vultus -ūs m.	look, expression, face	Noun: 4th Declension	The Body	209
-cadō cadere cecidī cāsum	fall, be killed	Verb: 3rd Conjugation -ō	Violence	210
-nātus -ī m.	son	Noun: 2nd Declension	The Household	211
-quis quid	who? what? which?	Pronoun	Pronouns/Interrogatives	212
-trahō trahere trāxī trāctum	drag, draw	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing	213
-sanguis -inis m.	blood	Noun: 3rd Declension	The Body	214
-metus -ūs m.	fear, dread	Noun: 4th Declension	Emotions	215
-tantum, tantummodo	only	Adverb	Measurement	216
-cōnsilium -ī n.	plan; council, group of advisors	Noun: 2nd Declension	The City	217
-coniunx coniugis m./f.	spouse, husband, wife	Noun: 3rd Declension	The Household	218
-amō -āre	to love; amāns -ntis m./f.: lover	Verb: 1st Conjugation	Love	219
-levis -e	light, trivial	Adjective: 3rd Declension	Measurement	220
-duo duae duo	two	Adjective: Numeral	Measurement	221
-ferus -a -um	wild, fierce; fera -ae f.: wild animal	Adjective: 1st and 2nd Declension	Animals/Plants	222
-poena -ae f.	penalty, punishment	Noun: 1st Declension	Justice	223
-castrum -ī n.	fortress, (regularly plural, castra camp)	Noun: 2nd Declension	War and Peace	224
-frāter frātris m.	brother	Noun: 3rd Declension	The Household	225
-haud	not	Adverb	Conjunctions/Adverbs	226
-malus -a -um	bad, evil	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics	227
-iaceō iacēre iacuī	lie	Verb: 2nd Conjugation	The House	228
-līber lībera līberum	free; līberī (m. pl.): freeborn children	Adjective: 1st and 2nd Declension	Justice	229
-iter itineris n.	journey, route	Noun: 3rd Declension	Travel	230
-ferrum -ī n.	iron, iron weapon or implement	Noun: 2nd Declension	Violence	231
-spēs speī f.	hope	Noun: 5th Declension	Emotions	232
-puella -ae f.	girl; girl-friend	Noun: 1st Declension	People	233
-silva -ae f.	forest, grove	Noun: 1st Declension	Animals/Plants	234
-bene	well	Adverb	Personality Traits/Characteristics	235
-fīnis -is m.	end, boundary	Noun: 3rd Declension	Geography	236
-gerō gerere gessī gestum	bear, manage; bellum gerere, wage war	Verb: 3rd Conjugation -ō	War and Peace	237
-ne (enclitic)	interrogative particle attached to the emphatic word in a question	Adverb	Pronouns/Interrogatives	238
-dux ducis m./f.	leader, general	Noun: 3rd Declension	War and Peace	239
-premō premere pressī pressum	press, pursue, overwhelm	Verb: 3rd Conjugation -ō	War and Peace	240
-dominus -ī m.; domina -ae f.	household master, lord; mistress	Noun: 2nd Declension	The Household	241
-mōns montis m.	mountain	Noun: 3rd Declension	Geography	242
-uterque utraque utrumque	each of two	Conjunction	Measurement	243
-saevus -a -um	fierce, raging, wrathful	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics	244
-lītus -oris n.	shore	Noun: 3rd Declension	Geography	245
-soleō -ēre -uī -itum	be accustomed	Verb: 2nd Conjugation	Personality Traits/Characteristics	246
-mīlle (pl.) mīlia	thousand	Adjective: Numeral	Measurement	247
-equus -ī m.	horse	Noun: 2nd Declension	Animals/Plants	248
-dūrus -a -um	hard, tough, harsh	Adjective: 1st and 2nd Declension	Other Senses	249
-cōgō cōgere coēgī coāctum	drive together; compel	Verb: 3rd Conjugation -ō	Verbs of Compelling/Directing	250
-numquam	never	Adverb	Time	251
-prīmum	at first, firstly	Adverb	Time	252
-morior morī mortuus sum	die	Verb: Deponent	Life and Being	253
-carmen -inis n.	song	Noun: 3rd Declension	Writing/Poetry	254
-tēlum -ī n.	missile, weapon, spear	Noun: 2nd Declension	War and Peace	255
-ratiō -ōnis f.	method, plan, reason	Noun: 3rd Declension	Education/Knowledge	256
-umbra -ae f.	shade, shadow	Noun: 1st Declension	Vision	257
-ars artis f.	skill	Noun: 3rd Declension	Education/Knowledge	258
-tot	so many	Adverb	Measurement	259
-dexter -tra -trum	right; dextera -ae f.: right hand	Adjective: 1st and 2nd Declension	Place	260
-sīgnum -ī n.	sign, standard, mark	Noun: 2nd Declension	War and Peace	261
-laetus -a -um	glad, joyful	Adjective: 1st and 2nd Declension	Emotions	262
-quālis -e	of what kind? what?	Pronoun	Pronouns/Interrogatives	263
-lēx lēgis f.	law	Noun: 3rd Declension	Justice	264
-perīculum -ī n.	danger	Noun: 2nd Declension	Violence	265
-nāscor nāscī nātus sum	be born	Verb: Deponent	Life and Being	266
-exercitus -ūs m.	army	Noun: 4th Declension	War and Peace	267
-pereō -īre -iī -itum	perish, be lost	Verb: Irregular	Violence	268
-ventus -ī m.	wind	Noun: 2nd Declension	Air and Fire	269
-audeō audēre ausus sum	dare, be eager	Verb: 2nd Conjugation	Personality Traits/Characteristics	270
-contrā	against, opposite (adv. and prep. +acc.)	Preposition	Place	271
-aqua -ae f.	water	Noun: 1st Declension	Earth and Water	272
-rapiō rapere rapuī raptum	seize, tear away	Verb: 3rd Conjugation -iō	Violence	273
-simul	at the same time	Adverb	Time	274
-trīstis -e	sad, solemn, grim	Adjective: 3rd Declension	Emotions	275
-mūnus mūneris n.	gift, offering; duty, obligation; (pl.) gladiatorial show	Noun: 3rd Declension	Social Life	276
-iuvenis -is m.	youth	Noun: 3rd Declension	People	277
-fāma -ae f.	rumor, fame	Noun: 1st Declension	Speech/Oratory	278
-adsum adesse affuī	be present	Verb: Irregular	Place	279
-quisquam quicquam/quidquam	any (single) person, anyone at all	Pronoun	Pronouns/Interrogatives	280
-vērō	in fact, certainly, without doubt	Adverb	Conjunctions/Adverbs	280
-pār paris	equal	Adjective: 3rd Declension	Measurement	281
-vester vestra vestrum	your	Adjective: 1st and 2nd Declension	Pronouns/Interrogatives	282
-flūmen -inis n.	stream, river	Noun: 3rd Declension	Earth and Water	283
-quīcumque quaecumque quodcumque	who-, whatever	Pronoun	Pronouns/Interrogatives	284
-certus -a -um	sure, fixed	Adjective: 1st and 2nd Declension	Measurement	285
-fortis -e	brave	Adjective: 3rd Declension	Personality Traits/Characteristics	286
-placeō placēre placuī placitum	please	Verb: 2nd Conjugation	Social Life	287
-vertō vertere vertī versum	turn	Verb: 3rd Conjugation -ō	Motion	288
-servō -āre	save, watch over	Verb: 1st Conjugation	The Household	289
-honor -ōris m.	honor, glory; office, post	Noun: 3rd Declension	The City	290
-dīgnus -a -um	worthy	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics	291
-cūnctus -a -um	entire all together	Adjective: 1st and 2nd Declension	Measurement	292
-tollō tollere sustulī sublātum	raise up, destroy	Verb: Irregular	Violence	293
-negō -āre	deny, refuse	Verb: 1st Conjugation	Speech/Oratory	294
-vetus veteris	old	Adjective: 3rd Declension	Time	295
-eques equitis m.	horseman, knight	Noun: 3rd Declension	War and Peace	296
-trādō -dere -didī -ditum	hand over, yield	Verb: 3rd Conjugation -ō	Business/Money	297
-flamma -ae f.	flame, fire	Noun: 1st Declension	Air and Fire	298
-lūx lūcis f.	light of day	Noun: 3rd Declension	Air and Fire	299
-unde	from where	Adverb	Place	300
-redeō -īre -iī -itum	go back, return	Verb: Irregular	Motion	301
-sentiō sentīre sēnsī sēnsum	perceive, feel, hear, see	Verb: 4th Conjugation	Other Senses	302
-aurum -ī n.	gold	Noun: 2nd Declension	Business/Money	303
-cēdō cēdere cessī cessum	go, move; yield	Verb: 3rd Conjugation -ō	War and Peace	304
-quō	for which reason; to or in what place; to what end, for what purpose?	Adverb	Pronouns/Interrogatives	305
-saxum -ī n.	rock, cliff, crag	Noun: 2nd Declension	Earth and Water	306
-ve	or (postpositive enclitic)	Conjunction	Conjunctions/Adverbs	307
-aetās -tātis f.	age, time of life	Noun: 3rd Declension	Lengths of Time	308
-fēlīx -īcis	lucky	Adjective: 3rd Declension	Personality Traits/Characteristics	309
-loquor loquī locūtus sum	speak, talk	Verb: Deponent	Speech/Oratory	310
-quantus -a -um	(interr.) how great? (rel.) of what size, amount, etc. (as subst.) what amount? (rel.) which amount; quantī, at what price? (rel.) at which price	Pronoun	Pronouns/Interrogatives	311
-coepī coepisse coeptus	begin	Verb: Irregular	Time	312
-igitur	therefore	Conjunction	Conjunctions/Adverbs	313
-iūs iūris n.	right, justice, law	Noun: 3rd Declension	Justice	314
-mūtō -āre	change	Verb: 1st Conjugation	Making/Doing	315
-inveniō -venīre -vēnī -ventum	find; discover	Verb: 4th Conjugation	Travel	316
-prīnceps -cipis	first, chief; (as subst.) leader, person in charge	Adjective: 3rd Declension	The City	317
-ops opis f.	assistance, resources	Noun: 3rd Declension	Business/Money	318
-recipiō -cipere -cēpī -ceptum	take back, receive; sē recipere, betake oneself, go	Verb: 3rd Conjugation -iō	Verbs of Transport	319
-sōl sōlis m.	sun	Noun: 3rd Declension	Air and Fire	320
-cōnsul -ulis m.	consul	Noun: 3rd Declension	The City	321
-orbis -is m.	circle; orbis terrārum: world	Noun: 3rd Declension	Geography	322
-turba -ae f.	crowd, uproar	Noun: 1st Declension	The City	323
-ager agrī m.	field	Noun: 2nd Declension	Animals/Plants	324
-solvō solvere solvī solūtum	release, set sail	Verb: 2nd Conjugation	Travel	325
-vitium -ī n.	flaw, fault, crime	Noun: 2nd Declension	Justice	326
-vulnus -eris n.	wound	Noun: 3rd Declension	Violence	327
-inde	from there, from then	Adverb	Place	328
-senātus -ūs m.	senate	Noun: 4th Declension	The City	329
-ūtor ūtī ūsus sum	use, consume, employ (+ abl.)	Verb: Deponent	Making/Doing	330
-cōpia -ae f.	abundance; (pl.) troops	Noun: 1st Declension	War and Peace	331
-opus operis n.	work	Noun: 3rd Declension	Business/Money	332
-colō colere coluī cultum	inhabit, cultivate	Verb: 3rd Conjugation -ō	Animals/Plants	333
-vōtum -ī n.	solemn promise, vow; hope	Noun: 2nd Declension	Religion	334
-iugum -ī n.	yoke; ridge, chain of hills	Noun: 2nd Declension	Animals/Plants	335
-quā	where, how	Pronoun	Pronouns/Interrogatives	336
-tellus tellūris f.	earth	Noun: 3rd Declension	Earth and Water	337
-numerus -ī m.	number, amount	Noun: 2nd Declension	Measurement	338
-cōgnōscō -gnōscere -gnōvī -gnitum	learn, understand	Verb: 3rd Conjugation -ō	Education/Knowledge	339
-victor -ōris m.	conqueror	Noun: 3rd Declension	War and Peace	340
-satis, sat	enough, sufficient, sufficiently	Adverb	Measurement	341
-patria -ae f.	fatherland, country	Noun: 1st Declension	Geography	342
-seu	whether; seu ... seu: whether ... or → sīve	Conjunction	Conjunctions/Adverbs	343
-cāsus -ūs m.	a fall; chance, accident	Noun: 4th Declension	Violence	344
-frangō frangere frēgī frāctum	break, shatter	Verb: 3rd Conjugation -ō	Violence	345
-cīvitās -ātis f.	citizenship, state	Noun: 3rd Declension	The City	346
-nōscō nōscere nōvī nōtum	learn, know	Verb: 3rd Conjugation -ō	Education/Knowledge	347
-proelium -ī n.	battle	Noun: 2nd Declension	War and Peace	348
-ēripiō -ripere -ripuī -reptum	snatch away, rescue, save	Verb: 3rd Conjugation -iō	Verbs of Transport	349
-mundus -ī m.	world, universe, heavens	Noun: 2nd Declension	Earth and Water	350
-cursus -ūs m.	course, advance	Noun: 4th Declension	Athletics	351
-vix	scarcely	Adverb	Conjunctions/Adverbs	352
-nāvis -is f.	ship	Noun: 3rd Declension	Travel	353
-lacrima -ae f.	tear	Noun: 1st Declension	Emotions	354
-hūmānus -a -um	human	Adjective: 1st and 2nd Declension	People	355
-mollis -e	soft, yielding, gentle	Adjective: 3rd Declension	Other Senses	356
-maneō manēre mānsī mānsum	remain	Verb: 2nd Conjugation	Travel	357
-āgmen -minis n.	line of march	Noun: 3rd Declension	War and Peace	358
-sīdus -eris n.	star, constellation	Noun: 3rd Declension	Air and Fire	359
-glōria -ae f.	glory, fame	Noun: 1st Declension	Social Life	360
-diū:	for a long time	Adverb	Time	361
-sīve	whether; sīve ... sīve: whether ... or → seu	Conjunction	Conjunctions/Adverbs	362
-tamquam	so as, just as	Adverb	Conjunctions/Adverbs	363
-fuga -ae f.	flight, route	Noun: 1st Declension	Travel	364
-tūtus -a -um	safe, protected	Adjective: 1st and 2nd Declension	War and Peace	365
-auris -is f.	ear	Noun: 3rd Declension	The Body	366
-aliēnus -a -um	foreign, strange	Adjective: 1st and 2nd Declension	Geography	367
-hūc	to this place	Adverb	Place	368
-taceō -ēre -uī -itum	be silent; tacitus -a -um, silent	Verb: 2nd Conjugation	Other Senses	369
-legiō -ōnis f.	legion	Noun: 3rd Declension	War and Peace	370
-ostendō ostendere ostendī ostentum	show, hold out	Verb: 3rd Conjugation -ō	Other Senses	371
-socius -a -um	friendly, allied; socius -ī m.: partner, comrade	Adjective: 1st and 2nd Declension	Social Life	372
-prōsum prodesse profuī	be of use, do good, help (+ dat.)	Verb: Irregular	Social Life	373
-āra -ae f.	altar	Noun: 1st Declension	Religion	374
-lūmen luminis n.	light	Noun: 3rd Declension	Vision	375
-tegō tegere tēxī tēctum	cover, conceal	Verb: 3rd Conjugation -ō	Deception	376
-turpis -e	ugly, unsightly; disgraceful	Adjective: 3rd Declension	Other Senses	377
-voluptās -ātis f.	pleasure, enjoyment	Noun: 3rd Declension	Social Life	378
-adhūc	thus far, to this point	Adverb	Place	379
-grātia -ae f.	favor, influence, gratitude	Noun: 1st Declension	Social Life	380
-iniūria -ae f.:	injustice, wrong, affront	Noun: 1st Declension	Justice	381
-latus -eris n.	side, flank	Noun: 3rd Declension	The Body	382
-dulcis -e	sweet	Adjective: 3rd Declension	Other Senses	383
-postquam	after	Conjunction	Time	384
+
 extrēmus -a -um	farthest, situated at the end or tip, extreme	Adjective: 1st and 2nd Declension	Geography	385
 tēctum -ī n.	roof; building, house	Noun: 2nd Declension	The House	386
 ingenium -ī n.	disposition, ability, talent	Noun: 2nd Declension	Education/Knowledge	387

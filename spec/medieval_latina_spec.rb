@@ -84,6 +84,16 @@ RSpec.describe MedievalLatina do
     end
   end
 
+  describe "::FREQUENCY_LIST" do
+    it "only allows known parts of speech" do
+      MedievalLatina::FREQUENCY_LIST.each do |word, metadata|
+        if metadata.key?(:part)
+          expect(["Adjective", "Verb"]).to include(metadata[:part])
+        end
+      end
+    end
+  end
+
   describe ".adjectives" do
     specify { expect(described_class).to respond_to(:adjectives) }
   end
