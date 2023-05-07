@@ -65,27 +65,7 @@ Run `standardrb --fix` before submitting any changes, to help keep the code form
 
 The gem is available as open source under the terms of the [MIT License](https://github.com/jaysonvirissimo/medieval_latina/blob/master/LICENSE.txt).
 
-adeō	(adv.) to such a degree, so	Adverb	Conjunctions/Adverbs	555
-auferō auferre abstulī ablātum	take away	Verb: Irregular	Verbs of Transport	556
-quantum	(adv.) how much? how greatly? how much! how greatly! as much as	Adverb	Pronouns/Interrogatives	557
-senex -is m.	old man, elder; senior, older	Noun: 3rd Declension	People	558
-frōns frontis f.	forehead, brow; front	Noun: 3rd Declension	The Body	559
-propter	because of (+ acc.)	Preposition	Non-Directional Prepositions	560
-rēgius -a -um	kingly, royal	Adjective: 1st and 2nd Declension	Personality Traits/Characteristics	561
-currō currere cucurrī cursum	run	Verb: 3rd Conjugation -ō	Athletics	562
-pellō pellere pepulī pulsum	strike, beat, push, drive	Verb: 3rd Conjugation -ō	Violence	563
-dīves dīvitis	rich (poet. dīs, dītis)	Adjective: 3rd Declension	Business/Money	564
-iūdicō -āre	judge, decide	Verb: 1st Conjugation	Justice	565
-pecus -oris n.	cattle, sheep	Noun: 3rd Declension	Animals/Plants	566
-potēns potentis	able, powerful	Adjective: 3rd Declension	Personality Traits/Characteristics	567
-scrībō scrībere scrīpsī scrīptum	write	Verb: 3rd Conjugation -ō	Writing/Poetry	568
-pulcher -chra -chrum	beautiful	Adjective: 1st and 2nd Declension	Vision	569
-surgō surgere surrēxī surrēctum	rise	Verb: 3rd Conjugation -ō	Earth and Water	570
-cēterum	for the rest, in addition, however that may be	Adverb	Pronouns/Interrogatives	571
-careō -ēre -uī	lack (+ abl.)	Verb: 2nd Conjugation	Business/Money	572
-efficiō -ficere -fēcī -fectum	bring about, complete; render (+ ut + subj.)	Verb: 3rd Conjugation -iō	Making/Doing	573
-ōlim	formerly, at that time	Adverb	Time	574
-sermō -ōnis m.	conversation, discourse	Noun: 3rd Declension	Speech/Oratory	575
+
 exerceō -ercēre -ercuī -ercitum	train, exercise, carry on	Verb: 2nd Conjugation	Athletics	576
 gradus -ūs m.	step, pace; grade, rank	Noun: 4th Declension	War and Peace	577
 agitō -āre	drive	Verb: 1st Conjugation	Verbs of Compelling/Directing	578
