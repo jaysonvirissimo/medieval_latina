@@ -91,9 +91,13 @@ RSpec.describe MedievalLatina do
       known = MedievalLatina::PARTS_OF_SPEECH
 
       subject.each do |word, metadata|
-        if metadata.key?(:part)
-          expect(known).to include(metadata[:part])
-        end
+        expect(known).to include(metadata[:part])
+      end
+    end
+
+    it "includes at least the meaning and part of speech" do
+      subject.each do |word, metadata|
+        expect(metadata.keys).to include(:meaning, :part)
       end
     end
   end

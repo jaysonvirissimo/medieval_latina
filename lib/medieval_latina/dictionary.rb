@@ -2702,7 +2702,7 @@ class MedievalLatina
     "disciplīnae" => {meaning: "training, instruction; learning, discipline", part: "Noun", declension: "1st"},
     "vērē" => {meaning: "truly", part: "Adverb"},
     "aegrē" => {meaning: "with difficulty", part: "Adverb"},
-    "fore" => {part: "Verb", type: "Irregular"},
+    "fore" => {meaning: "to be going to be", part: "Verb", conjugation: "Irregular"},
     "advertō" => {meaning: "turn towards", part: "Verb", conjugation: "3rd"},
     "advertere" => {meaning: "turn towards", part: "Verb", conjugation: "3rd"},
     "advertī" => {meaning: "turn towards", part: "Verb", conjugation: "3rd"},
