@@ -100,6 +100,22 @@ RSpec.describe MedievalLatina do
         expect(metadata.keys).to include(:meaning, :part)
       end
     end
+
+    it "enforces object shapes" do
+      expected_keys = Set.new([
+        :meaning,
+        :part,
+        :conjugation,
+        :declension,
+        :gender
+      ])
+      actual_keys = Set.new
+      subject.values.each do |metadata|
+        metadata.keys.each { |key| actual_keys.add(key) }
+      end
+
+      expect(actual_keys).to eq(expected_keys)
+    end
   end
 
   describe ".adjectives" do
