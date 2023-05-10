@@ -84,6 +84,40 @@ RSpec.describe MedievalLatina do
     end
   end
 
+  describe "::FREQUENCY_LIST" do
+    subject { MedievalLatina::FREQUENCY_LIST }
+
+    it "only allows known parts of speech" do
+      known = MedievalLatina::PARTS_OF_SPEECH
+
+      subject.each do |word, metadata|
+        expect(known).to include(metadata[:part])
+      end
+    end
+
+    it "includes at least the meaning and part of speech" do
+      subject.each do |word, metadata|
+        expect(metadata.keys).to include(:meaning, :part)
+      end
+    end
+
+    it "enforces object shapes" do
+      expected_keys = Set.new([
+        :meaning,
+        :part,
+        :conjugation,
+        :declension,
+        :gender
+      ])
+      actual_keys = Set.new
+      subject.values.each do |metadata|
+        metadata.keys.each { |key| actual_keys.add(key) }
+      end
+
+      expect(actual_keys).to eq(expected_keys)
+    end
+  end
+
   describe ".adjectives" do
     specify { expect(described_class).to respond_to(:adjectives) }
   end
