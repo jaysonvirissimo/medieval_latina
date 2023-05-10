@@ -1015,7 +1015,7 @@ class MedievalLatina
     "saepe" => {meaning: "often", part: "Adverb"},
     "fīō" => {meaning: "become, happen, be done", part: "Verb", conjugation: "Irregular"},
     "fierī" => {meaning: "become, happen, be done", part: "Verb", conjugation: "Irregular"},
-    "factus sum" => {meaning: "become, happen, be done", part: "Verb", conjugation: "Irregular"},
+    "factus" => {meaning: "become, happen, be done", part: "Verb", conjugation: "Irregular"},
     "ōs" => {meaning: "mouth, face", part: "Noun", declension: "3rd", gender: :neuter},
     "ōris" => {meaning: "mouth, face", part: "Noun", declension: "3rd", gender: :neuter},
     "alter" => {meaning: "other of two", part: "Adjective", declension: "1st and 2nd", gender: :masculine},

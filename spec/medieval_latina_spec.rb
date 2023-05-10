@@ -82,6 +82,10 @@ RSpec.describe MedievalLatina do
       expected = "pah-tare nohstayr, kwee es een chaylees;"
       expect(actual).to eq(expected)
     end
+
+    it "is agnostic to diacritial marks" do
+      expect(described_class["terreō"]).to eq("tayrayo")
+    end
   end
 
   describe "::FREQUENCY_LIST" do

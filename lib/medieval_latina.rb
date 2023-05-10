@@ -1,4 +1,5 @@
 require "medieval_latina/dictionary"
+require "medieval_latina/initializer"
 require "medieval_latina/version"
 require "set"
 
@@ -16,7 +17,7 @@ class MedievalLatina
   end
 
   def self.prepare_text(text)
-    text.scan(/[\w'-]+|[[:punct:]]+/).map do |string|
+    I18n.transliterate(text).scan(/[\w'-]+|[[:punct:]]+/).map do |string|
       if word?(string)
         prepare_word(string)
       else
