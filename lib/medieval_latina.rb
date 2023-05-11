@@ -7,7 +7,13 @@ class MedievalLatina
   def self.[](text)
     prepared_words = prepare_text(text).map do |string|
       if word?(string)
-        DICTIONARY[string] || new(string).call
+        metadata = DICTIONARY.fetch(string, {})
+
+        if metadata.key?(:pronunciation)
+          metadata[:pronunciation]
+        else
+          new(string).call
+        end
       else
         string
       end
@@ -17,7 +23,7 @@ class MedievalLatina
   end
 
   def self.prepare_text(text)
-    I18n.transliterate(text).scan(/[\w'-]+|[[:punct:]]+/).map do |string|
+    text.scan(/[\p{Alnum}'-]+|[[:punct:]]+/).map do |string|
       if word?(string)
         prepare_word(string)
       else
@@ -27,7 +33,7 @@ class MedievalLatina
   end
 
   def self.prepare_word(word)
-    word.gsub(/\W+/, " ").strip.downcase
+    word.gsub(/\P{Alnum}+/, " ").strip.downcase
   end
 
   def self.adjective?(word)
@@ -81,7 +87,7 @@ class MedievalLatina
 
   def initialize(word)
     @index = 0
-    @word = word.downcase
+    @word = I18n.transliterate(word.downcase)
   end
 
   def call
@@ -156,4 +162,13 @@ class MedievalLatina
   end
 
   class Error < StandardError; end
+
+  DICTIONARY = FREQUENCY_LIST.each_with_object({}) do |(word, metadata), hash|
+    hash[word] = metadata
+
+    sanitized_word = I18n.transliterate(word)
+    unless hash.key?(sanitized_word)
+      hash[sanitized_word] = metadata
+    end
+  end
 end
