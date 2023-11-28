@@ -41,7 +41,7 @@ class MedievalLatina
   end
 
   def self.adverb?(word)
-    ADVERBS.member?(prepare_word(word))
+    ADVERBS.key?(prepare_word(word))
   end
 
   def self.noun?(word)
@@ -57,7 +57,7 @@ class MedievalLatina
   end
 
   def self.adverbs
-    ADVERBS
+    ADVERBS.keys
   end
 
   def self.nouns

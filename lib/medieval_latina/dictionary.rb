@@ -119,64 +119,64 @@ class MedievalLatina
     "vetus" => "ˈʋɛtʊs"
   }.freeze
 
-  ADVERBS = %w[
-    abhinc
-    adhuc
-    admodum
-    alias
-    aliter
-    aliqua
-    aliquando
-    amplius
-    ante
-    bis
-    breviter
-    ceterum
-    circa
-    clam
-    comminus
-    contra
-    cotidie
-    deinde
-    demisse
-    diligenter
-    diu
-    eo
-    facile
-    fere
-    fortasse
-    fortiter
-    graviter
-    haud
-    ibi
-    interdum
-    intus
-    ita
-    item
-    iterum
-    nunc
-    palam
-    partim
-    parum
-    passim
-    plane
-    prius
-    prope
-    recte
-    retro
-    saepe
-    semel
-    sic
-    statim
-    subito
-    tum
-    tunc
-    ultro
-    undique
-    utinam
-    vere
-    vix
-  ].to_set.freeze
+  ADVERBS = {
+    "abhinc" => "ˈabɪŋk",
+    "adhuc" => "ˈadhʊk",
+    "admodum" => "adˈmɔdʊm",
+    "alias" => "ˈaliːas",
+    "aliter" => "ˈalitɛr",
+    "aliqua" => "ˈalikʷa",
+    "aliquando" => "ˌalikʷˈando",
+    "amplius" => "ˈampliʊs",
+    "ante" => "ˈantɛ",
+    "bis" => "bɪs",
+    "breviter" => "ˈbrɛʋitɛr",
+    "ceterum" => "ˈketɛrʊm",
+    "circa" => "ˈkɪrka",
+    "clam" => "klam",
+    "comminus" => "kɔmˈmɪnʊs",
+    "contra" => "ˈkɔntra",
+    "cotidie" => "kɔˈtidiɛ",
+    "deinde" => "ˈdeɪndɛ",
+    "demisse" => "dɛˈmɪssɛ",
+    "diligenter" => "dɪlɪˈɡɛntɛr",
+    "diu" => "ˈdiʊ",
+    "eo" => "ˈɛo",
+    "facile" => "ˈfatʃilɛ",
+    "fere" => "ˈfɛrɛ",
+    "fortasse" => "fɔrˈtassɛ",
+    "fortiter" => "fɔrˈtitɛr",
+    "graviter" => "ˈgraʋitɛr",
+    "haud" => "haʊd",
+    "ibi" => "ˈibi",
+    "interdum" => "ɪntɛrˈdʊm",
+    "intus" => "ˈintʊs",
+    "ita" => "ˈita",
+    "item" => "ˈitɛm",
+    "iterum" => "ˈitɛrʊm",
+    "nunc" => "nʊŋk",
+    "palam" => "ˈpalam",
+    "partim" => "ˈpartɪm",
+    "parum" => "ˈparʊm",
+    "passim" => "ˈpassɪm",
+    "plane" => "ˈplanɛ",
+    "prius" => "ˈpriʊs",
+    "prope" => "ˈprɔpɛ",
+    "recte" => "ˈrɛktɛ",
+    "retro" => "ˈrɛtro",
+    "saepe" => "ˈsaɛpɛ",
+    "semel" => "ˈsɛmɛl",
+    "sic" => "sɪk",
+    "statim" => "ˈstatɪm",
+    "subito" => "ˈsʊbito",
+    "tum" => "tʊm",
+    "tunc" => "tʊŋk",
+    "ultro" => "ˈʊltro",
+    "undique" => "ʊnˈdikʷɛ",
+    "utinam" => "ʊˈtinam",
+    "vere" => "ˈvɛrɛ",
+    "vix" => "ʋiks"
+  }.freeze
 
   NOUNS = %w[
     accusator
