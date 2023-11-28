@@ -45,11 +45,11 @@ class MedievalLatina
   end
 
   def self.noun?(word)
-    NOUNS.member?(prepare_word(word))
+    NOUNS.key?(prepare_word(word))
   end
 
   def self.verb?(word)
-    VERBS.member?(prepare_word(word))
+    VERBS.key?(prepare_word(word))
   end
 
   def self.adjectives
@@ -61,7 +61,7 @@ class MedievalLatina
   end
 
   def self.nouns
-    NOUNS
+    NOUNS.keys
   end
 
   def self.rejoin_words(array)
@@ -74,7 +74,7 @@ class MedievalLatina
   end
 
   def self.verbs
-    VERBS
+    VERBS.keys
   end
 
   def self.word?(string)
@@ -82,7 +82,13 @@ class MedievalLatina
   end
 
   def self.words
-    ADJECTIVES | ADVERBS | Set.new(DICTIONARY.keys) | NOUNS | VERBS
+    [
+      ADJECTIVES,
+      ADVERBS,
+      DICTIONARY,
+      NOUNS,
+      VERBS
+    ].flat_map(&:keys).each_with_object(Set.new) { |word, set| set.add(word) }
   end
 
   def initialize(word)

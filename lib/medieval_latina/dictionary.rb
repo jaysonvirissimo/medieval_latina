@@ -463,235 +463,235 @@ class MedievalLatina
     "vulgus" => "ˈvulgus"
   }.freeze
 
-  VERBS = %w[
-    abeo
-    accedo
-    accendo
-    adeo
-    ago
-    actum
-    ait
-    alo
-    ambulo
-    amo
-    appello
-    audeo
-    audio
-    bello
-    bibo
-    cado
-    caedo
-    caleo
-    cano
-    capio
-    capto
-    careo
-    carpo
-    castigo
-    cedo
-    ceno
-    censeo
-    cesso
-    cieo
-    cingo
-    cito
-    claudo
-    coco
-    coepio
-    coerceo
-    cogito
-    cognosco
-    cogo
-    colo
-    committo
-    compello
-    concido
-    condo
-    confero
-    conficio
-    confido
-    congrego
-    conor
-    conservo
-    consumo
-    convenio
-    convoco
-    creo
-    cresco
-    culpo
-    curo
-    damno
-    debeo
-    dedo
-    defendo
-    defero
-    deleo
-    desidero
-    despicio
-    dico
-    dimico
-    discedo
-    disco
-    do
-    doceo
-    doleo
-    duco
-    edico
-    edo
-    efficio
-    eicio
-    emendo
-    emo
-    eo
-    eripio
-    excipio
-    excogito
-    expello
-    facio
-    fero
-    fio
-    firmo
-    fleo
-    fluo
-    fugio
-    fugo
-    fundo
-    fungor
-    gemo
-    gero
-    guberno
-    gusto
-    habeo
-    horrifico
-    hortor
-    iaceo
-    iacio
-    ignoro
-    impello
-    impero
-    impono
-    incedo
-    incito
-    ineo
-    insulto
-    insurgo
-    interficio
-    invenio
-    iuro
-    iuvo
-    laboro
-    laetor
-    laudo
-    lego
-    licet
-    ligo
-    malo
-    maneo
-    mereor
-    misceo
-    misereor
-    mitto
-    moneo
-    moveo
-    mutilo
-    muto
-    nascor
-    navigo
-    neco
-    nego
-    nescio
-    nitor
-    noceo
-    nosco
-    nuntio
-    obsideo
-    occido
-    occulo
-    odi
-    offero
-    oppono
-    opprimo
-    opto
-    oro
-    ostendo
-    pareo
-    pario
-    paro
-    pasco
-    patior
-    pello
-    perdo
-    peto
-    pono
-    possum
-    premo
-    probo
-    propero
-    protego
-    provideo
-    pugno
-    punio
-    puto
-    quaero
-    quaescivi
-    quatio
-    rapio
-    redeo
-    reficio
-    rego
-    relinquo
-    reperio
-    resisto
-    respondeo
-    resto
-    rideo
-    saluto
-    salveo
-    sano
-    scindo
-    scio
-    scribo
-    secerno
-    sedeo
-    sentio
-    sequor
-    servio
-    servo
-    spero
-    spiro
-    sto
-    sum
-    sumo
-    sumpsi
-    supero
-    surgo
-    taceo
-    tego
-    teneo
-    termino
-    tero
-    terreo
-    timeo
-    tollo
-    trado
-    traho
-    tutor
-    uro
-    usurpo
-    utor
-    vagor
-    valeo
-    veho
-    versor
-    verto
-    video
-    vigilo
-    vito
-    vivo
-    voco
-    volo
-    vulnero
-  ].to_set.freeze
+  VERBS = {
+    "abeo" => "aˈbe.o",
+    "accedo" => "akˈtʃe.do",
+    "accendo" => "akˈtʃen.do",
+    "adeo" => "aˈde.o",
+    "ago" => "ˈa.go",
+    "actum" => "ˈak.tum",
+    "ait" => "ˈait",
+    "alo" => "ˈa.lo",
+    "ambulo" => "amˈbu.lo",
+    "amo" => "ˈa.mo",
+    "appello" => "apˈpel.lo",
+    "audeo" => "ˈau.de.o",
+    "audio" => "ˈau.di.o",
+    "bello" => "ˈbel.lo",
+    "bibo" => "ˈbi.bo",
+    "cado" => "ˈka.do",
+    "caedo" => "ˈkae.do",
+    "caleo" => "ˈka.le.o",
+    "cano" => "ˈka.no",
+    "capio" => "ˈka.pi.o",
+    "capto" => "ˈkap.to",
+    "careo" => "ˈka.re.o",
+    "carpo" => "ˈkar.po",
+    "castigo" => "kasˈti.go",
+    "cedo" => "ˈtʃe.do",
+    "ceno" => "ˈtʃe.no",
+    "censeo" => "ˈtʃen.se.o",
+    "cesso" => "ˈtʃes.so",
+    "cieo" => "ˈtʃi.e.o",
+    "cingo" => "ˈtʃin.go",
+    "cito" => "ˈtʃi.to",
+    "claudo" => "ˈklau.do",
+    "coco" => "ˈko.ko",
+    "coepio" => "ˈtʃe.pi.o",
+    "coerceo" => "koˈer.tʃe.o",
+    "cogito" => "koˈdʒi.to",
+    "cognosco" => "konˈɲos.ko",
+    "cogo" => "ˈko.go",
+    "colo" => "ˈko.lo",
+    "committo" => "komˈmit.to",
+    "compello" => "komˈpel.lo",
+    "concido" => "konˈtʃi.do",
+    "condo" => "ˈkon.do",
+    "confero" => "konˈfe.ro",
+    "conficio" => "konˈfi.tʃo",
+    "confido" => "konˈfi.do",
+    "congrego" => "konˈgre.go",
+    "conor" => "ˈko.nor",
+    "conservo" => "konˈser.vo",
+    "consumo" => "konˈsu.mo",
+    "convenio" => "konˈve.ni.o",
+    "convoco" => "konˈvo.ko",
+    "creo" => "ˈkre.o",
+    "cresco" => "ˈkres.ko",
+    "culpo" => "ˈkul.po",
+    "curo" => "ˈku.ro",
+    "damno" => "ˈdam.no",
+    "debeo" => "ˈde.be.o",
+    "dedo" => "ˈde.do",
+    "defendo" => "deˈfen.do",
+    "defero" => "ˈde.fe.ro",
+    "deleo" => "ˈde.le.o",
+    "desidero" => "de.siˈde.ro",
+    "despicio" => "deˈspi.tʃo",
+    "dico" => "ˈdi.ko",
+    "dimico" => "diˈmi.ko",
+    "discedo" => "disˈtʃe.do",
+    "disco" => "ˈdis.ko",
+    "do" => "ˈdo",
+    "doceo" => "ˈdo.tʃe.o",
+    "doleo" => "ˈdo.le.o",
+    "duco" => "ˈdu.ko",
+    "edico" => "eˈdi.ko",
+    "edo" => "ˈe.do",
+    "efficio" => "efˈfi.tʃo",
+    "eicio" => "ˈei.tʃo",
+    "emendo" => "eˈmen.do",
+    "emo" => "ˈe.mo",
+    "eo" => "ˈe.o",
+    "eripio" => "eˈri.pi.o",
+    "excipio" => "ekˈsi.pi.o",
+    "excogito" => "ekˈko.dʒi.to",
+    "expello" => "ekˈspel.lo",
+    "facio" => "ˈfa.tʃo",
+    "fero" => "ˈfe.ro",
+    "fio" => "ˈfi.o",
+    "firmo" => "ˈfir.mo",
+    "fleo" => "ˈfle.o",
+    "fluo" => "ˈflu.o",
+    "fugio" => "ˈfu.dʒi.o",
+    "fugo" => "ˈfu.go",
+    "fundo" => "ˈfun.do",
+    "fungor" => "ˈfun.gor",
+    "gemo" => "ˈdʒe.mo",
+    "gero" => "ˈdʒe.ro",
+    "guberno" => "guˈber.no",
+    "gusto" => "ˈgus.to",
+    "habeo" => "ˈha.be.o",
+    "horrifico" => "horˈri.fi.ko",
+    "hortor" => "ˈhor.tor",
+    "iaceo" => "ˈja.tʃe.o",
+    "iacio" => "ˈja.tʃo",
+    "ignoro" => "igˈno.ro",
+    "impello" => "imˈpel.lo",
+    "impero" => "ˈim.pe.ro",
+    "impono" => "imˈpo.no",
+    "incedo" => "inˈtʃe.do",
+    "incito" => "inˈtʃi.to",
+    "ineo" => "iˈne.o",
+    "insulto" => "inˈsul.to",
+    "insurgo" => "inˈsur.go",
+    "interficio" => "in.terˈfi.tʃo",
+    "invenio" => "inˈve.ni.o",
+    "iuro" => "ˈju.ro",
+    "iuvo" => "ˈju.vo",
+    "laboro" => "laˈbo.ro",
+    "laetor" => "ˈle.tor",
+    "laudo" => "ˈlau.do",
+    "lego" => "ˈle.go",
+    "licet" => "ˈli.tʃet",
+    "ligo" => "ˈli.go",
+    "malo" => "ˈma.lo",
+    "maneo" => "ˈma.ne.o",
+    "mereor" => "ˈme.re.or",
+    "misceo" => "ˈmis.tʃe.o",
+    "misereor" => "mi.seˈre.or",
+    "mitto" => "ˈmit.to",
+    "moneo" => "ˈmo.ne.o",
+    "moveo" => "ˈmo.ve.o",
+    "mutilo" => "muˈti.lo",
+    "muto" => "ˈmu.to",
+    "nascor" => "ˈnas.kor",
+    "navigo" => "naˈvi.go",
+    "neco" => "ˈne.ko",
+    "nego" => "ˈne.go",
+    "nescio" => "ˈnes.ki.o",
+    "nitor" => "ˈni.tor",
+    "noceo" => "ˈno.che.o",
+    "nosco" => "ˈnos.ko",
+    "nuntio" => "nunˈti.o",
+    "obsideo" => "obˈsi.de.o",
+    "occido" => "okˈtʃi.do",
+    "occulo" => "ˈok.ku.lo",
+    "odi" => "ˈo.di",
+    "offero" => "ˈof.fe.ro",
+    "oppono" => "opˈpo.no",
+    "opprimo" => "opˈpri.mo",
+    "opto" => "ˈop.to",
+    "oro" => "ˈo.ro",
+    "ostendo" => "osˈten.do",
+    "pareo" => "ˈpa.re.o",
+    "pario" => "ˈpa.ri.o",
+    "paro" => "ˈpa.ro",
+    "pasco" => "ˈpas.ko",
+    "patior" => "ˈpa.ti.or",
+    "pello" => "ˈpel.lo",
+    "perdo" => "ˈper.do",
+    "peto" => "ˈpe.to",
+    "pono" => "ˈpo.no",
+    "possum" => "ˈpos.sum",
+    "premo" => "ˈpre.mo",
+    "probo" => "ˈpro.bo",
+    "propero" => "proˈpe.ro",
+    "protego" => "proˈte.go",
+    "provideo" => "proˈvi.de.o",
+    "pugno" => "ˈpug.no",
+    "punio" => "ˈpu.ni.o",
+    "puto" => "ˈpu.to",
+    "quaero" => "ˈkwa.e.ro",
+    "quaescivi" => "kwaˈes.ki.vi",
+    "quatio" => "ˈkwa.ti.o",
+    "rapio" => "ˈra.pi.o",
+    "redeo" => "ˈre.de.o",
+    "reficio" => "reˈfi.tʃo",
+    "rego" => "ˈre.go",
+    "relinquo" => "reˈlin.kwo",
+    "reperio" => "reˈpe.ri.o",
+    "resisto" => "reˈsis.to",
+    "respondeo" => "resˈpon.de.o",
+    "resto" => "ˈres.to",
+    "rideo" => "ˈri.de.o",
+    "saluto" => "saˈlu.to",
+    "salveo" => "ˈsal.ve.o",
+    "sano" => "ˈsa.no",
+    "scindo" => "ˈsin.do",
+    "scio" => "ˈsi.o",
+    "scribo" => "ˈskri.bo",
+    "secerno" => "seˈtʃer.no",
+    "sedeo" => "ˈse.de.o",
+    "sentio" => "ˈsen.ti.o",
+    "sequor" => "ˈse.kwor",
+    "servio" => "ˈser.vi.o",
+    "servo" => "ˈser.vo",
+    "spero" => "ˈspe.ro",
+    "spiro" => "ˈspi.ro",
+    "sto" => "ˈsto",
+    "sum" => "ˈsum",
+    "sumo" => "ˈsu.mo",
+    "sumpsi" => "ˈsum.psi",
+    "supero" => "suˈpe.ro",
+    "surgo" => "ˈsur.go",
+    "taceo" => "ˈta.tʃe.o",
+    "tego" => "ˈte.go",
+    "teneo" => "ˈte.ne.o",
+    "termino" => "terˈmi.no",
+    "tero" => "ˈte.ro",
+    "terreo" => "ˈter.re.o",
+    "timeo" => "ˈti.me.o",
+    "tollo" => "ˈtol.lo",
+    "trado" => "ˈtra.do",
+    "traho" => "ˈtra.ho",
+    "tutor" => "ˈtu.tor",
+    "uro" => "ˈu.ro",
+    "usurpo" => "uˈsur.po",
+    "utor" => "ˈu.tor",
+    "vagor" => "ˈva.gor",
+    "valeo" => "ˈva.le.o",
+    "veho" => "ˈve.ho",
+    "versor" => "ˈver.sor",
+    "verto" => "ˈver.to",
+    "video" => "ˈvi.de.o",
+    "vigilo" => "viˈdʒi.lo",
+    "vito" => "ˈvi.to",
+    "vivo" => "ˈvi.vo",
+    "voco" => "ˈvo.ko",
+    "volo" => "ˈvo.lo",
+    "vulnero" => "ˈvul.ne.ro"
+  }.freeze
 
   FREQUENCY_LIST = {
     "et" => {meaning: "and", part: "Conjunction", pronunciation: "ett", ipa: "ɛt"},
