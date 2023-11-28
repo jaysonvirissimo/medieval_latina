@@ -37,7 +37,7 @@ class MedievalLatina
   end
 
   def self.adjective?(word)
-    ADJECTIVES.member?(prepare_word(word))
+    ADJECTIVES.key?(prepare_word(word))
   end
 
   def self.adverb?(word)
@@ -53,7 +53,7 @@ class MedievalLatina
   end
 
   def self.adjectives
-    ADJECTIVES
+    ADJECTIVES.keys
   end
 
   def self.adverbs

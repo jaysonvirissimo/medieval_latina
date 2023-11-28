@@ -11,113 +11,113 @@ class MedievalLatina
     "Verb"
   ].to_set.freeze
 
-  ADJECTIVES = %w[
-    acer
-    acerbus
-    adultus
-    aeguus
-    alius
-    altus
-    asper
-    audax
-    aureus
-    avarus
-    bellus
-    brevis
-    carus
-    celer
-    certus
-    civilis
-    clarus
-    communis
-    conscius
-    crudelis
-    cupidus
-    demens
-    desidiosus
-    difficilis
-    dignus
-    doctus
-    dulcis
-    durus
-    eloquens
-    eximius
-    extremus
-    facilis
-    falsus
-    felix
-    ferus
-    fortis
-    fortunatus
-    gratus
-    humanus
-    humilis
-    immortalis
-    inanis
-    incertus
-    infirmus
-    informis
-    ingens
-    iniustus
-    integer
-    invictus
-    iratus
-    iustus
-    laetus
-    levis
-    liber
-    longus
-    magnus
-    malus
-    medius
-    meus
-    militaris
-    mirus
-    mortalis
-    multus
-    novus
-    obstinatus
-    opportunus
-    parvus
-    plenus
-    praeclarus
-    praeteritus
-    proprius
-    prudens
-    publicus
-    pudicus
-    pulcher
-    rarus
-    rectus
-    rusticus
-    sacer
-    sacrilegus
-    salvus
-    sanctus
-    sapiens
-    scelestus
-    securus
-    serius
-    similis
-    simplex
-    sollicitus
-    solus
-    stabilis
-    studiosus
-    subitus
-    superbus
-    tardus
-    totus
-    tristis
-    turpis
-    tuus
-    urbanus
-    utilis
-    vehemens
-    velox
-    verus
-    vetus
-  ].to_set.freeze
+  ADJECTIVES = {
+    "acer" => "ˈakɛr",
+    "acerbus" => "ˈakɛrbʊs",
+    "adultus" => "aˈdʊltʊs",
+    "aeguus" => "ˈaɛɡuːs",
+    "alius" => "ˈaliʊs",
+    "altus" => "ˈaltʊs",
+    "asper" => "ˈaspɛr",
+    "audax" => "ˈaʊdaks",
+    "aureus" => "aʊˈrɛʊs",
+    "avarus" => "ˈaʋarʊs",
+    "bellus" => "ˈbɛllʊs",
+    "brevis" => "ˈbrɛʋɪs",
+    "carus" => "ˈkarʊs",
+    "celer" => "ˈkɛlɛr",
+    "certus" => "ˈkɛrtʊs",
+    "civilis" => "ˈkɪʋɪlɪs",
+    "clarus" => "ˈklarus",
+    "communis" => "kɔmˈmunɪs",
+    "conscius" => "ˈkɔnskɪʊs",
+    "crudelis" => "ˈkrudɛlɪs",
+    "cupidus" => "ˈkupɪdʊs",
+    "demens" => "ˈdɛmɛns",
+    "desidiosus" => "dɛsɪˈdjɔsʊs",
+    "difficilis" => "dɪfˈfɪkɪlɪs",
+    "dignus" => "ˈdɪɲnʊs",
+    "doctus" => "ˈdɔktʊs",
+    "dulcis" => "ˈdʊlkɪs",
+    "durus" => "ˈdʊrʊs",
+    "eloquens" => "ɛˈlɔkwɛns",
+    "eximius" => "ɛkˈsɪmɪʊs",
+    "extremus" => "ɛksˈtrɛmʊs",
+    "facilis" => "ˈfakɪlɪs",
+    "falsus" => "ˈfalsʊs",
+    "felix" => "ˈfɛlɪks",
+    "ferus" => "ˈfɛrʊs",
+    "fortis" => "ˈfɔrtɪs",
+    "fortunatus" => "fɔrtʊˈnatʊs",
+    "gratus" => "ˈɡratʊs",
+    "humanus" => "ˈhʊmanʊs",
+    "humilis" => "ˈhʊmɪlɪs",
+    "immortalis" => "ɪmˈmɔrtalɪs",
+    "inanis" => "ɪˈnanɪs",
+    "incertus" => "ɪnˈkɛrtʊs",
+    "infirmus" => "ɪnˈfɪrmʊs",
+    "informis" => "ɪnˈfɔrmɪs",
+    "ingens" => "ˈɪnɡɛns",
+    "iniustus" => "ɪˈnjʊstʊs",
+    "integer" => "ˈɪntɛɡɛr",
+    "invictus" => "ɪnˈʋɪktʊs",
+    "iratus" => "ɪˈratʊs",
+    "iustus" => "ˈjʊstʊs",
+    "laetus" => "ˈlɛtʊs",
+    "levis" => "ˈlɛʋɪs",
+    "liber" => "ˈlɪbɛr",
+    "longus" => "ˈlɔŋɡʊs",
+    "magnus" => "ˈmaŋnʊs",
+    "malus" => "ˈmalʊs",
+    "medius" => "ˈmɛdjʊs",
+    "meus" => "ˈmɛʊs",
+    "militaris" => "mɪlɪˈtarɪs",
+    "mirus" => "ˈmɪrʊs",
+    "mortalis" => "mɔrˈtalɪs",
+    "multus" => "ˈmʊltʊs",
+    "novus" => "ˈnɔʋʊs",
+    "obstinatus" => "ɔbstɪˈnatʊs",
+    "opportunus" => "ɔpˈpɔrtʊnʊs",
+    "parvus" => "ˈparʋʊs",
+    "plenus" => "ˈplɛnʊs",
+    "praeclarus" => "prɛˈklarus",
+    "praeteritus" => "praɪˈtɛrɪtʊs",
+    "proprius" => "ˈprɔprɪʊs",
+    "prudens" => "ˈprʊdɛns",
+    "publicus" => "ˈpʊblɪkʊs",
+    "pudicus" => "ˈpʊdɪkʊs",
+    "pulcher" => "ˈpʊlkɛr",
+    "rarus" => "ˈrarʊs",
+    "rectus" => "ˈrɛktʊs",
+    "rusticus" => "ˈrʊstɪkʊs",
+    "sacer" => "ˈsakɛr",
+    "sacrilegus" => "sakrɪˈlɛɡʊs",
+    "salvus" => "ˈsalʋʊs",
+    "sanctus" => "ˈsanktʊs",
+    "sapiens" => "ˈsapɪɛns",
+    "scelestus" => "skɛˈlɛstʊs",
+    "securus" => "sɛˈkʊrʊs",
+    "serius" => "ˈsɛrɪʊs",
+    "similis" => "ˈsɪmɪlɪs",
+    "simplex" => "ˈsɪmplɛks",
+    "sollicitus" => "sɔlˈlɪkɪtʊs",
+    "solus" => "ˈsɔlʊs",
+    "stabilis" => "ˈstabilɪs",
+    "studiosus" => "stuˈdjɔsʊs",
+    "subitus" => "ˈsʊbɪtʊs",
+    "superbus" => "sʊˈpɛrbʊs",
+    "tardus" => "ˈtardʊs",
+    "totus" => "ˈtɔtʊs",
+    "tristis" => "ˈtrɪstɪs",
+    "turpis" => "ˈtʊrpɪs",
+    "tuus" => "ˈtʊʊs",
+    "urbanus" => "ʊrˈbanʊs",
+    "utilis" => "ˈʊtɪlɪs",
+    "vehemens" => "ʋɛˈhɛmɛns",
+    "velox" => "ˈʋɛlɔks",
+    "verus" => "ˈʋɛrʊs",
+    "vetus" => "ˈʋɛtʊs"
+  }.freeze
 
   ADVERBS = %w[
     abhinc
@@ -695,7 +695,7 @@ class MedievalLatina
   ].to_set.freeze
 
   FREQUENCY_LIST = {
-    "et" => {meaning: "and", part: "Conjunction", pronunciation: "ett"},
+    "et" => {meaning: "and", part: "Conjunction", pronunciation: "ett", ipa: "ɛt"},
     "sum" => {meaning: "be, exist", part: "Verb"},
     "esse" => {meaning: "be, exist", part: "Verb"},
     "fuī" => {meaning: "be, exist", part: "Verb"},

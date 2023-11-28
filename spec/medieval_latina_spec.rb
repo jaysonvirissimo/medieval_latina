@@ -112,7 +112,8 @@ RSpec.describe MedievalLatina do
         :conjugation,
         :declension,
         :gender,
-        :pronunciation
+        :pronunciation,
+        :ipa
       ])
       actual_keys = Set.new
       subject.values.each do |metadata|
