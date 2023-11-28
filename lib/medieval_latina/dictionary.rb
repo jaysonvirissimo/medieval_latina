@@ -178,291 +178,290 @@ class MedievalLatina
     "vix" => "ʋiks"
   }.freeze
 
-  NOUNS = %w[
-    accusator
-    acerbitas
-    acies
-    adulatio
-    adulescens
-    adulescentia
-    aedificium
-    aequitas
-    aes
-    aetas
-    aevum
-    ager
-    agricola
-    agricola
-    agricultura
-    ambitio
-    amicitia
-    amicus
-    amnis
-    amor
-    ancilla
-    angellus
-    anima
-    animal
-    annus
-    apparatus
-    aqua
-    ara
-    aratrum
-    arbitrium
-    arbor
-    arcus
-    argentum
-    argumentum
-    arma
-    ars
-    arx
-    astrum
-    auctor
-    audacia
-    auditor
-    augur
-    auris
-    aurum
-    auxilium
-    avaritia
-    aviditas
-    avis
-    bellum
-    belua
-    beneficium
-    bestia
-    bos
-    caelum
-    calamitas
-    canis
-    caput
-    caritas
-    carmen
-    castrum
-    casus
-    causa
-    celeritas
-    cena
-    certamen
-    civis
-    civitas
-    clementia
-    concilium
-    coniuratio
-    conscientia
-    consilium
-    consul
-    consultum
-    copia
-    copiae
-    cor
-    cornu
-    corpus
-    culpa
-    cupiditas
-    cura
-    custodia
-    dea
-    decor
-    decretum
-    detrimentum
-    deus
-    dictator
-    dies
-    dignitas
-    diligentia
-    discessus
-    discipulus
-    disputatio
-    divitiae
-    doctrina
-    dolor
-    dominatus
-    dominus
-    domus
-    dux
-    ecclesia
-    eloquentia
-    eques
-    equus
-    excellentia
-    excidium
-    exercitus
-    exilium
-    exitium
-    exsul
-    fabula
-    factum
-    facultas
-    fama
-    familia
-    fatum
-    femina
-    feriae
-    ferrum
-    fides
-    flumen
-    forma
-    fortuna
-    forum
-    frigus
-    fructus
-    fuga
-    furor
-    gemma
-    gens
-    genus
-    gloria
-    gravitas
-    habitus
-    hasta
-    homo
-    honor
-    hospes
-    hostis
-    ignavia
-    ignominia
-    imperium
-    industria
-    ingenium
-    iniuria
-    insidia
-    insula
-    invidia
-    ira
-    iudex
-    iudicium
-    ius
-    iuvenis
-    iuventus
-    labor
-    lapis
-    laus
-    lex
-    liber
-    libertas
-    litterae
-    ludus
-    luna
-    magister
-    maiores
-    mater
-    mare
-    medica
-    medicus
-    memoria
-    mens
-    merx
-    miles
-    miseria
-    mors
-    mores
-    mos
-    mulier
-    mundus
-    munia
-    nauta
-    navigatio
-    nefas
-    nomen
-    nox
-    nubes
-    nuntius
-    nuptiae
-    obses
-    obsidio
-    odium
-    officium
-    onus
-    opera
-    opes
-    ops
-    opus
-    oratio
-    os
-    otium
-    paedagogus
-    pars
-    pater
-    patientia
-    paupertas
-    pax
-    pecunia
-    pedes
-    periculum
-    philosophia
-    plebs
-    poena
-    poeta
-    populus
-    porta
-    portus
-    potestas
-    principium
-    probitas
-    prudentia
-    puella
-    puer
-    pugna
-    rapina
-    ratio
-    regio
-    regnum
-    rex
-    rus
-    sacerdos
-    sagitta
-    sapientia
-    satura
-    scelus
-    schola
-    scientia
-    scriptor
-    senator
-    senectus
-    senex
-    serva
-    servus
-    signum
-    silva
-    socius
-    sol
-    spes
-    status
-    studium
-    summa
-    temeritas
-    temperantia
-    tempestas
-    templum
-    tempus
-    terra
-    testis
-    timor
-    turba
-    tyrannus
-    urbs
-    uxor
-    valetudo
-    vacca
-    venenum
-    verbum
-    veritas
-    via
-    victor
-    victoria
-    victus
-    vicus
-    villa
-    vinum
-    vir
-    vires
-    virtus
-    vis
-    visus
-    vitium
-    vulgus
-  ].to_set.freeze
+  NOUNS = {
+    "accusator" => "akˈkuːsator",
+    "acerbitas" => "aˈkɛrbitas",
+    "acies" => "ˈakies",
+    "adulatio" => "aduˈlatio",
+    "adulescens" => "aduˈleskens",
+    "adulescentia" => "adulesˈkentia",
+    "aedificium" => "ɛːdiˈfikium",
+    "aequitas" => "ɛːˈkwitas",
+    "aes" => "ɛːs",
+    "aetas" => "ˈɛːtas",
+    "aevum" => "ˈɛːwum",
+    "ager" => "ˈaɡer",
+    "agricola" => "aˈɡrikola",
+    "agricultura" => "aɡrikulˈtura",
+    "ambitio" => "amˈbitio",
+    "amicitia" => "amiˈkitia",
+    "amicus" => "ˈamikus",
+    "amnis" => "ˈamnis",
+    "amor" => "ˈamor",
+    "ancilla" => "ˈankilla",
+    "angellus" => "anˈɡellus",
+    "anima" => "ˈanima",
+    "animal" => "aˈnimal",
+    "annus" => "ˈannus",
+    "apparatus" => "appaˈratus",
+    "aqua" => "ˈakwa",
+    "ara" => "ˈara",
+    "aratrum" => "ˈaratrum",
+    "arbitrium" => "arˈbitrium",
+    "arbor" => "ˈarbor",
+    "arcus" => "ˈarkus",
+    "argentum" => "arˈɡentum",
+    "argumentum" => "arɡuˈmentum",
+    "arma" => "ˈarma",
+    "ars" => "ars",
+    "arx" => "arx",
+    "astrum" => "ˈastrum",
+    "auctor" => "ˈauktor",
+    "audacia" => "auˈdatʃia",
+    "auditor" => "auˈditor",
+    "augur" => "ˈauɡur",
+    "auris" => "ˈauris",
+    "aurum" => "ˈaurum",
+    "auxilium" => "auˈksilium",
+    "avaritia" => "awaˈritia",
+    "aviditas" => "awiˈditas",
+    "avis" => "ˈawis",
+    "bellum" => "ˈbellum",
+    "belua" => "ˈbelua",
+    "beneficium" => "beneˈfitʃium",
+    "bestia" => "ˈbestia",
+    "bos" => "bos",
+    "caelum" => "ˈkaelum",
+    "calamitas" => "kalaˈmitas",
+    "canis" => "ˈkanis",
+    "caput" => "ˈkaput",
+    "caritas" => "ˈkaritas",
+    "carmen" => "ˈkarmen",
+    "castrum" => "ˈkastrum",
+    "casus" => "ˈkasus",
+    "causa" => "ˈkauza",
+    "celeritas" => "tʃeleˈritas",
+    "cena" => "ˈkena",
+    "certamen" => "kerˈtamen",
+    "civis" => "ˈkivis",
+    "civitas" => "ˈkivitas",
+    "clementia" => "kleˈmentia",
+    "concilium" => "konˈkilium",
+    "coniuratio" => "konjuraˈtio",
+    "conscientia" => "konʃiˈentia",
+    "consilium" => "konˈsilium",
+    "consul" => "ˈkonsul",
+    "consultum" => "konˈsultum",
+    "copia" => "ˈkopja",
+    "copiae" => "ˈkopjae",
+    "cor" => "kor",
+    "cornu" => "ˈkornu",
+    "corpus" => "ˈkɔrpus",
+    "culpa" => "ˈkulpa",
+    "cupiditas" => "kupiˈditas",
+    "cura" => "ˈkura",
+    "custodia" => "kusˈtodia",
+    "dea" => "ˈdea",
+    "decor" => "ˈdekor",
+    "decretum" => "deˈkretum",
+    "detrimentum" => "detriˈmentum",
+    "deus" => "deus",
+    "dictator" => "dikˈtator",
+    "dies" => "ˈdies",
+    "dignitas" => "diɲˈnitas",
+    "diligentia" => "diliˈɡentia",
+    "discessus" => "disˈkessus",
+    "discipulus" => "disˈkipulus",
+    "disputatio" => "disputaˈtio",
+    "divitiae" => "diˈvitiae",
+    "doctrina" => "dokˈtrina",
+    "dolor" => "ˈdolor",
+    "dominatus" => "domiˈnatus",
+    "dominus" => "ˈdominus",
+    "domus" => "ˈdomus",
+    "dux" => "duks",
+    "ecclesia" => "ekˈklesia",
+    "eloquentia" => "eloˈkwentia",
+    "eques" => "ˈekwes",
+    "equus" => "ˈekwus",
+    "excellentia" => "ekselˈlentia",
+    "excidium" => "ekˈsidium",
+    "exercitus" => "eksˈerkitus",
+    "exilium" => "eksˈilium",
+    "exitium" => "eksˈitium",
+    "exsul" => "ˈeksul",
+    "fabula" => "ˈfabula",
+    "factum" => "ˈfaktum",
+    "facultas" => "fakulˈtas",
+    "fama" => "ˈfama",
+    "familia" => "faˈmilia",
+    "fatum" => "ˈfatum",
+    "femina" => "ˈfemina",
+    "feriae" => "ˈferiae",
+    "ferrum" => "ˈferrum",
+    "fides" => "ˈfides",
+    "flumen" => "ˈflumen",
+    "forma" => "ˈforma",
+    "fortuna" => "forˈtuna",
+    "forum" => "ˈforum",
+    "frigus" => "ˈfriɡus",
+    "fructus" => "ˈfruktus",
+    "fuga" => "ˈfuɡa",
+    "furor" => "ˈfuror",
+    "gemma" => "ˈɡemma",
+    "gens" => "ɡens",
+    "genus" => "ˈɡenus",
+    "gloria" => "ˈɡloria",
+    "gravitas" => "ɡraˈvitas",
+    "habitus" => "ˈhabitus",
+    "hasta" => "ˈhasta",
+    "homo" => "ˈhomo",
+    "honor" => "ˈhonor",
+    "hospes" => "ˈhospes",
+    "hostis" => "ˈhostis",
+    "ignavia" => "iɲˈnaʋia",
+    "ignominia" => "iɲnoˈminia",
+    "imperium" => "imˈperium",
+    "industria" => "indusˈtria",
+    "ingenium" => "inˈɡenium",
+    "iniuria" => "iniˈuria",
+    "insidia" => "inˈsidia",
+    "insula" => "ˈinsula",
+    "invidia" => "inˈvidia",
+    "ira" => "ˈira",
+    "iudex" => "ˈiudex",
+    "iudicium" => "iuˈditʃium",
+    "ius" => "ius",
+    "iuvenis" => "ˈiuwenis",
+    "iuventus" => "iuˈwentus",
+    "labor" => "ˈlabor",
+    "lapis" => "ˈlapis",
+    "laus" => "laus",
+    "lex" => "leks",
+    "liber" => "ˈliber",
+    "libertas" => "liˈbertas",
+    "litterae" => "ˈlitterae",
+    "ludus" => "ˈludus",
+    "luna" => "ˈluna",
+    "magister" => "maˈɡister",
+    "maiores" => "ˈmaiores",
+    "mater" => "ˈmater",
+    "mare" => "ˈmare",
+    "medica" => "ˈmedika",
+    "medicus" => "ˈmedikus",
+    "memoria" => "meˈmoria",
+    "mens" => "mens",
+    "merx" => "merks",
+    "miles" => "ˈmiles",
+    "miseria" => "miˈseria",
+    "mors" => "mors",
+    "mores" => "ˈmores",
+    "mos" => "mos",
+    "mulier" => "ˈmulier",
+    "mundus" => "ˈmundus",
+    "munia" => "ˈmunia",
+    "nauta" => "ˈnauta",
+    "navigatio" => "naʋiˈɡatio",
+    "nefas" => "ˈnefas",
+    "nomen" => "ˈnomen",
+    "nox" => "noks",
+    "nubes" => "ˈnubes",
+    "nuntius" => "ˈnuntius",
+    "nuptiae" => "ˈnuptiae",
+    "obses" => "ˈobses",
+    "obsidio" => "obˈsidio",
+    "odium" => "ˈodium",
+    "officium" => "ofˈfitʃium",
+    "onus" => "ˈonus",
+    "opera" => "ˈopera",
+    "opes" => "ˈopes",
+    "ops" => "ops",
+    "opus" => "ˈopus",
+    "oratio" => "oˈratio",
+    "os" => "os",
+    "otium" => "ˈotium",
+    "paedagogus" => "pɛːdaˈɡoɡus",
+    "pars" => "pars",
+    "pater" => "ˈpater",
+    "patientia" => "patiˈentia",
+    "paupertas" => "pauˈpertas",
+    "pax" => "paks",
+    "pecunia" => "peˈkunia",
+    "pedes" => "ˈpedes",
+    "periculum" => "peˈrikulum",
+    "philosophia" => "filoˈsofia",
+    "plebs" => "plebs",
+    "poena" => "ˈpoena",
+    "poeta" => "ˈpoeta",
+    "populus" => "ˈpopulus",
+    "porta" => "ˈporta",
+    "portus" => "ˈportus",
+    "potestas" => "poˈtestas",
+    "principium" => "prinˈkipium",
+    "probitas" => "proˈbitas",
+    "prudentia" => "pruˈdentia",
+    "puella" => "ˈpuella",
+    "puer" => "ˈpuer",
+    "pugna" => "ˈpuɡna",
+    "rapina" => "raˈpina",
+    "ratio" => "ˈratio",
+    "regio" => "ˈreɡio",
+    "regnum" => "ˈreɡnum",
+    "rex" => "reks",
+    "rus" => "rus",
+    "sacerdos" => "saˈkɛrdos",
+    "sagitta" => "saˈɡitta",
+    "sapientia" => "sapiˈentia",
+    "satura" => "ˈsatura",
+    "scelus" => "ˈskelus",
+    "schola" => "ˈskola",
+    "scientia" => "sʃiˈentia",
+    "scriptor" => "ˈskriptor",
+    "senator" => "seˈnator",
+    "senectus" => "seˈnektus",
+    "senex" => "ˈsenex",
+    "serva" => "ˈserʋa",
+    "servus" => "ˈserʋus",
+    "signum" => "ˈsiɡnum",
+    "silva" => "ˈsilʋa",
+    "socius" => "ˈsokius",
+    "sol" => "sol",
+    "spes" => "spes",
+    "status" => "ˈstatus",
+    "studium" => "ˈstudium",
+    "summa" => "ˈsumma",
+    "temeritas" => "teˈmeritas",
+    "temperantia" => "tempeˈrantia",
+    "tempestas" => "temˈpestas",
+    "templum" => "ˈtemplum",
+    "tempus" => "ˈtempus",
+    "terra" => "ˈterra",
+    "testis" => "ˈtestis",
+    "timor" => "ˈtimor",
+    "turba" => "ˈturba",
+    "tyrannus" => "tyˈrannus",
+    "urbs" => "urbs",
+    "uxor" => "ˈuksor",
+    "valetudo" => "valeˈtudo",
+    "vacca" => "ˈvakka",
+    "venenum" => "veˈnenum",
+    "verbum" => "ˈverbum",
+    "veritas" => "veˈritas",
+    "via" => "ˈvia",
+    "victor" => "ˈvictor",
+    "victoria" => "vicˈtoria",
+    "victus" => "ˈvictus",
+    "vicus" => "ˈvikus",
+    "villa" => "ˈvilla",
+    "vinum" => "ˈvinum",
+    "vir" => "vir",
+    "vires" => "ˈvires",
+    "virtus" => "ˈvirtus",
+    "vis" => "vis",
+    "visus" => "ˈvisus",
+    "vitium" => "ˈvitium",
+    "vulgus" => "ˈvulgus"
+  }.freeze
 
   VERBS = %w[
     abeo
