@@ -1,5 +1,6 @@
 require "medieval_latina/dictionary"
 require "medieval_latina/initializer"
+require "medieval_latina/lexicon_builder"
 require "medieval_latina/version"
 require "set"
 
