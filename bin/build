@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "medieval_latina"
+require "medieval_latina/lexicon_builder"
+
+MedievalLatina::LexiconBuilder.write

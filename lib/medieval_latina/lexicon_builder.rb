@@ -2,6 +2,10 @@ require "builder"
 
 class MedievalLatina
   class LexiconBuilder
+    def self.write
+      new.call.write
+    end
+
     def initialize
       @hash = parts.each_with_object({}) do |part, hash|
         hash.merge(part)
@@ -25,6 +29,14 @@ class MedievalLatina
             xml.phoneme phonetics
           end
         end
+      end
+
+      self
+    end
+
+    def write
+      File.open("lexicon.pls", "w") do |file|
+        file.write(xml.target!)
       end
     end
 

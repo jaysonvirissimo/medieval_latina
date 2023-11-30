@@ -56,6 +56,9 @@ To release a new version:
 2. Run `bin/setup` to increment the version in the lock file
 3. Run `bundle exec rake release`
 
+Rebuild the lexicon file when you add new International Phonetic Alphabet pronunciations.
+You do this by running: `bin/build`
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/jaysonvirissimo/medieval_latina.

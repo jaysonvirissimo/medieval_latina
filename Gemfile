@@ -6,5 +6,5 @@ gemspec
 gem "i18n"
 gem "rake", "~> 12.0"
 gem "rspec", "~> 3.0"
-gem "builder"
+gem "builder", group: [:development, :test]
 gem "standard", group: [:development, :test]
