@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0"/>
+<lexeme>
+  <grapheme>unda</grapheme>
+  <phoneme>unda</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>itaque</grapheme>
+  <phoneme>ɪtakwɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vultus</grapheme>
+  <phoneme>vultus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cadō</grapheme>
+  <grapheme>cado</grapheme>
+  <phoneme>kadoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cadere</grapheme>
+  <phoneme>kadɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cecidī</grapheme>
+  <grapheme>cecidi</grapheme>
+  <phoneme>tʃɛtʃidiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cāsum</grapheme>
+  <grapheme>casum</grapheme>
+  <phoneme>kasumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nātus</grapheme>
+  <grapheme>natus</grapheme>
+  <phoneme>natusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quis</grapheme>
+  <phoneme>kʷis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quid</grapheme>
+  <phoneme>kʷid</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trahō</grapheme>
+  <grapheme>traho</grapheme>
+  <phoneme>traʰoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trahere</grapheme>
+  <phoneme>traʰere</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trāxī</grapheme>
+  <grapheme>traxi</grapheme>
+  <phoneme>traksiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trāctum</grapheme>
+  <grapheme>tractum</grapheme>
+  <phoneme>traktumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sanguis</grapheme>
+  <phoneme>sanguis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sanguinis</grapheme>
+  <phoneme>sanguinis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>metus</grapheme>
+  <phoneme>metus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tantum</grapheme>
+  <phoneme>tantum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tantummodo</grapheme>
+  <phoneme>tantummodo</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōnsilium</grapheme>
+  <grapheme>consilium</grapheme>
+  <phoneme>konsiljumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coniunx</grapheme>
+  <phoneme>konjunkts</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coniugis</grapheme>
+  <phoneme>konjugis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>amō</grapheme>
+  <grapheme>amo</grapheme>
+  <phoneme>amoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>amāre</grapheme>
+  <grapheme>amare</grapheme>
+  <phoneme>amareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>levis</grapheme>
+  <phoneme>levis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>leve</grapheme>
+  <phoneme>leve</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>duo</grapheme>
+  <phoneme>duo</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>duae</grapheme>
+  <phoneme>duae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ferus</grapheme>
+  <phoneme>ferus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fera</grapheme>
+  <phoneme>fera</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ferum</grapheme>
+  <phoneme>ferum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>poena</grapheme>
+  <phoneme>poena</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>castrum</grapheme>
+  <phoneme>kastrum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>frāter</grapheme>
+  <grapheme>frater</grapheme>
+  <phoneme>fraterː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>frātris</grapheme>
+  <grapheme>fratris</grapheme>
+  <phoneme>fratrisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>haud</grapheme>
+  <phoneme>haud</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>malus</grapheme>
+  <phoneme>malus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mala</grapheme>
+  <phoneme>mala</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>malum</grapheme>
+  <phoneme>malum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iaceō</grapheme>
+  <grapheme>iaceo</grapheme>
+  <phoneme>jatʃeoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iacēre</grapheme>
+  <grapheme>iacere</grapheme>
+  <phoneme>jatʃere</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iacuī</grapheme>
+  <grapheme>iacui</grapheme>
+  <phoneme>jatʃuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>līber</grapheme>
+  <phoneme>liberː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>liber</grapheme>
+  <phoneme>liber</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lībera</grapheme>
+  <grapheme>libera</grapheme>
+  <phoneme>liberaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>līberum</grapheme>
+  <grapheme>liberum</grapheme>
+  <phoneme>liberumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iter</grapheme>
+  <phoneme>iter</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>itineris</grapheme>
+  <phoneme>itineris</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ferrum</grapheme>
+  <phoneme>ferrum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>spēs</grapheme>
+  <grapheme>spes</grapheme>
+  <phoneme>spɛs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>speī</grapheme>
+  <grapheme>spei</grapheme>
+  <phoneme>speiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>puella</grapheme>
+  <phoneme>puɛlla</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>silva</grapheme>
+  <phoneme>silva</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>bene</grapheme>
+  <phoneme>bɛne</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fīnis</grapheme>
+  <grapheme>finis</grapheme>
+  <phoneme>finis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>gerō</grapheme>
+  <grapheme>gero</grapheme>
+  <phoneme>ʤɛroː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dux</grapheme>
+  <phoneme>duks</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ducis</grapheme>
+  <phoneme>dukis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>premō</grapheme>
+  <grapheme>premo</grapheme>
+  <phoneme>prɛmoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dominus</grapheme>
+  <phoneme>dominus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>domina</grapheme>
+  <phoneme>domina</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mōns</grapheme>
+  <grapheme>mons</grapheme>
+  <phoneme>monsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>montis</grapheme>
+  <phoneme>montis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>uterque</grapheme>
+  <phoneme>uterkʷɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>utraque</grapheme>
+  <phoneme>utrakʷɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>utrumque</grapheme>
+  <phoneme>utrumkʷɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>saevus</grapheme>
+  <phoneme>sɛvus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>saeva</grapheme>
+  <phoneme>sɛva</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>saevum</grapheme>
+  <phoneme>sɛvum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lītus</grapheme>
+  <grapheme>litus</grapheme>
+  <phoneme>litusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lītoris</grapheme>
+  <grapheme>litoris</grapheme>
+  <phoneme>litorisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>soleō</grapheme>
+  <grapheme>soleo</grapheme>
+  <phoneme>soleoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mīlle</grapheme>
+  <grapheme>mille</grapheme>
+  <phoneme>milleː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mīlia</grapheme>
+  <grapheme>milia</grapheme>
+  <phoneme>miliaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>equus</grapheme>
+  <phoneme>ɛkʷus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dūrus</grapheme>
+  <grapheme>durus</grapheme>
+  <phoneme>durʊs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dūra</grapheme>
+  <grapheme>dura</grapheme>
+  <phoneme>dʊraː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dūrum</grapheme>
+  <grapheme>durum</grapheme>
+  <phoneme>durʊm</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōgō</grapheme>
+  <grapheme>cogo</grapheme>
+  <phoneme>kogoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>numquam</grapheme>
+  <phoneme>numkʷam</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>morior</grapheme>
+  <phoneme>morjor</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>carmen</grapheme>
+  <phoneme>karmɛn</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cārminis</grapheme>
+  <grapheme>carminis</grapheme>
+  <phoneme>karminisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tēlum</grapheme>
+  <grapheme>telum</grapheme>
+  <phoneme>telumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ratiō</grapheme>
+  <grapheme>ratio</grapheme>
+  <phoneme>ratiːoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ratiōnis</grapheme>
+  <grapheme>rationis</grapheme>
+  <phoneme>rationisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>umbra</grapheme>
+  <phoneme>umbra</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>umbrae</grapheme>
+  <phoneme>umbrae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ars</grapheme>
+  <phoneme>ars</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>artis</grapheme>
+  <phoneme>artɪs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tot</grapheme>
+  <phoneme>tot</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dexter</grapheme>
+  <phoneme>dɛkstɛr</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dextra</grapheme>
+  <phoneme>dɛkstra</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sīgnum</grapheme>
+  <grapheme>signum</grapheme>
+  <phoneme>signumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sīgnī</grapheme>
+  <grapheme>signi</grapheme>
+  <phoneme>signiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>laetus</grapheme>
+  <phoneme>lɛtʊs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>laeta</grapheme>
+  <phoneme>lɛta</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>laetum</grapheme>
+  <phoneme>lɛtum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quālis</grapheme>
+  <grapheme>qualis</grapheme>
+  <phoneme>kwalisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lēx</grapheme>
+  <grapheme>lex</grapheme>
+  <phoneme>lɛks</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lēgis</grapheme>
+  <grapheme>legis</grapheme>
+  <phoneme>lɛgɪs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>perīculum</grapheme>
+  <grapheme>periculum</grapheme>
+  <phoneme>perikulumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>perīculī</grapheme>
+  <grapheme>periculi</grapheme>
+  <phoneme>perikuliː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nāscor</grapheme>
+  <grapheme>nascor</grapheme>
+  <phoneme>naskorː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>exercitus</grapheme>
+  <phoneme>ɛksɛrtʃitus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>exercitūs</grapheme>
+  <phoneme>ɛksɛrtʃitusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pereō</grapheme>
+  <grapheme>pereo</grapheme>
+  <phoneme>perɛoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ventus</grapheme>
+  <phoneme>vɛntus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ventī</grapheme>
+  <grapheme>venti</grapheme>
+  <phoneme>vɛntiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>audeō</grapheme>
+  <grapheme>audeo</grapheme>
+  <phoneme>audeoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>audēre</grapheme>
+  <grapheme>audere</grapheme>
+  <phoneme>audɛrɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ausus</grapheme>
+  <phoneme>ausus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>contrā</grapheme>
+  <grapheme>contra</grapheme>
+  <phoneme>kontraː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aqua</grapheme>
+  <phoneme>akʷa</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aquae</grapheme>
+  <phoneme>akʷae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>rapiō</grapheme>
+  <grapheme>rapio</grapheme>
+  <phoneme>rapjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>rapere</grapheme>
+  <phoneme>rapɛrɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>rapuī</grapheme>
+  <grapheme>rapui</grapheme>
+  <phoneme>rapuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>raptum</grapheme>
+  <phoneme>raptum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>simul</grapheme>
+  <phoneme>simul</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trīstis</grapheme>
+  <grapheme>tristis</grapheme>
+  <phoneme>tristisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mūnus</grapheme>
+  <grapheme>munus</grapheme>
+  <phoneme>munusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mūneris</grapheme>
+  <grapheme>muneris</grapheme>
+  <phoneme>munerɪsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iuvenis</grapheme>
+  <phoneme>juvɛnis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fāma</grapheme>
+  <grapheme>fama</grapheme>
+  <phoneme>famaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fāmae</grapheme>
+  <grapheme>famae</grapheme>
+  <phoneme>famaeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>adsum</grapheme>
+  <phoneme>adsum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>adesse</grapheme>
+  <phoneme>adɛsse</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>affuī</grapheme>
+  <grapheme>affui</grapheme>
+  <phoneme>affuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quisquam</grapheme>
+  <phoneme>kʷiskʷam</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quicquam</grapheme>
+  <phoneme>kʷikkʷam</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quidquam</grapheme>
+  <phoneme>kʷidkʷam</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vērō</grapheme>
+  <grapheme>vero</grapheme>
+  <phoneme>veroː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pār</grapheme>
+  <grapheme>par</grapheme>
+  <phoneme>parː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>paris</grapheme>
+  <phoneme>parɪs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vester</grapheme>
+  <phoneme>vɛstɛr</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vestra</grapheme>
+  <phoneme>vɛstra</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vestrum</grapheme>
+  <phoneme>vɛstrum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>flūmen</grapheme>
+  <grapheme>flumen</grapheme>
+  <phoneme>flumenː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>flūminis</grapheme>
+  <grapheme>fluminis</grapheme>
+  <phoneme>fluminisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quīcumque</grapheme>
+  <grapheme>quicumque</grapheme>
+  <phoneme>kwikʷumkʷɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quaecumque</grapheme>
+  <phoneme>kwaɛkʷumkʷɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quodcumque</grapheme>
+  <phoneme>kwodkʷumkʷɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>certus</grapheme>
+  <phoneme>tʃɛrtus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>certa</grapheme>
+  <phoneme>tʃɛrta</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>certum</grapheme>
+  <phoneme>tʃɛrtum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>eques</grapheme>
+  <phoneme>ɛkwɛs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>equitis</grapheme>
+  <phoneme>ɛkwitis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trādō</grapheme>
+  <grapheme>trado</grapheme>
+  <phoneme>tradoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trādere</grapheme>
+  <grapheme>tradere</grapheme>
+  <phoneme>tradereː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trādidī</grapheme>
+  <grapheme>tradidi</grapheme>
+  <phoneme>tradidiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>trāditum</grapheme>
+  <grapheme>traditum</grapheme>
+  <phoneme>traditumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>flamma</grapheme>
+  <phoneme>flamma</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>flammae</grapheme>
+  <phoneme>flammae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lūx</grapheme>
+  <grapheme>lux</grapheme>
+  <phoneme>luks</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lūcis</grapheme>
+  <grapheme>lucis</grapheme>
+  <phoneme>lukisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>unde</grapheme>
+  <phoneme>unde</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>redeō</grapheme>
+  <grapheme>redeo</grapheme>
+  <phoneme>redeoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>redīre</grapheme>
+  <grapheme>redire</grapheme>
+  <phoneme>redire</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>rediī</grapheme>
+  <grapheme>redii</grapheme>
+  <phoneme>rediiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>reditum</grapheme>
+  <phoneme>reditum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sentiō</grapheme>
+  <grapheme>sentio</grapheme>
+  <phoneme>sɛntjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sentīre</grapheme>
+  <grapheme>sentire</grapheme>
+  <phoneme>sɛntire</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sēnsī</grapheme>
+  <grapheme>sensi</grapheme>
+  <phoneme>sensiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sēnsum</grapheme>
+  <grapheme>sensum</grapheme>
+  <phoneme>sensum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aurum</grapheme>
+  <phoneme>aurum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aurī</grapheme>
+  <grapheme>auri</grapheme>
+  <phoneme>auriː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quō</grapheme>
+  <grapheme>quo</grapheme>
+  <phoneme>kwoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>saxum</grapheme>
+  <phoneme>saxum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>saxī</grapheme>
+  <grapheme>saxi</grapheme>
+  <phoneme>saxiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ve</grapheme>
+  <phoneme>ve</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aetās</grapheme>
+  <grapheme>aetas</grapheme>
+  <phoneme>ɛtasː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aetātis</grapheme>
+  <grapheme>aetatis</grapheme>
+  <phoneme>ɛtatisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fēlīx</grapheme>
+  <grapheme>felix</grapheme>
+  <phoneme>feliks</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fēlīcis</grapheme>
+  <grapheme>felicis</grapheme>
+  <phoneme>felikisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>loquor</grapheme>
+  <phoneme>lokʷor</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>loquī</grapheme>
+  <grapheme>loqui</grapheme>
+  <phoneme>lokʷiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>locūtus</grapheme>
+  <grapheme>locutus</grapheme>
+  <phoneme>lokutusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>locūtus sum</grapheme>
+  <grapheme>locutus sum</grapheme>
+  <phoneme>lokutus sumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quantus</grapheme>
+  <phoneme>kʷantus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quanta</grapheme>
+  <phoneme>kʷanta</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quantum</grapheme>
+  <phoneme>kʷantum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coepī</grapheme>
+  <grapheme>coepi</grapheme>
+  <phoneme>tʃoepiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coepisse</grapheme>
+  <phoneme>tʃoepisse</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coeptus</grapheme>
+  <phoneme>tʃoeptus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>igitur</grapheme>
+  <phoneme>iɡitur</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iūs</grapheme>
+  <grapheme>ius</grapheme>
+  <phoneme>jus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iūris</grapheme>
+  <grapheme>iuris</grapheme>
+  <phoneme>jurisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mūtō</grapheme>
+  <grapheme>muto</grapheme>
+  <phoneme>mutoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mūtāre</grapheme>
+  <grapheme>mutare</grapheme>
+  <phoneme>mutareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>inveniō</grapheme>
+  <grapheme>invenio</grapheme>
+  <phoneme>invɛnjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>invenīre</grapheme>
+  <grapheme>invenire</grapheme>
+  <phoneme>invɛnire</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>invēnī</grapheme>
+  <grapheme>inveni</grapheme>
+  <phoneme>inveniː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>inventum</grapheme>
+  <phoneme>invɛntum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>prīnceps</grapheme>
+  <grapheme>princeps</grapheme>
+  <phoneme>printʃeps</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>prīncipis</grapheme>
+  <grapheme>principis</grapheme>
+  <phoneme>printʃipisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ops</grapheme>
+  <phoneme>ops</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>opis</grapheme>
+  <phoneme>opis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>recipiō</grapheme>
+  <grapheme>recipio</grapheme>
+  <phoneme>rɛtʃipjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>recipere</grapheme>
+  <phoneme>rɛtʃipɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>recēpī</grapheme>
+  <grapheme>recepi</grapheme>
+  <phoneme>rɛtʃepiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>receptum</grapheme>
+  <phoneme>rɛtʃɛptum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sōl</grapheme>
+  <grapheme>sol</grapheme>
+  <phoneme>solː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sōlis</grapheme>
+  <grapheme>solis</grapheme>
+  <phoneme>solisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōnsul</grapheme>
+  <grapheme>consul</grapheme>
+  <phoneme>konsulː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōnsulis</grapheme>
+  <grapheme>consulis</grapheme>
+  <phoneme>konsulisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>orbis</grapheme>
+  <phoneme>orbis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>turba</grapheme>
+  <phoneme>turba</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>turbae</grapheme>
+  <phoneme>turbae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ager</grapheme>
+  <phoneme>aɡɛr</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>agrī</grapheme>
+  <grapheme>agri</grapheme>
+  <phoneme>aɡriː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>solvō</grapheme>
+  <grapheme>solvo</grapheme>
+  <phoneme>solvoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>solvere</grapheme>
+  <phoneme>solvɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>solvī</grapheme>
+  <grapheme>solvi</grapheme>
+  <phoneme>solviː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>solūtum</grapheme>
+  <grapheme>solutum</grapheme>
+  <phoneme>solutumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vitium</grapheme>
+  <phoneme>vitjum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vitī</grapheme>
+  <grapheme>viti</grapheme>
+  <phoneme>vitiiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vulnus</grapheme>
+  <phoneme>vulnus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vulneris</grapheme>
+  <phoneme>vulnɛris</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>inde</grapheme>
+  <phoneme>inde</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>senātus</grapheme>
+  <grapheme>senatus</grapheme>
+  <grapheme>senātūs</grapheme>
+  <phoneme>senatusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ūtor</grapheme>
+  <grapheme>utor</grapheme>
+  <phoneme>utorː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ūsus</grapheme>
+  <grapheme>usus</grapheme>
+  <phoneme>ususː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōpia</grapheme>
+  <grapheme>copia</grapheme>
+  <phoneme>kopiaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōpiae</grapheme>
+  <grapheme>copiae</grapheme>
+  <phoneme>kopiaeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>opus</grapheme>
+  <phoneme>opus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>operis</grapheme>
+  <phoneme>opɛris</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>colō</grapheme>
+  <grapheme>colo</grapheme>
+  <phoneme>koloː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>colere</grapheme>
+  <phoneme>kolɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coluī</grapheme>
+  <grapheme>colui</grapheme>
+  <phoneme>koluiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cultum</grapheme>
+  <phoneme>kultum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vōtum</grapheme>
+  <grapheme>votum</grapheme>
+  <phoneme>votumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vōtī</grapheme>
+  <grapheme>voti</grapheme>
+  <phoneme>votiiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iugum</grapheme>
+  <phoneme>jugum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iugī</grapheme>
+  <grapheme>iugi</grapheme>
+  <phoneme>jugiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>quā</grapheme>
+  <grapheme>qua</grapheme>
+  <phoneme>kʷaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tellus</grapheme>
+  <phoneme>tɛllus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tellūris</grapheme>
+  <grapheme>telluris</grapheme>
+  <phoneme>tellurisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>numerus</grapheme>
+  <phoneme>numɛrus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>numerī</grapheme>
+  <grapheme>numeri</grapheme>
+  <phoneme>numɛriː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōgnōscō</grapheme>
+  <grapheme>cognosco</grapheme>
+  <phoneme>kognoskoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōgnōscere</grapheme>
+  <grapheme>cognoscere</grapheme>
+  <phoneme>kognoskɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōgnōvī</grapheme>
+  <grapheme>cognovi</grapheme>
+  <phoneme>kognoviː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cōgnitum</grapheme>
+  <grapheme>cognitum</grapheme>
+  <phoneme>kognitumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>victor</grapheme>
+  <phoneme>viktɔr</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>victōris</grapheme>
+  <grapheme>victoris</grapheme>
+  <phoneme>viktorisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>satis</grapheme>
+  <phoneme>satis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sat</grapheme>
+  <phoneme>sat</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>patria</grapheme>
+  <phoneme>patria</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>patriae</grapheme>
+  <phoneme>patriae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>seu</grapheme>
+  <phoneme>sɛu</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cāsus</grapheme>
+  <grapheme>casus</grapheme>
+  <grapheme>cāsūs</grapheme>
+  <phoneme>kasusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>frangō</grapheme>
+  <grapheme>frango</grapheme>
+  <phoneme>frangoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>frangere</grapheme>
+  <phoneme>frangɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>frēgī</grapheme>
+  <grapheme>fregi</grapheme>
+  <phoneme>freɡiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>frāctum</grapheme>
+  <grapheme>fractum</grapheme>
+  <phoneme>fraktumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cīvitās</grapheme>
+  <grapheme>civitas</grapheme>
+  <phoneme>tʃivitasː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cīvitātis</grapheme>
+  <grapheme>civitatis</grapheme>
+  <phoneme>tʃivitatisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nōscō</grapheme>
+  <grapheme>nosco</grapheme>
+  <phoneme>noskoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nōscere</grapheme>
+  <grapheme>noscere</grapheme>
+  <phoneme>noskɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nōvī</grapheme>
+  <grapheme>novi</grapheme>
+  <phoneme>noviː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nōtum</grapheme>
+  <grapheme>notum</grapheme>
+  <phoneme>notum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>proelium</grapheme>
+  <phoneme>proɛljum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>proelī</grapheme>
+  <grapheme>proeli</grapheme>
+  <phoneme>proɛliː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ēripiō</grapheme>
+  <grapheme>eripio</grapheme>
+  <phoneme>ɛripjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ēripere</grapheme>
+  <grapheme>eripere</grapheme>
+  <phoneme>ɛripɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ēripuī</grapheme>
+  <grapheme>eripui</grapheme>
+  <phoneme>ɛripuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ēreptum</grapheme>
+  <grapheme>ereptum</grapheme>
+  <phoneme>ɛreptumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mundus</grapheme>
+  <phoneme>mundus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mundī</grapheme>
+  <grapheme>mundi</grapheme>
+  <phoneme>mundiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cursus</grapheme>
+  <phoneme>kursus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cursūs</grapheme>
+  <phoneme>kursusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vix</grapheme>
+  <phoneme>viks</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nāvis</grapheme>
+  <grapheme>navis</grapheme>
+  <phoneme>navisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nāvīs</grapheme>
+  <phoneme>naviːs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lacrima</grapheme>
+  <phoneme>lakrima</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lacrimae</grapheme>
+  <phoneme>lakrimae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>hūmānus</grapheme>
+  <grapheme>humanus</grapheme>
+  <phoneme>humanusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>hūmāna</grapheme>
+  <grapheme>humana</grapheme>
+  <phoneme>humanaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>hūmānum</grapheme>
+  <grapheme>humanum</grapheme>
+  <phoneme>humanumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mollis</grapheme>
+  <phoneme>mollis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>maneō</grapheme>
+  <grapheme>maneo</grapheme>
+  <phoneme>maneoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>manēre</grapheme>
+  <grapheme>manere</grapheme>
+  <phoneme>manere</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mānsī</grapheme>
+  <grapheme>mansi</grapheme>
+  <phoneme>mansiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mānsum</grapheme>
+  <grapheme>mansum</grapheme>
+  <phoneme>mansumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>āgmen</grapheme>
+  <grapheme>agmen</grapheme>
+  <phoneme>agmenː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>āgminis</grapheme>
+  <grapheme>agminis</grapheme>
+  <phoneme>agminisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sīdus</grapheme>
+  <grapheme>sidus</grapheme>
+  <phoneme>sidusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sīderis</grapheme>
+  <grapheme>sideris</grapheme>
+  <phoneme>siderisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>glōria</grapheme>
+  <grapheme>gloria</grapheme>
+  <phoneme>gloriaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>glōriae</grapheme>
+  <grapheme>gloriae</grapheme>
+  <phoneme>gloriaeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>diū</grapheme>
+  <grapheme>diu</grapheme>
+  <phoneme>diuː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sīve</grapheme>
+  <grapheme>sive</grapheme>
+  <phoneme>siveː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tamquam</grapheme>
+  <phoneme>tamkʷam</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fuga</grapheme>
+  <phoneme>fuga</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fugae</grapheme>
+  <phoneme>fugae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tūtus</grapheme>
+  <grapheme>tutus</grapheme>
+  <phoneme>tutusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tūta</grapheme>
+  <grapheme>tuta</grapheme>
+  <phoneme>tutaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tūtum</grapheme>
+  <grapheme>tutum</grapheme>
+  <phoneme>tutumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>auris</grapheme>
+  <phoneme>auris</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aliēnus</grapheme>
+  <grapheme>alienus</grapheme>
+  <phoneme>alienusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aliēna</grapheme>
+  <grapheme>aliena</grapheme>
+  <phoneme>alienaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aliēnum</grapheme>
+  <grapheme>alienum</grapheme>
+  <phoneme>alienumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>hūc</grapheme>
+  <grapheme>huc</grapheme>
+  <phoneme>hukː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>taceō</grapheme>
+  <grapheme>taceo</grapheme>
+  <phoneme>tatʃeoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tacēre</grapheme>
+  <grapheme>tacere</grapheme>
+  <phoneme>tatʃere</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tacuī</grapheme>
+  <grapheme>tacui</grapheme>
+  <phoneme>tatʃuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tacitum</grapheme>
+  <phoneme>tatʃitum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>legiō</grapheme>
+  <grapheme>legio</grapheme>
+  <phoneme>ledʒioː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>legiōnis</grapheme>
+  <grapheme>legionis</grapheme>
+  <phoneme>ledʒionisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ostendō</grapheme>
+  <grapheme>ostendo</grapheme>
+  <phoneme>ostendoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ostendere</grapheme>
+  <phoneme>ostendɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ostendī</grapheme>
+  <grapheme>ostendi</grapheme>
+  <phoneme>ostendiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ostentum</grapheme>
+  <phoneme>ostɛntum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>socius</grapheme>
+  <phoneme>sotʃius</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>socii</grapheme>
+  <phoneme>sotʃii</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>prōsum</grapheme>
+  <grapheme>prosum</grapheme>
+  <phoneme>prosumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>prodesse</grapheme>
+  <phoneme>prodesse</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>profuī</grapheme>
+  <grapheme>profui</grapheme>
+  <phoneme>profuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>āra</grapheme>
+  <grapheme>ara</grapheme>
+  <phoneme>araː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ārae</grapheme>
+  <grapheme>arae</grapheme>
+  <phoneme>araeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lūmen</grapheme>
+  <grapheme>lumen</grapheme>
+  <phoneme>lumenː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>luminis</grapheme>
+  <phoneme>luminis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tegō</grapheme>
+  <grapheme>tego</grapheme>
+  <phoneme>tegoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tegere</grapheme>
+  <phoneme>tɛgɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tēxī</grapheme>
+  <grapheme>texi</grapheme>
+  <phoneme>teksiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tēctum</grapheme>
+  <grapheme>tectum</grapheme>
+  <phoneme>tektumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>turpis</grapheme>
+  <phoneme>turpis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>voluptās</grapheme>
+  <grapheme>voluptas</grapheme>
+  <phoneme>voluptasː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>voluptātis</grapheme>
+  <grapheme>voluptatis</grapheme>
+  <phoneme>voluptatisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>adhūc</grapheme>
+  <grapheme>adhuc</grapheme>
+  <phoneme>adhukː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>grātia</grapheme>
+  <grapheme>gratia</grapheme>
+  <phoneme>gratiaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>grātiae</grapheme>
+  <grapheme>gratiae</grapheme>
+  <phoneme>gratiaeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iniūria</grapheme>
+  <grapheme>iniuria</grapheme>
+  <phoneme>iniuriaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iniūriae</grapheme>
+  <grapheme>iniuriae</grapheme>
+  <phoneme>iniuriaeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>latus</grapheme>
+  <phoneme>latus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>lateris</grapheme>
+  <phoneme>lateris</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dulcis</grapheme>
+  <phoneme>dulkis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dulce</grapheme>
+  <phoneme>dulke</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>postquam</grapheme>
+  <phoneme>postkʷam</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>extrēmus</grapheme>
+  <grapheme>extremus</grapheme>
+  <phoneme>ɛkstremusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>extrēma</grapheme>
+  <grapheme>extrema</grapheme>
+  <phoneme>ɛkstremaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>extrēmum</grapheme>
+  <grapheme>extremum</grapheme>
+  <phoneme>ɛkstremumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tēctī</grapheme>
+  <grapheme>tecti</grapheme>
+  <phoneme>tektiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ingenium</grapheme>
+  <phoneme>indʒenium</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ingeniī</grapheme>
+  <grapheme>ingenii</grapheme>
+  <phoneme>indʒeniiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pāx</grapheme>
+  <grapheme>pax</grapheme>
+  <phoneme>paksː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pācis</grapheme>
+  <grapheme>pacis</grapheme>
+  <phoneme>pakisː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>canō</grapheme>
+  <grapheme>cano</grapheme>
+  <phoneme>kanoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>canere</grapheme>
+  <phoneme>kanɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cecinī</grapheme>
+  <grapheme>cecini</grapheme>
+  <phoneme>tʃekiniː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cantum</grapheme>
+  <phoneme>kantum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iuvō</grapheme>
+  <grapheme>iuvo</grapheme>
+  <phoneme>juvoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iuvāre</grapheme>
+  <grapheme>iuvare</grapheme>
+  <phoneme>juvareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iūvī</grapheme>
+  <grapheme>iuvi</grapheme>
+  <phoneme>juviː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>iūtum</grapheme>
+  <grapheme>iutum</grapheme>
+  <phoneme>jutumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>campus</grapheme>
+  <phoneme>kampus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>campī</grapheme>
+  <grapheme>campi</grapheme>
+  <phoneme>kampiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>claudō</grapheme>
+  <grapheme>claudo</grapheme>
+  <phoneme>klawdoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>claudere</grapheme>
+  <phoneme>klawdere</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>clausī</grapheme>
+  <grapheme>clausi</grapheme>
+  <phoneme>klausiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>clausum</grapheme>
+  <phoneme>klaʊsum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>doceō</grapheme>
+  <grapheme>doceo</grapheme>
+  <phoneme>dokɛoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>docēre</grapheme>
+  <grapheme>docere</grapheme>
+  <phoneme>dokɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>docuī</grapheme>
+  <grapheme>docui</grapheme>
+  <phoneme>dokuiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>doctum</grapheme>
+  <phoneme>doktum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>excipiō</grapheme>
+  <grapheme>excipio</grapheme>
+  <phoneme>ɛksitʃipjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>excipere</grapheme>
+  <phoneme>ɛksitʃipɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>excēpī</grapheme>
+  <grapheme>excepi</grapheme>
+  <phoneme>ɛksitʃepiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>exceptum</grapheme>
+  <phoneme>ɛksitʃɛptum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>clārus</grapheme>
+  <grapheme>clarus</grapheme>
+  <phoneme>klarusː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>clāra</grapheme>
+  <grapheme>clara</grapheme>
+  <phoneme>klaraː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>clārum</grapheme>
+  <grapheme>clarum</grapheme>
+  <phoneme>klarumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>illīc</grapheme>
+  <grapheme>illic</grapheme>
+  <phoneme>illikː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>procul</grapheme>
+  <phoneme>prokul</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sacer</grapheme>
+  <phoneme>saker</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sacra</grapheme>
+  <phoneme>sakra</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sacrum</grapheme>
+  <phoneme>sakrum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>mora</grapheme>
+  <phoneme>mora</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>morae</grapheme>
+  <phoneme>mɔraɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>longē</grapheme>
+  <grapheme>longe</grapheme>
+  <phoneme>longeː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>super</grapheme>
+  <phoneme>super</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>errō</grapheme>
+  <grapheme>erro</grapheme>
+  <phoneme>ɛrroː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>errāre</grapheme>
+  <grapheme>errare</grapheme>
+  <phoneme>ɛrrareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sēdēs</grapheme>
+  <grapheme>sedes</grapheme>
+  <phoneme>sedesː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>sēdis</grapheme>
+  <grapheme>sedis</grapheme>
+  <phoneme>sɛdɪsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>cūr</grapheme>
+  <grapheme>cur</grapheme>
+  <phoneme>kurː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>coma</grapheme>
+  <phoneme>koma</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>comae</grapheme>
+  <phoneme>kɔmaɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aiō</grapheme>
+  <grapheme>aio</grapheme>
+  <phoneme>ajoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>gaudeō</grapheme>
+  <grapheme>gaudeo</grapheme>
+  <phoneme>gaudeoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>gaudēre</grapheme>
+  <grapheme>gaudere</grapheme>
+  <phoneme>gaudɛrɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>beātus</grapheme>
+  <grapheme>beatus</grapheme>
+  <phoneme>beatʊsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>beāta</grapheme>
+  <grapheme>beata</grapheme>
+  <phoneme>beataː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>beātum</grapheme>
+  <grapheme>beatum</grapheme>
+  <phoneme>beatumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>perveniō</grapheme>
+  <grapheme>pervenio</grapheme>
+  <phoneme>pɛrvɛnjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pervenīre</grapheme>
+  <grapheme>pervenire</grapheme>
+  <phoneme>pɛrvɛnire</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vērus</grapheme>
+  <grapheme>verus</grapheme>
+  <phoneme>verʊsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vēra</grapheme>
+  <grapheme>vera</grapheme>
+  <phoneme>veraː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vērum</grapheme>
+  <grapheme>verum</grapheme>
+  <phoneme>verʊmː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>incipiō</grapheme>
+  <grapheme>incipio</grapheme>
+  <phoneme>intʃipjoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>incipere</grapheme>
+  <phoneme>intʃipɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>parcō</grapheme>
+  <grapheme>parco</grapheme>
+  <phoneme>parkoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>parcere</grapheme>
+  <phoneme>parkɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vestis</grapheme>
+  <phoneme>vɛstis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>similis</grapheme>
+  <phoneme>similis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>simile</grapheme>
+  <phoneme>simile</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>caedēs</grapheme>
+  <grapheme>caedes</grapheme>
+  <phoneme>kɛdɛsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ōrdō</grapheme>
+  <grapheme>ordo</grapheme>
+  <phoneme>ordoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>optō</grapheme>
+  <grapheme>opto</grapheme>
+  <phoneme>optoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>optāre</grapheme>
+  <grapheme>optare</grapheme>
+  <phoneme>optareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>virgō</grapheme>
+  <grapheme>virgo</grapheme>
+  <phoneme>virgoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>legō</grapheme>
+  <grapheme>lego</grapheme>
+  <phoneme>lɛgoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>legere</grapheme>
+  <phoneme>lɛgɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aura</grapheme>
+  <phoneme>aura</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>impetus</grapheme>
+  <phoneme>impɛtʊs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fōrma</grapheme>
+  <grapheme>forma</grapheme>
+  <phoneme>formaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>praestō</grapheme>
+  <grapheme>praesto</grapheme>
+  <phoneme>praɛstoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>praestāre</grapheme>
+  <grapheme>praestare</grapheme>
+  <phoneme>praɛstareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aequor</grapheme>
+  <phoneme>ɛkwor</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>misceō</grapheme>
+  <grapheme>misceo</grapheme>
+  <phoneme>miskɛoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>miscēre</grapheme>
+  <grapheme>miscere</grapheme>
+  <phoneme>miskɛrɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>spatium</grapheme>
+  <phoneme>spatjum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tandem</grapheme>
+  <phoneme>tandɛm</phoneme>
+</lexeme>
