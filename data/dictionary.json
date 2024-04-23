@@ -2356,7 +2356,7 @@
     "studium":
       {"meaning": "eagerness, zeal", "part": "Noun", "declension": "2nd", "gender": "neuter", "ipa": "studjum", "position": 1319},
     "facilis": {"meaning": "easy", "part": "Adjective", "declension": "3rd", "ipa": "fatʃilis", "position": 1320},
-    "facile": {"meaning": "easy", "part": "Adjective", "declension": "3rd", "ipa": "fatʃile", "position": 1321},
+    "facile": {"meaning": "easy", "part": "Adverb", "declension": "3rd", "ipa": "fatʃile", "position": 1321},
     "nūmen":
       {"meaning": "divine will, deity", "part": "Noun", "declension": "3rd", "gender": "neuter", "ipa": "numɛnː", "position": 1322},
     "numen":
@@ -4744,5 +4744,30 @@
     "urbanus": { "part": "Adjective", "ipa": "ʊrˈbanʊs" },
     "vehemens": { "part": "Adjective", "ipa": "ʋɛˈhɛmɛns" },
     "velox": { "part": "Adjective", "ipa": "ˈʋɛlɔks" },
-    "vetus": { "part": "Adjective", "ipa": "ˈʋɛtʊs" }
+    "vetus": { "part": "Adjective", "ipa": "ˈʋɛtʊs" },
+    "abhinc": { "part": "Adverb", "ipa": "ˈabɪŋk" },
+    "admodum": { "part": "Adverb", "ipa": "adˈmɔdʊm" },
+    "alias": { "part": "Adverb", "ipa": "ˈaliːas" },
+    "aliqua": { "part": "Adverb", "ipa": "ˈalikʷa" },
+    "amplius": { "part": "Adverb", "ipa": "ˈampliʊs" },
+    "bis": { "part": "Adverb", "ipa": "bɪs" },
+    "clam": { "part": "Adverb", "ipa": "klam" },
+    "comminus": { "part": "Adverb", "ipa": "kɔmˈmɪnʊs" },
+    "cotidie": { "part": "Adverb", "ipa": "kɔˈtidiɛ" },
+    "demisse": { "part": "Adverb", "ipa": "dɛˈmɪssɛ" },
+    "diligenter": { "part": "Adverb", "ipa": "dɪlɪˈɡɛntɛr" },
+    "fortasse": { "part": "Adverb", "ipa": "fɔrˈtassɛ" },
+    "fortiter": { "part": "Adverb", "ipa": "fɔrˈtitɛr" },
+    "graviter": { "part": "Adverb", "ipa": "ˈgraʋitɛr" },
+    "interdum": { "part": "Adverb", "ipa": "ɪntɛrˈdʊm" },
+    "intus": { "part": "Adverb", "ipa": "ˈintʊs" },
+    "palam": { "part": "Adverb", "ipa": "ˈpalam" },
+    "partim": { "part": "Adverb", "ipa": "ˈpartɪm" },
+    "passim": { "part": "Adverb", "ipa": "ˈpassɪm" },
+    "plane": { "part": "Adverb", "ipa": "ˈplanɛ" },
+    "recte": { "part": "Adverb", "ipa": "ˈrɛktɛ" },
+    "retro": { "part": "Adverb", "ipa": "ˈrɛtro" },
+    "statim": { "part": "Adverb", "ipa": "ˈstatɪm" },
+    "ultro": { "part": "Adverb", "ipa": "ˈʊltro" },
+    "utinam": { "part": "Adverb", "ipa": "ʊˈtinam" }
 }
