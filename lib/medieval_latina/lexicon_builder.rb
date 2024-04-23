@@ -11,9 +11,9 @@ class MedievalLatina
         hash.merge(part)
       end
 
-      FREQUENCY_LIST.each do |word, metadata|
-        if metadata.key?(:ipa)
-          @hash[word] = metadata[:ipa]
+      MedievalLatina.frequency_list.each do |word, metadata|
+        if metadata.key?("ipa")
+          @hash[word] = metadata["ipa"]
         end
       end
 

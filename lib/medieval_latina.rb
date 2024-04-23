@@ -10,8 +10,8 @@ class MedievalLatina
       if word?(string)
         metadata = DICTIONARY.fetch(string, {})
 
-        if metadata.key?(:pronunciation)
-          metadata[:pronunciation]
+        if metadata.key?("pronunciation")
+          metadata["pronunciation"]
         else
           new(string).call
         end
@@ -164,13 +164,13 @@ class MedievalLatina
     end
 
     def to_team
-      "#{character}#{rest[0]}".intern
+      :"#{character}#{rest[0]}"
     end
   end
 
   class Error < StandardError; end
 
-  DICTIONARY = FREQUENCY_LIST.each_with_object({}) do |(word, metadata), hash|
+  DICTIONARY = frequency_list.each_with_object({}) do |(word, metadata), hash|
     hash[word] = metadata
 
     sanitized_word = I18n.transliterate(word)

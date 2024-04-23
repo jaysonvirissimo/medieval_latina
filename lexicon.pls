@@ -14,14 +14,17 @@
   </lexeme>
   <lexeme>
     <grapheme>fuī</grapheme>
+    <grapheme>fui</grapheme>
     <phoneme>fui</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>futūrum</grapheme>
+    <grapheme>futurum</grapheme>
     <phoneme>futuːrum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>quī</grapheme>
+    <grapheme>qui</grapheme>
     <phoneme>kwi</phoneme>
   </lexeme>
   <lexeme>
@@ -39,6 +42,7 @@
   </lexeme>
   <lexeme>
     <grapheme>nōn</grapheme>
+    <grapheme>non</grapheme>
     <phoneme>non</phoneme>
   </lexeme>
   <lexeme>
@@ -67,10 +71,12 @@
   </lexeme>
   <lexeme>
     <grapheme>tū</grapheme>
+    <grapheme>tu</grapheme>
     <phoneme>tuː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tuī</grapheme>
+    <grapheme>tui</grapheme>
     <phoneme>tuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -79,6 +85,7 @@
   </lexeme>
   <lexeme>
     <grapheme>tē</grapheme>
+    <grapheme>te</grapheme>
     <phoneme>teː</phoneme>
   </lexeme>
   <lexeme>
@@ -91,6 +98,7 @@
   </lexeme>
   <lexeme>
     <grapheme>meī</grapheme>
+    <grapheme>mei</grapheme>
     <phoneme>meiː</phoneme>
   </lexeme>
   <lexeme>
@@ -99,6 +107,7 @@
   </lexeme>
   <lexeme>
     <grapheme>mē</grapheme>
+    <grapheme>me</grapheme>
     <phoneme>meː</phoneme>
   </lexeme>
   <lexeme>
@@ -123,11 +132,13 @@
   </lexeme>
   <lexeme>
     <grapheme>utī</grapheme>
+    <grapheme>uti</grapheme>
     <grapheme>ūtī</grapheme>
     <phoneme>utiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sī</grapheme>
+    <grapheme>si</grapheme>
     <phoneme>siː</phoneme>
   </lexeme>
   <lexeme>
@@ -140,10 +151,12 @@
   </lexeme>
   <lexeme>
     <grapheme>sē</grapheme>
+    <grapheme>se</grapheme>
     <phoneme>seː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sēsē</grapheme>
+    <grapheme>sese</grapheme>
     <phoneme>seːseː</phoneme>
   </lexeme>
   <lexeme>
@@ -164,6 +177,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ā</grapheme>
+    <grapheme>a</grapheme>
     <phoneme>aː</phoneme>
   </lexeme>
   <lexeme>
@@ -196,6 +210,7 @@
   </lexeme>
   <lexeme>
     <grapheme>potuī</grapheme>
+    <grapheme>potui</grapheme>
     <phoneme>potui</phoneme>
   </lexeme>
   <lexeme>
@@ -204,14 +219,17 @@
   </lexeme>
   <lexeme>
     <grapheme>māgnus</grapheme>
+    <grapheme>magnus</grapheme>
     <phoneme>maːgnus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>māgna</grapheme>
+    <grapheme>magna</grapheme>
     <phoneme>maːgna</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>māgnum</grapheme>
+    <grapheme>magnum</grapheme>
     <phoneme>maːgnum</phoneme>
   </lexeme>
   <lexeme>
@@ -220,6 +238,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ē</grapheme>
+    <grapheme>e</grapheme>
     <phoneme>eː</phoneme>
   </lexeme>
   <lexeme>
@@ -236,6 +255,7 @@
   </lexeme>
   <lexeme>
     <grapheme>dō</grapheme>
+    <grapheme>do</grapheme>
     <phoneme>doː</phoneme>
   </lexeme>
   <lexeme>
@@ -244,6 +264,7 @@
   </lexeme>
   <lexeme>
     <grapheme>dedī</grapheme>
+    <grapheme>dedi</grapheme>
     <phoneme>dediː</phoneme>
   </lexeme>
   <lexeme>
@@ -260,22 +281,27 @@
   </lexeme>
   <lexeme>
     <grapheme>videō</grapheme>
+    <grapheme>video</grapheme>
     <phoneme>vide.oː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vidēre</grapheme>
+    <grapheme>videre</grapheme>
     <phoneme>videre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vīdī</grapheme>
+    <grapheme>vidi</grapheme>
     <phoneme>vidiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vīsum</grapheme>
+    <grapheme>visum</grapheme>
     <phoneme>viːsum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>faciō</grapheme>
+    <grapheme>facio</grapheme>
     <phoneme>fatʃio</phoneme>
   </lexeme>
   <lexeme>
@@ -284,6 +310,7 @@
   </lexeme>
   <lexeme>
     <grapheme>fēcī</grapheme>
+    <grapheme>feci</grapheme>
     <phoneme>fetʃiː</phoneme>
   </lexeme>
   <lexeme>
@@ -292,14 +319,17 @@
   </lexeme>
   <lexeme>
     <grapheme>dīcō</grapheme>
+    <grapheme>dico</grapheme>
     <phoneme>diːko</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīcere</grapheme>
+    <grapheme>dicere</grapheme>
     <phoneme>diːkere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīxī</grapheme>
+    <grapheme>dixi</grapheme>
     <phoneme>diːksi</phoneme>
   </lexeme>
   <lexeme>
@@ -332,18 +362,22 @@
   </lexeme>
   <lexeme>
     <grapheme>rēs</grapheme>
+    <grapheme>res</grapheme>
     <phoneme>reːs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>habeō</grapheme>
+    <grapheme>habeo</grapheme>
     <phoneme>habeo</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>habēre</grapheme>
+    <grapheme>habere</grapheme>
     <phoneme>habere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>habuī</grapheme>
+    <grapheme>habui</grapheme>
     <phoneme>habui</phoneme>
   </lexeme>
   <lexeme>
@@ -400,6 +434,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ferō</grapheme>
+    <grapheme>fero</grapheme>
     <phoneme>feroː</phoneme>
   </lexeme>
   <lexeme>
@@ -408,14 +443,17 @@
   </lexeme>
   <lexeme>
     <grapheme>tulī</grapheme>
+    <grapheme>tuli</grapheme>
     <phoneme>tuli</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lātum</grapheme>
+    <grapheme>latum</grapheme>
     <phoneme>laːtum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dē</grapheme>
+    <grapheme>de</grapheme>
     <phoneme>deː</phoneme>
   </lexeme>
   <lexeme>
@@ -423,19 +461,26 @@
     <phoneme>neː</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>ne</grapheme>
+    <phoneme>ne</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>manus</grapheme>
     <phoneme>manus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūllus</grapheme>
+    <grapheme>nullus</grapheme>
     <phoneme>nullus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūlla</grapheme>
+    <grapheme>nulla</grapheme>
     <phoneme>nulla</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūllum</grapheme>
+    <grapheme>nullum</grapheme>
     <phoneme>nullum</phoneme>
   </lexeme>
   <lexeme>
@@ -444,6 +489,7 @@
   </lexeme>
   <lexeme>
     <grapheme>nōs</grapheme>
+    <grapheme>nos</grapheme>
     <phoneme>nos</phoneme>
   </lexeme>
   <lexeme>
@@ -452,10 +498,12 @@
   </lexeme>
   <lexeme>
     <grapheme>nostrī</grapheme>
+    <grapheme>nostri</grapheme>
     <phoneme>nostriː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōbīs</grapheme>
+    <grapheme>nobis</grapheme>
     <phoneme>nobis</phoneme>
   </lexeme>
   <lexeme>
@@ -468,18 +516,22 @@
   </lexeme>
   <lexeme>
     <grapheme>ūnus</grapheme>
+    <grapheme>unus</grapheme>
     <phoneme>uːnus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ūna</grapheme>
+    <grapheme>una</grapheme>
     <phoneme>uːna</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ūnum</grapheme>
+    <grapheme>unum</grapheme>
     <phoneme>uːnum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>diēs</grapheme>
+    <grapheme>dies</grapheme>
     <phoneme>diːɛs</phoneme>
   </lexeme>
   <lexeme>
@@ -488,7 +540,8 @@
   </lexeme>
   <lexeme>
     <grapheme>nīl</grapheme>
-    <phoneme>nil</phoneme>
+    <grapheme>null</grapheme>
+    <phoneme>null</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tum</grapheme>
@@ -517,6 +570,7 @@
   </lexeme>
   <lexeme>
     <grapheme>rēx</grapheme>
+    <grapheme>rex</grapheme>
     <phoneme>reks</phoneme>
   </lexeme>
   <lexeme>
@@ -533,14 +587,17 @@
   </lexeme>
   <lexeme>
     <grapheme>veniō</grapheme>
+    <grapheme>venio</grapheme>
     <phoneme>venio</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>venīre</grapheme>
+    <grapheme>venire</grapheme>
     <phoneme>venire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vēnī</grapheme>
+    <grapheme>veni</grapheme>
     <phoneme>veni</phoneme>
   </lexeme>
   <lexeme>
@@ -557,6 +614,7 @@
   </lexeme>
   <lexeme>
     <grapheme>volō</grapheme>
+    <grapheme>volo</grapheme>
     <phoneme>volo</phoneme>
   </lexeme>
   <lexeme>
@@ -565,6 +623,7 @@
   </lexeme>
   <lexeme>
     <grapheme>voluī</grapheme>
+    <grapheme>volui</grapheme>
     <phoneme>volui</phoneme>
   </lexeme>
   <lexeme>
@@ -585,6 +644,7 @@
   </lexeme>
   <lexeme>
     <grapheme>agō</grapheme>
+    <grapheme>ago</grapheme>
     <phoneme>aɡoː</phoneme>
   </lexeme>
   <lexeme>
@@ -593,10 +653,12 @@
   </lexeme>
   <lexeme>
     <grapheme>ēgī</grapheme>
+    <grapheme>egi</grapheme>
     <phoneme>eːɡi</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>āctum</grapheme>
+    <grapheme>actum</grapheme>
     <phoneme>aktum</phoneme>
   </lexeme>
   <lexeme>
@@ -649,18 +711,22 @@
   </lexeme>
   <lexeme>
     <grapheme>tōtus</grapheme>
+    <grapheme>totus</grapheme>
     <phoneme>toːtus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tōta</grapheme>
+    <grapheme>tota</grapheme>
     <phoneme>toːta</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tōtum</grapheme>
+    <grapheme>totum</grapheme>
     <phoneme>toːtum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sīc</grapheme>
+    <grapheme>sic</grapheme>
     <phoneme>sik</phoneme>
   </lexeme>
   <lexeme>
@@ -685,6 +751,7 @@
   </lexeme>
   <lexeme>
     <grapheme>petō</grapheme>
+    <grapheme>peto</grapheme>
     <phoneme>petoː</phoneme>
   </lexeme>
   <lexeme>
@@ -693,22 +760,27 @@
   </lexeme>
   <lexeme>
     <grapheme>petīvī</grapheme>
+    <grapheme>petivi</grapheme>
     <phoneme>petiviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>petītum</grapheme>
+    <grapheme>petitum</grapheme>
     <phoneme>petitum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iubeō</grapheme>
+    <grapheme>iubeo</grapheme>
     <phoneme>jubeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iubēre</grapheme>
+    <grapheme>iubere</grapheme>
     <phoneme>jubere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iussī</grapheme>
+    <grapheme>iussi</grapheme>
     <phoneme>jussiː</phoneme>
   </lexeme>
   <lexeme>
@@ -725,10 +797,12 @@
   </lexeme>
   <lexeme>
     <grapheme>vīta</grapheme>
+    <grapheme>vita</grapheme>
     <phoneme>viːta</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>homō</grapheme>
+    <grapheme>homo</grapheme>
     <phoneme>homoː</phoneme>
   </lexeme>
   <lexeme>
@@ -745,14 +819,17 @@
   </lexeme>
   <lexeme>
     <grapheme>prīmus</grapheme>
+    <grapheme>primus</grapheme>
     <phoneme>priːmus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prīma</grapheme>
+    <grapheme>prima</grapheme>
     <phoneme>priːma</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prīmum</grapheme>
+    <grapheme>primum</grapheme>
     <phoneme>priːmum</phoneme>
   </lexeme>
   <lexeme>
@@ -781,18 +858,22 @@
   </lexeme>
   <lexeme>
     <grapheme>eō</grapheme>
+    <grapheme>eo</grapheme>
     <phoneme>eoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>īre</grapheme>
+    <grapheme>ire</grapheme>
     <phoneme>ire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iī</grapheme>
+    <grapheme>ii</grapheme>
     <phoneme>ii</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>īvī</grapheme>
+    <grapheme>ivi</grapheme>
     <phoneme>iviː</phoneme>
   </lexeme>
   <lexeme>
@@ -821,10 +902,12 @@
   </lexeme>
   <lexeme>
     <grapheme>nī</grapheme>
+    <grapheme>ni</grapheme>
     <phoneme>niː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>teneō</grapheme>
+    <grapheme>teneo</grapheme>
     <phoneme>teneoː</phoneme>
   </lexeme>
   <lexeme>
@@ -837,10 +920,12 @@
   </lexeme>
   <lexeme>
     <grapheme>crēdō</grapheme>
+    <grapheme>credo</grapheme>
     <phoneme>kredoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>accipiō</grapheme>
+    <grapheme>accipio</grapheme>
     <phoneme>akʧipio</phoneme>
   </lexeme>
   <lexeme>
@@ -945,6 +1030,7 @@
   </lexeme>
   <lexeme>
     <grapheme>cēpī</grapheme>
+    <grapheme>cepi</grapheme>
     <phoneme>tʃepiː</phoneme>
   </lexeme>
   <lexeme>
@@ -965,6 +1051,7 @@
   </lexeme>
   <lexeme>
     <grapheme>duxī</grapheme>
+    <grapheme>duxi</grapheme>
     <phoneme>duksiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1001,6 +1088,7 @@
   </lexeme>
   <lexeme>
     <grapheme>fortūna</grapheme>
+    <grapheme>fortuna</grapheme>
     <phoneme>fortuːna</phoneme>
   </lexeme>
   <lexeme>
@@ -1053,6 +1141,7 @@
   </lexeme>
   <lexeme>
     <grapheme>relinquō</grapheme>
+    <grapheme>relinquo</grapheme>
     <phoneme>rɛlinkʷoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1061,6 +1150,7 @@
   </lexeme>
   <lexeme>
     <grapheme>relinquī</grapheme>
+    <grapheme>relinqui</grapheme>
     <phoneme>rɛlinkʷiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1073,10 +1163,12 @@
   </lexeme>
   <lexeme>
     <grapheme>fīō</grapheme>
+    <grapheme>fio</grapheme>
     <phoneme>fiːo</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fierī</grapheme>
+    <grapheme>fieri</grapheme>
     <phoneme>fiɛriː</phoneme>
   </lexeme>
   <lexeme>
@@ -1090,6 +1182,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ōris</grapheme>
+    <grapheme>oris</grapheme>
     <phoneme>oris</phoneme>
   </lexeme>
   <lexeme>
@@ -1150,6 +1243,7 @@
   </lexeme>
   <lexeme>
     <grapheme>debuī</grapheme>
+    <grapheme>debui</grapheme>
     <phoneme>dɛbuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1158,30 +1252,37 @@
   </lexeme>
   <lexeme>
     <grapheme>vīvō</grapheme>
+    <grapheme>vivo</grapheme>
     <phoneme>vivoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vīvere</grapheme>
+    <grapheme>vivere</grapheme>
     <phoneme>vivɛrɛ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vīxī</grapheme>
+    <grapheme>vixi</grapheme>
     <phoneme>viksiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vīctum</grapheme>
+    <grapheme>victum</grapheme>
     <phoneme>viktum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fātum</grapheme>
+    <grapheme>fatum</grapheme>
     <phoneme>fatum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vocō</grapheme>
+    <grapheme>voco</grapheme>
     <phoneme>vokoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vocāre</grapheme>
+    <grapheme>vocare</grapheme>
     <phoneme>vokare</phoneme>
   </lexeme>
   <lexeme>
@@ -1198,26 +1299,32 @@
   </lexeme>
   <lexeme>
     <grapheme>parō</grapheme>
+    <grapheme>paro</grapheme>
     <phoneme>paroː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>parāre</grapheme>
+    <grapheme>parare</grapheme>
     <phoneme>parareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>parātus</grapheme>
+    <grapheme>paratus</grapheme>
     <phoneme>paratusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>parāta</grapheme>
+    <grapheme>parata</grapheme>
     <phoneme>parataː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>parātum</grapheme>
+    <grapheme>paratum</grapheme>
     <phoneme>paratumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mīles</grapheme>
+    <grapheme>miles</grapheme>
     <phoneme>miːles</phoneme>
   </lexeme>
   <lexeme>
@@ -1254,30 +1361,37 @@
   </lexeme>
   <lexeme>
     <grapheme>audiō</grapheme>
+    <grapheme>audio</grapheme>
     <phoneme>audjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>audīre</grapheme>
+    <grapheme>audire</grapheme>
     <phoneme>audire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>audīvī</grapheme>
+    <grapheme>audivi</grapheme>
     <phoneme>audiviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>audiī</grapheme>
+    <grapheme>audii</grapheme>
     <phoneme>audiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>audītum</grapheme>
+    <grapheme>auditum</grapheme>
     <phoneme>auditum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>putō</grapheme>
+    <grapheme>puto</grapheme>
     <phoneme>putoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>putāre</grapheme>
+    <grapheme>putare</grapheme>
     <phoneme>putareː</phoneme>
   </lexeme>
   <lexeme>
@@ -1286,14 +1400,17 @@
   </lexeme>
   <lexeme>
     <grapheme>stō</grapheme>
+    <grapheme>sto</grapheme>
     <phoneme>stoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>stāre</grapheme>
+    <grapheme>stare</grapheme>
     <phoneme>stareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>stetī</grapheme>
+    <grapheme>steti</grapheme>
     <phoneme>stetiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1302,10 +1419,12 @@
   </lexeme>
   <lexeme>
     <grapheme>vōx</grapheme>
+    <grapheme>vox</grapheme>
     <phoneme>voːks</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vōcis</grapheme>
+    <grapheme>vocis</grapheme>
     <phoneme>voːkis</phoneme>
   </lexeme>
   <lexeme>
@@ -1318,6 +1437,7 @@
   </lexeme>
   <lexeme>
     <grapheme>referō</grapheme>
+    <grapheme>refero</grapheme>
     <phoneme>rɛferoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1326,30 +1446,37 @@
   </lexeme>
   <lexeme>
     <grapheme>rettulī</grapheme>
+    <grapheme>rettuli</grapheme>
     <phoneme>rɛttuliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>relātum</grapheme>
+    <grapheme>relatum</grapheme>
     <phoneme>relatumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sciō</grapheme>
+    <grapheme>scio</grapheme>
     <phoneme>scioː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>scīre</grapheme>
+    <grapheme>scire</grapheme>
     <phoneme>scire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>scīvī</grapheme>
+    <grapheme>scivi</grapheme>
     <phoneme>skiviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>scītum</grapheme>
+    <grapheme>scitum</grapheme>
     <phoneme>skitum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mēns</grapheme>
+    <grapheme>mens</grapheme>
     <phoneme>mens</phoneme>
   </lexeme>
   <lexeme>
@@ -1358,6 +1485,7 @@
   </lexeme>
   <lexeme>
     <grapheme>reddō</grapheme>
+    <grapheme>reddo</grapheme>
     <phoneme>reddoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1366,6 +1494,7 @@
   </lexeme>
   <lexeme>
     <grapheme>reddidī</grapheme>
+    <grapheme>reddidi</grapheme>
     <phoneme>rɛddidiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1378,6 +1507,7 @@
   </lexeme>
   <lexeme>
     <grapheme>licēre</grapheme>
+    <grapheme>licere</grapheme>
     <phoneme>likɛreː</phoneme>
   </lexeme>
   <lexeme>
@@ -1394,18 +1524,22 @@
   </lexeme>
   <lexeme>
     <grapheme>sōlus</grapheme>
+    <grapheme>solus</grapheme>
     <phoneme>solusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sōla</grapheme>
+    <grapheme>sola</grapheme>
     <phoneme>solaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sōlum</grapheme>
+    <grapheme>solum</grapheme>
     <phoneme>solomː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fugiō</grapheme>
+    <grapheme>fugio</grapheme>
     <phoneme>fuɡjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1414,6 +1548,7 @@
   </lexeme>
   <lexeme>
     <grapheme>fūgī</grapheme>
+    <grapheme>fugi</grapheme>
     <phoneme>fuɡiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1422,30 +1557,37 @@
   </lexeme>
   <lexeme>
     <grapheme>ūllus</grapheme>
+    <grapheme>ullus</grapheme>
     <phoneme>ullusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ūlla</grapheme>
+    <grapheme>ulla</grapheme>
     <phoneme>ullaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ūllum</grapheme>
+    <grapheme>ullum</grapheme>
     <phoneme>ullumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nēmō</grapheme>
+    <grapheme>nemo</grapheme>
     <phoneme>nemoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūllīus</grapheme>
+    <grapheme>nullius</grapheme>
     <phoneme>nulliusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūllī</grapheme>
+    <grapheme>nulli</grapheme>
     <phoneme>nulliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūllō</grapheme>
+    <grapheme>nullo</grapheme>
     <phoneme>nulloː</phoneme>
   </lexeme>
   <lexeme>
@@ -1454,18 +1596,22 @@
   </lexeme>
   <lexeme>
     <grapheme>nātūra</grapheme>
+    <grapheme>natura</grapheme>
     <phoneme>naturaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nātūrae</grapheme>
+    <grapheme>naturae</grapheme>
     <phoneme>naturaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mōs</grapheme>
+    <grapheme>mos</grapheme>
     <phoneme>mosː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mōris</grapheme>
+    <grapheme>moris</grapheme>
     <phoneme>morɪs</phoneme>
   </lexeme>
   <lexeme>
@@ -1474,6 +1620,7 @@
   </lexeme>
   <lexeme>
     <grapheme>beneficiī</grapheme>
+    <grapheme>beneficii</grapheme>
     <phoneme>bɛnɛfɪtʃiiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1486,10 +1633,12 @@
   </lexeme>
   <lexeme>
     <grapheme>fidēs</grapheme>
+    <grapheme>fides</grapheme>
     <phoneme>fɪdɛs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fidēī</grapheme>
+    <grapheme>fidei</grapheme>
     <phoneme>fɪdeiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1498,6 +1647,7 @@
   </lexeme>
   <lexeme>
     <grapheme>patī</grapheme>
+    <grapheme>pati</grapheme>
     <phoneme>patiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1506,18 +1656,22 @@
   </lexeme>
   <lexeme>
     <grapheme>cūra</grapheme>
+    <grapheme>cura</grapheme>
     <phoneme>kuraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cūrae</grapheme>
+    <grapheme>curae</grapheme>
     <phoneme>kuraeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>īra</grapheme>
+    <grapheme>ira</grapheme>
     <phoneme>iraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>īrae</grapheme>
+    <grapheme>irae</grapheme>
     <phoneme>iraeː</phoneme>
   </lexeme>
   <lexeme>
@@ -1526,6 +1680,7 @@
   </lexeme>
   <lexeme>
     <grapheme>verbī</grapheme>
+    <grapheme>verbi</grapheme>
     <phoneme>vɛrbiiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1534,6 +1689,7 @@
   </lexeme>
   <lexeme>
     <grapheme>parēns</grapheme>
+    <grapheme>parens</grapheme>
     <phoneme>parɛns</phoneme>
   </lexeme>
   <lexeme>
@@ -1546,22 +1702,27 @@
   </lexeme>
   <lexeme>
     <grapheme>puerī</grapheme>
+    <grapheme>pueri</grapheme>
     <phoneme>puɛriː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>moveō</grapheme>
+    <grapheme>moveo</grapheme>
     <phoneme>movɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>movēre</grapheme>
+    <grapheme>movere</grapheme>
     <phoneme>movɛrɛ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mōvī</grapheme>
+    <grapheme>movi</grapheme>
     <phoneme>moːviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mōtum</grapheme>
+    <grapheme>motum</grapheme>
     <phoneme>moːtum</phoneme>
   </lexeme>
   <lexeme>
@@ -1570,10 +1731,12 @@
   </lexeme>
   <lexeme>
     <grapheme>dolōris</grapheme>
+    <grapheme>doloris</grapheme>
     <phoneme>dolorɪs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>gēns</grapheme>
+    <grapheme>gens</grapheme>
     <phoneme>ʤɛns</phoneme>
   </lexeme>
   <lexeme>
@@ -1586,6 +1749,7 @@
   </lexeme>
   <lexeme>
     <grapheme>modī</grapheme>
+    <grapheme>modi</grapheme>
     <phoneme>modiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1610,18 +1774,22 @@
   </lexeme>
   <lexeme>
     <grapheme>amīcus</grapheme>
+    <grapheme>amicus</grapheme>
     <phoneme>amiːkus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>amīca</grapheme>
+    <grapheme>amica</grapheme>
     <phoneme>amiːka</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>amīcum</grapheme>
+    <grapheme>amicum</grapheme>
     <phoneme>amiːkum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pēs</grapheme>
+    <grapheme>pes</grapheme>
     <phoneme>pɛs</phoneme>
   </lexeme>
   <lexeme>
@@ -1634,6 +1802,7 @@
   </lexeme>
   <lexeme>
     <grapheme>imperiī</grapheme>
+    <grapheme>imperii</grapheme>
     <phoneme>ɪmpɛriiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1642,6 +1811,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ingēns</grapheme>
+    <grapheme>ingens</grapheme>
     <phoneme>indʒɛns</phoneme>
   </lexeme>
   <lexeme>
@@ -1650,10 +1820,12 @@
   </lexeme>
   <lexeme>
     <grapheme>tālis</grapheme>
+    <grapheme>talis</grapheme>
     <phoneme>talɪs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tāle</grapheme>
+    <grapheme>tale</grapheme>
     <phoneme>taleː</phoneme>
   </lexeme>
   <lexeme>
@@ -1682,6 +1854,7 @@
   </lexeme>
   <lexeme>
     <grapheme>cadō</grapheme>
+    <grapheme>cado</grapheme>
     <phoneme>kadoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1690,14 +1863,17 @@
   </lexeme>
   <lexeme>
     <grapheme>cecidī</grapheme>
+    <grapheme>cecidi</grapheme>
     <phoneme>tʃɛtʃidiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cāsum</grapheme>
+    <grapheme>casum</grapheme>
     <phoneme>kasumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nātus</grapheme>
+    <grapheme>natus</grapheme>
     <phoneme>natusː</phoneme>
   </lexeme>
   <lexeme>
@@ -1710,6 +1886,7 @@
   </lexeme>
   <lexeme>
     <grapheme>trahō</grapheme>
+    <grapheme>traho</grapheme>
     <phoneme>traʰoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1718,10 +1895,12 @@
   </lexeme>
   <lexeme>
     <grapheme>trāxī</grapheme>
+    <grapheme>traxi</grapheme>
     <phoneme>traksiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>trāctum</grapheme>
+    <grapheme>tractum</grapheme>
     <phoneme>traktumː</phoneme>
   </lexeme>
   <lexeme>
@@ -1746,6 +1925,7 @@
   </lexeme>
   <lexeme>
     <grapheme>cōnsilium</grapheme>
+    <grapheme>consilium</grapheme>
     <phoneme>konsiljumː</phoneme>
   </lexeme>
   <lexeme>
@@ -1758,10 +1938,12 @@
   </lexeme>
   <lexeme>
     <grapheme>amō</grapheme>
+    <grapheme>amo</grapheme>
     <phoneme>amoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>amāre</grapheme>
+    <grapheme>amare</grapheme>
     <phoneme>amareː</phoneme>
   </lexeme>
   <lexeme>
@@ -1802,10 +1984,12 @@
   </lexeme>
   <lexeme>
     <grapheme>frāter</grapheme>
+    <grapheme>frater</grapheme>
     <phoneme>fraterː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>frātris</grapheme>
+    <grapheme>fratris</grapheme>
     <phoneme>fratrisː</phoneme>
   </lexeme>
   <lexeme>
@@ -1826,6 +2010,7 @@
   </lexeme>
   <lexeme>
     <grapheme>iaceō</grapheme>
+    <grapheme>iaceo</grapheme>
     <phoneme>jatʃeoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1835,6 +2020,7 @@
   </lexeme>
   <lexeme>
     <grapheme>iacuī</grapheme>
+    <grapheme>iacui</grapheme>
     <phoneme>jatʃuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1842,11 +2028,17 @@
     <phoneme>liberː</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>liber</grapheme>
+    <phoneme>liber</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>lībera</grapheme>
+    <grapheme>libera</grapheme>
     <phoneme>liberaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>līberum</grapheme>
+    <grapheme>liberum</grapheme>
     <phoneme>liberumː</phoneme>
   </lexeme>
   <lexeme>
@@ -1863,10 +2055,12 @@
   </lexeme>
   <lexeme>
     <grapheme>spēs</grapheme>
+    <grapheme>spes</grapheme>
     <phoneme>spɛs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>speī</grapheme>
+    <grapheme>spei</grapheme>
     <phoneme>speiː</phoneme>
   </lexeme>
   <lexeme>
@@ -1883,15 +2077,13 @@
   </lexeme>
   <lexeme>
     <grapheme>fīnis</grapheme>
+    <grapheme>finis</grapheme>
     <phoneme>finis</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>gerō</grapheme>
+    <grapheme>gero</grapheme>
     <phoneme>ʤɛroː</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>ne</grapheme>
-    <phoneme>ne</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dux</grapheme>
@@ -1903,6 +2095,7 @@
   </lexeme>
   <lexeme>
     <grapheme>premō</grapheme>
+    <grapheme>premo</grapheme>
     <phoneme>prɛmoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1915,6 +2108,7 @@
   </lexeme>
   <lexeme>
     <grapheme>mōns</grapheme>
+    <grapheme>mons</grapheme>
     <phoneme>monsː</phoneme>
   </lexeme>
   <lexeme>
@@ -1947,22 +2141,27 @@
   </lexeme>
   <lexeme>
     <grapheme>lītus</grapheme>
+    <grapheme>litus</grapheme>
     <phoneme>litusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lītoris</grapheme>
+    <grapheme>litoris</grapheme>
     <phoneme>litorisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>soleō</grapheme>
+    <grapheme>soleo</grapheme>
     <phoneme>soleoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mīlle</grapheme>
+    <grapheme>mille</grapheme>
     <phoneme>milleː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mīlia</grapheme>
+    <grapheme>milia</grapheme>
     <phoneme>miliaː</phoneme>
   </lexeme>
   <lexeme>
@@ -1971,18 +2170,22 @@
   </lexeme>
   <lexeme>
     <grapheme>dūrus</grapheme>
+    <grapheme>durus</grapheme>
     <phoneme>durʊs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dūra</grapheme>
+    <grapheme>dura</grapheme>
     <phoneme>dʊraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dūrum</grapheme>
+    <grapheme>durum</grapheme>
     <phoneme>durʊm</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōgō</grapheme>
+    <grapheme>cogo</grapheme>
     <phoneme>kogoː</phoneme>
   </lexeme>
   <lexeme>
@@ -1999,18 +2202,22 @@
   </lexeme>
   <lexeme>
     <grapheme>cārminis</grapheme>
+    <grapheme>carminis</grapheme>
     <phoneme>karminisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tēlum</grapheme>
+    <grapheme>telum</grapheme>
     <phoneme>telumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ratiō</grapheme>
+    <grapheme>ratio</grapheme>
     <phoneme>ratiːoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ratiōnis</grapheme>
+    <grapheme>rationis</grapheme>
     <phoneme>rationisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2043,10 +2250,12 @@
   </lexeme>
   <lexeme>
     <grapheme>sīgnum</grapheme>
+    <grapheme>signum</grapheme>
     <phoneme>signumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sīgnī</grapheme>
+    <grapheme>signi</grapheme>
     <phoneme>signiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2063,26 +2272,32 @@
   </lexeme>
   <lexeme>
     <grapheme>quālis</grapheme>
+    <grapheme>qualis</grapheme>
     <phoneme>kwalisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lēx</grapheme>
+    <grapheme>lex</grapheme>
     <phoneme>lɛks</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lēgis</grapheme>
+    <grapheme>legis</grapheme>
     <phoneme>lɛgɪs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>perīculum</grapheme>
+    <grapheme>periculum</grapheme>
     <phoneme>perikulumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>perīculī</grapheme>
+    <grapheme>periculi</grapheme>
     <phoneme>perikuliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nāscor</grapheme>
+    <grapheme>nascor</grapheme>
     <phoneme>naskorː</phoneme>
   </lexeme>
   <lexeme>
@@ -2095,6 +2310,7 @@
   </lexeme>
   <lexeme>
     <grapheme>pereō</grapheme>
+    <grapheme>pereo</grapheme>
     <phoneme>perɛoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2103,14 +2319,17 @@
   </lexeme>
   <lexeme>
     <grapheme>ventī</grapheme>
+    <grapheme>venti</grapheme>
     <phoneme>vɛntiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>audeō</grapheme>
+    <grapheme>audeo</grapheme>
     <phoneme>audeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>audēre</grapheme>
+    <grapheme>audere</grapheme>
     <phoneme>audɛrɛ</phoneme>
   </lexeme>
   <lexeme>
@@ -2119,6 +2338,7 @@
   </lexeme>
   <lexeme>
     <grapheme>contrā</grapheme>
+    <grapheme>contra</grapheme>
     <phoneme>kontraː</phoneme>
   </lexeme>
   <lexeme>
@@ -2131,6 +2351,7 @@
   </lexeme>
   <lexeme>
     <grapheme>rapiō</grapheme>
+    <grapheme>rapio</grapheme>
     <phoneme>rapjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2139,6 +2360,7 @@
   </lexeme>
   <lexeme>
     <grapheme>rapuī</grapheme>
+    <grapheme>rapui</grapheme>
     <phoneme>rapuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2151,14 +2373,17 @@
   </lexeme>
   <lexeme>
     <grapheme>trīstis</grapheme>
+    <grapheme>tristis</grapheme>
     <phoneme>tristisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mūnus</grapheme>
+    <grapheme>munus</grapheme>
     <phoneme>munusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mūneris</grapheme>
+    <grapheme>muneris</grapheme>
     <phoneme>munerɪsː</phoneme>
   </lexeme>
   <lexeme>
@@ -2167,10 +2392,12 @@
   </lexeme>
   <lexeme>
     <grapheme>fāma</grapheme>
+    <grapheme>fama</grapheme>
     <phoneme>famaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fāmae</grapheme>
+    <grapheme>famae</grapheme>
     <phoneme>famaeː</phoneme>
   </lexeme>
   <lexeme>
@@ -2183,6 +2410,7 @@
   </lexeme>
   <lexeme>
     <grapheme>affuī</grapheme>
+    <grapheme>affui</grapheme>
     <phoneme>affuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2199,10 +2427,12 @@
   </lexeme>
   <lexeme>
     <grapheme>vērō</grapheme>
+    <grapheme>vero</grapheme>
     <phoneme>veroː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pār</grapheme>
+    <grapheme>par</grapheme>
     <phoneme>parː</phoneme>
   </lexeme>
   <lexeme>
@@ -2223,14 +2453,17 @@
   </lexeme>
   <lexeme>
     <grapheme>flūmen</grapheme>
+    <grapheme>flumen</grapheme>
     <phoneme>flumenː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>flūminis</grapheme>
+    <grapheme>fluminis</grapheme>
     <phoneme>fluminisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>quīcumque</grapheme>
+    <grapheme>quicumque</grapheme>
     <phoneme>kwikʷumkʷɛ</phoneme>
   </lexeme>
   <lexeme>
@@ -2263,18 +2496,22 @@
   </lexeme>
   <lexeme>
     <grapheme>trādō</grapheme>
+    <grapheme>trado</grapheme>
     <phoneme>tradoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>trādere</grapheme>
+    <grapheme>tradere</grapheme>
     <phoneme>tradereː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>trādidī</grapheme>
+    <grapheme>tradidi</grapheme>
     <phoneme>tradidiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>trāditum</grapheme>
+    <grapheme>traditum</grapheme>
     <phoneme>traditumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2287,10 +2524,12 @@
   </lexeme>
   <lexeme>
     <grapheme>lūx</grapheme>
+    <grapheme>lux</grapheme>
     <phoneme>luks</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lūcis</grapheme>
+    <grapheme>lucis</grapheme>
     <phoneme>lukisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2299,14 +2538,17 @@
   </lexeme>
   <lexeme>
     <grapheme>redeō</grapheme>
+    <grapheme>redeo</grapheme>
     <phoneme>redeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>redīre</grapheme>
+    <grapheme>redire</grapheme>
     <phoneme>redire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rediī</grapheme>
+    <grapheme>redii</grapheme>
     <phoneme>rediiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2315,18 +2557,22 @@
   </lexeme>
   <lexeme>
     <grapheme>sentiō</grapheme>
+    <grapheme>sentio</grapheme>
     <phoneme>sɛntjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sentīre</grapheme>
+    <grapheme>sentire</grapheme>
     <phoneme>sɛntire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sēnsī</grapheme>
+    <grapheme>sensi</grapheme>
     <phoneme>sensiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sēnsum</grapheme>
+    <grapheme>sensum</grapheme>
     <phoneme>sensum</phoneme>
   </lexeme>
   <lexeme>
@@ -2335,10 +2581,12 @@
   </lexeme>
   <lexeme>
     <grapheme>aurī</grapheme>
+    <grapheme>auri</grapheme>
     <phoneme>auriː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>quō</grapheme>
+    <grapheme>quo</grapheme>
     <phoneme>kwoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2347,6 +2595,7 @@
   </lexeme>
   <lexeme>
     <grapheme>saxī</grapheme>
+    <grapheme>saxi</grapheme>
     <phoneme>saxiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2355,18 +2604,22 @@
   </lexeme>
   <lexeme>
     <grapheme>aetās</grapheme>
+    <grapheme>aetas</grapheme>
     <phoneme>ɛtasː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>aetātis</grapheme>
+    <grapheme>aetatis</grapheme>
     <phoneme>ɛtatisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fēlīx</grapheme>
+    <grapheme>felix</grapheme>
     <phoneme>feliks</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fēlīcis</grapheme>
+    <grapheme>felicis</grapheme>
     <phoneme>felikisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2375,14 +2628,17 @@
   </lexeme>
   <lexeme>
     <grapheme>loquī</grapheme>
+    <grapheme>loqui</grapheme>
     <phoneme>lokʷiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>locūtus</grapheme>
+    <grapheme>locutus</grapheme>
     <phoneme>lokutusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>locūtus sum</grapheme>
+    <grapheme>locutus sum</grapheme>
     <phoneme>lokutus sumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2399,6 +2655,7 @@
   </lexeme>
   <lexeme>
     <grapheme>coepī</grapheme>
+    <grapheme>coepi</grapheme>
     <phoneme>tʃoepiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2415,30 +2672,37 @@
   </lexeme>
   <lexeme>
     <grapheme>iūs</grapheme>
+    <grapheme>ius</grapheme>
     <phoneme>jus</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iūris</grapheme>
+    <grapheme>iuris</grapheme>
     <phoneme>jurisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mūtō</grapheme>
+    <grapheme>muto</grapheme>
     <phoneme>mutoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mūtāre</grapheme>
+    <grapheme>mutare</grapheme>
     <phoneme>mutareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>inveniō</grapheme>
+    <grapheme>invenio</grapheme>
     <phoneme>invɛnjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>invenīre</grapheme>
+    <grapheme>invenire</grapheme>
     <phoneme>invɛnire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>invēnī</grapheme>
+    <grapheme>inveni</grapheme>
     <phoneme>inveniː</phoneme>
   </lexeme>
   <lexeme>
@@ -2447,10 +2711,12 @@
   </lexeme>
   <lexeme>
     <grapheme>prīnceps</grapheme>
+    <grapheme>princeps</grapheme>
     <phoneme>printʃeps</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prīncipis</grapheme>
+    <grapheme>principis</grapheme>
     <phoneme>printʃipisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2463,6 +2729,7 @@
   </lexeme>
   <lexeme>
     <grapheme>recipiō</grapheme>
+    <grapheme>recipio</grapheme>
     <phoneme>rɛtʃipjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2471,6 +2738,7 @@
   </lexeme>
   <lexeme>
     <grapheme>recēpī</grapheme>
+    <grapheme>recepi</grapheme>
     <phoneme>rɛtʃepiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2479,18 +2747,22 @@
   </lexeme>
   <lexeme>
     <grapheme>sōl</grapheme>
+    <grapheme>sol</grapheme>
     <phoneme>solː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sōlis</grapheme>
+    <grapheme>solis</grapheme>
     <phoneme>solisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnsul</grapheme>
+    <grapheme>consul</grapheme>
     <phoneme>konsulː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnsulis</grapheme>
+    <grapheme>consulis</grapheme>
     <phoneme>konsulisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2511,10 +2783,12 @@
   </lexeme>
   <lexeme>
     <grapheme>agrī</grapheme>
+    <grapheme>agri</grapheme>
     <phoneme>aɡriː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>solvō</grapheme>
+    <grapheme>solvo</grapheme>
     <phoneme>solvoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2523,10 +2797,12 @@
   </lexeme>
   <lexeme>
     <grapheme>solvī</grapheme>
+    <grapheme>solvi</grapheme>
     <phoneme>solviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>solūtum</grapheme>
+    <grapheme>solutum</grapheme>
     <phoneme>solutumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2535,6 +2811,7 @@
   </lexeme>
   <lexeme>
     <grapheme>vitī</grapheme>
+    <grapheme>viti</grapheme>
     <phoneme>vitiiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2551,23 +2828,28 @@
   </lexeme>
   <lexeme>
     <grapheme>senātus</grapheme>
+    <grapheme>senatus</grapheme>
     <grapheme>senātūs</grapheme>
     <phoneme>senatusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ūtor</grapheme>
+    <grapheme>utor</grapheme>
     <phoneme>utorː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ūsus</grapheme>
+    <grapheme>usus</grapheme>
     <phoneme>ususː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōpia</grapheme>
+    <grapheme>copia</grapheme>
     <phoneme>kopiaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōpiae</grapheme>
+    <grapheme>copiae</grapheme>
     <phoneme>kopiaeː</phoneme>
   </lexeme>
   <lexeme>
@@ -2580,6 +2862,7 @@
   </lexeme>
   <lexeme>
     <grapheme>colō</grapheme>
+    <grapheme>colo</grapheme>
     <phoneme>koloː</phoneme>
   </lexeme>
   <lexeme>
@@ -2588,6 +2871,7 @@
   </lexeme>
   <lexeme>
     <grapheme>coluī</grapheme>
+    <grapheme>colui</grapheme>
     <phoneme>koluiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2596,10 +2880,12 @@
   </lexeme>
   <lexeme>
     <grapheme>vōtum</grapheme>
+    <grapheme>votum</grapheme>
     <phoneme>votumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vōtī</grapheme>
+    <grapheme>voti</grapheme>
     <phoneme>votiiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2608,10 +2894,12 @@
   </lexeme>
   <lexeme>
     <grapheme>iugī</grapheme>
+    <grapheme>iugi</grapheme>
     <phoneme>jugiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>quā</grapheme>
+    <grapheme>qua</grapheme>
     <phoneme>kʷaː</phoneme>
   </lexeme>
   <lexeme>
@@ -2620,6 +2908,7 @@
   </lexeme>
   <lexeme>
     <grapheme>tellūris</grapheme>
+    <grapheme>telluris</grapheme>
     <phoneme>tellurisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2628,22 +2917,27 @@
   </lexeme>
   <lexeme>
     <grapheme>numerī</grapheme>
+    <grapheme>numeri</grapheme>
     <phoneme>numɛriː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōgnōscō</grapheme>
+    <grapheme>cognosco</grapheme>
     <phoneme>kognoskoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōgnōscere</grapheme>
+    <grapheme>cognoscere</grapheme>
     <phoneme>kognoskɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōgnōvī</grapheme>
+    <grapheme>cognovi</grapheme>
     <phoneme>kognoviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōgnitum</grapheme>
+    <grapheme>cognitum</grapheme>
     <phoneme>kognitumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2652,6 +2946,7 @@
   </lexeme>
   <lexeme>
     <grapheme>victōris</grapheme>
+    <grapheme>victoris</grapheme>
     <phoneme>viktorisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2676,11 +2971,13 @@
   </lexeme>
   <lexeme>
     <grapheme>cāsus</grapheme>
+    <grapheme>casus</grapheme>
     <grapheme>cāsūs</grapheme>
     <phoneme>kasusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>frangō</grapheme>
+    <grapheme>frango</grapheme>
     <phoneme>frangoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2689,34 +2986,42 @@
   </lexeme>
   <lexeme>
     <grapheme>frēgī</grapheme>
+    <grapheme>fregi</grapheme>
     <phoneme>freɡiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>frāctum</grapheme>
+    <grapheme>fractum</grapheme>
     <phoneme>fraktumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cīvitās</grapheme>
+    <grapheme>civitas</grapheme>
     <phoneme>tʃivitasː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cīvitātis</grapheme>
+    <grapheme>civitatis</grapheme>
     <phoneme>tʃivitatisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōscō</grapheme>
+    <grapheme>nosco</grapheme>
     <phoneme>noskoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōscere</grapheme>
+    <grapheme>noscere</grapheme>
     <phoneme>noskɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōvī</grapheme>
+    <grapheme>novi</grapheme>
     <phoneme>noviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōtum</grapheme>
+    <grapheme>notum</grapheme>
     <phoneme>notum</phoneme>
   </lexeme>
   <lexeme>
@@ -2725,22 +3030,27 @@
   </lexeme>
   <lexeme>
     <grapheme>proelī</grapheme>
+    <grapheme>proeli</grapheme>
     <phoneme>proɛliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ēripiō</grapheme>
+    <grapheme>eripio</grapheme>
     <phoneme>ɛripjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ēripere</grapheme>
+    <grapheme>eripere</grapheme>
     <phoneme>ɛripɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ēripuī</grapheme>
+    <grapheme>eripui</grapheme>
     <phoneme>ɛripuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ēreptum</grapheme>
+    <grapheme>ereptum</grapheme>
     <phoneme>ɛreptumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2749,6 +3059,7 @@
   </lexeme>
   <lexeme>
     <grapheme>mundī</grapheme>
+    <grapheme>mundi</grapheme>
     <phoneme>mundiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2765,6 +3076,7 @@
   </lexeme>
   <lexeme>
     <grapheme>nāvis</grapheme>
+    <grapheme>navis</grapheme>
     <phoneme>navisː</phoneme>
   </lexeme>
   <lexeme>
@@ -2781,14 +3093,17 @@
   </lexeme>
   <lexeme>
     <grapheme>hūmānus</grapheme>
+    <grapheme>humanus</grapheme>
     <phoneme>humanusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>hūmāna</grapheme>
+    <grapheme>humana</grapheme>
     <phoneme>humanaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>hūmānum</grapheme>
+    <grapheme>humanum</grapheme>
     <phoneme>humanumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2797,50 +3112,62 @@
   </lexeme>
   <lexeme>
     <grapheme>maneō</grapheme>
+    <grapheme>maneo</grapheme>
     <phoneme>maneoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>manēre</grapheme>
+    <grapheme>manere</grapheme>
     <phoneme>manere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mānsī</grapheme>
+    <grapheme>mansi</grapheme>
     <phoneme>mansiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mānsum</grapheme>
+    <grapheme>mansum</grapheme>
     <phoneme>mansumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>āgmen</grapheme>
+    <grapheme>agmen</grapheme>
     <phoneme>agmenː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>āgminis</grapheme>
+    <grapheme>agminis</grapheme>
     <phoneme>agminisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sīdus</grapheme>
+    <grapheme>sidus</grapheme>
     <phoneme>sidusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sīderis</grapheme>
+    <grapheme>sideris</grapheme>
     <phoneme>siderisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>glōria</grapheme>
+    <grapheme>gloria</grapheme>
     <phoneme>gloriaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>glōriae</grapheme>
+    <grapheme>gloriae</grapheme>
     <phoneme>gloriaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>diū</grapheme>
+    <grapheme>diu</grapheme>
     <phoneme>diuː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sīve</grapheme>
+    <grapheme>sive</grapheme>
     <phoneme>siveː</phoneme>
   </lexeme>
   <lexeme>
@@ -2857,14 +3184,17 @@
   </lexeme>
   <lexeme>
     <grapheme>tūtus</grapheme>
+    <grapheme>tutus</grapheme>
     <phoneme>tutusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tūta</grapheme>
+    <grapheme>tuta</grapheme>
     <phoneme>tutaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tūtum</grapheme>
+    <grapheme>tutum</grapheme>
     <phoneme>tutumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2873,30 +3203,37 @@
   </lexeme>
   <lexeme>
     <grapheme>aliēnus</grapheme>
+    <grapheme>alienus</grapheme>
     <phoneme>alienusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>aliēna</grapheme>
+    <grapheme>aliena</grapheme>
     <phoneme>alienaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>aliēnum</grapheme>
+    <grapheme>alienum</grapheme>
     <phoneme>alienumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>hūc</grapheme>
+    <grapheme>huc</grapheme>
     <phoneme>hukː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>taceō</grapheme>
+    <grapheme>taceo</grapheme>
     <phoneme>tatʃeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tacēre</grapheme>
+    <grapheme>tacere</grapheme>
     <phoneme>tatʃere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tacuī</grapheme>
+    <grapheme>tacui</grapheme>
     <phoneme>tatʃuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2905,14 +3242,17 @@
   </lexeme>
   <lexeme>
     <grapheme>legiō</grapheme>
+    <grapheme>legio</grapheme>
     <phoneme>ledʒioː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>legiōnis</grapheme>
+    <grapheme>legionis</grapheme>
     <phoneme>ledʒionisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ostendō</grapheme>
+    <grapheme>ostendo</grapheme>
     <phoneme>ostendoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2921,6 +3261,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ostendī</grapheme>
+    <grapheme>ostendi</grapheme>
     <phoneme>ostendiː</phoneme>
   </lexeme>
   <lexeme>
@@ -2937,6 +3278,7 @@
   </lexeme>
   <lexeme>
     <grapheme>prōsum</grapheme>
+    <grapheme>prosum</grapheme>
     <phoneme>prosumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2945,18 +3287,22 @@
   </lexeme>
   <lexeme>
     <grapheme>profuī</grapheme>
+    <grapheme>profui</grapheme>
     <phoneme>profuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>āra</grapheme>
+    <grapheme>ara</grapheme>
     <phoneme>araː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ārae</grapheme>
+    <grapheme>arae</grapheme>
     <phoneme>araeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lūmen</grapheme>
+    <grapheme>lumen</grapheme>
     <phoneme>lumenː</phoneme>
   </lexeme>
   <lexeme>
@@ -2965,6 +3311,7 @@
   </lexeme>
   <lexeme>
     <grapheme>tegō</grapheme>
+    <grapheme>tego</grapheme>
     <phoneme>tegoː</phoneme>
   </lexeme>
   <lexeme>
@@ -2973,10 +3320,12 @@
   </lexeme>
   <lexeme>
     <grapheme>tēxī</grapheme>
+    <grapheme>texi</grapheme>
     <phoneme>teksiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tēctum</grapheme>
+    <grapheme>tectum</grapheme>
     <phoneme>tektumː</phoneme>
   </lexeme>
   <lexeme>
@@ -2985,30 +3334,37 @@
   </lexeme>
   <lexeme>
     <grapheme>voluptās</grapheme>
+    <grapheme>voluptas</grapheme>
     <phoneme>voluptasː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>voluptātis</grapheme>
+    <grapheme>voluptatis</grapheme>
     <phoneme>voluptatisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>adhūc</grapheme>
+    <grapheme>adhuc</grapheme>
     <phoneme>adhukː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>grātia</grapheme>
+    <grapheme>gratia</grapheme>
     <phoneme>gratiaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>grātiae</grapheme>
+    <grapheme>gratiae</grapheme>
     <phoneme>gratiaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iniūria</grapheme>
+    <grapheme>iniuria</grapheme>
     <phoneme>iniuriaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iniūriae</grapheme>
+    <grapheme>iniuriae</grapheme>
     <phoneme>iniuriaeː</phoneme>
   </lexeme>
   <lexeme>
@@ -3033,18 +3389,22 @@
   </lexeme>
   <lexeme>
     <grapheme>extrēmus</grapheme>
+    <grapheme>extremus</grapheme>
     <phoneme>ɛkstremusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>extrēma</grapheme>
+    <grapheme>extrema</grapheme>
     <phoneme>ɛkstremaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>extrēmum</grapheme>
+    <grapheme>extremum</grapheme>
     <phoneme>ɛkstremumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>tēctī</grapheme>
+    <grapheme>tecti</grapheme>
     <phoneme>tektiː</phoneme>
   </lexeme>
   <lexeme>
@@ -3053,18 +3413,22 @@
   </lexeme>
   <lexeme>
     <grapheme>ingeniī</grapheme>
+    <grapheme>ingenii</grapheme>
     <phoneme>indʒeniiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pāx</grapheme>
+    <grapheme>pax</grapheme>
     <phoneme>paksː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pācis</grapheme>
+    <grapheme>pacis</grapheme>
     <phoneme>pakisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>canō</grapheme>
+    <grapheme>cano</grapheme>
     <phoneme>kanoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3073,6 +3437,7 @@
   </lexeme>
   <lexeme>
     <grapheme>cecinī</grapheme>
+    <grapheme>cecini</grapheme>
     <phoneme>tʃekiniː</phoneme>
   </lexeme>
   <lexeme>
@@ -3081,18 +3446,22 @@
   </lexeme>
   <lexeme>
     <grapheme>iuvō</grapheme>
+    <grapheme>iuvo</grapheme>
     <phoneme>juvoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iuvāre</grapheme>
+    <grapheme>iuvare</grapheme>
     <phoneme>juvareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iūvī</grapheme>
+    <grapheme>iuvi</grapheme>
     <phoneme>juviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iūtum</grapheme>
+    <grapheme>iutum</grapheme>
     <phoneme>jutumː</phoneme>
   </lexeme>
   <lexeme>
@@ -3101,10 +3470,12 @@
   </lexeme>
   <lexeme>
     <grapheme>campī</grapheme>
+    <grapheme>campi</grapheme>
     <phoneme>kampiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>claudō</grapheme>
+    <grapheme>claudo</grapheme>
     <phoneme>klawdoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3113,6 +3484,7 @@
   </lexeme>
   <lexeme>
     <grapheme>clausī</grapheme>
+    <grapheme>clausi</grapheme>
     <phoneme>klausiː</phoneme>
   </lexeme>
   <lexeme>
@@ -3121,14 +3493,17 @@
   </lexeme>
   <lexeme>
     <grapheme>doceō</grapheme>
+    <grapheme>doceo</grapheme>
     <phoneme>dokɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>docēre</grapheme>
+    <grapheme>docere</grapheme>
     <phoneme>dokɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>docuī</grapheme>
+    <grapheme>docui</grapheme>
     <phoneme>dokuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -3137,6 +3512,7 @@
   </lexeme>
   <lexeme>
     <grapheme>excipiō</grapheme>
+    <grapheme>excipio</grapheme>
     <phoneme>ɛksitʃipjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3145,6 +3521,7 @@
   </lexeme>
   <lexeme>
     <grapheme>excēpī</grapheme>
+    <grapheme>excepi</grapheme>
     <phoneme>ɛksitʃepiː</phoneme>
   </lexeme>
   <lexeme>
@@ -3153,18 +3530,22 @@
   </lexeme>
   <lexeme>
     <grapheme>clārus</grapheme>
+    <grapheme>clarus</grapheme>
     <phoneme>klarusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>clāra</grapheme>
+    <grapheme>clara</grapheme>
     <phoneme>klaraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>clārum</grapheme>
+    <grapheme>clarum</grapheme>
     <phoneme>klarumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>illīc</grapheme>
+    <grapheme>illic</grapheme>
     <phoneme>illikː</phoneme>
   </lexeme>
   <lexeme>
@@ -3193,6 +3574,7 @@
   </lexeme>
   <lexeme>
     <grapheme>longē</grapheme>
+    <grapheme>longe</grapheme>
     <phoneme>longeː</phoneme>
   </lexeme>
   <lexeme>
@@ -3201,22 +3583,27 @@
   </lexeme>
   <lexeme>
     <grapheme>errō</grapheme>
+    <grapheme>erro</grapheme>
     <phoneme>ɛrroː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>errāre</grapheme>
+    <grapheme>errare</grapheme>
     <phoneme>ɛrrareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sēdēs</grapheme>
+    <grapheme>sedes</grapheme>
     <phoneme>sedesː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sēdis</grapheme>
+    <grapheme>sedis</grapheme>
     <phoneme>sɛdɪsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cūr</grapheme>
+    <grapheme>cur</grapheme>
     <phoneme>kurː</phoneme>
   </lexeme>
   <lexeme>
@@ -3229,50 +3616,62 @@
   </lexeme>
   <lexeme>
     <grapheme>aiō</grapheme>
+    <grapheme>aio</grapheme>
     <phoneme>ajoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>gaudeō</grapheme>
+    <grapheme>gaudeo</grapheme>
     <phoneme>gaudeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>gaudēre</grapheme>
+    <grapheme>gaudere</grapheme>
     <phoneme>gaudɛrɛ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>beātus</grapheme>
+    <grapheme>beatus</grapheme>
     <phoneme>beatʊsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>beāta</grapheme>
+    <grapheme>beata</grapheme>
     <phoneme>beataː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>beātum</grapheme>
+    <grapheme>beatum</grapheme>
     <phoneme>beatumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>perveniō</grapheme>
+    <grapheme>pervenio</grapheme>
     <phoneme>pɛrvɛnjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pervenīre</grapheme>
+    <grapheme>pervenire</grapheme>
     <phoneme>pɛrvɛnire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vērus</grapheme>
+    <grapheme>verus</grapheme>
     <phoneme>verʊsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vēra</grapheme>
+    <grapheme>vera</grapheme>
     <phoneme>veraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vērum</grapheme>
+    <grapheme>verum</grapheme>
     <phoneme>verʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>incipiō</grapheme>
+    <grapheme>incipio</grapheme>
     <phoneme>intʃipjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3281,6 +3680,7 @@
   </lexeme>
   <lexeme>
     <grapheme>parcō</grapheme>
+    <grapheme>parco</grapheme>
     <phoneme>parkoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3301,26 +3701,32 @@
   </lexeme>
   <lexeme>
     <grapheme>caedēs</grapheme>
+    <grapheme>caedes</grapheme>
     <phoneme>kɛdɛsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ōrdō</grapheme>
+    <grapheme>ordo</grapheme>
     <phoneme>ordoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>optō</grapheme>
+    <grapheme>opto</grapheme>
     <phoneme>optoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>optāre</grapheme>
+    <grapheme>optare</grapheme>
     <phoneme>optareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>virgō</grapheme>
+    <grapheme>virgo</grapheme>
     <phoneme>virgoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>legō</grapheme>
+    <grapheme>lego</grapheme>
     <phoneme>lɛgoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3337,14 +3743,17 @@
   </lexeme>
   <lexeme>
     <grapheme>fōrma</grapheme>
+    <grapheme>forma</grapheme>
     <phoneme>formaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>praestō</grapheme>
+    <grapheme>praesto</grapheme>
     <phoneme>praɛstoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>praestāre</grapheme>
+    <grapheme>praestare</grapheme>
     <phoneme>praɛstareː</phoneme>
   </lexeme>
   <lexeme>
@@ -3353,10 +3762,12 @@
   </lexeme>
   <lexeme>
     <grapheme>misceō</grapheme>
+    <grapheme>misceo</grapheme>
     <phoneme>miskɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>miscēre</grapheme>
+    <grapheme>miscere</grapheme>
     <phoneme>miskɛrɛ</phoneme>
   </lexeme>
   <lexeme>
@@ -3369,18 +3780,22 @@
   </lexeme>
   <lexeme>
     <grapheme>īnferus</grapheme>
+    <grapheme>inferus</grapheme>
     <phoneme>inferʊsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>īnfera</grapheme>
+    <grapheme>infera</grapheme>
     <phoneme>inferaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>īnferum</grapheme>
+    <grapheme>inferum</grapheme>
     <phoneme>inferʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>metuō</grapheme>
+    <grapheme>metuo</grapheme>
     <phoneme>metwoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3389,18 +3804,22 @@
   </lexeme>
   <lexeme>
     <grapheme>temptō</grapheme>
+    <grapheme>tempto</grapheme>
     <phoneme>temptoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>temptāre</grapheme>
+    <grapheme>temptare</grapheme>
     <phoneme>temptareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>trānseō</grapheme>
+    <grapheme>transeo</grapheme>
     <phoneme>transeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>trānsīre</grapheme>
+    <grapheme>transire</grapheme>
     <phoneme>transire</phoneme>
   </lexeme>
   <lexeme>
@@ -3417,6 +3836,7 @@
   </lexeme>
   <lexeme>
     <grapheme>addō</grapheme>
+    <grapheme>addo</grapheme>
     <phoneme>addoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3425,34 +3845,42 @@
   </lexeme>
   <lexeme>
     <grapheme>grātus</grapheme>
+    <grapheme>gratus</grapheme>
     <phoneme>gratusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>grāta</grapheme>
+    <grapheme>grata</grapheme>
     <phoneme>grataː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>grātum</grapheme>
+    <grapheme>gratum</grapheme>
     <phoneme>gratumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>laudō</grapheme>
+    <grapheme>laudo</grapheme>
     <phoneme>laudoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>laudāre</grapheme>
+    <grapheme>laudare</grapheme>
     <phoneme>laudareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōndum</grapheme>
+    <grapheme>nondum</grapheme>
     <phoneme>nondum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>impōnō</grapheme>
+    <grapheme>impono</grapheme>
     <phoneme>imponoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>impōnere</grapheme>
+    <grapheme>imponere</grapheme>
     <phoneme>imponɛre</phoneme>
   </lexeme>
   <lexeme>
@@ -3461,14 +3889,17 @@
   </lexeme>
   <lexeme>
     <grapheme>aciēs</grapheme>
+    <grapheme>acies</grapheme>
     <phoneme>atʃiɛs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rūrsus</grapheme>
+    <grapheme>rursus</grapheme>
     <phoneme>rursusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cupiō</grapheme>
+    <grapheme>cupio</grapheme>
     <phoneme>kupjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3477,18 +3908,22 @@
   </lexeme>
   <lexeme>
     <grapheme>exspectō</grapheme>
+    <grapheme>exspecto</grapheme>
     <phoneme>ɛkspɛktoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exspectāre</grapheme>
+    <grapheme>exspectare</grapheme>
     <phoneme>ɛkspɛktareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>compōnō</grapheme>
+    <grapheme>compono</grapheme>
     <phoneme>komponoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>compōnere</grapheme>
+    <grapheme>componere</grapheme>
     <phoneme>komponɛre</phoneme>
   </lexeme>
   <lexeme>
@@ -3537,50 +3972,62 @@
   </lexeme>
   <lexeme>
     <grapheme>nūmen</grapheme>
+    <grapheme>numen</grapheme>
     <phoneme>numɛnː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūminis</grapheme>
+    <grapheme>numinis</grapheme>
     <phoneme>numinisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sapiēns</grapheme>
+    <grapheme>sapiens</grapheme>
     <phoneme>sapjɛnsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sūmō</grapheme>
+    <grapheme>sumo</grapheme>
     <phoneme>sumoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sūmere</grapheme>
+    <grapheme>sumere</grapheme>
     <phoneme>sumɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōbilis</grapheme>
+    <grapheme>nobilis</grapheme>
     <phoneme>nobɪlis</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>quīn</grapheme>
+    <grapheme>quin</grapheme>
     <phoneme>kwinː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fleō</grapheme>
+    <grapheme>fleo</grapheme>
     <phoneme>fleoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>flēre</grapheme>
+    <grapheme>flere</grapheme>
     <phoneme>flɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōlō</grapheme>
+    <grapheme>nolo</grapheme>
     <phoneme>noloː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōlle</grapheme>
+    <grapheme>nolle</grapheme>
     <phoneme>nolle</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>plēnus</grapheme>
+    <grapheme>plenus</grapheme>
     <phoneme>plenusː</phoneme>
   </lexeme>
   <lexeme>
@@ -3601,18 +4048,22 @@
   </lexeme>
   <lexeme>
     <grapheme>cārus</grapheme>
+    <grapheme>carus</grapheme>
     <phoneme>karusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēsum</grapheme>
+    <grapheme>desum</grapheme>
     <phoneme>desumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lēgātus</grapheme>
+    <grapheme>legatus</grapheme>
     <phoneme>legatusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>discō</grapheme>
+    <grapheme>disco</grapheme>
     <phoneme>diskoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3641,22 +4092,27 @@
   </lexeme>
   <lexeme>
     <grapheme>cīvis</grapheme>
+    <grapheme>civis</grapheme>
     <phoneme>tʃivis</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>occupō</grapheme>
+    <grapheme>occupo</grapheme>
     <phoneme>okkupoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>occupāre</grapheme>
+    <grapheme>occupare</grapheme>
     <phoneme>okkupareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>spectō</grapheme>
+    <grapheme>specto</grapheme>
     <phoneme>spɛktoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>spectāre</grapheme>
+    <grapheme>spectare</grapheme>
     <phoneme>spɛktareː</phoneme>
   </lexeme>
   <lexeme>
@@ -3665,18 +4121,22 @@
   </lexeme>
   <lexeme>
     <grapheme>crīmen</grapheme>
+    <grapheme>crimen</grapheme>
     <phoneme>krimɛnː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dōnum</grapheme>
+    <grapheme>donum</grapheme>
     <phoneme>donumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōtus</grapheme>
+    <grapheme>notus</grapheme>
     <phoneme>notusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nōta</grapheme>
+    <grapheme>nota</grapheme>
     <phoneme>notaː</phoneme>
   </lexeme>
   <lexeme>
@@ -3685,10 +4145,12 @@
   </lexeme>
   <lexeme>
     <grapheme>faciēs</grapheme>
+    <grapheme>facies</grapheme>
     <phoneme>fatʃiɛs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rumpō</grapheme>
+    <grapheme>rumpo</grapheme>
     <phoneme>rumpoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3705,6 +4167,7 @@
   </lexeme>
   <lexeme>
     <grapheme>aspiciō</grapheme>
+    <grapheme>aspicio</grapheme>
     <phoneme>aspiʧjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3725,22 +4188,27 @@
   </lexeme>
   <lexeme>
     <grapheme>āmittō</grapheme>
+    <grapheme>amitto</grapheme>
     <phoneme>amittoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>āmittere</grapheme>
+    <grapheme>amittere</grapheme>
     <phoneme>amittɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pōscō</grapheme>
+    <grapheme>posco</grapheme>
     <phoneme>poskoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pōscere</grapheme>
+    <grapheme>poscere</grapheme>
     <phoneme>poskɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>perdō</grapheme>
+    <grapheme>perdo</grapheme>
     <phoneme>perdoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3749,6 +4217,7 @@
   </lexeme>
   <lexeme>
     <grapheme>quamvīs</grapheme>
+    <grapheme>quamvis</grapheme>
     <phoneme>kʷamvisː</phoneme>
   </lexeme>
   <lexeme>
@@ -3781,6 +4250,7 @@
   </lexeme>
   <lexeme>
     <grapheme>contingō</grapheme>
+    <grapheme>contingo</grapheme>
     <phoneme>kontingoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3789,6 +4259,7 @@
   </lexeme>
   <lexeme>
     <grapheme>lībertās</grapheme>
+    <grapheme>libertas</grapheme>
     <phoneme>libertasː</phoneme>
   </lexeme>
   <lexeme>
@@ -3805,10 +4276,12 @@
   </lexeme>
   <lexeme>
     <grapheme>quīppe</grapheme>
+    <grapheme>quippe</grapheme>
     <phoneme>kʷippɛ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exigō</grapheme>
+    <grapheme>exigo</grapheme>
     <phoneme>eksigoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3817,6 +4290,7 @@
   </lexeme>
   <lexeme>
     <grapheme>fēmina</grapheme>
+    <grapheme>femina</grapheme>
     <phoneme>feminaː</phoneme>
   </lexeme>
   <lexeme>
@@ -3833,6 +4307,7 @@
   </lexeme>
   <lexeme>
     <grapheme>fallō</grapheme>
+    <grapheme>fallo</grapheme>
     <phoneme>falloː</phoneme>
   </lexeme>
   <lexeme>
@@ -3841,10 +4316,12 @@
   </lexeme>
   <lexeme>
     <grapheme>mīror</grapheme>
+    <grapheme>miror</grapheme>
     <phoneme>mirorː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mīrārī</grapheme>
+    <grapheme>mirari</grapheme>
     <phoneme>mirariː</phoneme>
   </lexeme>
   <lexeme>
@@ -3853,14 +4330,17 @@
   </lexeme>
   <lexeme>
     <grapheme>sedeō</grapheme>
+    <grapheme>sedeo</grapheme>
     <phoneme>sɛdɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sedēre</grapheme>
+    <grapheme>sedere</grapheme>
     <phoneme>sɛdɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>singulī</grapheme>
+    <grapheme>singuli</grapheme>
     <phoneme>singuliː</phoneme>
   </lexeme>
   <lexeme>
@@ -3873,14 +4353,17 @@
   </lexeme>
   <lexeme>
     <grapheme>mūrus</grapheme>
+    <grapheme>murus</grapheme>
     <phoneme>murusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>noceō</grapheme>
+    <grapheme>noceo</grapheme>
     <phoneme>noʧɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nocēre</grapheme>
+    <grapheme>nocere</grapheme>
     <phoneme>noʧɛre</phoneme>
   </lexeme>
   <lexeme>
@@ -3897,6 +4380,7 @@
   </lexeme>
   <lexeme>
     <grapheme>intellegō</grapheme>
+    <grapheme>intellego</grapheme>
     <phoneme>intɛllɛgoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3905,6 +4389,7 @@
   </lexeme>
   <lexeme>
     <grapheme>iungō</grapheme>
+    <grapheme>iungo</grapheme>
     <phoneme>jungoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3913,6 +4398,7 @@
   </lexeme>
   <lexeme>
     <grapheme>afferō</grapheme>
+    <grapheme>affero</grapheme>
     <phoneme>affɛroː</phoneme>
   </lexeme>
   <lexeme>
@@ -3921,26 +4407,32 @@
   </lexeme>
   <lexeme>
     <grapheme>cōgitō</grapheme>
+    <grapheme>cogito</grapheme>
     <phoneme>kogitoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōgitāre</grapheme>
+    <grapheme>cogitare</grapheme>
     <phoneme>kogitareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>līmen</grapheme>
+    <grapheme>limen</grapheme>
     <phoneme>limɛnː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>līminis</grapheme>
+    <grapheme>liminis</grapheme>
     <phoneme>liminisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pūblicus</grapheme>
+    <grapheme>publicus</grapheme>
     <phoneme>publicʊsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pūblica</grapheme>
+    <grapheme>publica</grapheme>
     <phoneme>publicaː</phoneme>
   </lexeme>
   <lexeme>
@@ -3949,6 +4441,7 @@
   </lexeme>
   <lexeme>
     <grapheme>querī</grapheme>
+    <grapheme>queri</grapheme>
     <phoneme>kʷɛriː</phoneme>
   </lexeme>
   <lexeme>
@@ -3965,10 +4458,12 @@
   </lexeme>
   <lexeme>
     <grapheme>dubitō</grapheme>
+    <grapheme>dubito</grapheme>
     <phoneme>dubitoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dubitāre</grapheme>
+    <grapheme>dubitare</grapheme>
     <phoneme>dubitareː</phoneme>
   </lexeme>
   <lexeme>
@@ -3977,6 +4472,7 @@
   </lexeme>
   <lexeme>
     <grapheme>fundō</grapheme>
+    <grapheme>fundo</grapheme>
     <phoneme>fundoː</phoneme>
   </lexeme>
   <lexeme>
@@ -3985,18 +4481,22 @@
   </lexeme>
   <lexeme>
     <grapheme>fūnus</grapheme>
+    <grapheme>funus</grapheme>
     <phoneme>funusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fūneris</grapheme>
+    <grapheme>funeris</grapheme>
     <phoneme>funɛrisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nesciō</grapheme>
+    <grapheme>nescio</grapheme>
     <phoneme>nɛstʃjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nescīre</grapheme>
+    <grapheme>nescire</grapheme>
     <phoneme>nɛstʃire</phoneme>
   </lexeme>
   <lexeme>
@@ -4005,6 +4505,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ūsque</grapheme>
+    <grapheme>usque</grapheme>
     <phoneme>uskweː</phoneme>
   </lexeme>
   <lexeme>
@@ -4017,6 +4518,7 @@
   </lexeme>
   <lexeme>
     <grapheme>tendō</grapheme>
+    <grapheme>tendo</grapheme>
     <phoneme>tendoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4025,6 +4527,7 @@
   </lexeme>
   <lexeme>
     <grapheme>pecūnia</grapheme>
+    <grapheme>pecunia</grapheme>
     <phoneme>pekunjaː</phoneme>
   </lexeme>
   <lexeme>
@@ -4033,6 +4536,7 @@
   </lexeme>
   <lexeme>
     <grapheme>spargō</grapheme>
+    <grapheme>spargo</grapheme>
     <phoneme>spargoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4041,6 +4545,7 @@
   </lexeme>
   <lexeme>
     <grapheme>trēs</grapheme>
+    <grapheme>tres</grapheme>
     <phoneme>trɛs</phoneme>
   </lexeme>
   <lexeme>
@@ -4049,6 +4554,7 @@
   </lexeme>
   <lexeme>
     <grapheme>tangō</grapheme>
+    <grapheme>tango</grapheme>
     <phoneme>tangoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4057,10 +4563,12 @@
   </lexeme>
   <lexeme>
     <grapheme>respondeō</grapheme>
+    <grapheme>respondeo</grapheme>
     <phoneme>rɛspondɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>respondēre</grapheme>
+    <grapheme>respondere</grapheme>
     <phoneme>rɛspondɛre</phoneme>
   </lexeme>
   <lexeme>
@@ -4069,30 +4577,37 @@
   </lexeme>
   <lexeme>
     <grapheme>properō</grapheme>
+    <grapheme>propero</grapheme>
     <phoneme>propɛroː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>properāre</grapheme>
+    <grapheme>properare</grapheme>
     <phoneme>propɛrareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>subeō</grapheme>
+    <grapheme>subeo</grapheme>
     <phoneme>subɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>subīre</grapheme>
+    <grapheme>subire</grapheme>
     <phoneme>subire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>valeō</grapheme>
+    <grapheme>valeo</grapheme>
     <phoneme>valɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>valēre</grapheme>
+    <grapheme>valere</grapheme>
     <phoneme>valɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>condō</grapheme>
+    <grapheme>condo</grapheme>
     <phoneme>kondoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4101,6 +4616,7 @@
   </lexeme>
   <lexeme>
     <grapheme>nefās</grapheme>
+    <grapheme>nefas</grapheme>
     <phoneme>nefasː</phoneme>
   </lexeme>
   <lexeme>
@@ -4113,18 +4629,22 @@
   </lexeme>
   <lexeme>
     <grapheme>dēserō</grapheme>
+    <grapheme>desero</grapheme>
     <phoneme>desɛroː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēserere</grapheme>
+    <grapheme>deserere</grapheme>
     <phoneme>desɛrɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūdus</grapheme>
+    <grapheme>nudus</grapheme>
     <phoneme>nudusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nūda</grapheme>
+    <grapheme>nuda</grapheme>
     <phoneme>nudaː</phoneme>
   </lexeme>
   <lexeme>
@@ -4133,6 +4653,7 @@
   </lexeme>
   <lexeme>
     <grapheme>animālis</grapheme>
+    <grapheme>animalis</grapheme>
     <phoneme>animalisː</phoneme>
   </lexeme>
   <lexeme>
@@ -4145,30 +4666,37 @@
   </lexeme>
   <lexeme>
     <grapheme>salūs</grapheme>
+    <grapheme>salus</grapheme>
     <phoneme>salusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>salūtis</grapheme>
+    <grapheme>salutis</grapheme>
     <phoneme>salutisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pateō</grapheme>
+    <grapheme>pateo</grapheme>
     <phoneme>patɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>patēre</grapheme>
+    <grapheme>patere</grapheme>
     <phoneme>patɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>patuī</grapheme>
+    <grapheme>patui</grapheme>
     <phoneme>patuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rogō</grapheme>
+    <grapheme>rogo</grapheme>
     <phoneme>rogoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rogāre</grapheme>
+    <grapheme>rogare</grapheme>
     <phoneme>rogareː</phoneme>
   </lexeme>
   <lexeme>
@@ -4177,30 +4705,37 @@
   </lexeme>
   <lexeme>
     <grapheme>uxōris</grapheme>
+    <grapheme>uxoris</grapheme>
     <phoneme>uksorisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>abeō</grapheme>
+    <grapheme>abeo</grapheme>
     <phoneme>abeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>abeīre</grapheme>
+    <grapheme>abeire</grapheme>
     <phoneme>abeire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>abeīī</grapheme>
+    <grapheme>abeii</grapheme>
     <phoneme>abeiiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>abeītum</grapheme>
+    <grapheme>abeitum</grapheme>
     <phoneme>abeitumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>adeō</grapheme>
+    <grapheme>adeo</grapheme>
     <phoneme>adeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>auferō</grapheme>
+    <grapheme>aufero</grapheme>
     <phoneme>auferoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4209,10 +4744,12 @@
   </lexeme>
   <lexeme>
     <grapheme>abstulī</grapheme>
+    <grapheme>abstuli</grapheme>
     <phoneme>abstuliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ablātum</grapheme>
+    <grapheme>ablatum</grapheme>
     <phoneme>ablatumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4225,6 +4762,7 @@
   </lexeme>
   <lexeme>
     <grapheme>frōns</grapheme>
+    <grapheme>frons</grapheme>
     <phoneme>fronsː</phoneme>
   </lexeme>
   <lexeme>
@@ -4237,18 +4775,22 @@
   </lexeme>
   <lexeme>
     <grapheme>rēgius</grapheme>
+    <grapheme>regius</grapheme>
     <phoneme>regjusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rēgia</grapheme>
+    <grapheme>regia</grapheme>
     <phoneme>rɛgjaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rēgium</grapheme>
+    <grapheme>regium</grapheme>
     <phoneme>rɛgjʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>currō</grapheme>
+    <grapheme>curro</grapheme>
     <phoneme>kurroː</phoneme>
   </lexeme>
   <lexeme>
@@ -4257,6 +4799,7 @@
   </lexeme>
   <lexeme>
     <grapheme>cucurrī</grapheme>
+    <grapheme>cucurri</grapheme>
     <phoneme>kukurriː</phoneme>
   </lexeme>
   <lexeme>
@@ -4265,6 +4808,7 @@
   </lexeme>
   <lexeme>
     <grapheme>pellō</grapheme>
+    <grapheme>pello</grapheme>
     <phoneme>pɛlloː</phoneme>
   </lexeme>
   <lexeme>
@@ -4273,6 +4817,7 @@
   </lexeme>
   <lexeme>
     <grapheme>pepulī</grapheme>
+    <grapheme>pepuli</grapheme>
     <phoneme>pɛpuliː</phoneme>
   </lexeme>
   <lexeme>
@@ -4281,18 +4826,22 @@
   </lexeme>
   <lexeme>
     <grapheme>dīves</grapheme>
+    <grapheme>dives</grapheme>
     <phoneme>divɛsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīvitis</grapheme>
+    <grapheme>divitis</grapheme>
     <phoneme>divitisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iūdicō</grapheme>
+    <grapheme>iudico</grapheme>
     <phoneme>judikoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>iūdicāre</grapheme>
+    <grapheme>iudicare</grapheme>
     <phoneme>judikareː</phoneme>
   </lexeme>
   <lexeme>
@@ -4305,6 +4854,7 @@
   </lexeme>
   <lexeme>
     <grapheme>potēns</grapheme>
+    <grapheme>potens</grapheme>
     <phoneme>potɛnsː</phoneme>
   </lexeme>
   <lexeme>
@@ -4313,18 +4863,22 @@
   </lexeme>
   <lexeme>
     <grapheme>scrībō</grapheme>
+    <grapheme>scribo</grapheme>
     <phoneme>skriboː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>scrībere</grapheme>
+    <grapheme>scribere</grapheme>
     <phoneme>skribɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>scrīpsī</grapheme>
+    <grapheme>scripsi</grapheme>
     <phoneme>skripsiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>scrīptum</grapheme>
+    <grapheme>scriptum</grapheme>
     <phoneme>skriptumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4341,6 +4895,7 @@
   </lexeme>
   <lexeme>
     <grapheme>surgō</grapheme>
+    <grapheme>surgo</grapheme>
     <phoneme>surgoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4349,30 +4904,37 @@
   </lexeme>
   <lexeme>
     <grapheme>surrēxī</grapheme>
+    <grapheme>surrexi</grapheme>
     <phoneme>surreksiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>surrēctum</grapheme>
+    <grapheme>surrectum</grapheme>
     <phoneme>surrektumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cēterum</grapheme>
+    <grapheme>ceterum</grapheme>
     <phoneme>tʃeterʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>careō</grapheme>
+    <grapheme>careo</grapheme>
     <phoneme>kareoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>carēre</grapheme>
+    <grapheme>carere</grapheme>
     <phoneme>karɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>caruī</grapheme>
+    <grapheme>carui</grapheme>
     <phoneme>karuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>efficiō</grapheme>
+    <grapheme>efficio</grapheme>
     <phoneme>effitʃjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4381,6 +4943,7 @@
   </lexeme>
   <lexeme>
     <grapheme>effēcī</grapheme>
+    <grapheme>effeci</grapheme>
     <phoneme>effetʃiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4389,26 +4952,32 @@
   </lexeme>
   <lexeme>
     <grapheme>ōlim</grapheme>
+    <grapheme>olim</grapheme>
     <phoneme>olimː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sermō</grapheme>
+    <grapheme>sermo</grapheme>
     <phoneme>sermoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sermōnis</grapheme>
+    <grapheme>sermonis</grapheme>
     <phoneme>sermonisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exerceō</grapheme>
+    <grapheme>exerceo</grapheme>
     <phoneme>ɛksɛrtʃɛoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exercēre</grapheme>
+    <grapheme>exercere</grapheme>
     <phoneme>ɛksɛrtʃɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exercuī</grapheme>
+    <grapheme>exercui</grapheme>
     <phoneme>ɛksɛrtʃuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4425,10 +4994,12 @@
   </lexeme>
   <lexeme>
     <grapheme>agitō</grapheme>
+    <grapheme>agito</grapheme>
     <phoneme>adʒitoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>agitāre</grapheme>
+    <grapheme>agitare</grapheme>
     <phoneme>adʒitareː</phoneme>
   </lexeme>
   <lexeme>
@@ -4453,10 +5024,12 @@
   </lexeme>
   <lexeme>
     <grapheme>morārī</grapheme>
+    <grapheme>morari</grapheme>
     <phoneme>morariː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>morātus sum</grapheme>
+    <grapheme>moratus sum</grapheme>
     <phoneme>moratus sʊmː</phoneme>
   </lexeme>
   <lexeme>
@@ -4465,18 +5038,22 @@
   </lexeme>
   <lexeme>
     <grapheme>praesidī</grapheme>
+    <grapheme>praesidi</grapheme>
     <phoneme>praesidjiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sonō</grapheme>
+    <grapheme>sono</grapheme>
     <phoneme>sonoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sonāre</grapheme>
+    <grapheme>sonare</grapheme>
     <phoneme>sonareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sonuī</grapheme>
+    <grapheme>sonui</grapheme>
     <phoneme>sonuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4485,14 +5062,17 @@
   </lexeme>
   <lexeme>
     <grapheme>praebeō</grapheme>
+    <grapheme>praebeo</grapheme>
     <phoneme>praebeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>praebēre</grapheme>
+    <grapheme>praebere</grapheme>
     <phoneme>praebɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>praeuī</grapheme>
+    <grapheme>praeui</grapheme>
     <phoneme>praeuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4501,10 +5081,12 @@
   </lexeme>
   <lexeme>
     <grapheme>regiō</grapheme>
+    <grapheme>regio</grapheme>
     <phoneme>rɛgjoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>regiōnis</grapheme>
+    <grapheme>regionis</grapheme>
     <phoneme>rɛgjonisː</phoneme>
   </lexeme>
   <lexeme>
@@ -4517,18 +5099,22 @@
   </lexeme>
   <lexeme>
     <grapheme>ācer</grapheme>
+    <grapheme>acer</grapheme>
     <phoneme>atʃerː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ācris</grapheme>
+    <grapheme>acris</grapheme>
     <phoneme>akrisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ācre</grapheme>
+    <grapheme>acre</grapheme>
     <phoneme>akreː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>suprā</grapheme>
+    <grapheme>supra</grapheme>
     <phoneme>supraː</phoneme>
   </lexeme>
   <lexeme>
@@ -4557,18 +5143,22 @@
   </lexeme>
   <lexeme>
     <grapheme>cornūs</grapheme>
+    <grapheme>cornus</grapheme>
     <phoneme>kornusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ingrātus</grapheme>
+    <grapheme>ingratus</grapheme>
     <phoneme>ingratusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ingrāta</grapheme>
+    <grapheme>ingrata</grapheme>
     <phoneme>ingrataː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ingrātum</grapheme>
+    <grapheme>ingratum</grapheme>
     <phoneme>ingratumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4585,14 +5175,17 @@
   </lexeme>
   <lexeme>
     <grapheme>vinculī</grapheme>
+    <grapheme>vinculi</grapheme>
     <phoneme>vinkuliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>adeīre</grapheme>
+    <grapheme>adeire</grapheme>
     <phoneme>adeire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>adeiī</grapheme>
+    <grapheme>adeii</grapheme>
     <phoneme>adeiiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4601,22 +5194,27 @@
   </lexeme>
   <lexeme>
     <grapheme>cēterus</grapheme>
+    <grapheme>ceterus</grapheme>
     <phoneme>tʃeterʊsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cētera</grapheme>
+    <grapheme>cetera</grapheme>
     <phoneme>tʃeteraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exeō</grapheme>
+    <grapheme>exeo</grapheme>
     <phoneme>ekseoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exeīre</grapheme>
+    <grapheme>exeire</grapheme>
     <phoneme>ekseire</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exeiī</grapheme>
+    <grapheme>exeii</grapheme>
     <phoneme>ekseiiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4625,38 +5223,47 @@
   </lexeme>
   <lexeme>
     <grapheme>mālō</grapheme>
+    <grapheme>malo</grapheme>
     <phoneme>maloː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mālle</grapheme>
+    <grapheme>malle</grapheme>
     <phoneme>malle</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>māluī</grapheme>
+    <grapheme>malui</grapheme>
     <phoneme>maluiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>speciēs</grapheme>
+    <grapheme>species</grapheme>
     <phoneme>spetʃiɛs</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>speciēī</grapheme>
+    <grapheme>speciei</grapheme>
     <phoneme>spetʃieiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ultrā</grapheme>
+    <grapheme>ultra</grapheme>
     <phoneme>ultraː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>certē</grapheme>
+    <grapheme>certe</grapheme>
     <phoneme>tʃerteː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>imperō</grapheme>
+    <grapheme>impero</grapheme>
     <phoneme>imperoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>imperāre</grapheme>
+    <grapheme>imperare</grapheme>
     <phoneme>imperareː</phoneme>
   </lexeme>
   <lexeme>
@@ -4665,14 +5272,17 @@
   </lexeme>
   <lexeme>
     <grapheme>prohibeō</grapheme>
+    <grapheme>prohibeo</grapheme>
     <phoneme>prohibeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prohibēre</grapheme>
+    <grapheme>prohibere</grapheme>
     <phoneme>prohibɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prohibuī</grapheme>
+    <grapheme>prohibui</grapheme>
     <phoneme>prohibuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4681,18 +5291,22 @@
   </lexeme>
   <lexeme>
     <grapheme>clāmor</grapheme>
+    <grapheme>clamor</grapheme>
     <phoneme>klamorː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>clāmōris</grapheme>
+    <grapheme>clamoris</grapheme>
     <phoneme>klamorisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dōnō</grapheme>
+    <grapheme>dono</grapheme>
     <phoneme>donoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dōnāre</grapheme>
+    <grapheme>donare</grapheme>
     <phoneme>donareː</phoneme>
   </lexeme>
   <lexeme>
@@ -4701,6 +5315,7 @@
   </lexeme>
   <lexeme>
     <grapheme>committō</grapheme>
+    <grapheme>committo</grapheme>
     <phoneme>komittoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4709,6 +5324,7 @@
   </lexeme>
   <lexeme>
     <grapheme>commīsī</grapheme>
+    <grapheme>commisi</grapheme>
     <phoneme>kommisiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4717,18 +5333,22 @@
   </lexeme>
   <lexeme>
     <grapheme>crēscō</grapheme>
+    <grapheme>cresco</grapheme>
     <phoneme>kreskoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>crēscere</grapheme>
+    <grapheme>crescere</grapheme>
     <phoneme>kreskɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>crēvī</grapheme>
+    <grapheme>crevi</grapheme>
     <phoneme>kreːviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>crētum</grapheme>
+    <grapheme>cretum</grapheme>
     <phoneme>kreːtumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4745,10 +5365,12 @@
   </lexeme>
   <lexeme>
     <grapheme>factī</grapheme>
+    <grapheme>facti</grapheme>
     <phoneme>faktiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>caedō</grapheme>
+    <grapheme>caedo</grapheme>
     <phoneme>kaedoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4765,22 +5387,27 @@
   </lexeme>
   <lexeme>
     <grapheme>exīstimō</grapheme>
+    <grapheme>existimo</grapheme>
     <phoneme>ɛkstitimoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>exīstimāre</grapheme>
+    <grapheme>existimare</grapheme>
     <phoneme>ɛkstitimareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>accēdō</grapheme>
+    <grapheme>accedo</grapheme>
     <phoneme>akʧedoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>accēdere</grapheme>
+    <grapheme>accedere</grapheme>
     <phoneme>akʧɛdere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>accessī</grapheme>
+    <grapheme>accessi</grapheme>
     <phoneme>akʧɛssiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4789,6 +5416,7 @@
   </lexeme>
   <lexeme>
     <grapheme>contemnō</grapheme>
+    <grapheme>contemno</grapheme>
     <phoneme>kontemnoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4797,6 +5425,7 @@
   </lexeme>
   <lexeme>
     <grapheme>contempsī</grapheme>
+    <grapheme>contempsi</grapheme>
     <phoneme>kontempsiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4809,34 +5438,42 @@
   </lexeme>
   <lexeme>
     <grapheme>pudōris</grapheme>
+    <grapheme>pudoris</grapheme>
     <phoneme>pudorisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>antīquus</grapheme>
+    <grapheme>antiquus</grapheme>
     <phoneme>antikwʊsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>antīqua</grapheme>
+    <grapheme>antiqua</grapheme>
     <phoneme>antikwaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>antīquum</grapheme>
+    <grapheme>antiquum</grapheme>
     <phoneme>antikwʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ārdeō</grapheme>
+    <grapheme>ardeo</grapheme>
     <phoneme>ardeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ārdēre</grapheme>
+    <grapheme>ardere</grapheme>
     <phoneme>ardɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ārsī</grapheme>
+    <grapheme>arsi</grapheme>
     <phoneme>arsiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ārsum</grapheme>
+    <grapheme>arsum</grapheme>
     <phoneme>arsumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4845,22 +5482,27 @@
   </lexeme>
   <lexeme>
     <grapheme>prōvincia</grapheme>
+    <grapheme>provincia</grapheme>
     <phoneme>provinciaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prōvinciae</grapheme>
+    <grapheme>provinciae</grapheme>
     <phoneme>provinciaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>quandō</grapheme>
+    <grapheme>quando</grapheme>
     <phoneme>kʷandoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>custōs</grapheme>
+    <grapheme>custos</grapheme>
     <phoneme>kustosː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>custōdis</grapheme>
+    <grapheme>custodis</grapheme>
     <phoneme>kustodisː</phoneme>
   </lexeme>
   <lexeme>
@@ -4873,22 +5515,27 @@
   </lexeme>
   <lexeme>
     <grapheme>supersum fuī</grapheme>
+    <grapheme>supersum fui</grapheme>
     <phoneme>supersum fuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēsinō</grapheme>
+    <grapheme>desino</grapheme>
     <phoneme>desinoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēsinere</grapheme>
+    <grapheme>desinere</grapheme>
     <phoneme>desinɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēsiī</grapheme>
+    <grapheme>desii</grapheme>
     <phoneme>desiiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēsitum</grapheme>
+    <grapheme>desitum</grapheme>
     <phoneme>desitumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4921,18 +5568,22 @@
   </lexeme>
   <lexeme>
     <grapheme>dīvidō</grapheme>
+    <grapheme>divido</grapheme>
     <phoneme>dividoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīvidere</grapheme>
+    <grapheme>dividere</grapheme>
     <phoneme>dividɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīvīsī</grapheme>
+    <grapheme>divisi</grapheme>
     <phoneme>divisiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīvīsum</grapheme>
+    <grapheme>divisum</grapheme>
     <phoneme>divisumː</phoneme>
   </lexeme>
   <lexeme>
@@ -4941,6 +5592,7 @@
   </lexeme>
   <lexeme>
     <grapheme>pretiumī</grapheme>
+    <grapheme>pretiumi</grapheme>
     <phoneme>prɛtjumiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4949,6 +5601,7 @@
   </lexeme>
   <lexeme>
     <grapheme>pontī</grapheme>
+    <grapheme>ponti</grapheme>
     <phoneme>pontiː</phoneme>
   </lexeme>
   <lexeme>
@@ -4965,6 +5618,7 @@
   </lexeme>
   <lexeme>
     <grapheme>vehō</grapheme>
+    <grapheme>veho</grapheme>
     <phoneme>vehoː</phoneme>
   </lexeme>
   <lexeme>
@@ -4973,6 +5627,7 @@
   </lexeme>
   <lexeme>
     <grapheme>vēxī</grapheme>
+    <grapheme>vexi</grapheme>
     <phoneme>veksiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5009,6 +5664,7 @@
   </lexeme>
   <lexeme>
     <grapheme>oppidī</grapheme>
+    <grapheme>oppidi</grapheme>
     <phoneme>oppidiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5025,6 +5681,7 @@
   </lexeme>
   <lexeme>
     <grapheme>arvī</grapheme>
+    <grapheme>arvi</grapheme>
     <phoneme>arviː</phoneme>
   </lexeme>
   <lexeme>
@@ -5045,22 +5702,27 @@
   </lexeme>
   <lexeme>
     <grapheme>vīnum</grapheme>
+    <grapheme>vinum</grapheme>
     <phoneme>vinʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vīnī</grapheme>
+    <grapheme>vini</grapheme>
     <phoneme>viniː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīversus</grapheme>
+    <grapheme>diversus</grapheme>
     <phoneme>diversusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīversa</grapheme>
+    <grapheme>diversa</grapheme>
     <phoneme>diversaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīversum</grapheme>
+    <grapheme>diversum</grapheme>
     <phoneme>diversumː</phoneme>
   </lexeme>
   <lexeme>
@@ -5069,6 +5731,7 @@
   </lexeme>
   <lexeme>
     <grapheme>orīrī</grapheme>
+    <grapheme>oriri</grapheme>
     <phoneme>oririː</phoneme>
   </lexeme>
   <lexeme>
@@ -5085,18 +5748,22 @@
   </lexeme>
   <lexeme>
     <grapheme>cōnferō</grapheme>
+    <grapheme>confero</grapheme>
     <phoneme>konferoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnferre</grapheme>
+    <grapheme>conferre</grapheme>
     <phoneme>konferre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>contulī</grapheme>
+    <grapheme>contuli</grapheme>
     <phoneme>kontuliː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>collātum</grapheme>
+    <grapheme>collatum</grapheme>
     <phoneme>kollatumː</phoneme>
   </lexeme>
   <lexeme>
@@ -5109,14 +5776,17 @@
   </lexeme>
   <lexeme>
     <grapheme>retineō</grapheme>
+    <grapheme>retineo</grapheme>
     <phoneme>retineoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>retinēre</grapheme>
+    <grapheme>retinere</grapheme>
     <phoneme>retinɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>retinuī</grapheme>
+    <grapheme>retinui</grapheme>
     <phoneme>retinuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5125,30 +5795,37 @@
   </lexeme>
   <lexeme>
     <grapheme>spērō</grapheme>
+    <grapheme>spero</grapheme>
     <phoneme>speroː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>spērāre</grapheme>
+    <grapheme>sperare</grapheme>
     <phoneme>sperareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>plēbs</grapheme>
+    <grapheme>plebs</grapheme>
     <phoneme>plebsː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>plēbis</grapheme>
+    <grapheme>plebis</grapheme>
     <phoneme>plebisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pūgna</grapheme>
+    <grapheme>pugna</grapheme>
     <phoneme>pugnaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pūgnae</grapheme>
+    <grapheme>pugnae</grapheme>
     <phoneme>pugnaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>repetō</grapheme>
+    <grapheme>repeto</grapheme>
     <phoneme>repetoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5157,54 +5834,67 @@
   </lexeme>
   <lexeme>
     <grapheme>repetīvī</grapheme>
+    <grapheme>repetivi</grapheme>
     <phoneme>repetiviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>repetītum</grapheme>
+    <grapheme>repetitum</grapheme>
     <phoneme>repetitumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnstituō</grapheme>
+    <grapheme>constituo</grapheme>
     <phoneme>konstituoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnstituere</grapheme>
+    <grapheme>constituere</grapheme>
     <phoneme>konstituɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnstituī</grapheme>
+    <grapheme>constitui</grapheme>
     <phoneme>konstituiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cōnstitūtum</grapheme>
+    <grapheme>constitutum</grapheme>
     <phoneme>konstitutumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēfendō</grapheme>
+    <grapheme>defendo</grapheme>
     <phoneme>defendoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēfendere</grapheme>
+    <grapheme>defendere</grapheme>
     <phoneme>defendɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēfendī</grapheme>
+    <grapheme>defendi</grapheme>
     <phoneme>defendiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēfēnsum</grapheme>
+    <grapheme>defensum</grapheme>
     <phoneme>defensumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>marītus</grapheme>
+    <grapheme>maritus</grapheme>
     <phoneme>maritusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>marītī</grapheme>
+    <grapheme>mariti</grapheme>
     <phoneme>maritiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>cernō</grapheme>
+    <grapheme>cerno</grapheme>
     <phoneme>tʃernoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5233,90 +5923,112 @@
   </lexeme>
   <lexeme>
     <grapheme>morbī</grapheme>
+    <grapheme>morbi</grapheme>
     <phoneme>morbiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sānctus</grapheme>
+    <grapheme>sanctus</grapheme>
     <phoneme>sanktusː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sāncta</grapheme>
+    <grapheme>sancta</grapheme>
     <phoneme>sanktaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sānctum</grapheme>
+    <grapheme>sanctum</grapheme>
     <phoneme>sanktumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>commūnis</grapheme>
+    <grapheme>communis</grapheme>
     <phoneme>kommunisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>commūne</grapheme>
+    <grapheme>commune</grapheme>
     <phoneme>kommuneː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēdūcō</grapheme>
+    <grapheme>deduco</grapheme>
     <phoneme>dedukoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēdūcere</grapheme>
+    <grapheme>deducere</grapheme>
     <phoneme>dedukɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēdūxī</grapheme>
+    <grapheme>deduxi</grapheme>
     <phoneme>deduksiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dēductum</grapheme>
+    <grapheme>deductum</grapheme>
     <phoneme>deduktumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rīpa</grapheme>
+    <grapheme>ripa</grapheme>
     <phoneme>ripaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>rīpae</grapheme>
+    <grapheme>ripae</grapheme>
     <phoneme>ripaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>concēdō</grapheme>
+    <grapheme>concedo</grapheme>
     <phoneme>kontʃedoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>concēdere</grapheme>
+    <grapheme>concedere</grapheme>
     <phoneme>kontʃɛdere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>concēssī</grapheme>
+    <grapheme>concessi</grapheme>
     <phoneme>kontʃɛssiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>concēssum</grapheme>
+    <grapheme>concessum</grapheme>
     <phoneme>kontʃɛssum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>hōra</grapheme>
+    <grapheme>hora</grapheme>
     <phoneme>horaː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>hōrae</grapheme>
+    <grapheme>horae</grapheme>
     <phoneme>horaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vetō</grapheme>
+    <grapheme>veto</grapheme>
     <phoneme>vetoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vetāre</grapheme>
+    <grapheme>vetare</grapheme>
     <phoneme>vetareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vetuī</grapheme>
+    <grapheme>vetui</grapheme>
     <phoneme>vetuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vetītum</grapheme>
+    <grapheme>vetitum</grapheme>
     <phoneme>vetitum</phoneme>
   </lexeme>
   <lexeme>
@@ -5329,14 +6041,17 @@
   </lexeme>
   <lexeme>
     <grapheme>gīgnō</grapheme>
+    <grapheme>gigno</grapheme>
     <phoneme>gignoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>gīgnere</grapheme>
+    <grapheme>gignere</grapheme>
     <phoneme>gignɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>genuī</grapheme>
+    <grapheme>genui</grapheme>
     <phoneme>genuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5345,10 +6060,12 @@
   </lexeme>
   <lexeme>
     <grapheme>superō</grapheme>
+    <grapheme>supero</grapheme>
     <phoneme>superoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>superāre</grapheme>
+    <grapheme>superare</grapheme>
     <phoneme>superareː</phoneme>
   </lexeme>
   <lexeme>
@@ -5365,6 +6082,7 @@
   </lexeme>
   <lexeme>
     <grapheme>meminī</grapheme>
+    <grapheme>memini</grapheme>
     <phoneme>meminiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5373,26 +6091,32 @@
   </lexeme>
   <lexeme>
     <grapheme>impleō</grapheme>
+    <grapheme>impleo</grapheme>
     <phoneme>impleoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>implēre</grapheme>
+    <grapheme>implere</grapheme>
     <phoneme>implɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>implēvī</grapheme>
+    <grapheme>implevi</grapheme>
     <phoneme>impleviː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>implētum</grapheme>
+    <grapheme>impletum</grapheme>
     <phoneme>impletumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>māgnitūdō</grapheme>
+    <grapheme>magnitudo</grapheme>
     <phoneme>magnitudoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>māgnitūdinis</grapheme>
+    <grapheme>magnitudinis</grapheme>
     <phoneme>magnitudinisː</phoneme>
   </lexeme>
   <lexeme>
@@ -5425,10 +6149,12 @@
   </lexeme>
   <lexeme>
     <grapheme>vulgī</grapheme>
+    <grapheme>vulgi</grapheme>
     <phoneme>vulɡiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>deficiō</grapheme>
+    <grapheme>deficio</grapheme>
     <phoneme>defitʃjoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5437,6 +6163,7 @@
   </lexeme>
   <lexeme>
     <grapheme>defēcī</grapheme>
+    <grapheme>defeci</grapheme>
     <phoneme>defetʃiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5445,6 +6172,7 @@
   </lexeme>
   <lexeme>
     <grapheme>occurrō</grapheme>
+    <grapheme>occurro</grapheme>
     <phoneme>okkurrɔː</phoneme>
   </lexeme>
   <lexeme>
@@ -5457,6 +6185,7 @@
   </lexeme>
   <lexeme>
     <grapheme>statuō</grapheme>
+    <grapheme>statuo</grapheme>
     <phoneme>statuoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5465,10 +6194,12 @@
   </lexeme>
   <lexeme>
     <grapheme>statuī</grapheme>
+    <grapheme>statui</grapheme>
     <phoneme>statuiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>statūtum</grapheme>
+    <grapheme>statutum</grapheme>
     <phoneme>statutumː</phoneme>
   </lexeme>
   <lexeme>
@@ -5485,22 +6216,27 @@
   </lexeme>
   <lexeme>
     <grapheme>pugnō</grapheme>
+    <grapheme>pugno</grapheme>
     <phoneme>pugnoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>pugnāre</grapheme>
+    <grapheme>pugnare</grapheme>
     <phoneme>pugnareː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>augeō</grapheme>
+    <grapheme>augeo</grapheme>
     <phoneme>augeoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>augēre</grapheme>
+    <grapheme>augere</grapheme>
     <phoneme>augɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>auxī</grapheme>
+    <grapheme>auxi</grapheme>
     <phoneme>auksiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5517,14 +6253,17 @@
   </lexeme>
   <lexeme>
     <grapheme>moneō</grapheme>
+    <grapheme>moneo</grapheme>
     <phoneme>moneoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>monēre</grapheme>
+    <grapheme>monere</grapheme>
     <phoneme>monɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>monuī</grapheme>
+    <grapheme>monui</grapheme>
     <phoneme>monuiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5533,10 +6272,12 @@
   </lexeme>
   <lexeme>
     <grapheme>dīvitiae</grapheme>
+    <grapheme>divitiae</grapheme>
     <phoneme>divitjaeː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>dīvitiārum</grapheme>
+    <grapheme>divitiarum</grapheme>
     <phoneme>divitiarumː</phoneme>
   </lexeme>
   <lexeme>
@@ -5545,6 +6286,7 @@
   </lexeme>
   <lexeme>
     <grapheme>experīrī</grapheme>
+    <grapheme>experiri</grapheme>
     <phoneme>ɛkspeririː</phoneme>
   </lexeme>
   <lexeme>
@@ -5557,30 +6299,37 @@
   </lexeme>
   <lexeme>
     <grapheme>superī</grapheme>
+    <grapheme>superi</grapheme>
     <phoneme>superiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>superōrum</grapheme>
+    <grapheme>superorum</grapheme>
     <phoneme>superorumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ōtium</grapheme>
+    <grapheme>otium</grapheme>
     <phoneme>otjʊmː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>ōtiī</grapheme>
+    <grapheme>otii</grapheme>
     <phoneme>otjiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vestīgium</grapheme>
+    <grapheme>vestigium</grapheme>
     <phoneme>vestigjumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vestīgiī</grapheme>
+    <grapheme>vestigii</grapheme>
     <phoneme>vestigjiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>sinō</grapheme>
+    <grapheme>sino</grapheme>
     <phoneme>sinoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5589,6 +6338,7 @@
   </lexeme>
   <lexeme>
     <grapheme>sīvī</grapheme>
+    <grapheme>sivi</grapheme>
     <phoneme>siviː</phoneme>
   </lexeme>
   <lexeme>
@@ -5601,14 +6351,17 @@
   </lexeme>
   <lexeme>
     <grapheme>decēre</grapheme>
+    <grapheme>decere</grapheme>
     <phoneme>dekɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>decuīt</grapheme>
+    <grapheme>decuit</grapheme>
     <phoneme>dekuit</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>effundō</grapheme>
+    <grapheme>effundo</grapheme>
     <phoneme>effundoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5617,30 +6370,37 @@
   </lexeme>
   <lexeme>
     <grapheme>effūdī</grapheme>
+    <grapheme>effudi</grapheme>
     <phoneme>effudiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>effūsum</grapheme>
+    <grapheme>effusum</grapheme>
     <phoneme>effusumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prōmittō</grapheme>
+    <grapheme>promitto</grapheme>
     <phoneme>promittoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prōmittere</grapheme>
+    <grapheme>promittere</grapheme>
     <phoneme>promittɛre</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prōmīsī</grapheme>
+    <grapheme>promisi</grapheme>
     <phoneme>promisiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>prōmissum</grapheme>
+    <grapheme>promissum</grapheme>
     <phoneme>promissumː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fingō</grapheme>
+    <grapheme>fingo</grapheme>
     <phoneme>fingoː</phoneme>
   </lexeme>
   <lexeme>
@@ -5649,10 +6409,12 @@
   </lexeme>
   <lexeme>
     <grapheme>fīnxī</grapheme>
+    <grapheme>finxi</grapheme>
     <phoneme>finksiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>fīctum</grapheme>
+    <grapheme>fictum</grapheme>
     <phoneme>fiktumː</phoneme>
   </lexeme>
   <lexeme>
@@ -5665,6 +6427,7 @@
   </lexeme>
   <lexeme>
     <grapheme>respēxī</grapheme>
+    <grapheme>respexi</grapheme>
     <phoneme>respɛksiː</phoneme>
   </lexeme>
   <lexeme>
@@ -5673,18 +6436,22 @@
   </lexeme>
   <lexeme>
     <grapheme>imperātor</grapheme>
+    <grapheme>imperator</grapheme>
     <phoneme>imperatorː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>imperātōris</grapheme>
+    <grapheme>imperatoris</grapheme>
     <phoneme>imperatorisː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vacō</grapheme>
+    <grapheme>vaco</grapheme>
     <phoneme>vakoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vacāre</grapheme>
+    <grapheme>vacare</grapheme>
     <phoneme>vakareː</phoneme>
   </lexeme>
   <lexeme>
@@ -5697,22 +6464,22 @@
   </lexeme>
   <lexeme>
     <grapheme>discēdō</grapheme>
+    <grapheme>discedo</grapheme>
     <phoneme>diskedoː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>discēdere</grapheme>
+    <grapheme>discedere</grapheme>
     <phoneme>diskɛdere</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>discēssī</grapheme>
+    <grapheme>discessi</grapheme>
     <phoneme>diskɛssiː</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>discēssum</grapheme>
+    <grapheme>discessum</grapheme>
     <phoneme>diskɛssum</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>liber</grapheme>
-    <phoneme>liber</phoneme>
   </lexeme>
 </lexicon>
