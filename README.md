@@ -48,6 +48,7 @@ MedievalLatina.noun?("canis")
 After checking out the repo, run `bin/setup` to install dependencies.
 Then, run `rake spec` to run the tests.
 You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+Maintain project style by running `bin/lint` before commiting changes.
 
 To install this gem onto your local machine, run `bundle exec rake install`.
 
@@ -56,7 +57,7 @@ To release a new version:
 2. Run `bin/setup` to increment the version in the lock file
 3. Run `bundle exec rake release`
 
-Rebuild the lexicon file when you add new International Phonetic Alphabet pronunciations.
+Rebuild the lexicon files when you add new International Phonetic Alphabet pronunciations.
 You do this by running: `bin/build`
 
 ## Contributing

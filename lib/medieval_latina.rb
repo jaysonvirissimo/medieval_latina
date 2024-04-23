@@ -38,7 +38,7 @@ class MedievalLatina
   end
 
   def self.adjective?(word)
-    ADJECTIVES.key?(prepare_word(word))
+    adjectives.key?(prepare_word(word))
   end
 
   def self.adverb?(word)
@@ -54,7 +54,9 @@ class MedievalLatina
   end
 
   def self.adjectives
-    ADJECTIVES.keys
+    DICTIONARY.select do |word, metadata|
+      metadata["part"] == "Adjective"
+    end
   end
 
   def self.adverbs
@@ -84,7 +86,6 @@ class MedievalLatina
 
   def self.words
     [
-      ADJECTIVES,
       ADVERBS,
       DICTIONARY,
       NOUNS,

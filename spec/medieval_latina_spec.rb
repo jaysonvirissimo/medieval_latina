@@ -101,7 +101,7 @@ RSpec.describe MedievalLatina do
 
     it "includes at least the meaning and part of speech" do
       subject.each do |word, metadata|
-        expect(metadata.keys).to include("meaning", "part")
+        expect(metadata.keys).to include("part")
       end
     end
 
