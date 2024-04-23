@@ -35,7 +35,7 @@ class MedievalLatina
     end
 
     def write
-      File.write("lexicon.pls", xml.target!)
+      File.write("lexicons/lexicon.pls", xml.target!)
     end
 
     private

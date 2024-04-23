@@ -699,7 +699,7 @@ class MedievalLatina
   end
 
   def self.load_data
-    file_path = File.join(File.dirname(__FILE__), "../data/dictionary.json")
+    file_path = File.join(File.dirname(__FILE__), "../../data/dictionary.json")
     JSON.parse(File.read(file_path))
   end
 end
