@@ -50,7 +50,7 @@ class MedievalLatina
   end
 
   def self.verb?(word)
-    VERBS.key?(prepare_word(word))
+    verbs.key?(prepare_word(word))
   end
 
   def self.adjectives
@@ -81,7 +81,9 @@ class MedievalLatina
   end
 
   def self.verbs
-    VERBS.keys
+    DICTIONARY.select do |word, metadata|
+      metadata["part"] == "Verb"
+    end
   end
 
   def self.word?(string)
@@ -89,10 +91,7 @@ class MedievalLatina
   end
 
   def self.words
-    [
-      DICTIONARY,
-      VERBS
-    ].flat_map(&:keys).each_with_object(Set.new) { |word, set| set.add(word) }
+    DICTIONARY.keys.to_set
   end
 
   def initialize(word)

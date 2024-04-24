@@ -9,9 +9,7 @@ class MedievalLatina
     end
 
     def initialize
-      @hash = parts.each_with_object({}) do |part, hash|
-        hash.merge(part)
-      end
+      @hash = {}
 
       MedievalLatina.frequency_list.each do |word, metadata|
         if metadata.key?("ipa")
@@ -56,10 +54,6 @@ class MedievalLatina
       end.transform_values do |pairs|
         pairs.map(&:first)
       end
-    end
-
-    def parts
-      [ADJECTIVES, ADVERBS, NOUNS, VERBS]
     end
 
     URL = "http://www.w3.org/2005/01/pronunciation-lexicon".freeze
