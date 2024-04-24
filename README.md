@@ -21,12 +21,42 @@ Or install it yourself as:
 
 ## Usage
 
+### Help English language text-to-speech engines pronounce Latin
 ```ruby
 ["caelum", "omnia", "pugno"].each { |word| puts MedievalLatina[word] }
 => "chayloom"
 => "ohm-nia"
 => "poon-yoh"
 
+sentence = MedievalLatina["sed libera nos a malo"]
+=> "sayd leebayrah nohs ah mahloh"
+```
+```javascript
+let sentence = "...";
+responsiveVoice.speak(sentence, "UK English Female");
+```
+### Generate lexicons to override text-to-speech pronunciation
+```ruby
+require 'aws-sdk-polly'
+
+polly = Aws::Polly::Client.new(region: 'us-west-2')
+
+# Add the lexicons
+MedievalLatina::Lexicon.files_with_contents do |name, context|
+  polly.put_lexicon(name: name, content: content)
+end
+
+# Synthesize speech using the lexicons
+polly.synthesize_speech(
+  lexicon_names: MedievalLatina::Lexicon.list_files,
+  text: "PATER NOSTER, qui es in caelis",
+  output_format: "mp3",
+  voice_id: "Joanna"
+)
+```
+
+### Latin langauge helper methods
+```ruby
 MedievalLatina.verb?("voco")
 => true
 
