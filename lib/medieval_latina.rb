@@ -46,7 +46,7 @@ class MedievalLatina
   end
 
   def self.noun?(word)
-    NOUNS.key?(prepare_word(word))
+    nouns.key?(prepare_word(word))
   end
 
   def self.verb?(word)
@@ -66,7 +66,9 @@ class MedievalLatina
   end
 
   def self.nouns
-    NOUNS.keys
+    DICTIONARY.select do |word, metadata|
+      metadata["part"] == "Noun"
+    end
   end
 
   def self.rejoin_words(array)
@@ -89,7 +91,6 @@ class MedievalLatina
   def self.words
     [
       DICTIONARY,
-      NOUNS,
       VERBS
     ].flat_map(&:keys).each_with_object(Set.new) { |word, set| set.add(word) }
   end
