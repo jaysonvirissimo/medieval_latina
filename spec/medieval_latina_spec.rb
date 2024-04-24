@@ -88,8 +88,8 @@ RSpec.describe MedievalLatina do
     end
   end
 
-  describe ".frequency_list" do
-    subject { MedievalLatina.frequency_list }
+  describe ".dictionary" do
+    subject { MedievalLatina.dictionary }
 
     it "only allows known parts of speech" do
       known = MedievalLatina::PARTS_OF_SPEECH

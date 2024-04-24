@@ -11,7 +11,7 @@ class MedievalLatina
     def initialize
       @hash = {}
 
-      MedievalLatina.frequency_list.each do |word, metadata|
+      MedievalLatina.dictionary.each do |word, metadata|
         if metadata.key?("ipa")
           @hash[word] = metadata["ipa"]
         end

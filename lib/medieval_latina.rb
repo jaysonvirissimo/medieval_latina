@@ -1,4 +1,4 @@
-require "medieval_latina/dictionary"
+require "json"
 require "medieval_latina/initializer"
 require "medieval_latina/lexicon_builder"
 require "medieval_latina/version"
@@ -21,6 +21,15 @@ class MedievalLatina
     end
 
     rejoin_words(prepared_words)
+  end
+
+  def self.dictionary
+    @data ||= load_data
+  end
+
+  def self.load_data
+    file_path = File.join(File.dirname(__FILE__), "../data/dictionary.json")
+    JSON.parse(File.read(file_path))
   end
 
   def self.prepare_text(text)
@@ -125,6 +134,15 @@ class MedievalLatina
     x: ->(rest) { "ks" }
   }
   CONSONENT_TEAMS = {gn: "n-y", qu: "kw"}.freeze
+  PARTS_OF_SPEECH = [
+    "Adjective",
+    "Adverb",
+    "Conjunction",
+    "Noun",
+    "Preposition",
+    "Pronoun",
+    "Verb"
+  ].to_set.freeze
   SOFT_C = ["e", "i", "ae", "oe"].freeze
   SOFT_G = SOFT_C
   SOFT_T = ["i"].freeze
@@ -172,7 +190,7 @@ class MedievalLatina
 
   class Error < StandardError; end
 
-  DICTIONARY = frequency_list.each_with_object({}) do |(word, metadata), hash|
+  DICTIONARY = dictionary.each_with_object({}) do |(word, metadata), hash|
     hash[word] = metadata
 
     sanitized_word = I18n.transliterate(word)
