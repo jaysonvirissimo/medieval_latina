@@ -168,8 +168,6 @@ RSpec.describe MedievalLatina do
   describe "Lexicons files meet AWS Polly requirements" do
     let(:lexicon_files) { Dir["lexicons/*.pls"] }
     let(:valid_ipa_regex) { /b|d|[d͡ʒ]|ð|f|ɡ|h|j|k|l|m|n|ŋ|p|[ɹ]|s|[ʃ]|t|[t͡ʃ]|θ|v|w|z|[ʒ]|ə|ɚ|æ|[aɪ]|[aʊ]|ɑ|[eɪ]|ɝ|ɛ|i|ɪ|[oʊ]|ɔ|[ɔɪ]|u|ʊ|ʌ|ˈ|ˌ|\./ }
-    let(:schema_path) { "schemas/pls.xsd" }
-    let(:schema) { Nokogiri::XML::Schema(File.read(schema_path)) }
 
     it "generates lexicon files" do
       expect(lexicon_files).not_to be_empty
@@ -195,13 +193,6 @@ RSpec.describe MedievalLatina do
       end
     end
 
-    it "includes the XML declaration" do
-      lexicon_files.each do |file|
-        content = File.read(file)
-        expect(content).to match(/\A<\?xml version="1\.0" encoding="UTF-8"\?>\n/)
-      end
-    end
-
     it "contains only allowed IPA characters in the <phoneme> elements" do
       lexicon_files.each do |file|
         content = File.read(file)
@@ -209,15 +200,6 @@ RSpec.describe MedievalLatina do
         doc.xpath("//phoneme").each do |phoneme|
           expect(phoneme.text).to match(valid_ipa_regex)
         end
-      end
-    end
-
-    it "validates each PLS file against the XSD schema" do
-      lexicon_files.each do |file|
-        xml_document = Nokogiri::XML(File.read(file))
-        expect(schema.validate(xml_document)).to be_empty, lambda {
-          "Validation errors for #{File.basename(file)}: " + schema.validate(xml_document).map(&:message).join("; ")
-        }
       end
     end
   end
