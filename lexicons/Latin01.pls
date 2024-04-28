@@ -1891,4 +1891,4 @@
   <grapheme>parcere</grapheme>
   <phoneme>parkɛre</phoneme>
 </lexeme>
-<lexicon/>
+</lexicon>

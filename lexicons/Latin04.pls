@@ -192,4 +192,4 @@
   <grapheme>vulnero</grapheme>
   <phoneme>ˈvul.ne.ro</phoneme>
 </lexeme>
-<lexicon/>
+</lexicon>

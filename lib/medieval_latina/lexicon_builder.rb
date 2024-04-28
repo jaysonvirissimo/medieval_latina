@@ -2,7 +2,7 @@ require "builder"
 
 class MedievalLatina
   class LexiconBuilder
-    MAX_SIZE = 39000  # Character limit for each PLS file
+    MAX_SIZE = 39000  # True limit is 40,000 characters.
 
     def self.write
       new.call
@@ -25,7 +25,7 @@ class MedievalLatina
       xml.lexicon(xmlns: URL, version: "1.0") do
         grouped_hash.each do |phonetics, words|
           if xml.target!.length > MAX_SIZE
-            xml.lexicon  # Close the current lexicon tag
+            xml << "</lexicon>\n"  # Close the current lexicon tag with newline
             write_file(xml.target!, file_index)
             file_index += 1
             xml = Builder::XmlMarkup.new(indent: 2)  # Reset XML builder
@@ -37,7 +37,7 @@ class MedievalLatina
             xml.phoneme phonetics
           end
         end
-        xml.lexicon  # Close the final lexicon tag
+        xml << "</lexicon>\n"  # Close the final lexicon tag with newline
       end
       write_file(xml.target!, file_index)  # Write the last file
     end

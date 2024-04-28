@@ -1796,4 +1796,4 @@
     <grapheme>pedis</grapheme>
     <phoneme>pɛdɪs</phoneme>
   </lexeme>
-  <lexicon/>
+</lexicon>

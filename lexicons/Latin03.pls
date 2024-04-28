@@ -1888,4 +1888,4 @@
   <grapheme>insulto</grapheme>
   <phoneme>inˈsul.to</phoneme>
 </lexeme>
-<lexicon/>
+</lexicon>
