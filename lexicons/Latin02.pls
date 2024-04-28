@@ -1851,3 +1851,4 @@
   <grapheme>desitum</grapheme>
   <phoneme>desitumː</phoneme>
 </lexeme>
+<lexicon/>

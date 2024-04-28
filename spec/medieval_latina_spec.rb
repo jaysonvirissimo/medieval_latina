@@ -191,5 +191,23 @@ RSpec.describe MedievalLatina do
         expect { Nokogiri::XML(content) }.not_to raise_error
       end
     end
+
+    it "includes the XML declaration" do
+      lexicon_files.each do |file|
+        content = File.read(file)
+        expect(content).to match(/\A<\?xml version="1\.0" encoding="UTF-8"\?>\n/)
+      end
+    end
+
+    it "contains valid IPA characters in the <phoneme> elements" do
+      valid_ipa_regex = /\A[\p{L}\p{M}\p{N}\p{P}\p{S}\p{Z}]+\z/
+      lexicon_files.each do |file|
+        content = File.read(file)
+        doc = Nokogiri::XML(content)
+        doc.xpath("//phoneme").each do |phoneme|
+          expect(phoneme.text).to match(valid_ipa_regex)
+        end
+      end
+    end
   end
 end

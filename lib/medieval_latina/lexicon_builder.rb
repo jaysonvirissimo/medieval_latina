@@ -25,17 +25,19 @@ class MedievalLatina
       xml.lexicon(xmlns: URL, version: "1.0") do
         grouped_hash.each do |phonetics, words|
           if xml.target!.length > MAX_SIZE
+            xml.lexicon  # Close the current lexicon tag
             write_file(xml.target!, file_index)
             file_index += 1
             xml = Builder::XmlMarkup.new(indent: 2)  # Reset XML builder
             xml.instruct! :xml, encoding: "UTF-8"
-            xml.lexicon(xmlns: URL, version: "1.0")
+            xml.lexicon(xmlns: URL, version: "1.0")  # Start a new lexicon tag
           end
           xml.lexeme do
             words.each { |word| xml.grapheme word }
             xml.phoneme phonetics
           end
         end
+        xml.lexicon  # Close the final lexicon tag
       end
       write_file(xml.target!, file_index)  # Write the last file
     end
