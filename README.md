@@ -37,8 +37,8 @@ responsiveVoice.speak(sentence, "UK English Female");
 ```
 ### Generate lexicons to override text-to-speech pronunciation
 ```ruby
-require 'aws-sdk-polly'
 polly = Aws::Polly::Client.new
+s3 = Aws::S3::Client.new
 
 sentence = "PATER NOSTER qui es in caelis"
 
@@ -50,11 +50,23 @@ name = "CustomLatin"
 polly.put_lexicon(name: name, content: lexicon.to_s)
 
 # Synthesize speech using the lexicons
-polly.synthesize_speech(
+response = polly.synthesize_speech(
   lexicon_names: [name],
   text: sentence,
   output_format: "mp3",
   voice_id: "Joanna"
+)
+
+# Read the audio data and store it in a variable
+audio_data = response.audio_stream.read
+
+bucket_name = "foo"
+object_key = "bar/pater-noster.mp3"
+
+s3.put_object(
+  bucket: bucket_name,
+  key: object_key,
+  body: audio_data
 )
 ```
 
