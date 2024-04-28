@@ -52,7 +52,6 @@ PLATFORMS
 
 DEPENDENCIES
   builder
-  i18n
   medieval_latina!
   rake (~> 12.0)
   rspec (~> 3.0)

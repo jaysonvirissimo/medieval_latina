@@ -42,6 +42,9 @@ class MedievalLatina
 
     private
 
+    # A lexicon name can have up to 20 characters.
+    # Valid characters: a-z, A-Z, and 0-9.
+
     def write_file(content, index)
       File.write("lexicons/MedivalLatinaLexicon#{index}.pls", content)
     end
