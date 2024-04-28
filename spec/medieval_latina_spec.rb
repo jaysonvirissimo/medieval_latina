@@ -165,27 +165,27 @@ RSpec.describe MedievalLatina do
     specify { expect(described_class.verb?("Nauta,")).to be_falsey }
   end
 
-  describe 'Lexicons files meet AWS Polly requirements' do
-    let(:lexicon_files) { Dir['lexicons/*.pls'] }
+  describe "Lexicons files meet AWS Polly requirements" do
+    let(:lexicon_files) { Dir["lexicons/*.pls"] }
 
-    it 'generates lexicon files' do
+    it "generates lexicon files" do
       expect(lexicon_files).not_to be_empty
     end
 
-    it 'generates lexicon files with valid names' do
+    it "generates lexicon files with valid names" do
       lexicon_files.each do |file|
         expect(File.basename(file)).to match(/\ALatin\d{2}\.pls\z/)
       end
     end
 
-    it 'generates lexicon files within the size limit' do
+    it "generates lexicon files within the size limit" do
       lexicon_files.each do |file|
         content = File.read(file)
         expect(content.length).to be <= 40_000
       end
     end
 
-    it 'generates valid XML lexicon files' do
+    it "generates valid XML lexicon files" do
       lexicon_files.each do |file|
         content = File.read(file)
         expect { Nokogiri::XML(content) }.not_to raise_error
