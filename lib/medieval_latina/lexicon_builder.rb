@@ -46,7 +46,8 @@ class MedievalLatina
     # Valid characters: a-z, A-Z, and 0-9.
 
     def write_file(content, index)
-      File.write("lexicons/MedivalLatinaLexicon#{index}.pls", content)
+      formatted_index = sprintf("%03d", index)
+      File.write("lexicons/Latin#{formatted_index}.pls", content)
     end
 
     attr_reader :hash
