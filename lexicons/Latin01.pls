@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0"/>
 <lexeme>
+  <grapheme>imperium</grapheme>
+  <phoneme>ɪmpɛrɪum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>imperiī</grapheme>
+  <grapheme>imperii</grapheme>
+  <phoneme>ɪmpɛriiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>labor</grapheme>
+  <phoneme>labor</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ingēns</grapheme>
+  <grapheme>ingens</grapheme>
+  <phoneme>indʒɛns</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ingentis</grapheme>
+  <phoneme>indʒɛntɪs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tālis</grapheme>
+  <grapheme>talis</grapheme>
+  <phoneme>talɪs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tāle</grapheme>
+  <grapheme>tale</grapheme>
+  <phoneme>taleː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>parum</grapheme>
+  <phoneme>parum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>apud</grapheme>
+  <phoneme>apud</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>oculus</grapheme>
+  <phoneme>okulus</phoneme>
+</lexeme>
+<lexeme>
   <grapheme>unda</grapheme>
   <phoneme>unda</phoneme>
 </lexeme>
@@ -1846,95 +1890,4 @@
 <lexeme>
   <grapheme>parcere</grapheme>
   <phoneme>parkɛre</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vestis</grapheme>
-  <phoneme>vɛstis</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>similis</grapheme>
-  <phoneme>similis</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>simile</grapheme>
-  <phoneme>simile</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>caedēs</grapheme>
-  <grapheme>caedes</grapheme>
-  <phoneme>kɛdɛsː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>ōrdō</grapheme>
-  <grapheme>ordo</grapheme>
-  <phoneme>ordoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>optō</grapheme>
-  <grapheme>opto</grapheme>
-  <phoneme>optoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>optāre</grapheme>
-  <grapheme>optare</grapheme>
-  <phoneme>optareː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>virgō</grapheme>
-  <grapheme>virgo</grapheme>
-  <phoneme>virgoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>legō</grapheme>
-  <grapheme>lego</grapheme>
-  <phoneme>lɛgoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>legere</grapheme>
-  <phoneme>lɛgɛre</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>aura</grapheme>
-  <phoneme>aura</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>impetus</grapheme>
-  <phoneme>impɛtʊs</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>fōrma</grapheme>
-  <grapheme>forma</grapheme>
-  <phoneme>formaː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>praestō</grapheme>
-  <grapheme>praesto</grapheme>
-  <phoneme>praɛstoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>praestāre</grapheme>
-  <grapheme>praestare</grapheme>
-  <phoneme>praɛstareː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>aequor</grapheme>
-  <phoneme>ɛkwor</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>misceō</grapheme>
-  <grapheme>misceo</grapheme>
-  <phoneme>miskɛoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>miscēre</grapheme>
-  <grapheme>miscere</grapheme>
-  <phoneme>miskɛrɛ</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>spatium</grapheme>
-  <phoneme>spatjum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>tandem</grapheme>
-  <phoneme>tandɛm</phoneme>
 </lexeme>

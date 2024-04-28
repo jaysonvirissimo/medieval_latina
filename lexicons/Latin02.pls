@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0"/>
 <lexeme>
+  <grapheme>vestis</grapheme>
+  <phoneme>vɛstis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>similis</grapheme>
+  <phoneme>similis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>simile</grapheme>
+  <phoneme>simile</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>caedēs</grapheme>
+  <grapheme>caedes</grapheme>
+  <phoneme>kɛdɛsː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ōrdō</grapheme>
+  <grapheme>ordo</grapheme>
+  <phoneme>ordoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>optō</grapheme>
+  <grapheme>opto</grapheme>
+  <phoneme>optoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>optāre</grapheme>
+  <grapheme>optare</grapheme>
+  <phoneme>optareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>virgō</grapheme>
+  <grapheme>virgo</grapheme>
+  <phoneme>virgoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>legō</grapheme>
+  <grapheme>lego</grapheme>
+  <phoneme>lɛgoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>legere</grapheme>
+  <phoneme>lɛgɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aura</grapheme>
+  <phoneme>aura</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>impetus</grapheme>
+  <phoneme>impɛtʊs</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fōrma</grapheme>
+  <grapheme>forma</grapheme>
+  <phoneme>formaː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>praestō</grapheme>
+  <grapheme>praesto</grapheme>
+  <phoneme>praɛstoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>praestāre</grapheme>
+  <grapheme>praestare</grapheme>
+  <phoneme>praɛstareː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>aequor</grapheme>
+  <phoneme>ɛkwor</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>misceō</grapheme>
+  <grapheme>misceo</grapheme>
+  <phoneme>miskɛoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>miscēre</grapheme>
+  <grapheme>miscere</grapheme>
+  <phoneme>miskɛrɛ</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>spatium</grapheme>
+  <phoneme>spatjum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>tandem</grapheme>
+  <phoneme>tandɛm</phoneme>
+</lexeme>
+<lexeme>
   <grapheme>īnferus</grapheme>
   <grapheme>inferus</grapheme>
   <phoneme>inferʊsː</phoneme>
@@ -1759,150 +1850,4 @@
   <grapheme>dēsitum</grapheme>
   <grapheme>desitum</grapheme>
   <phoneme>desitumː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>fessus</grapheme>
-  <phoneme>fessus</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>fessa</grapheme>
-  <phoneme>fessa</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>fessum</grapheme>
-  <phoneme>fessum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>praeda</grapheme>
-  <phoneme>praeda</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>praedae</grapheme>
-  <phoneme>praedae</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>memoria</grapheme>
-  <phoneme>memoria</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>memoriae</grapheme>
-  <phoneme>memoriae</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>dīvidō</grapheme>
-  <grapheme>divido</grapheme>
-  <phoneme>dividoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>dīvidere</grapheme>
-  <grapheme>dividere</grapheme>
-  <phoneme>dividɛre</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>dīvīsī</grapheme>
-  <grapheme>divisi</grapheme>
-  <phoneme>divisiː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>dīvīsum</grapheme>
-  <grapheme>divisum</grapheme>
-  <phoneme>divisumː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pretium</grapheme>
-  <phoneme>prɛtjum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pretiumī</grapheme>
-  <grapheme>pretiumi</grapheme>
-  <phoneme>prɛtjumiː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pontus</grapheme>
-  <phoneme>pontus</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pontī</grapheme>
-  <grapheme>ponti</grapheme>
-  <phoneme>pontiː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>varius</grapheme>
-  <phoneme>varjus</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>varia</grapheme>
-  <phoneme>varja</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>varium</grapheme>
-  <phoneme>varjum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vehō</grapheme>
-  <grapheme>veho</grapheme>
-  <phoneme>vehoː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vehere</grapheme>
-  <phoneme>vɛhɛre</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vēxī</grapheme>
-  <grapheme>vexi</grapheme>
-  <phoneme>veksiː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vectum</grapheme>
-  <phoneme>vɛktum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>falsus</grapheme>
-  <phoneme>falsus</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>falsa</grapheme>
-  <phoneme>falsa</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>falsum</grapheme>
-  <phoneme>falsum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>niger</grapheme>
-  <phoneme>niger</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>nigra</grapheme>
-  <phoneme>nigra</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>nigrum</grapheme>
-  <phoneme>nigrum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>oppidum</grapheme>
-  <phoneme>oppidum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>oppidī</grapheme>
-  <grapheme>oppidi</grapheme>
-  <phoneme>oppidiː</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pondus</grapheme>
-  <phoneme>pondus</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>ponderis</grapheme>
-  <phoneme>ponderis</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>arvum</grapheme>
-  <phoneme>arvum</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>arvī</grapheme>
-  <grapheme>arvi</grapheme>
-  <phoneme>arviː</phoneme>
 </lexeme>

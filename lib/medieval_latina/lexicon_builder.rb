@@ -2,7 +2,7 @@ require "builder"
 
 class MedievalLatina
   class LexiconBuilder
-    MAX_SIZE = 40000  # Character limit for each PLS file
+    MAX_SIZE = 39000  # Character limit for each PLS file
 
     def self.write
       new.call
@@ -46,7 +46,7 @@ class MedievalLatina
     # Valid characters: a-z, A-Z, and 0-9.
 
     def write_file(content, index)
-      formatted_index = sprintf("%03d", index)
+      formatted_index = sprintf("%02d", index)
       File.write("lexicons/Latin#{formatted_index}.pls", content)
     end
 

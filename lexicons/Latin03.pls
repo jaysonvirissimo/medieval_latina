@@ -1,6 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" version="1.0"/>
 <lexeme>
+  <grapheme>fessus</grapheme>
+  <phoneme>fessus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fessa</grapheme>
+  <phoneme>fessa</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>fessum</grapheme>
+  <phoneme>fessum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>praeda</grapheme>
+  <phoneme>praeda</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>praedae</grapheme>
+  <phoneme>praedae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>memoria</grapheme>
+  <phoneme>memoria</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>memoriae</grapheme>
+  <phoneme>memoriae</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dīvidō</grapheme>
+  <grapheme>divido</grapheme>
+  <phoneme>dividoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dīvidere</grapheme>
+  <grapheme>dividere</grapheme>
+  <phoneme>dividɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dīvīsī</grapheme>
+  <grapheme>divisi</grapheme>
+  <phoneme>divisiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>dīvīsum</grapheme>
+  <grapheme>divisum</grapheme>
+  <phoneme>divisumː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pretium</grapheme>
+  <phoneme>prɛtjum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pretiumī</grapheme>
+  <grapheme>pretiumi</grapheme>
+  <phoneme>prɛtjumiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pontus</grapheme>
+  <phoneme>pontus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pontī</grapheme>
+  <grapheme>ponti</grapheme>
+  <phoneme>pontiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>varius</grapheme>
+  <phoneme>varjus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>varia</grapheme>
+  <phoneme>varja</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>varium</grapheme>
+  <phoneme>varjum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vehō</grapheme>
+  <grapheme>veho</grapheme>
+  <phoneme>vehoː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vehere</grapheme>
+  <phoneme>vɛhɛre</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vēxī</grapheme>
+  <grapheme>vexi</grapheme>
+  <phoneme>veksiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>vectum</grapheme>
+  <phoneme>vɛktum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>falsus</grapheme>
+  <phoneme>falsus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>falsa</grapheme>
+  <phoneme>falsa</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>falsum</grapheme>
+  <phoneme>falsum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>niger</grapheme>
+  <phoneme>niger</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nigra</grapheme>
+  <phoneme>nigra</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>nigrum</grapheme>
+  <phoneme>nigrum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>oppidum</grapheme>
+  <phoneme>oppidum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>oppidī</grapheme>
+  <grapheme>oppidi</grapheme>
+  <phoneme>oppidiː</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>pondus</grapheme>
+  <phoneme>pondus</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>ponderis</grapheme>
+  <phoneme>ponderis</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>arvum</grapheme>
+  <phoneme>arvum</phoneme>
+</lexeme>
+<lexeme>
+  <grapheme>arvī</grapheme>
+  <grapheme>arvi</grapheme>
+  <phoneme>arviː</phoneme>
+</lexeme>
+<lexeme>
   <grapheme>arx</grapheme>
   <phoneme>arks</phoneme>
 </lexeme>
@@ -1741,196 +1887,4 @@
 <lexeme>
   <grapheme>insulto</grapheme>
   <phoneme>inˈsul.to</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>insurgo</grapheme>
-  <phoneme>inˈsur.go</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>laetor</grapheme>
-  <phoneme>ˈle.tor</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>ligo</grapheme>
-  <phoneme>ˈli.go</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>mereor</grapheme>
-  <phoneme>ˈme.re.or</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>misereor</grapheme>
-  <phoneme>mi.seˈre.or</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>mutilo</grapheme>
-  <phoneme>muˈti.lo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>navigo</grapheme>
-  <phoneme>naˈvi.go</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>neco</grapheme>
-  <phoneme>ˈne.ko</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>nego</grapheme>
-  <phoneme>ˈne.go</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>nitor</grapheme>
-  <phoneme>ˈni.tor</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>nuntio</grapheme>
-  <phoneme>nunˈti.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>obsideo</grapheme>
-  <phoneme>obˈsi.de.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>occido</grapheme>
-  <phoneme>okˈtʃi.do</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>occulo</grapheme>
-  <phoneme>ˈok.ku.lo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>offero</grapheme>
-  <phoneme>ˈof.fe.ro</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>oppono</grapheme>
-  <phoneme>opˈpo.no</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>opprimo</grapheme>
-  <phoneme>opˈpri.mo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pario</grapheme>
-  <phoneme>ˈpa.ri.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pasco</grapheme>
-  <phoneme>ˈpas.ko</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>pono</grapheme>
-  <phoneme>ˈpo.no</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>protego</grapheme>
-  <phoneme>proˈte.go</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>provideo</grapheme>
-  <phoneme>proˈvi.de.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>punio</grapheme>
-  <phoneme>ˈpu.ni.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>quaescivi</grapheme>
-  <phoneme>kwaˈes.ki.vi</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>quatio</grapheme>
-  <phoneme>ˈkwa.ti.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>reficio</grapheme>
-  <phoneme>reˈfi.tʃo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>rego</grapheme>
-  <phoneme>ˈre.go</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>resisto</grapheme>
-  <phoneme>reˈsis.to</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>resto</grapheme>
-  <phoneme>ˈres.to</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>saluto</grapheme>
-  <phoneme>saˈlu.to</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>salveo</grapheme>
-  <phoneme>ˈsal.ve.o</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>sano</grapheme>
-  <phoneme>ˈsa.no</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>scindo</grapheme>
-  <phoneme>ˈsin.do</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>secerno</grapheme>
-  <phoneme>seˈtʃer.no</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>servo</grapheme>
-  <phoneme>ˈser.vo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>spiro</grapheme>
-  <phoneme>ˈspi.ro</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>sumpsi</grapheme>
-  <phoneme>ˈsum.psi</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>termino</grapheme>
-  <phoneme>terˈmi.no</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>tero</grapheme>
-  <phoneme>ˈte.ro</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>tollo</grapheme>
-  <phoneme>ˈtol.lo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>tutor</grapheme>
-  <phoneme>ˈtu.tor</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>uro</grapheme>
-  <phoneme>ˈu.ro</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>usurpo</grapheme>
-  <phoneme>uˈsur.po</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vagor</grapheme>
-  <phoneme>ˈva.gor</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>versor</grapheme>
-  <phoneme>ˈver.sor</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>verto</grapheme>
-  <phoneme>ˈver.to</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vigilo</grapheme>
-  <phoneme>viˈdʒi.lo</phoneme>
-</lexeme>
-<lexeme>
-  <grapheme>vulnero</grapheme>
-  <phoneme>ˈvul.ne.ro</phoneme>
 </lexeme>
