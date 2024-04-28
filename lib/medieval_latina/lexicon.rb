@@ -17,9 +17,9 @@ class MedievalLatina
       File.read(path)
     end
 
-    def self.files_with_contents
+    def self.file_names_with_contents
       list_files.each_with_object({}) do |file_path, files_content|
-        file_name = File.basename(file_path)
+        file_name, _extension = File.basename(file_path).split(".")
         files_content[file_name] = get_file_content(file_name)
       end
     end
