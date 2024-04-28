@@ -167,6 +167,7 @@ RSpec.describe MedievalLatina do
 
   describe "Lexicons files meet AWS Polly requirements" do
     let(:lexicon_files) { Dir["lexicons/*.pls"] }
+    let(:valid_ipa_regex) { /b|d|[d͡ʒ]|ð|f|ɡ|h|j|k|l|m|n|ŋ|p|[ɹ]|s|[ʃ]|t|[t͡ʃ]|θ|v|w|z|[ʒ]|ə|ɚ|æ|[aɪ]|[aʊ]|ɑ|[eɪ]|ɝ|ɛ|i|ɪ|[oʊ]|ɔ|[ɔɪ]|u|ʊ|ʌ|ˈ|ˌ|\./ }
 
     it "generates lexicon files" do
       expect(lexicon_files).not_to be_empty
@@ -199,8 +200,7 @@ RSpec.describe MedievalLatina do
       end
     end
 
-    it "contains valid IPA characters in the <phoneme> elements" do
-      valid_ipa_regex = /\A[\p{L}\p{M}\p{N}\p{P}\p{S}\p{Z}]+\z/
+    it "contains only allowed IPA characters in the <phoneme> elements" do
       lexicon_files.each do |file|
         content = File.read(file)
         doc = Nokogiri::XML(content)
