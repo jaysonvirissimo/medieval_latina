@@ -142,6 +142,10 @@ RSpec.describe MedievalLatina do
         "vir" => "vir"
       )
     end
+
+    it "doesn't break on words that aren't in the dictionary" do
+      expect { described_class.pronunciations_for(["foo"]) }.not_to raise_error
+    end
   end
 
   describe ".verbs" do

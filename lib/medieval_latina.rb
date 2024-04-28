@@ -85,7 +85,7 @@ class MedievalLatina
     words.map(&:downcase).each_with_object({}) do |word, hash|
       metadata = DICTIONARY[word]
 
-      if metadata["ipa"]
+      if metadata && metadata["ipa"]
         hash[word] = metadata["ipa"]
       end
     end
