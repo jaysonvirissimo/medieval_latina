@@ -43,7 +43,7 @@ class MedievalLatina
     private
 
     def write_file(content, index)
-      File.write("lexicons/lexicon_#{index}.pls", content)
+      File.write("lexicons/MedivalLatinaLexicon#{index}.pls", content)
     end
 
     attr_reader :hash

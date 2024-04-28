@@ -42,7 +42,7 @@ require 'aws-sdk-polly'
 polly = Aws::Polly::Client.new(region: 'us-west-2')
 
 # Add the lexicons
-MedievalLatina::Lexicon.files_with_contents do |name, context|
+MedievalLatina::Lexicon.files_with_contents.each do |name, context|
   polly.put_lexicon(name: name, content: content)
 end
 
