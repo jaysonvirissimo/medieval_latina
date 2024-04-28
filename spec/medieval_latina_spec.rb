@@ -133,6 +133,17 @@ RSpec.describe MedievalLatina do
     specify { expect(described_class).to respond_to(:adverbs) }
   end
 
+  describe ".pronunciations_for" do
+    let(:words) { ["beatus", "vir"] }
+
+    it "returns only the words and pronunciations asked for" do
+      expect(described_class.pronunciations_for(words)).to match(
+        "beatus" => "beatʊsː",
+        "vir" => "vir"
+      )
+    end
+  end
+
   describe ".verbs" do
     specify { expect(described_class).to respond_to(:verbs) }
   end

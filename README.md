@@ -38,18 +38,21 @@ responsiveVoice.speak(sentence, "UK English Female");
 ### Generate lexicons to override text-to-speech pronunciation
 ```ruby
 require 'aws-sdk-polly'
+polly = Aws::Polly::Client.new
 
-polly = Aws::Polly::Client.new(region: 'us-west-2')
+sentence = "PATER NOSTER qui es in caelis"
 
-# Add the lexicons
-MedievalLatina::Lexicon.file_names_with_contents.each do |name, content|
-  polly.put_lexicon(name: name, content: content)
-end
+words = sentence.split(" ")
+pronunciations = MedievalLatina.pronunciations_for(words)
+lexicon = MedievalLatina::LexiconBuilder.new(pronunciations).call
+
+name = "CustomLatin"
+polly.put_lexicon(name: name, content: lexicon.to_s)
 
 # Synthesize speech using the lexicons
 polly.synthesize_speech(
-  lexicon_names: MedievalLatina::Lexicon.list_files,
-  text: "PATER NOSTER, qui es in caelis",
+  lexicon_names: [name],
+  text: sentence,
   output_format: "mp3",
   voice_id: "Joanna"
 )

@@ -1,33 +1,15 @@
 #!/usr/bin/env ruby
 
 require 'json'
-require 'rexml/document'
-require 'cgi'
-include REXML
+require "bundler/setup"
+require "medieval_latina"
+require "medieval_latina/lexicon_builder"
 
 def create_pls_file(file_path, words)
-  doc = Document.new
-  doc.add_element 'lexicon', {'version' => '1.0',
-                              'xmlns' => 'http://www.w3.org/2005/01/pronunciation-lexicon',
-                              'alphabet' => 'ipa',
-                              'xml:lang' => 'en-US'}
-
-  words.each do |word, pronunciation|
-    lexeme = Element.new('lexeme')
-    grapheme = Element.new('grapheme')
-    phoneme = Element.new('phoneme')
-
-    grapheme.text = CGI.unescapeHTML(word)
-    phoneme.text = pronunciation
-
-    lexeme.add_element(grapheme)
-    lexeme.add_element(phoneme)
-
-    doc.root.add_element(lexeme)
-  end
+  document = MedievalLatina::LexiconBuilder.new(words).call
 
   File.open(file_path, 'w') do |file|
-    doc.write(file, 2)
+    document.write(file, 2)
     file.write("\n")
   end
 end

@@ -1,6 +1,7 @@
 require "json"
 require "medieval_latina/initializer"
 require "medieval_latina/lexicon"
+require "medieval_latina/lexicon_builder"
 require "medieval_latina/version"
 require "set"
 
@@ -77,6 +78,16 @@ class MedievalLatina
   def self.nouns
     DICTIONARY.select do |word, metadata|
       metadata["part"] == "Noun"
+    end
+  end
+
+  def self.pronunciations_for(words)
+    words.map(&:downcase).each_with_object({}) do |word, hash|
+      metadata = DICTIONARY[word]
+
+      if metadata["ipa"]
+        hash[word] = metadata["ipa"]
+      end
     end
   end
 
