@@ -13,7 +13,7 @@ GEM
     i18n (1.13.0)
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.8.6)
-    nokogiri (1.16.4)
+    nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     parallel (1.19.1)
