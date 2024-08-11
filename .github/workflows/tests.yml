@@ -54,9 +54,8 @@ jobs:
           bundler-cache: true
       - name: Install dependencies
         run: |
-          gem install rubocop
-          gem install jsonlint
+          bundle install
       - name: Lint Ruby
-        run: rubocop
+        run: bundle exec standardrb
       - name: Lint JSON
-        run: jsonlint data/dictionary.json
+        run: bundle exec jsonlint data/dictionary.json

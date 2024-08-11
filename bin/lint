@@ -3,19 +3,12 @@ set -euo pipefail
 IFS=$'\n\t'
 set -vx
 
-# Run StandardRB to lint and auto-fix Ruby files
+# Run StandardRB to lint Ruby files
 echo "Linting Ruby files with StandardRB..."
-standardrb --fix
-
-# Check if jsonlint is installed
-if ! command -v jsonlint &> /dev/null
-then
-    echo "jsonlint could not be found. Installing..."
-    gem install jsonlint
-fi
+bundle exec standardrb
 
 # Run jsonlint to check the dictionary.json file
 echo "Linting dictionary.json with jsonlint..."
-jsonlint data/dictionary.json
+bundle exec jsonlint data/dictionary.json
 
 echo "Linting completed."
