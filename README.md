@@ -108,7 +108,7 @@ You do this by running: `bin/build`
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/jaysonvirissimo/medieval_latina.
-Run `standardrb --fix` before submitting any changes, to help keep the code formatting uniform.
+Run `bin/lint` before submitting any changes, to help keep the code formatting uniform.
 
 ## License
 
