@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    medieval_latina (3.0.0)
+    medieval_latina (3.1.0)
       i18n
 
 GEM
@@ -20,7 +20,7 @@ GEM
     language_server-protocol (3.17.0.3)
     lint_roller (1.1.0)
     mini_portile2 (2.8.6)
-    nokogiri (1.16.5)
+    nokogiri (1.18.0)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     oj (3.16.5)
