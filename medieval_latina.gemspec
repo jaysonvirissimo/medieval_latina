@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.description = description
   spec.homepage = "https://github.com/jaysonvirissimo/medieval_latina"
   spec.license = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 3.0.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 3.1.0")
   spec.metadata["allowed_push_host"] = "https://rubygems.org/"
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = github_uri
@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "i18n"
   spec.add_development_dependency "rake", "~> 12.0"
   spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "nokogiri"
+  spec.add_development_dependency "nokogiri", "~> 1.18"
   spec.add_development_dependency "standardrb"
   spec.add_development_dependency "jsonlint"
 end

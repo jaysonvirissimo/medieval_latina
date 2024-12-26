@@ -21,6 +21,8 @@ GEM
     lint_roller (1.1.0)
     nokogiri (1.18.0-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.18.0-x86_64-linux-gnu)
+      racc (~> 1.4)
     oj (3.16.5)
       bigdecimal (>= 3.0)
       ostruct (>= 0.2)
@@ -80,17 +82,18 @@ GEM
       rubocop-performance (~> 1.21.0)
     standardrb (1.0.1)
       standard
-    strscan (3.1.0)
+    strscan (3.1.2)
     unicode-display_width (2.5.0)
 
 PLATFORMS
   arm64-darwin-23
   arm64-darwin-24
+  x86_64-linux
 
 DEPENDENCIES
   jsonlint
   medieval_latina!
-  nokogiri
+  nokogiri (~> 1.18)
   rake (~> 12.0)
   rspec (~> 3.0)
   standardrb
