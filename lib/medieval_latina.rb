@@ -3,7 +3,6 @@ require "medieval_latina/initializer"
 require "medieval_latina/lexicon"
 require "medieval_latina/lexicon_builder"
 require "medieval_latina/version"
-require "set"
 
 class MedievalLatina
   def self.[](text)
