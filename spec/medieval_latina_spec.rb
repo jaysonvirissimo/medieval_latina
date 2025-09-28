@@ -105,6 +105,30 @@ RSpec.describe MedievalLatina do
       end
     end
 
+    it "includes meaning for all dictionary entries" do
+      subject.each do |word, metadata|
+        expect(metadata["meaning"]).not_to be_nil,
+          "Missing meaning for word: #{word} (part: #{metadata["part"]})"
+        expect(metadata["meaning"].strip).not_to be_empty,
+          "Empty meaning for word: #{word} (part: #{metadata["part"]})"
+      end
+    end
+
+    it "includes meaning for all Noun entries" do
+      nouns_without_meanings = []
+
+      subject.each do |word, metadata|
+        if metadata["part"] == "Noun"
+          if metadata["meaning"].nil? || metadata["meaning"].strip.empty?
+            nouns_without_meanings << word
+          end
+        end
+      end
+
+      expect(nouns_without_meanings).to be_empty,
+        "The following #{nouns_without_meanings.size} nouns are missing meanings: #{nouns_without_meanings.join(", ")}"
+    end
+
     it "enforces object shapes" do
       expected_keys = Set.new([
         "meaning",
