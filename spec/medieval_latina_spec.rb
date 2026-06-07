@@ -114,6 +114,15 @@ RSpec.describe MedievalLatina do
       end
     end
 
+    it "includes ipa for all dictionary entries" do
+      subject.each do |word, metadata|
+        expect(metadata["ipa"]).not_to be_nil,
+          "Missing ipa for word: #{word} (part: #{metadata["part"]})"
+        expect(metadata["ipa"].strip).not_to be_empty,
+          "Empty ipa for word: #{word} (part: #{metadata["part"]})"
+      end
+    end
+
     it "includes meaning for all Noun entries" do
       nouns_without_meanings = []
 
