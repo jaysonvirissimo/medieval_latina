@@ -14886,75 +14886,88 @@
   "ideō": {
     "meaning": "for this reason",
     "part": "Adverb",
+    "ipa": "ideoː",
     "position": 2102
   },
   "ideo": {
     "meaning": "for this reason",
     "part": "Adverb",
+    "ipa": "ideoː",
     "position": 2103
   },
   "praemium": {
     "meaning": "bounty, reward",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "prɛmium",
     "position": 2104
   },
   "praemiī": {
     "meaning": "bounty, reward",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "prɛmiiː",
     "position": 2105
   },
   "praemii": {
     "meaning": "bounty, reward",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "prɛmiiː",
     "position": 2106
   },
   "praetereā": {
     "meaning": "besides, moreover",
     "part": "Adverb",
+    "ipa": "prɛtereaː",
     "position": 2107
   },
   "praeterea": {
     "meaning": "besides, moreover",
     "part": "Adverb",
+    "ipa": "prɛtereaː",
     "position": 2108
   },
   "tertius": {
     "meaning": "third",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tertius",
     "position": 2109
   },
   "tertia": {
     "meaning": "third",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tertia",
     "position": 2110
   },
   "tertium": {
     "meaning": "third",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tertium",
     "position": 2111
   },
   "supplicium": {
     "meaning": "punishment, penalty",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "supplikium",
     "position": 2112
   },
   "suppliciī": {
     "meaning": "punishment, penalty",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "supplikiiː",
     "position": 2113
   },
   "supplicii": {
     "meaning": "punishment, penalty",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "supplikiiː",
     "position": 2114
   },
   "vātēs": {
@@ -14962,6 +14975,7 @@
     "part": "Noun",
     "declension": "3rd",
     "gender": "m.",
+    "ipa": "vaːteːs",
     "position": 2115
   },
   "vates": {
@@ -14969,6 +14983,7 @@
     "part": "Noun",
     "declension": "3rd",
     "gender": "m.",
+    "ipa": "vaːteːs",
     "position": 2116
   },
   "vātis": {
@@ -14976,6 +14991,7 @@
     "part": "Noun",
     "declension": "3rd",
     "gender": "m.",
+    "ipa": "vaːtis",
     "position": 2117
   },
   "vatis": {
@@ -14983,29 +14999,34 @@
     "part": "Noun",
     "declension": "3rd",
     "gender": "m.",
+    "ipa": "vaːtis",
     "position": 2118
   },
   "astrum": {
     "meaning": "star; constellation",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "astrum",
     "position": 2119
   },
   "astrī": {
     "meaning": "star; constellation",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "astriː",
     "position": 2120
   },
   "astri": {
     "meaning": "star; constellation",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "astriː",
     "position": 2121
   },
   "undique": {
     "meaning": "from all sides, on all sides",
     "part": "Adverb",
+    "ipa": "undikwe",
     "position": 2122
   },
   "canis": {
@@ -15013,309 +15034,361 @@
     "part": "Noun",
     "declension": "3rd",
     "gender": "m./f.",
+    "ipa": "kanis",
     "position": 2123
   },
   "ēdō": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdoː",
     "position": 2124
   },
   "edo": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdoː",
     "position": 2125
   },
   "ēdere": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdere",
     "position": 2126
   },
   "edere": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdere",
     "position": 2127
   },
   "ēdidī": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdidiː",
     "position": 2128
   },
   "edidi": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdidiː",
     "position": 2129
   },
   "ēditum": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːditum",
     "position": 2130
   },
   "editum": {
     "meaning": "put forth, state, explain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːditum",
     "position": 2131
   },
   "fateor": {
     "meaning": "admit, confess; profess, declare; assent, say yes",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fateor",
     "position": 2132
   },
   "fatērī": {
     "meaning": "admit, confess; profess, declare; assent, say yes",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fateːriː",
     "position": 2133
   },
   "fateri": {
     "meaning": "admit, confess; profess, declare; assent, say yes",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fateːriː",
     "position": 2134
   },
   "fassus_sum": {
     "meaning": "admit, confess; profess, declare; assent, say yes",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fassussum",
     "position": 2135
   },
   "amīcitia": {
     "meaning": "friendship",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "amiːtʃitsia",
     "position": 2136
   },
   "amicitia": {
     "meaning": "friendship",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "amiːtʃitsia",
     "position": 2137
   },
   "amīcitiae": {
     "meaning": "friendship",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "amiːtʃitsiɛ",
     "position": 2138
   },
   "amicitiae": {
     "meaning": "friendship",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "amiːtʃitsiɛ",
     "position": 2139
   },
   "aureus": {
     "meaning": "golden; splendid",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "aureus",
     "position": 2140
   },
   "aurea": {
     "meaning": "golden; splendid",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "aurea",
     "position": 2141
   },
   "aureum": {
     "meaning": "golden; splendid",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "aureum",
     "position": 2142
   },
   "candidus": {
     "meaning": "white, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "kandidus",
     "position": 2143
   },
   "candida": {
     "meaning": "white, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "kandida",
     "position": 2144
   },
   "candidum": {
     "meaning": "white, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "kandidum",
     "position": 2145
   },
   "interim": {
     "meaning": "meanwhile",
     "part": "Adverb",
+    "ipa": "interim",
     "position": 2146
   },
   "frūstrā": {
     "meaning": "in vain",
     "part": "Adverb",
+    "ipa": "fruːstraː",
     "position": 2147
   },
   "frustra": {
     "meaning": "in vain",
     "part": "Adverb",
+    "ipa": "fruːstraː",
     "position": 2148
   },
   "lateō": {
     "meaning": "lie hidden, be hidden",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "lateoː",
     "position": 2149
   },
   "lateo": {
     "meaning": "lie hidden, be hidden",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "lateoː",
     "position": 2150
   },
   "latēre": {
     "meaning": "lie hidden, be hidden",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "lateːre",
     "position": 2151
   },
   "latere": {
     "meaning": "lie hidden, be hidden",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "lateːre",
     "position": 2152
   },
   "latuī": {
     "meaning": "lie hidden, be hidden",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "latuiː",
     "position": 2153
   },
   "latui": {
     "meaning": "lie hidden, be hidden",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "latuiː",
     "position": 2154
   },
   "ossis": {
     "meaning": "bone",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ossis",
     "position": 2155
   },
   "sēcūrus": {
     "meaning": "free from care, tranquil; careless",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "seːkuːrus",
     "position": 2156
   },
   "securus": {
     "meaning": "free from care, tranquil; careless",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "seːkuːrus",
     "position": 2157
   },
   "sēcūra": {
     "meaning": "free from care, tranquil; careless",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "seːkuːra",
     "position": 2158
   },
   "secura": {
     "meaning": "free from care, tranquil; careless",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "seːkuːra",
     "position": 2159
   },
   "sēcūrum": {
     "meaning": "free from care, tranquil; careless",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "seːkuːrum",
     "position": 2160
   },
   "securum": {
     "meaning": "free from care, tranquil; careless",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "seːkuːrum",
     "position": 2161
   },
   "conveniō": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konvenioː",
     "position": 2162
   },
   "convenio": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konvenioː",
     "position": 2163
   },
   "convenīre": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konveniːre",
     "position": 2164
   },
   "convenire": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konveniːre",
     "position": 2165
   },
   "convēnī": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konveːniː",
     "position": 2166
   },
   "conveni": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konveːniː",
     "position": 2167
   },
   "conventum": {
     "meaning": "assemble, meet; agree",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "konventum",
     "position": 2168
   },
   "interficiō": {
     "meaning": "kill",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "interfitʃioː",
     "position": 2169
   },
   "interficio": {
     "meaning": "kill",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "interfitʃioː",
     "position": 2170
   },
   "interficere": {
     "meaning": "kill",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "interfitʃere",
     "position": 2171
   },
   "interfēcī": {
     "meaning": "kill",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "interfeːtʃiː",
     "position": 2172
   },
   "interfeci": {
     "meaning": "kill",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "interfeːtʃiː",
     "position": 2173
   },
   "interfectum": {
     "meaning": "kill",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "interfektum",
     "position": 2174
   },
   "appellō": {
@@ -15323,6 +15396,7 @@
     "part": "Verb",
     "conjugation": "1st",
     "pronunciation": "appello",
+    "ipa": "appelloː",
     "position": 2175
   },
   "appello": {
@@ -15330,100 +15404,117 @@
     "part": "Verb",
     "conjugation": "1st",
     "pronunciation": "appello",
+    "ipa": "appelloː",
     "position": 2176
   },
   "appellāre": {
     "meaning": "call, address, name",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "appellaːre",
     "position": 2177
   },
   "appellare": {
     "meaning": "call, address, name",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "appellaːre",
     "position": 2178
   },
   "dolus": {
     "meaning": "artifice, device, trick",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "dolus",
     "position": 2179
   },
   "dolī": {
     "meaning": "artifice, device, trick",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "doliː",
     "position": 2180
   },
   "doli": {
     "meaning": "artifice, device, trick",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "doliː",
     "position": 2181
   },
   "permittō": {
     "meaning": "yield, allow, permit",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "permittoː",
     "position": 2182
   },
   "permitto": {
     "meaning": "yield, allow, permit",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "permittoː",
     "position": 2183
   },
   "permittere": {
     "meaning": "yield, allow, permit",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "permittere",
     "position": 2184
   },
   "permīsī": {
     "meaning": "yield, allow, permit",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "permiːsiː",
     "position": 2185
   },
   "permisi": {
     "meaning": "yield, allow, permit",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "permiːsiː",
     "position": 2186
   },
   "permissum": {
     "meaning": "yield, allow, permit",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "permissum",
     "position": 2187
   },
   "spīritus": {
     "meaning": "breath, life, spirit",
     "part": "Noun",
     "declension": "4th",
+    "ipa": "spiːrituːs",
     "position": 2188
   },
   "spiritus": {
     "meaning": "breath, life, spirit",
     "part": "Noun",
     "declension": "4th",
+    "ipa": "spiːrituːs",
     "position": 2189
   },
   "spīritūs": {
     "meaning": "breath, life, spirit",
     "part": "Noun",
     "declension": "4th",
+    "ipa": "spiːrituːs",
     "position": 2190
   },
   "intrā": {
     "meaning": "within",
     "part": "Preposition",
+    "ipa": "intraː",
     "position": 2191
   },
   "intra": {
     "meaning": "within",
     "part": "Preposition",
+    "ipa": "intraː",
     "position": 2192
   },
   "terreō": {
@@ -15431,6 +15522,7 @@
     "part": "Verb",
     "conjugation": "2nd",
     "pronunciation": "tayrayo",
+    "ipa": "terreoː",
     "position": 2193
   },
   "terreo": {
@@ -15438,48 +15530,56 @@
     "part": "Verb",
     "conjugation": "2nd",
     "pronunciation": "tayrayo",
+    "ipa": "terreoː",
     "position": 2194
   },
   "terrēre": {
     "meaning": "terrify, frighten",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "terreːre",
     "position": 2195
   },
   "terrere": {
     "meaning": "terrify, frighten",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "terreːre",
     "position": 2196
   },
   "terruī": {
     "meaning": "terrify, frighten",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "terruiː",
     "position": 2197
   },
   "terrui": {
     "meaning": "terrify, frighten",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "terruiː",
     "position": 2198
   },
   "territum": {
     "meaning": "terrify, frighten",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "territum",
     "position": 2199
   },
   "fōns": {
     "meaning": "spring, fountain",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "foːns",
     "position": 2200
   },
   "fons": {
     "meaning": "spring, fountain",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "foːns",
     "position": 2201
   },
   "fontis": {
@@ -16176,143 +16276,167 @@
     "meaning": "delight, joy, pleasure",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɡaudium",
     "position": 2302
   },
   "gaudiī": {
     "meaning": "delight, joy, pleasure",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɡaudiiː",
     "position": 2303
   },
   "gaudii": {
     "meaning": "delight, joy, pleasure",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɡaudiiː",
     "position": 2304
   },
   "caecus": {
     "meaning": "blind, unseeing; dark, obscure",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tʃɛkus",
     "position": 2305
   },
   "caeca": {
     "meaning": "blind, unseeing; dark, obscure",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tʃɛka",
     "position": 2306
   },
   "caecum": {
     "meaning": "blind, unseeing; dark, obscure",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tʃɛkum",
     "position": 2307
   },
   "libet": {
     "meaning": "it is pleasing",
     "part": "Verb",
     "conjugation": "Impersonal",
+    "ipa": "libet",
     "position": 2308
   },
   "libēre": {
     "meaning": "it is pleasing",
     "part": "Verb",
     "conjugation": "Impersonal",
+    "ipa": "libeːre",
     "position": 2309
   },
   "libere": {
     "meaning": "it is pleasing",
     "part": "Verb",
     "conjugation": "Impersonal",
+    "ipa": "libeːre",
     "position": 2310
   },
   "libuit": {
     "meaning": "it is pleasing",
     "part": "Verb",
     "conjugation": "Impersonal",
+    "ipa": "libuit",
     "position": 2311
   },
   "libitum est": {
     "meaning": "it is pleasing",
     "part": "Verb",
     "conjugation": "Impersonal",
+    "ipa": "libitumɛst",
     "position": 2312
   },
   "centum": {
     "meaning": "one hundred",
     "part": "Adjective",
+    "ipa": "tʃentum",
     "position": 2313
   },
   "cōnstō": {
     "meaning": "agree; constat, it is established that",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "koːnstoː",
     "position": 2314
   },
   "consto": {
     "meaning": "agree; constat, it is established that",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "koːnstoː",
     "position": 2315
   },
   "cōnstāre": {
     "meaning": "agree; constat, it is established that",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "koːnstaːre",
     "position": 2316
   },
   "constare": {
     "meaning": "agree; constat, it is established that",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "koːnstaːre",
     "position": 2317
   },
   "cōnstitī": {
     "meaning": "agree; constat, it is established that",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "koːnstitiː",
     "position": 2318
   },
   "constiti": {
     "meaning": "agree; constat, it is established that",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "koːnstitiː",
     "position": 2319
   },
   "lingua": {
     "meaning": "tongue; language",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "linɡwa",
     "position": 2320
   },
   "linguae": {
     "meaning": "tongue; language",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "linɡwɛ",
     "position": 2321
   },
   "multitūdō": {
     "meaning": "multitude, number",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "multituːdoː",
     "position": 2322
   },
   "multitudo": {
     "meaning": "multitude, number",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "multituːdoː",
     "position": 2323
   },
   "multitūdinis": {
     "meaning": "multitude, number",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "multituːdinis",
     "position": 2324
   },
   "multitudinis": {
     "meaning": "multitude, number",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "multituːdinis",
     "position": 2325
   },
   "aeternus": {
@@ -16320,4868 +16444,5692 @@
     "part": "Adjective",
     "declension": "1st and 2nd",
     "pronunciation": "aeternus",
+    "ipa": "ɛternus",
     "position": 2326
   },
   "aeterna": {
     "meaning": "everlasting, eternal",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "ɛterna",
     "position": 2327
   },
   "aeternum": {
     "meaning": "everlasting, eternal",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "ɛternum",
     "position": 2328
   },
   "circā": {
     "meaning": "around (adv. and prep. +acc.)",
     "part": "Preposition",
+    "ipa": "tʃirkaː",
     "position": 2329
   },
   "circa": {
     "meaning": "around (adv. and prep. +acc.)",
     "part": "Preposition",
+    "ipa": "tʃirkaː",
     "position": 2330
   },
   "ōrātiō": {
     "meaning": "speech, address",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "oːraːtsio",
     "position": 2331
   },
   "oratio": {
     "meaning": "speech, address",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "oːraːtsio",
     "position": 2332
   },
   "ōrātiōnis": {
     "meaning": "speech, address",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "oːraːtsioːnis",
     "position": 2333
   },
   "orationis": {
     "meaning": "speech, address",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "oːraːtsioːnis",
     "position": 2334
   },
   "potestās": {
     "meaning": "power",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "potestaːs",
     "position": 2335
   },
   "potestas": {
     "meaning": "power",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "potestaːs",
     "position": 2336
   },
   "potestātis": {
     "meaning": "power",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "potestaːtis",
     "position": 2337
   },
   "potestatis": {
     "meaning": "power",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "potestaːtis",
     "position": 2338
   },
   "tardus": {
     "meaning": "slow, sluggish, lingering",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tardus",
     "position": 2339
   },
   "tarda": {
     "meaning": "slow, sluggish, lingering",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tarda",
     "position": 2340
   },
   "tardum": {
     "meaning": "slow, sluggish, lingering",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "tardum",
     "position": 2341
   },
   "for": {
     "meaning": "report, say",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "for",
     "position": 2342
   },
   "fārī": {
     "meaning": "report, say",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "faːriː",
     "position": 2343
   },
   "fari": {
     "meaning": "report, say",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "faːriː",
     "position": 2344
   },
   "fātus sum": {
     "meaning": "report, say",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "faːtussum",
     "position": 2345
   },
   "fatus sum": {
     "meaning": "report, say",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "faːtussum",
     "position": 2346
   },
   "humus": {
     "meaning": "ground; humī: on the ground",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "umus",
     "position": 2347
   },
   "humī": {
     "meaning": "ground; humī: on the ground",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "umiː",
     "position": 2348
   },
   "humi": {
     "meaning": "ground; humī: on the ground",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "umiː",
     "position": 2349
   },
   "testis": {
     "meaning": "witness",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "testis",
     "position": 2350
   },
   "īnferō": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "iːnfero",
     "position": 2351
   },
   "infero": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "iːnfero",
     "position": 2352
   },
   "īnferre": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "iːnferre",
     "position": 2353
   },
   "inferre": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "iːnferre",
     "position": 2354
   },
   "intulī": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "intuliː",
     "position": 2355
   },
   "intuli": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "intuliː",
     "position": 2356
   },
   "illātum": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "illaːtum",
     "position": 2357
   },
   "illatum": {
     "meaning": "bring upon, against; bellum īnferre: make war on",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "illaːtum",
     "position": 2358
   },
   "cūrō": {
     "meaning": "watch over, look after, care for",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kuːro",
     "position": 2359
   },
   "curo": {
     "meaning": "watch over, look after, care for",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kuːro",
     "position": 2360
   },
   "cūrāre": {
     "meaning": "watch over, look after, care for",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kuːraːre",
     "position": 2361
   },
   "curare": {
     "meaning": "watch over, look after, care for",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kuːraːre",
     "position": 2362
   },
   "aes": {
     "meaning": "copper, bronze",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛs",
     "position": 2363
   },
   "aeris": {
     "meaning": "copper, bronze",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "aːeris",
     "position": 2364
   },
   "celer": {
     "meaning": "swift",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "tʃeler",
     "position": 2365
   },
   "celeris": {
     "meaning": "swift",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "tʃeleris",
     "position": 2366
   },
   "celere": {
     "meaning": "swift",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "tʃelere",
     "position": 2367
   },
   "prōcēdō": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃeːdo",
     "position": 2368
   },
   "procedo": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃeːdo",
     "position": 2369
   },
   "prōcēdere": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃeːdere",
     "position": 2370
   },
   "procedere": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃeːdere",
     "position": 2371
   },
   "prōcessī": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃessiː",
     "position": 2372
   },
   "processi": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃessiː",
     "position": 2373
   },
   "prōcessum": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃessum",
     "position": 2374
   },
   "processum": {
     "meaning": "go forth, advance",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "proːtʃessum",
     "position": 2375
   },
   "mēnsa": {
     "meaning": "table",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "meːnsa",
     "position": 2376
   },
   "mensa": {
     "meaning": "table",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "meːnsa",
     "position": 2377
   },
   "mēnsae": {
     "meaning": "table",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "meːnsɛ",
     "position": 2378
   },
   "mensae": {
     "meaning": "table",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "meːnsɛ",
     "position": 2379
   },
   "pius": {
     "meaning": "dutiful, devoted, just, pious",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pius",
     "position": 2380
   },
   "pia": {
     "meaning": "dutiful, devoted, just, pious",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pia",
     "position": 2381
   },
   "pium": {
     "meaning": "dutiful, devoted, just, pious",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pium",
     "position": 2382
   },
   "iūdicium": {
     "meaning": "judgment, decision, trial",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "juːditʃium",
     "position": 2383
   },
   "iudicium": {
     "meaning": "judgment, decision, trial",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "juːditʃium",
     "position": 2384
   },
   "iūdiciī": {
     "meaning": "judgment, decision, trial",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "juːditʃiiː",
     "position": 2385
   },
   "iudicii": {
     "meaning": "judgment, decision, trial",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "juːditʃiiː",
     "position": 2386
   },
   "victōria": {
     "meaning": "victory",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "viktoːria",
     "position": 2387
   },
   "victoria": {
     "meaning": "victory",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "viktoːria",
     "position": 2388
   },
   "victōriae": {
     "meaning": "victory",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "viktoːriɛ",
     "position": 2389
   },
   "victoriae": {
     "meaning": "victory",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "viktoːriɛ",
     "position": 2390
   },
   "damnō": {
     "meaning": "condemn",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "damno",
     "position": 2391
   },
   "damno": {
     "meaning": "condemn",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "damno",
     "position": 2392
   },
   "damnāre": {
     "meaning": "condemn",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "damnaːre",
     "position": 2393
   },
   "damnare": {
     "meaning": "condemn",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "damnaːre",
     "position": 2394
   },
   "rārus": {
     "meaning": "wide apart, loose, thin; rare, seldom",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "raːrus",
     "position": 2395
   },
   "rarus": {
     "meaning": "wide apart, loose, thin; rare, seldom",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "raːrus",
     "position": 2396
   },
   "rāra": {
     "meaning": "wide apart, loose, thin; rare, seldom",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "raːra",
     "position": 2397
   },
   "rara": {
     "meaning": "wide apart, loose, thin; rare, seldom",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "raːra",
     "position": 2398
   },
   "rārum": {
     "meaning": "wide apart, loose, thin; rare, seldom",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "raːrum",
     "position": 2399
   },
   "rarum": {
     "meaning": "wide apart, loose, thin; rare, seldom",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "raːrum",
     "position": 2400
   },
   "tempestas": {
     "meaning": "period of time, season; bad weather, storm",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "tempestas",
     "position": 2401
   },
   "tempestātis": {
     "meaning": "period of time, season; bad weather, storm",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "tempestaːtis",
     "position": 2402
   },
   "tempestatis": {
     "meaning": "period of time, season; bad weather, storm",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "tempestaːtis",
     "position": 2403
   },
   "imāgō": {
     "meaning": "image, form, figure",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "imaːɡo",
     "position": 2404
   },
   "imago": {
     "meaning": "image, form, figure",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "imaːɡo",
     "position": 2405
   },
   "imāginis": {
     "meaning": "image, form, figure",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "imaːdʒinis",
     "position": 2406
   },
   "imaginis": {
     "meaning": "image, form, figure",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "imaːdʒinis",
     "position": 2407
   },
   "ōrō": {
     "meaning": "pray",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "oːro",
     "position": 2408
   },
   "oro": {
     "meaning": "pray",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "oːro",
     "position": 2409
   },
   "ōrāre": {
     "meaning": "pray",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "oːraːre",
     "position": 2410
   },
   "orare": {
     "meaning": "pray",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "oːraːre",
     "position": 2411
   },
   "praeter": {
     "meaning": "by, along, past; besides, except",
     "part": "Preposition",
+    "ipa": "prɛter",
     "position": 2412
   },
   "cōnsulō": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsulo",
     "position": 2413
   },
   "consulo": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsulo",
     "position": 2414
   },
   "cōnsulere": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsulere",
     "position": 2415
   },
   "consulere": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsulere",
     "position": 2416
   },
   "cōnsuluī": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsuluiː",
     "position": 2417
   },
   "consului": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsuluiː",
     "position": 2418
   },
   "cōnsultum": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsultum",
     "position": 2419
   },
   "consultum": {
     "meaning": "consult, plan; consider the interests of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsultum",
     "position": 2420
   },
   "iterum": {
     "meaning": "again",
     "part": "Adverb",
+    "ipa": "iterum",
     "position": 2421
   },
   "porta": {
     "meaning": "gate",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "porta",
     "position": 2422
   },
   "portae": {
     "meaning": "gate",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "portɛ",
     "position": 2423
   },
   "intersum": {
     "meaning": "to be between; take part in, attend; interest, it is in the interest of",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "intersum",
     "position": 2424
   },
   "interesse": {
     "meaning": "to be between; take part in, attend; interest, it is in the interest of",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "interɛsse",
     "position": 2425
   },
   "interfuī": {
     "meaning": "to be between; take part in, attend; interest, it is in the interest of",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "interfuiː",
     "position": 2426
   },
   "interfui": {
     "meaning": "to be between; take part in, attend; interest, it is in the interest of",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "interfuiː",
     "position": 2427
   },
   "libīdō": {
     "meaning": "passion, lust",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "libiːdo",
     "position": 2428
   },
   "libido": {
     "meaning": "passion, lust",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "libiːdo",
     "position": 2429
   },
   "libīdinis": {
     "meaning": "passion, lust",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "libiːdinis",
     "position": 2430
   },
   "libidinis": {
     "meaning": "passion, lust",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "libiːdinis",
     "position": 2431
   },
   "sustineō": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustineo",
     "position": 2432
   },
   "sustineo": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustineo",
     "position": 2433
   },
   "sustinēre": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustineːre",
     "position": 2434
   },
   "sustinere": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustineːre",
     "position": 2435
   },
   "sustinuī": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustinuiː",
     "position": 2436
   },
   "sustinui": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustinuiː",
     "position": 2437
   },
   "sustentum": {
     "meaning": "hold up, sustain",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "sustentum",
     "position": 2438
   },
   "aliquandō": {
     "meaning": "at some time, at length",
     "part": "Adverb",
+    "ipa": "alikwando",
     "position": 2439
   },
   "aliquando": {
     "meaning": "at some time, at length",
     "part": "Adverb",
+    "ipa": "alikwando",
     "position": 2440
   },
   "māiōrēs": {
     "meaning": "ancestors",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "maːjoːreːs",
     "position": 2441
   },
   "maiores": {
     "meaning": "ancestors",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "maːjoːreːs",
     "position": 2442
   },
   "māiōrum": {
     "meaning": "ancestors",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "maːjoːrum",
     "position": 2443
   },
   "maiorum": {
     "meaning": "ancestors",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "maːjoːrum",
     "position": 2444
   },
   "reperiō": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "reperio",
     "position": 2445
   },
   "reperio": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "reperio",
     "position": 2446
   },
   "reperīre": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "reperiːre",
     "position": 2447
   },
   "reperire": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "reperiːre",
     "position": 2448
   },
   "repperī": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "repperiː",
     "position": 2449
   },
   "repperi": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "repperiː",
     "position": 2450
   },
   "repertum": {
     "meaning": "find, find out",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "repertum",
     "position": 2451
   },
   "intrō": {
     "meaning": "enter",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "intro",
     "position": 2452
   },
   "intro": {
     "meaning": "enter",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "intro",
     "position": 2453
   },
   "intrāre": {
     "meaning": "enter",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "intraːre",
     "position": 2454
   },
   "intrare": {
     "meaning": "enter",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "intraːre",
     "position": 2455
   },
   "pietās": {
     "meaning": "sense of duty, devotion, esp. between parents and children",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "pietaːs",
     "position": 2456
   },
   "pietas": {
     "meaning": "sense of duty, devotion, esp. between parents and children",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "pietaːs",
     "position": 2457
   },
   "pietātis": {
     "meaning": "sense of duty, devotion, esp. between parents and children",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "pietaːtis",
     "position": 2458
   },
   "pietatis": {
     "meaning": "sense of duty, devotion, esp. between parents and children",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "pietaːtis",
     "position": 2459
   },
   "barbarus": {
     "meaning": "foreigner, barbarian",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "barbarus",
     "position": 2460
   },
   "barbarī": {
     "meaning": "foreigner, barbarian",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "barbariː",
     "position": 2461
   },
   "barbari": {
     "meaning": "foreigner, barbarian",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "barbariː",
     "position": 2462
   },
   "culpa": {
     "meaning": "guilt, fault, blame",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "kulpa",
     "position": 2463
   },
   "culpae": {
     "meaning": "guilt, fault, blame",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "kulpɛ",
     "position": 2464
   },
   "iūstus": {
     "meaning": "right, just, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "juːstus",
     "position": 2465
   },
   "iustus": {
     "meaning": "right, just, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "juːstus",
     "position": 2466
   },
   "iūsta": {
     "meaning": "right, just, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "juːsta",
     "position": 2467
   },
   "iusta": {
     "meaning": "right, just, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "juːsta",
     "position": 2468
   },
   "iūstum": {
     "meaning": "right, just, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "juːstum",
     "position": 2469
   },
   "iustum": {
     "meaning": "right, just, fair",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "juːstum",
     "position": 2470
   },
   "dōnec": {
     "meaning": "until",
     "part": "Conjunction",
+    "ipa": "doːnek",
     "position": 2471
   },
   "donec": {
     "meaning": "until",
     "part": "Conjunction",
+    "ipa": "doːnek",
     "position": 2472
   },
   "fluō": {
     "meaning": "flow",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "fluoː",
     "position": 2473
   },
   "fluo": {
     "meaning": "flow",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "fluoː",
     "position": 2474
   },
   "fluere": {
     "meaning": "flow",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "fluere",
     "position": 2475
   },
   "fluxī": {
     "meaning": "flow",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "fluksiː",
     "position": 2476
   },
   "fluxi": {
     "meaning": "flow",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "fluksiː",
     "position": 2477
   },
   "fluxum": {
     "meaning": "flow",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "fluksum",
     "position": 2478
   },
   "necesse": {
     "meaning": "necessary",
     "part": "Adjective",
+    "ipa": "netʃesse",
     "position": 2479
   },
   "reor": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "reor",
     "position": 2480
   },
   "rērī": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "reːriː",
     "position": 2481
   },
   "reri": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "reːriː",
     "position": 2482
   },
   "rātus": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "raːtus",
     "position": 2483
   },
   "ratus": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "raːtus",
     "position": 2484
   },
   "rāta": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "raːta",
     "position": 2485
   },
   "rata": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "raːta",
     "position": 2486
   },
   "rātum": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "raːtum",
     "position": 2487
   },
   "ratum": {
     "meaning": "think, imagine, suppose, deem",
     "part": "Verb",
+    "ipa": "raːtum",
     "position": 2488
   },
   "tenebrae": {
     "meaning": "darkness, the shadows",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "tenebrɛ",
     "position": 2489
   },
   "tenebrārum": {
     "meaning": "darkness, the shadows",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "tenebraːrum",
     "position": 2490
   },
   "tenebrarum": {
     "meaning": "darkness, the shadows",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "tenebraːrum",
     "position": 2491
   },
   "saeculum": {
     "meaning": "generation, age, century",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "sɛkulum",
     "position": 2492
   },
   "saeculī": {
     "meaning": "generation, age, century",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "sɛkuliː",
     "position": 2493
   },
   "saeculi": {
     "meaning": "generation, age, century",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "sɛkuliː",
     "position": 2494
   },
   "dīmittō": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmittoː",
     "position": 2495
   },
   "dimitto": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmittoː",
     "position": 2496
   },
   "dīmittere": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmittere",
     "position": 2497
   },
   "dimittere": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmittere",
     "position": 2498
   },
   "dīmīsī": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmiːsiː",
     "position": 2499
   },
   "dimisi": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmiːsiː",
     "position": 2500
   },
   "dīmissum": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmissum",
     "position": 2501
   },
   "dimissum": {
     "meaning": "send away",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːmissum",
     "position": 2502
   },
   "cinis": {
     "meaning": "ashes, embers",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "tʃinis",
     "position": 2503
   },
   "cineris": {
     "meaning": "ashes, embers",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "tʃineris",
     "position": 2504
   },
   "cōnsistō": {
     "meaning": "take position; consist in, be composed of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsistoː",
     "position": 2505
   },
   "consisto": {
     "meaning": "take position; consist in, be composed of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsistoː",
     "position": 2506
   },
   "cōnsistere": {
     "meaning": "take position; consist in, be composed of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsistere",
     "position": 2507
   },
   "consistere": {
     "meaning": "take position; consist in, be composed of",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsistere",
     "position": 2508
   },
   "recēns": {
     "meaning": "fresh, new",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "retʃeːns",
     "position": 2509
   },
   "recens": {
     "meaning": "fresh, new",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "retʃeːns",
     "position": 2510
   },
   "recēntis": {
     "meaning": "fresh, new",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "retʃeːntis",
     "position": 2511
   },
   "recentis": {
     "meaning": "fresh, new",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "retʃeːntis",
     "position": 2512
   },
   "aliter": {
     "meaning": "otherwise, differently",
     "part": "Adverb",
+    "ipa": "aliter",
     "position": 2513
   },
   "laedō": {
     "meaning": "injure by striking, hurt",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "lɛdoː",
     "position": 2514
   },
   "laedo": {
     "meaning": "injure by striking, hurt",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "lɛdoː",
     "position": 2515
   },
   "laedere": {
     "meaning": "injure by striking, hurt",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "lɛdere",
     "position": 2516
   },
   "laesī": {
     "meaning": "injure by striking, hurt",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "lɛsiː",
     "position": 2517
   },
   "laesi": {
     "meaning": "injure by striking, hurt",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "lɛsiː",
     "position": 2518
   },
   "laesum": {
     "meaning": "injure by striking, hurt",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "lɛsum",
     "position": 2519
   },
   "probō": {
     "meaning": "approve, prove; convince one (dat.) of a thing",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "proboː",
     "position": 2520
   },
   "probo": {
     "meaning": "approve, prove; convince one (dat.) of a thing",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "proboː",
     "position": 2521
   },
   "probāre": {
     "meaning": "approve, prove; convince one (dat.) of a thing",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "probaːre",
     "position": 2522
   },
   "probare": {
     "meaning": "approve, prove; convince one (dat.) of a thing",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "probaːre",
     "position": 2523
   },
   "doleō": {
     "meaning": "feel pain or grief, grieve",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "doleoː",
     "position": 2524
   },
   "doleo": {
     "meaning": "feel pain or grief, grieve",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "doleoː",
     "position": 2525
   },
   "dolēre": {
     "meaning": "feel pain or grief, grieve",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "doleːre",
     "position": 2526
   },
   "dolere": {
     "meaning": "feel pain or grief, grieve",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "doleːre",
     "position": 2527
   },
   "doluī": {
     "meaning": "feel pain or grief, grieve",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "doluiː",
     "position": 2528
   },
   "dolui": {
     "meaning": "feel pain or grief, grieve",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "doluiː",
     "position": 2529
   },
   "quārē": {
     "meaning": "how? why?",
     "part": "Adverb",
+    "ipa": "kwaːreː",
     "position": 2530
   },
   "quare": {
     "meaning": "how? why?",
     "part": "Adverb",
+    "ipa": "kwaːreː",
     "position": 2531
   },
   "antequam": {
     "meaning": "before",
     "part": "Conjunction",
+    "ipa": "antekwam",
     "position": 2532
   },
   "reliquus": {
     "meaning": "remaining, rest",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "relikwus",
     "position": 2533
   },
   "reliqua": {
     "meaning": "remaining, rest",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "relikwa",
     "position": 2534
   },
   "reliquum": {
     "meaning": "remaining, rest",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "relikwum",
     "position": 2535
   },
   "semel": {
     "meaning": "once",
     "part": "Adverb",
+    "ipa": "semel",
     "position": 2536
   },
   "ōdī": {
     "meaning": "hate",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "oːdiː",
     "position": 2537
   },
   "odi": {
     "meaning": "hate",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "oːdiː",
     "position": 2538
   },
   "ōdisse": {
     "meaning": "hate",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "oːdisse",
     "position": 2539
   },
   "odisse": {
     "meaning": "hate",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "oːdisse",
     "position": 2540
   },
   "sīcut": {
     "meaning": "just as",
     "part": "Adverb",
+    "ipa": "siːkut",
     "position": 2541
   },
   "sicut": {
     "meaning": "just as",
     "part": "Adverb",
+    "ipa": "siːkut",
     "position": 2542
   },
   "peccō": {
     "meaning": "commit a wrong, injure",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "pekkoː",
     "position": 2543
   },
   "pecco": {
     "meaning": "commit a wrong, injure",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "pekkoː",
     "position": 2544
   },
   "peccāre": {
     "meaning": "commit a wrong, injure",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "pekkaːre",
     "position": 2545
   },
   "peccare": {
     "meaning": "commit a wrong, injure",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "pekkaːre",
     "position": 2546
   },
   "sēnsus": {
     "meaning": "feeling, emotion, sense",
     "part": "Noun",
     "declension": "4th",
+    "ipa": "seːnsuːs",
     "position": 2547
   },
   "sensus": {
     "meaning": "feeling, emotion, sense",
     "part": "Noun",
     "declension": "4th",
+    "ipa": "seːnsuːs",
     "position": 2548
   },
   "sēnsūs": {
     "meaning": "feeling, emotion, sense",
     "part": "Noun",
     "declension": "4th",
+    "ipa": "seːnsuːs",
     "position": 2549
   },
   "exsilium": {
     "meaning": "exile, banishment",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "eksilium",
     "position": 2550
   },
   "exsiliī": {
     "meaning": "exile, banishment",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "eksiliiː",
     "position": 2551
   },
   "exsilii": {
     "meaning": "exile, banishment",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "eksiliiː",
     "position": 2552
   },
   "cor": {
     "meaning": "heart; cordī est, it is pleasing to",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kor",
     "position": 2553
   },
   "cordis": {
     "meaning": "heart; cordī est, it is pleasing to",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kordis",
     "position": 2554
   },
   "dēnique": {
     "meaning": "finally",
     "part": "Adverb",
+    "ipa": "deːnikwe",
     "position": 2555
   },
   "denique": {
     "meaning": "finally",
     "part": "Adverb",
+    "ipa": "deːnikwe",
     "position": 2556
   },
   "sapientia": {
     "meaning": "wisdom",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "sapientsia",
     "position": 2557
   },
   "sapientiae": {
     "meaning": "wisdom",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "sapientsiɛ",
     "position": 2558
   },
   "convertō": {
     "meaning": "turn about, turn, change",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "konvertoː",
     "position": 2559
   },
   "converto": {
     "meaning": "turn about, turn, change",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "konvertoː",
     "position": 2560
   },
   "convertere": {
     "meaning": "turn about, turn, change",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "konvertere",
     "position": 2561
   },
   "vertī": {
     "meaning": "turn about, turn, change",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "vertiː",
     "position": 2562
   },
   "verti": {
     "meaning": "turn about, turn, change",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "vertiː",
     "position": 2563
   },
   "versum": {
     "meaning": "turn about, turn, change",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "versum",
     "position": 2564
   },
   "proficīscor": {
     "meaning": "set forth, go",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "profitʃiːskor",
     "position": 2565
   },
   "proficiscor": {
     "meaning": "set forth, go",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "profitʃiːskor",
     "position": 2566
   },
   "ficīscī": {
     "meaning": "set forth, go",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fitʃiːʃiː",
     "position": 2567
   },
   "ficisci": {
     "meaning": "set forth, go",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fitʃiːʃiː",
     "position": 2568
   },
   "fectus": {
     "meaning": "set forth, go",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fektus",
     "position": 2569
   },
   "secundus": {
     "meaning": "following; favorable; (as numeral) second",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "sekundus",
     "position": 2570
   },
   "aperiō": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "aperioː",
     "position": 2571
   },
   "aperio": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "aperioː",
     "position": 2572
   },
   "aperīre": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "aperiːre",
     "position": 2573
   },
   "aperire": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "aperiːre",
     "position": 2574
   },
   "aperuī": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "aperuiː",
     "position": 2575
   },
   "aperui": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "aperuiː",
     "position": 2576
   },
   "apertum": {
     "meaning": "open",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "apertum",
     "position": 2577
   },
   "castus": {
     "meaning": "pure, spotless, chaste",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "kastus",
     "position": 2578
   },
   "iūdex": {
     "meaning": "judge, juror",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "juːdeks",
     "position": 2579
   },
   "iudex": {
     "meaning": "judge, juror",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "juːdeks",
     "position": 2580
   },
   "iūdicis": {
     "meaning": "judge, juror",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "juːditʃis",
     "position": 2581
   },
   "iudicis": {
     "meaning": "judge, juror",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "juːditʃis",
     "position": 2582
   },
   "lapis": {
     "meaning": "stone",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "lapis",
     "position": 2583
   },
   "lapidis": {
     "meaning": "stone",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "lapidis",
     "position": 2584
   },
   "nimis": {
     "meaning": "excessively",
     "part": "Adverb",
+    "ipa": "nimis",
     "position": 2585
   },
   "onus": {
     "meaning": "load, burden",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "onus",
     "position": 2586
   },
   "oneris": {
     "meaning": "load, burden",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "oneris",
     "position": 2587
   },
   "opera": {
     "meaning": "labor, activity, work",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "opera",
     "position": 2588
   },
   "pauper": {
     "meaning": "poor, lowly",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "pauper",
     "position": 2589
   },
   "eris": {
     "meaning": "poor, lowly",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "eris",
     "position": 2590
   },
   "āēr": {
     "meaning": "air",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "aːeːr",
     "position": 2591
   },
   "aer": {
     "meaning": "air",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "aːeːr",
     "position": 2592
   },
   "āeris": {
     "meaning": "air",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "aːeris",
     "position": 2593
   },
   "negōtium": {
     "meaning": "business",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "neɡoːtsium",
     "position": 2594
   },
   "negotium": {
     "meaning": "business",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "neɡoːtsium",
     "position": 2595
   },
   "pāreō": {
     "meaning": "obey",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "paːreo",
     "position": 2596
   },
   "pareo": {
     "meaning": "obey",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "paːreo",
     "position": 2597
   },
   "pārēre": {
     "meaning": "obey",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "paːreːre",
     "position": 2598
   },
   "parere": {
     "meaning": "obey",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "paːreːre",
     "position": 2599
   },
   "pāruī": {
     "meaning": "obey",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "paːruiː",
     "position": 2600
   },
   "parui": {
     "meaning": "obey",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "paːruiː",
     "position": 2601
   },
   "subitō": {
     "meaning": "suddenly, unexpectedly",
     "part": "Adverb",
+    "ipa": "subitoː",
     "position": 2602
   },
   "subito": {
     "meaning": "suddenly, unexpectedly",
     "part": "Adverb",
+    "ipa": "subitoː",
     "position": 2603
   },
   "argentum": {
     "meaning": "silver, money",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ardʒentum",
     "position": 2604
   },
   "ūtilis": {
     "meaning": "useful",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "uːtilis",
     "position": 2605
   },
   "utilis": {
     "meaning": "useful",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "uːtilis",
     "position": 2606
   },
   "aethēr": {
     "meaning": "pure upper air, ether, heaven, sky",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛteːr",
     "position": 2607
   },
   "aether": {
     "meaning": "pure upper air, ether, heaven, sky",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛteːr",
     "position": 2608
   },
   "aetheris": {
     "meaning": "pure upper air, ether, heaven, sky",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛteris",
     "position": 2609
   },
   "mereō": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "mereo",
     "position": 2610
   },
   "mereo": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "mereo",
     "position": 2611
   },
   "merēre": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "mereːre",
     "position": 2612
   },
   "merere": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "mereːre",
     "position": 2613
   },
   "meruī": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "meruiː",
     "position": 2614
   },
   "merui": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "meruiː",
     "position": 2615
   },
   "meritum": {
     "meaning": "deserve, merit; serve as a soldier",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "meritum",
     "position": 2616
   },
   "portō": {
     "meaning": "carry a load",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "portoː",
     "position": 2617
   },
   "porto": {
     "meaning": "carry a load",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "portoː",
     "position": 2618
   },
   "proprius": {
     "meaning": "one’s own, peculiar",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "proprius",
     "position": 2619
   },
   "propria": {
     "meaning": "one’s own, peculiar",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "propria",
     "position": 2620
   },
   "proprium": {
     "meaning": "one’s own, peculiar",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "proprium",
     "position": 2621
   },
   "avis": {
     "meaning": "bird",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "avis",
     "position": 2622
   },
   "vanus": {
     "meaning": "empty; false, deceitful",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "vanus",
     "position": 2623
   },
   "vana": {
     "meaning": "empty; false, deceitful",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "vana",
     "position": 2624
   },
   "vanum": {
     "meaning": "empty; false, deceitful",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "vanum",
     "position": 2625
   },
   "māteria": {
     "meaning": "material, subject matter; timber, lumber",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "maːteria",
     "position": 2626
   },
   "materia": {
     "meaning": "material, subject matter; timber, lumber",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "maːteria",
     "position": 2627
   },
   "paucī": {
     "meaning": "few, a few",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pautʃiː",
     "position": 2628
   },
   "pauci": {
     "meaning": "few, a few",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pautʃiː",
     "position": 2629
   },
   "paucāe": {
     "meaning": "few, a few",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "paukaːe",
     "position": 2630
   },
   "paucae": {
     "meaning": "few, a few",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "paukaːe",
     "position": 2631
   },
   "paucā": {
     "meaning": "few, a few",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "paukaː",
     "position": 2632
   },
   "pauca": {
     "meaning": "few, a few",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "paukaː",
     "position": 2633
   },
   "voluntās": {
     "meaning": "wish, desire",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "voluntaːs",
     "position": 2634
   },
   "voluntas": {
     "meaning": "wish, desire",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "voluntaːs",
     "position": 2635
   },
   "ēgregius": {
     "meaning": "distinguished, uncommon",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "eːɡredʒius",
     "position": 2636
   },
   "egregius": {
     "meaning": "distinguished, uncommon",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "eːɡredʒius",
     "position": 2637
   },
   "ēgregia": {
     "meaning": "distinguished, uncommon",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "eːɡredʒia",
     "position": 2638
   },
   "egregia": {
     "meaning": "distinguished, uncommon",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "eːɡredʒia",
     "position": 2639
   },
   "ēgregium": {
     "meaning": "distinguished, uncommon",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "eːɡredʒium",
     "position": 2640
   },
   "egregium": {
     "meaning": "distinguished, uncommon",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "eːɡredʒium",
     "position": 2641
   },
   "difficilis": {
     "meaning": "not easy, hard, difficult",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "diffitʃilis",
     "position": 2642
   },
   "gladius": {
     "meaning": "sword",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɡladius",
     "position": 2643
   },
   "gladiī": {
     "meaning": "sword",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɡladiiː",
     "position": 2644
   },
   "gladii": {
     "meaning": "sword",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɡladiiː",
     "position": 2645
   },
   "cibus": {
     "meaning": "food",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "tʃibus",
     "position": 2646
   },
   "cibī": {
     "meaning": "food",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "tʃibiː",
     "position": 2647
   },
   "cibi": {
     "meaning": "food",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "tʃibiː",
     "position": 2648
   },
   "certō": {
     "meaning": "decide by contest; fight, compete, vie",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃertoː",
     "position": 2649
   },
   "certo": {
     "meaning": "decide by contest; fight, compete, vie",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃertoː",
     "position": 2650
   },
   "certāre": {
     "meaning": "decide by contest; fight, compete, vie",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃertaːre",
     "position": 2651
   },
   "certare": {
     "meaning": "decide by contest; fight, compete, vie",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃertaːre",
     "position": 2652
   },
   "initium": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "initsium",
     "position": 2653
   },
   "initiī": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "initsiiː",
     "position": 2654
   },
   "initii": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "initsiiː",
     "position": 2655
   },
   "pertineō": {
     "meaning": "extend over, reach; refer to, pertain to, be the business of",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "pertineo",
     "position": 2656
   },
   "pertineo": {
     "meaning": "extend over, reach; refer to, pertain to, be the business of",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "pertineo",
     "position": 2657
   },
   "pertinēre": {
     "meaning": "extend over, reach; refer to, pertain to, be the business of",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "pertineːre",
     "position": 2658
   },
   "pertinere": {
     "meaning": "extend over, reach; refer to, pertain to, be the business of",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "pertineːre",
     "position": 2659
   },
   "quattuor": {
     "meaning": "four",
     "part": "Adjective",
+    "ipa": "kwattuor",
     "position": 2660
   },
   "turbō": {
     "meaning": "disturb, confuse",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "turboː",
     "position": 2661
   },
   "turbo": {
     "meaning": "disturb, confuse",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "turboː",
     "position": 2662
   },
   "turbāre": {
     "meaning": "disturb, confuse",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "turbaːre",
     "position": 2663
   },
   "turbare": {
     "meaning": "disturb, confuse",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "turbaːre",
     "position": 2664
   },
   "cōnsūmō": {
     "meaning": "to use up, consume",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsuːmoː",
     "position": 2665
   },
   "consumo": {
     "meaning": "to use up, consume",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsuːmoː",
     "position": 2666
   },
   "cōnsūmere": {
     "meaning": "to use up, consume",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsuːmere",
     "position": 2667
   },
   "consumere": {
     "meaning": "to use up, consume",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "koːnsuːmere",
     "position": 2668
   },
   "corrumpō": {
     "meaning": "break up, destroy, ruin",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "korrumpoː",
     "position": 2669
   },
   "corrumpo": {
     "meaning": "break up, destroy, ruin",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "korrumpoː",
     "position": 2670
   },
   "corrumpere": {
     "meaning": "break up, destroy, ruin",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "korrumpere",
     "position": 2671
   },
   "incidō": {
     "meaning": "fall upon, fall into; happen",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "intʃidoː",
     "position": 2672
   },
   "incido": {
     "meaning": "fall upon, fall into; happen",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "intʃidoː",
     "position": 2673
   },
   "incidere": {
     "meaning": "fall upon, fall into; happen",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "intʃidere",
     "position": 2674
   },
   "paulō": {
     "meaning": "to only a small extent, slightly, a little",
     "part": "Adverb",
+    "ipa": "pauloː",
     "position": 2675
   },
   "paulo": {
     "meaning": "to only a small extent, slightly, a little",
     "part": "Adverb",
+    "ipa": "pauloː",
     "position": 2676
   },
   "paulum": {
     "meaning": "to only a small extent, slightly, a little",
     "part": "Adverb",
+    "ipa": "paulum",
     "position": 2677
   },
   "hospes": {
     "meaning": "guest, guest-friend; stranger; host",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ospes",
     "position": 2678
   },
   "hospitis": {
     "meaning": "guest, guest-friend; stranger; host",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ospitis",
     "position": 2679
   },
   "rīdeō": {
     "meaning": "laugh, laugh at",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "riːdeo",
     "position": 2680
   },
   "rideo": {
     "meaning": "laugh, laugh at",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "riːdeo",
     "position": 2681
   },
   "rīdēre": {
     "meaning": "laugh, laugh at",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "riːdeːre",
     "position": 2682
   },
   "ridere": {
     "meaning": "laugh, laugh at",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "riːdeːre",
     "position": 2683
   },
   "aevum": {
     "meaning": "eternity; lifetime, age",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɛvum",
     "position": 2684
   },
   "aevī": {
     "meaning": "eternity; lifetime, age",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɛviː",
     "position": 2685
   },
   "aevi": {
     "meaning": "eternity; lifetime, age",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "ɛviː",
     "position": 2686
   },
   "audāx": {
     "meaning": "bold, daring; reckless",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "audaːks",
     "position": 2687
   },
   "audax": {
     "meaning": "bold, daring; reckless",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "audaːks",
     "position": 2688
   },
   "audācis": {
     "meaning": "bold, daring; reckless",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "audaːtʃis",
     "position": 2689
   },
   "audacis": {
     "meaning": "bold, daring; reckless",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "audaːtʃis",
     "position": 2690
   },
   "posterus": {
     "meaning": "next, later",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "posterus",
     "position": 2691
   },
   "postera": {
     "meaning": "next, later",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "postera",
     "position": 2692
   },
   "posterum": {
     "meaning": "next, later",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "posterum",
     "position": 2693
   },
   "praetor": {
     "meaning": "praetor, one of the chief Roman magistrates",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "prɛtor",
     "position": 2694
   },
   "praetōris": {
     "meaning": "praetor, one of the chief Roman magistrates",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "prɛtoːris",
     "position": 2695
   },
   "praetoris": {
     "meaning": "praetor, one of the chief Roman magistrates",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "prɛtoːris",
     "position": 2696
   },
   "rūs": {
     "meaning": "country",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ruːs",
     "position": 2697
   },
   "rus": {
     "meaning": "country",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ruːs",
     "position": 2698
   },
   "rūris": {
     "meaning": "country",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ruːris",
     "position": 2699
   },
   "ruris": {
     "meaning": "country",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ruːris",
     "position": 2700
   },
   "differō": {
     "meaning": "scatter; publish, divulge; differ; defer, postpone",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "differoː",
     "position": 2701
   },
   "differo": {
     "meaning": "scatter; publish, divulge; differ; defer, postpone",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "differoː",
     "position": 2702
   },
   "differre": {
     "meaning": "scatter; publish, divulge; differ; defer, postpone",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "differre",
     "position": 2703
   },
   "vītō": {
     "meaning": "avoid, shun",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "viːtoː",
     "position": 2704
   },
   "vito": {
     "meaning": "avoid, shun",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "viːtoː",
     "position": 2705
   },
   "vītāre": {
     "meaning": "avoid, shun",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "viːtaːre",
     "position": 2706
   },
   "vitare": {
     "meaning": "avoid, shun",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "viːtaːre",
     "position": 2707
   },
   "prīvātus": {
     "meaning": "personal, private",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "priːvaːtus",
     "position": 2708
   },
   "privatus": {
     "meaning": "personal, private",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "priːvaːtus",
     "position": 2709
   },
   "prīvāta": {
     "meaning": "personal, private",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "priːvaːta",
     "position": 2710
   },
   "privata": {
     "meaning": "personal, private",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "priːvaːta",
     "position": 2711
   },
   "prīvātum": {
     "meaning": "personal, private",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "priːvaːtum",
     "position": 2712
   },
   "privatum": {
     "meaning": "personal, private",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "priːvaːtum",
     "position": 2713
   },
   "serviō": {
     "meaning": "be a slave, serve",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "servio",
     "position": 2714
   },
   "servio": {
     "meaning": "be a slave, serve",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "servio",
     "position": 2715
   },
   "servīre": {
     "meaning": "be a slave, serve",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "serviːre",
     "position": 2716
   },
   "servire": {
     "meaning": "be a slave, serve",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "serviːre",
     "position": 2717
   },
   "vereor": {
     "meaning": "fear, stand in awe of",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "vereor",
     "position": 2718
   },
   "verērī": {
     "meaning": "fear, stand in awe of",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "vereːriː",
     "position": 2719
   },
   "vereri": {
     "meaning": "fear, stand in awe of",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "vereːriː",
     "position": 2720
   },
   "ingredior": {
     "meaning": "step in, enter",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "inɡredior",
     "position": 2721
   },
   "ingredī": {
     "meaning": "step in, enter",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "inɡrediː",
     "position": 2722
   },
   "ingredi": {
     "meaning": "step in, enter",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "inɡrediː",
     "position": 2723
   },
   "addūcō": {
     "meaning": "lead to, induce",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "adduːkoː",
     "position": 2724
   },
   "adduco": {
     "meaning": "lead to, induce",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "adduːkoː",
     "position": 2725
   },
   "addūcere": {
     "meaning": "lead to, induce",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "adduːtʃere",
     "position": 2726
   },
   "adducere": {
     "meaning": "lead to, induce",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "adduːtʃere",
     "position": 2727
   },
   "hortor": {
     "meaning": "urge strongly, advise, exhort",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "ortor",
     "position": 2728
   },
   "hortārī": {
     "meaning": "urge strongly, advise, exhort",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "ortaːriː",
     "position": 2729
   },
   "hortari": {
     "meaning": "urge strongly, advise, exhort",
     "part": "Verb",
     "conjugation": null,
+    "ipa": "ortaːriː",
     "position": 2730
   },
   "reus": {
     "meaning": "defendant",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "reus",
     "position": 2731
   },
   "reī": {
     "meaning": "defendant",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "reiː",
     "position": 2732
   },
   "rei": {
     "meaning": "defendant",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "reiː",
     "position": 2733
   },
   "scīlicet": {
     "meaning": "certainly, of course",
     "part": "Adverb",
+    "ipa": "ʃiːlitʃet",
     "position": 2734
   },
   "scilicet": {
     "meaning": "certainly, of course",
     "part": "Adverb",
+    "ipa": "ʃiːlitʃet",
     "position": 2735
   },
   "comparō": {
     "meaning": "get ready, provide; compare",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "komparoː",
     "position": 2736
   },
   "comparo": {
     "meaning": "get ready, provide; compare",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "komparoː",
     "position": 2737
   },
   "comparāre": {
     "meaning": "get ready, provide; compare",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "komparaːre",
     "position": 2738
   },
   "comparare": {
     "meaning": "get ready, provide; compare",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "komparaːre",
     "position": 2739
   },
   "perpetuus": {
     "meaning": "unbroken, perpetual",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "perpetuus",
     "position": 2740
   },
   "perpetua": {
     "meaning": "unbroken, perpetual",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "perpetua",
     "position": 2741
   },
   "perpetuum": {
     "meaning": "unbroken, perpetual",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "perpetuum",
     "position": 2742
   },
   "dēsīderō": {
     "meaning": "long for, desire greatly",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "deːsiːderoː",
     "position": 2743
   },
   "desidero": {
     "meaning": "long for, desire greatly",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "deːsiːderoː",
     "position": 2744
   },
   "dēsīderāre": {
     "meaning": "long for, desire greatly",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "deːsiːderaːre",
     "position": 2745
   },
   "desiderare": {
     "meaning": "long for, desire greatly",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "deːsiːderaːre",
     "position": 2746
   },
   "celebrō": {
     "meaning": "frequent, throng, crowd",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃelebroː",
     "position": 2747
   },
   "celebro": {
     "meaning": "frequent, throng, crowd",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃelebroː",
     "position": 2748
   },
   "celebrāre": {
     "meaning": "frequent, throng, crowd",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃelebraːre",
     "position": 2749
   },
   "celebrare": {
     "meaning": "frequent, throng, crowd",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "tʃelebraːre",
     "position": 2750
   },
   "cōnficiō": {
     "meaning": "complete, accomplish; destroy, kill, consume",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "koːnfitʃioː",
     "position": 2751
   },
   "conficio": {
     "meaning": "complete, accomplish; destroy, kill, consume",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "koːnfitʃioː",
     "position": 2752
   },
   "cōnficere": {
     "meaning": "complete, accomplish; destroy, kill, consume",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "koːnfitʃere",
     "position": 2753
   },
   "conficere": {
     "meaning": "complete, accomplish; destroy, kill, consume",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "koːnfitʃere",
     "position": 2754
   },
   "intendō": {
     "meaning": "stretch out, strain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "intendoː",
     "position": 2755
   },
   "intendo": {
     "meaning": "stretch out, strain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "intendoː",
     "position": 2756
   },
   "intendere": {
     "meaning": "stretch out, strain",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "intendere",
     "position": 2757
   },
   "iūrō": {
     "meaning": "take an oath, swear; iūs iūrandum, oath",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "juːroː",
     "position": 2758
   },
   "iuro": {
     "meaning": "take an oath, swear; iūs iūrandum, oath",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "juːroː",
     "position": 2759
   },
   "iūrāre": {
     "meaning": "take an oath, swear; iūs iūrandum, oath",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "juːraːre",
     "position": 2760
   },
   "iurare": {
     "meaning": "take an oath, swear; iūs iūrandum, oath",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "juːraːre",
     "position": 2761
   },
   "auctōritās": {
     "meaning": "influence, clout, authority",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "auktoːritaːs",
     "position": 2762
   },
   "auctoritas": {
     "meaning": "influence, clout, authority",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "auktoːritaːs",
     "position": 2763
   },
   "auctōritātis": {
     "meaning": "influence, clout, authority",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "auktoːritaːtis",
     "position": 2764
   },
   "auctoritatis": {
     "meaning": "influence, clout, authority",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "auktoːritaːtis",
     "position": 2765
   },
   "iaciō": {
     "meaning": "throw, hurl",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "jatʃioː",
     "position": 2766
   },
   "iacio": {
     "meaning": "throw, hurl",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "jatʃioː",
     "position": 2767
   },
   "iēcī": {
     "meaning": "throw, hurl",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "jeːtʃiː",
     "position": 2768
   },
   "ieci": {
     "meaning": "throw, hurl",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "jeːtʃiː",
     "position": 2769
   },
   "iactum": {
     "meaning": "throw, hurl",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "jaktum",
     "position": 2770
   },
   "labōrō": {
     "meaning": "toil, work; be in trouble or distress",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "laboːroː",
     "position": 2771
   },
   "laboro": {
     "meaning": "toil, work; be in trouble or distress",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "laboːroː",
     "position": 2772
   },
   "labōrāre": {
     "meaning": "toil, work; be in trouble or distress",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "laboːraːre",
     "position": 2773
   },
   "laborare": {
     "meaning": "toil, work; be in trouble or distress",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "laboːraːre",
     "position": 2774
   },
   "librī": {
     "meaning": "book",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "libriː",
     "position": 2775
   },
   "libri": {
     "meaning": "book",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "libriː",
     "position": 2776
   },
   "lūna": {
     "meaning": "moon",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "luːna",
     "position": 2777
   },
   "luna": {
     "meaning": "moon",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "luːna",
     "position": 2778
   },
   "lūnae": {
     "meaning": "moon",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "luːnɛ",
     "position": 2779
   },
   "lunae": {
     "meaning": "moon",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "luːnɛ",
     "position": 2780
   },
   "prōtinus": {
     "meaning": "at once, forthwith",
     "part": "Adverb",
+    "ipa": "proːtinus",
     "position": 2781
   },
   "protinus": {
     "meaning": "at once, forthwith",
     "part": "Adverb",
+    "ipa": "proːtinus",
     "position": 2782
   },
   "aequē": {
     "meaning": "equally",
     "part": "Adverb",
+    "ipa": "ɛkweː",
     "position": 2783
   },
   "aeque": {
     "meaning": "equally",
     "part": "Adverb",
+    "ipa": "ɛkweː",
     "position": 2784
   },
   "cōnor": {
     "meaning": "try, attempt",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnor",
     "position": 2785
   },
   "conor": {
     "meaning": "try, attempt",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnor",
     "position": 2786
   },
   "cōnārī": {
     "meaning": "try, attempt",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnaːriː",
     "position": 2787
   },
   "conari": {
     "meaning": "try, attempt",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnaːriː",
     "position": 2788
   },
   "cōnātus": {
     "meaning": "try, attempt",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnaːtus",
     "position": 2789
   },
   "conatus": {
     "meaning": "try, attempt",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnaːtus",
     "position": 2790
   },
   "cupīdō": {
     "meaning": "desire, eagerness, craving",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kupiːdo",
     "position": 2791
   },
   "cupido": {
     "meaning": "desire, eagerness, craving",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kupiːdo",
     "position": 2792
   },
   "cupīdinis": {
     "meaning": "desire, eagerness, craving",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kupiːdinis",
     "position": 2793
   },
   "cupidinis": {
     "meaning": "desire, eagerness, craving",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kupiːdinis",
     "position": 2794
   },
   "ferē": {
     "meaning": "almost",
     "part": "Adverb",
+    "ipa": "fereː",
     "position": 2795
   },
   "fere": {
     "meaning": "almost",
     "part": "Adverb",
+    "ipa": "fereː",
     "position": 2796
   },
   "īnsula": {
     "meaning": "island",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "iːnsula",
     "position": 2797
   },
   "insula": {
     "meaning": "island",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "iːnsula",
     "position": 2798
   },
   "īnsulae": {
     "meaning": "island",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "iːnsulɛ",
     "position": 2799
   },
   "insulae": {
     "meaning": "island",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "iːnsulɛ",
     "position": 2800
   },
   "fīlia": {
     "meaning": "daughter",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːlia",
     "position": 2801
   },
   "filia": {
     "meaning": "daughter",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːlia",
     "position": 2802
   },
   "fīliae": {
     "meaning": "daughter",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːliɛ",
     "position": 2803
   },
   "filiae": {
     "meaning": "daughter",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːliɛ",
     "position": 2804
   },
   "fīlius": {
     "meaning": "son",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːlius",
     "position": 2805
   },
   "filius": {
     "meaning": "son",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːlius",
     "position": 2806
   },
   "fīliī": {
     "meaning": "son",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːliiː",
     "position": 2807
   },
   "filii": {
     "meaning": "son",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "fiːliiː",
     "position": 2808
   },
   "narrō": {
     "meaning": "relate, recount",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "narro",
     "position": 2809
   },
   "narro": {
     "meaning": "relate, recount",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "narro",
     "position": 2810
   },
   "narrāre": {
     "meaning": "relate, recount",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "narraːre",
     "position": 2811
   },
   "narrare": {
     "meaning": "relate, recount",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "narraːre",
     "position": 2812
   },
   "necessitās": {
     "meaning": "necessity, need",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "netʃessitaːs",
     "position": 2813
   },
   "necessitas": {
     "meaning": "necessity, need",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "netʃessitaːs",
     "position": 2814
   },
   "necessitātis": {
     "meaning": "necessity, need",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "netʃessitaːtis",
     "position": 2815
   },
   "necessitatis": {
     "meaning": "necessity, need",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "netʃessitaːtis",
     "position": 2816
   },
   "ēgredior": {
     "meaning": "stride out, depart, disembark from",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "eːɡredior",
     "position": 2817
   },
   "egredior": {
     "meaning": "stride out, depart, disembark from",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "eːɡredior",
     "position": 2818
   },
   "ēgredī": {
     "meaning": "stride out, depart, disembark from",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "eːɡrediː",
     "position": 2819
   },
   "egredi": {
     "meaning": "stride out, depart, disembark from",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "eːɡrediː",
     "position": 2820
   },
   "ēgressus": {
     "meaning": "stride out, depart, disembark from",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "eːɡressus",
     "position": 2821
   },
   "egressus": {
     "meaning": "stride out, depart, disembark from",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "eːɡressus",
     "position": 2822
   },
   "poēta": {
     "meaning": "poet",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "poeːta",
     "position": 2823
   },
   "poeta": {
     "meaning": "poet",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "poeːta",
     "position": 2824
   },
   "poētae": {
     "meaning": "poet",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "poeːtɛ",
     "position": 2825
   },
   "poetae": {
     "meaning": "poet",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "poeːtɛ",
     "position": 2826
   },
   "decem": {
     "meaning": "ten",
     "part": "Adjective",
+    "ipa": "detʃem",
     "position": 2827
   },
   "amplus": {
     "meaning": "large, spacious",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "amplus",
     "position": 2828
   },
   "ampla": {
     "meaning": "large, spacious",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "ampla",
     "position": 2829
   },
   "amplum": {
     "meaning": "large, spacious",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "amplum",
     "position": 2830
   },
   "aptus": {
     "meaning": "fit, suitable",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "aptus",
     "position": 2831
   },
   "apta": {
     "meaning": "fit, suitable",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "apta",
     "position": 2832
   },
   "aptum": {
     "meaning": "fit, suitable",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "aptum",
     "position": 2833
   },
   "cōnsequor": {
     "meaning": "follow up, overtake, attain",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnsekwor",
     "position": 2834
   },
   "consequor": {
     "meaning": "follow up, overtake, attain",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnsekwor",
     "position": 2835
   },
   "cōnsequī": {
     "meaning": "follow up, overtake, attain",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnsekwiː",
     "position": 2836
   },
   "consequi": {
     "meaning": "follow up, overtake, attain",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnsekwiː",
     "position": 2837
   },
   "cōnsecūtus": {
     "meaning": "follow up, overtake, attain",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnsekuːtus",
     "position": 2838
   },
   "consecutus": {
     "meaning": "follow up, overtake, attain",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "koːnsekuːtus",
     "position": 2839
   },
   "frequēns": {
     "meaning": "in large numbers, often",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "frekweːns",
     "position": 2840
   },
   "frequens": {
     "meaning": "in large numbers, often",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "frekweːns",
     "position": 2841
   },
   "frequentis": {
     "meaning": "in large numbers, often",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "frekwentis",
     "position": 2842
   },
   "nūntius": {
     "meaning": "messenger; news",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "nuːntsius",
     "position": 2843
   },
   "nuntius": {
     "meaning": "messenger; news",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "nuːntsius",
     "position": 2844
   },
   "nūntiī": {
     "meaning": "messenger; news",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "nuːntsiiː",
     "position": 2845
   },
   "nuntii": {
     "meaning": "messenger; news",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "nuːntsiiː",
     "position": 2846
   },
   "condīciō": {
     "meaning": "agreement, condition",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kondiːtʃo",
     "position": 2847
   },
   "condicio": {
     "meaning": "agreement, condition",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kondiːtʃo",
     "position": 2848
   },
   "condīciōnis": {
     "meaning": "agreement, condition",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kondiːtʃoːnis",
     "position": 2849
   },
   "condicionis": {
     "meaning": "agreement, condition",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "kondiːtʃoːnis",
     "position": 2850
   },
   "convīvium": {
     "meaning": "banquet, feast",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "konviːvium",
     "position": 2851
   },
   "convivium": {
     "meaning": "banquet, feast",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "konviːvium",
     "position": 2852
   },
   "convīviī": {
     "meaning": "banquet, feast",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "konviːviiː",
     "position": 2853
   },
   "convivii": {
     "meaning": "banquet, feast",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "konviːviiː",
     "position": 2854
   },
   "foedus": {
     "meaning": "foul",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "fɛdus",
     "position": 2855
   },
   "foeda": {
     "meaning": "foul",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "fɛda",
     "position": 2856
   },
   "foedum": {
     "meaning": "foul",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "fɛdum",
     "position": 2857
   },
   "fruor": {
     "meaning": "enjoy the produce of, profit by, use",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fruor",
     "position": 2858
   },
   "fruī": {
     "meaning": "enjoy the produce of, profit by, use",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fruiː",
     "position": 2859
   },
   "frui": {
     "meaning": "enjoy the produce of, profit by, use",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fruiː",
     "position": 2860
   },
   "frūctus": {
     "meaning": "enjoy the produce of, profit by, use",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fruːktus",
     "position": 2861
   },
   "fructus": {
     "meaning": "enjoy the produce of, profit by, use",
     "part": "Verb",
     "conjugation": "Deponent",
+    "ipa": "fruːktus",
     "position": 2862
   },
   "num": {
     "meaning": "interrogative particle implying negative answer",
     "part": "Adverb",
+    "ipa": "num",
     "position": 2863
   },
   "item": {
     "meaning": "likewise",
     "part": "Adverb",
+    "ipa": "item",
     "position": 2864
   },
   "magister": {
     "meaning": "master, chief",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "madʒister",
     "position": 2865
   },
   "magistrī": {
     "meaning": "master, chief",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "madʒistriː",
     "position": 2866
   },
   "magistri": {
     "meaning": "master, chief",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "madʒistriː",
     "position": 2867
   },
   "stella": {
     "meaning": "star",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "stella",
     "position": 2868
   },
   "stellae": {
     "meaning": "star",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "stellɛ",
     "position": 2869
   },
   "ēdūcō": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduːko",
     "position": 2870
   },
   "educo": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduːko",
     "position": 2871
   },
   "ēdūcere": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduːtʃere",
     "position": 2872
   },
   "educere": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduːtʃere",
     "position": 2873
   },
   "ēdūxī": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduːksiː",
     "position": 2874
   },
   "eduxi": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduːksiː",
     "position": 2875
   },
   "ēductum": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduktum",
     "position": 2876
   },
   "eductum": {
     "meaning": "lead forth",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːduktum",
     "position": 2877
   },
   "frūmentum": {
     "meaning": "grain",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "fruːmentum",
     "position": 2878
   },
   "frumentum": {
     "meaning": "grain",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "fruːmentum",
     "position": 2879
   },
   "frūmentī": {
     "meaning": "grain",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "fruːmentiː",
     "position": 2880
   },
   "frumenti": {
     "meaning": "grain",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "fruːmentiː",
     "position": 2881
   },
   "suscipiō": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃipio",
     "position": 2882
   },
   "suscipio": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃipio",
     "position": 2883
   },
   "suscipere": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃipere",
     "position": 2884
   },
   "suscēpī": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃeːpiː",
     "position": 2885
   },
   "suscepi": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃeːpiː",
     "position": 2886
   },
   "suscēptum": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃeːptum",
     "position": 2887
   },
   "susceptum": {
     "meaning": "take up",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "suʃeːptum",
     "position": 2888
   },
   "quasi": {
     "meaning": "as if",
     "part": "Adverb",
+    "ipa": "kwasi",
     "position": 2889
   },
   "sacerdōs": {
     "meaning": "priest, priestess",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "satʃerdoːs",
     "position": 2890
   },
   "sacerdos": {
     "meaning": "priest, priestess",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "satʃerdoːs",
     "position": 2891
   },
   "sacerdōtis": {
     "meaning": "priest, priestess",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "satʃerdoːtis",
     "position": 2892
   },
   "sacerdotis": {
     "meaning": "priest, priestess",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "satʃerdoːtis",
     "position": 2893
   },
   "vīcīnus": {
     "meaning": "neighboring, near",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "viːtʃiːnus",
     "position": 2894
   },
   "vicinus": {
     "meaning": "neighboring, near",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "viːtʃiːnus",
     "position": 2895
   },
   "vīcīna": {
     "meaning": "neighboring, near",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "viːtʃiːna",
     "position": 2896
   },
   "vicina": {
     "meaning": "neighboring, near",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "viːtʃiːna",
     "position": 2897
   },
   "vīcīnum": {
     "meaning": "neighboring, near",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "viːtʃiːnum",
     "position": 2898
   },
   "vicinum": {
     "meaning": "neighboring, near",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "viːtʃiːnum",
     "position": 2899
   },
   "caveō": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kaveo",
     "position": 2900
   },
   "caveo": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kaveo",
     "position": 2901
   },
   "cavēre": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kaveːre",
     "position": 2902
   },
   "cavere": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kaveːre",
     "position": 2903
   },
   "cāvī": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kaːviː",
     "position": 2904
   },
   "cavi": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kaːviː",
     "position": 2905
   },
   "cautum": {
     "meaning": "be on guard, beware",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "kautum",
     "position": 2906
   },
   "ēligō": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːliɡo",
     "position": 2907
   },
   "eligo": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːliɡo",
     "position": 2908
   },
   "ēligere": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːlidʒere",
     "position": 2909
   },
   "eligere": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːlidʒere",
     "position": 2910
   },
   "ēlēgī": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːleːdʒiː",
     "position": 2911
   },
   "elegi": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːleːdʒiː",
     "position": 2912
   },
   "ēlēctum": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːleːktum",
     "position": 2913
   },
   "electum": {
     "meaning": "pick out, select",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːleːktum",
     "position": 2914
   },
   "familia": {
     "meaning": "household, family",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "familia",
     "position": 2915
   },
   "familiae": {
     "meaning": "household, family",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "familiɛ",
     "position": 2916
   },
   "paene": {
     "meaning": "almost",
     "part": "Adverb",
+    "ipa": "pɛne",
     "position": 2917
   },
   "praecipiō": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃipio",
     "position": 2918
   },
   "praecipio": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃipio",
     "position": 2919
   },
   "praecipere": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃipere",
     "position": 2920
   },
   "praecēpī": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃeːpiː",
     "position": 2921
   },
   "praecepi": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃeːpiː",
     "position": 2922
   },
   "praecēptum": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃeːptum",
     "position": 2923
   },
   "praeceptum": {
     "meaning": "anticipate, advise, warn",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "prɛtʃeːptum",
     "position": 2924
   },
   "sānus": {
     "meaning": "sound, sane",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "saːnus",
     "position": 2925
   },
   "sanus": {
     "meaning": "sound, sane",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "saːnus",
     "position": 2926
   },
   "sāna": {
     "meaning": "sound, sane",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "saːna",
     "position": 2927
   },
   "sana": {
     "meaning": "sound, sane",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "saːna",
     "position": 2928
   },
   "sānum": {
     "meaning": "sound, sane",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "saːnum",
     "position": 2929
   },
   "sanum": {
     "meaning": "sound, sane",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "saːnum",
     "position": 2930
   },
   "potis": {
     "meaning": "powerful, able",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "potis",
     "position": 2931
   },
   "pote": {
     "meaning": "powerful, able",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "pote",
     "position": 2932
   },
   "prīncipium": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "priːntʃipium",
     "position": 2933
   },
   "principium": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "priːntʃipium",
     "position": 2934
   },
   "prīncipiī": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "priːntʃipiiː",
     "position": 2935
   },
   "principii": {
     "meaning": "beginning",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "priːntʃipiiː",
     "position": 2936
   },
   "sepulcrum": {
     "meaning": "place of burial, tomb, grave",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "sepulkrum",
     "position": 2937
   },
   "sepulcrī": {
     "meaning": "place of burial, tomb, grave",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "sepulkriː",
     "position": 2938
   },
   "sepulcri": {
     "meaning": "place of burial, tomb, grave",
     "part": "Noun",
     "declension": "2nd",
+    "ipa": "sepulkriː",
     "position": 2939
   },
   "mortālis": {
     "meaning": "liable to death, mortal; a mortal (as subst.)",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "mortaːlis",
     "position": 2940
   },
   "mortalis": {
     "meaning": "liable to death, mortal; a mortal (as subst.)",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "mortaːlis",
     "position": 2941
   },
   "mortāle": {
     "meaning": "liable to death, mortal; a mortal (as subst.)",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "mortaːle",
     "position": 2942
   },
   "mortale": {
     "meaning": "liable to death, mortal; a mortal (as subst.)",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "mortaːle",
     "position": 2943
   },
   "epistula": {
     "meaning": "letter",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "epistula",
     "position": 2944
   },
   "epistulae": {
     "meaning": "letter",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "epistulɛ",
     "position": 2945
   },
   "inimīcus": {
     "meaning": "unfriendly; enemy (as subst.)",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "inimiːkus",
     "position": 2946
   },
   "inimicus": {
     "meaning": "unfriendly; enemy (as subst.)",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "inimiːkus",
     "position": 2947
   },
   "inimīca": {
     "meaning": "unfriendly; enemy (as subst.)",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "inimiːka",
     "position": 2948
   },
   "inimica": {
     "meaning": "unfriendly; enemy (as subst.)",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "inimiːka",
     "position": 2949
   },
   "inimīcum": {
     "meaning": "unfriendly; enemy (as subst.)",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "inimiːkum",
     "position": 2950
   },
   "inimicum": {
     "meaning": "unfriendly; enemy (as subst.)",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "inimiːkum",
     "position": 2951
   },
   "interrogō": {
     "meaning": "put a question to, ask",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "interroɡoː",
     "position": 2952
   },
   "interrogo": {
     "meaning": "put a question to, ask",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "interroɡoː",
     "position": 2953
   },
   "interrogāre": {
     "meaning": "put a question to, ask",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "interroɡaːre",
     "position": 2954
   },
   "interrogare": {
     "meaning": "put a question to, ask",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "interroɡaːre",
     "position": 2955
   },
   "cōnsuētūdo": {
     "meaning": "custom, habit",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "koːnsueːtuːdo",
     "position": 2956
   },
   "consuetudo": {
     "meaning": "custom, habit",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "koːnsueːtuːdo",
     "position": 2957
   },
   "cōnsuētūdinis": {
     "meaning": "custom, habit",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "koːnsueːtuːdinis",
     "position": 2958
   },
   "consuetudinis": {
     "meaning": "custom, habit",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "koːnsueːtuːdinis",
     "position": 2959
   },
   "illūc": {
     "meaning": "to that place",
     "part": "Adverb",
+    "ipa": "illuːk",
     "position": 2960
   },
   "illuc": {
     "meaning": "to that place",
     "part": "Adverb",
+    "ipa": "illuːk",
     "position": 2961
   },
   "dīgnitās": {
     "meaning": "worth, reputation, honor",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "diːɲitaːs",
     "position": 2962
   },
   "dignitas": {
     "meaning": "worth, reputation, honor",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "diːɲitaːs",
     "position": 2963
   },
   "dīgnitātis": {
     "meaning": "worth, reputation, honor",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "diːɲitaːtis",
     "position": 2964
   },
   "dignitatis": {
     "meaning": "worth, reputation, honor",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "diːɲitaːtis",
     "position": 2965
   },
   "fugō": {
     "meaning": "put to flight",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "fuɡoː",
     "position": 2966
   },
   "fugo": {
     "meaning": "put to flight",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "fuɡoː",
     "position": 2967
   },
   "fugāre": {
     "meaning": "put to flight",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "fuɡaːre",
     "position": 2968
   },
   "fugare": {
     "meaning": "put to flight",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "fuɡaːre",
     "position": 2969
   },
   "afficiō": {
     "meaning": "affect, visit with",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "affitʃioː",
     "position": 2970
   },
   "afficio": {
     "meaning": "affect, visit with",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "affitʃioː",
     "position": 2971
   },
   "afficere": {
     "meaning": "affect, visit with",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "affitʃere",
     "position": 2972
   },
   "affēcī": {
     "meaning": "affect, visit with",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "affeːtʃiː",
     "position": 2973
   },
   "affeci": {
     "meaning": "affect, visit with",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "affeːtʃiː",
     "position": 2974
   },
   "affectum": {
     "meaning": "affect, visit with",
     "part": "Verb",
     "conjugation": "3rd -iō",
+    "ipa": "affektum",
     "position": 2975
   },
   "adhibeō": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibeoː",
     "position": 2976
   },
   "adhibeo": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibeoː",
     "position": 2977
   },
   "adhibēre": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibeːre",
     "position": 2978
   },
   "adhibere": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibeːre",
     "position": 2979
   },
   "adhibuī": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibuiː",
     "position": 2980
   },
   "adhibui": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibuiː",
     "position": 2981
   },
   "adhibitum": {
     "meaning": "apply",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "adibitum",
     "position": 2982
   },
   "caelestis": {
     "meaning": "from or of heaven; caelestēs, the gods",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "tʃɛlestis",
     "position": 2983
   },
   "caeleste": {
     "meaning": "from or of heaven; caelestēs, the gods",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "tʃɛleste",
     "position": 2984
   },
   "mulier": {
     "meaning": "woman",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "mulier",
     "position": 2985
   },
   "mulieris": {
     "meaning": "woman",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "mulieris",
     "position": 2986
   },
   "dīvus": {
     "meaning": "divine, godlike; (as subst.) a god",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "diːvus",
     "position": 2987
   },
   "divus": {
     "meaning": "divine, godlike; (as subst.) a god",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "diːvus",
     "position": 2988
   },
   "dīva": {
     "meaning": "divine, godlike; (as subst.) a god",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "diːva",
     "position": 2989
   },
   "diva": {
     "meaning": "divine, godlike; (as subst.) a god",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "diːva",
     "position": 2990
   },
   "dīvum": {
     "meaning": "divine, godlike; (as subst.) a god",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "diːvum",
     "position": 2991
   },
   "divum": {
     "meaning": "divine, godlike; (as subst.) a god",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "diːvum",
     "position": 2992
   },
   "arbitror": {
     "meaning": "consider, think",
     "part": "Verb",
+    "ipa": "arbitror",
     "position": 2993
   },
   "arbitrārī": {
     "meaning": "consider, think",
     "part": "Verb",
+    "ipa": "arbitraːriː",
     "position": 2994
   },
   "arbitrari": {
     "meaning": "consider, think",
     "part": "Verb",
+    "ipa": "arbitraːriː",
     "position": 2995
   },
   "arbitrātus": {
     "meaning": "consider, think",
     "part": "Verb",
+    "ipa": "arbitraːtus",
     "position": 2996
   },
   "arbitratus": {
     "meaning": "consider, think",
     "part": "Verb",
+    "ipa": "arbitraːtus",
     "position": 2997
   },
   "posteā": {
     "meaning": "afterwards",
     "part": "Adverb",
+    "ipa": "posteaː",
     "position": 2998
   },
   "postea": {
     "meaning": "afterwards",
     "part": "Adverb",
+    "ipa": "posteaː",
     "position": 2999
   },
   "aedēs": {
     "meaning": "building; (pl.) house",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛdeːs",
     "position": 3000
   },
   "aedes": {
     "meaning": "building; (pl.) house",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛdeːs",
     "position": 3001
   },
   "aedēis": {
     "meaning": "building; (pl.) house",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛdeːis",
     "position": 3002
   },
   "aedeis": {
     "meaning": "building; (pl.) house",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "ɛdeːis",
     "position": 3003
   },
   "fābula": {
     "meaning": "account, tale, story",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "faːbula",
     "position": 3004
   },
   "fabula": {
     "meaning": "account, tale, story",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "faːbula",
     "position": 3005
   },
   "fābulae": {
     "meaning": "account, tale, story",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "faːbulɛ",
     "position": 3006
   },
   "fabulae": {
     "meaning": "account, tale, story",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "faːbulɛ",
     "position": 3007
   },
   "celeriter": {
     "meaning": "quickly",
     "part": "Adverb",
+    "ipa": "tʃeleriter",
     "position": 3008
   },
   "plērus": {
     "meaning": "the greater part, very many, most, the majority",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pleːrus",
     "position": 3009
   },
   "plerus": {
     "meaning": "the greater part, very many, most, the majority",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pleːrus",
     "position": 3010
   },
   "plēra": {
     "meaning": "the greater part, very many, most, the majority",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pleːra",
     "position": 3011
   },
   "plera": {
     "meaning": "the greater part, very many, most, the majority",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pleːra",
     "position": 3012
   },
   "plērumque": {
     "meaning": "the greater part, very many, most, the majority",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pleːrumkwe",
     "position": 3013
   },
   "plerumque": {
     "meaning": "the greater part, very many, most, the majority",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "pleːrumkwe",
     "position": 3014
   },
   "quiēscō": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːsko",
     "position": 3015
   },
   "quiesco": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːsko",
     "position": 3016
   },
   "quiēscere": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːʃere",
     "position": 3017
   },
   "quiescere": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːʃere",
     "position": 3018
   },
   "quiēvī": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːviː",
     "position": 3019
   },
   "quievi": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːviː",
     "position": 3020
   },
   "quiētum": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːtum",
     "position": 3021
   },
   "quietum": {
     "meaning": "keep quiet; sleep",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "kwieːtum",
     "position": 3022
   },
   "quotiēns": {
     "meaning": "interr. how many times? how often? rel. as often as, whenever",
     "part": "Adverb",
+    "ipa": "kwotsieːns",
     "position": 3023
   },
   "quotiens": {
     "meaning": "interr. how many times? how often? rel. as often as, whenever",
     "part": "Adverb",
+    "ipa": "kwotsieːns",
     "position": 3024
   },
   "scientia": {
     "meaning": "knowledge",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "ʃientsia",
     "position": 3025
   },
   "scientiae": {
     "meaning": "knowledge",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "ʃientsiɛ",
     "position": 3026
   },
   "cōnfiteor": {
     "meaning": "admit (a fact), confess (a crime); reveal, disclose",
     "part": "Verb",
+    "ipa": "koːnfiteor",
     "position": 3027
   },
   "confiteor": {
     "meaning": "admit (a fact), confess (a crime); reveal, disclose",
     "part": "Verb",
+    "ipa": "koːnfiteor",
     "position": 3028
   },
   "cōnfitērī": {
     "meaning": "admit (a fact), confess (a crime); reveal, disclose",
     "part": "Verb",
+    "ipa": "koːnfiteːriː",
     "position": 3029
   },
   "confiteri": {
     "meaning": "admit (a fact), confess (a crime); reveal, disclose",
     "part": "Verb",
+    "ipa": "koːnfiteːriː",
     "position": 3030
   },
   "cōnfessus": {
     "meaning": "admit (a fact), confess (a crime); reveal, disclose",
     "part": "Verb",
+    "ipa": "koːnfessus",
     "position": 3031
   },
   "confessus": {
     "meaning": "admit (a fact), confess (a crime); reveal, disclose",
     "part": "Verb",
+    "ipa": "koːnfessus",
     "position": 3032
   },
   "dīligō": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːliɡo",
     "position": 3033
   },
   "diligo": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːliɡo",
     "position": 3034
   },
   "dīligere": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːlidʒere",
     "position": 3035
   },
   "diligere": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːlidʒere",
     "position": 3036
   },
   "dīlēxī": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːleːksiː",
     "position": 3037
   },
   "dilexi": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːleːksiː",
     "position": 3038
   },
   "dīlēctum": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːleːktum",
     "position": 3039
   },
   "dilectum": {
     "meaning": "choose, cherish, love",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "diːleːktum",
     "position": 3040
   },
   "dormiō": {
     "meaning": "sleep",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "dormio",
     "position": 3041
   },
   "dormio": {
     "meaning": "sleep",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "dormio",
     "position": 3042
   },
   "dormīre": {
     "meaning": "sleep",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "dormiːre",
     "position": 3043
   },
   "dormire": {
     "meaning": "sleep",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "dormiːre",
     "position": 3044
   },
   "volucris": {
     "meaning": "bird",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "volukris",
     "position": 3045
   },
   "volucer": {
     "meaning": "flying",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "volutʃer",
     "position": 3046
   },
   "creō": {
     "meaning": "produce, create; elect, choose",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kreo",
     "position": 3047
   },
   "creo": {
     "meaning": "produce, create; elect, choose",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kreo",
     "position": 3048
   },
   "creāre": {
     "meaning": "produce, create; elect, choose",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kreaːre",
     "position": 3049
   },
   "creare": {
     "meaning": "produce, create; elect, choose",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "kreaːre",
     "position": 3050
   },
   "fidēlis": {
     "meaning": "faithful",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "fideːlis",
     "position": 3051
   },
   "fidelis": {
     "meaning": "faithful",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "fideːlis",
     "position": 3052
   },
   "fidēle": {
     "meaning": "faithful",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "fideːle",
     "position": 3053
   },
   "fidele": {
     "meaning": "faithful",
     "part": "Adjective",
     "declension": "3rd",
+    "ipa": "fideːle",
     "position": 3054
   },
   "indicō": {
     "meaning": "point out, show, make known",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "indiko",
     "position": 3055
   },
   "indico": {
     "meaning": "point out, show, make known",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "indiko",
     "position": 3056
   },
   "indicāre": {
     "meaning": "point out, show, make known",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "indikaːre",
     "position": 3057
   },
   "indicare": {
     "meaning": "point out, show, make known",
     "part": "Verb",
     "conjugation": "1st",
+    "ipa": "indikaːre",
     "position": 3058
   },
   "hodiē": {
     "meaning": "today",
     "part": "Adverb",
+    "ipa": "odieː",
     "position": 3059
   },
   "hodie": {
     "meaning": "today",
     "part": "Adverb",
+    "ipa": "odieː",
     "position": 3060
   },
   "disciplīna": {
     "meaning": "training, instruction; learning, discipline",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "diʃipliːna",
     "position": 3061
   },
   "disciplina": {
     "meaning": "training, instruction; learning, discipline",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "diʃipliːna",
     "position": 3062
   },
   "disciplīnae": {
     "meaning": "training, instruction; learning, discipline",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "diʃipliːnɛ",
     "position": 3063
   },
   "disciplinae": {
     "meaning": "training, instruction; learning, discipline",
     "part": "Noun",
     "declension": "1st",
+    "ipa": "diʃipliːnɛ",
     "position": 3064
   },
   "vērē": {
     "meaning": "truly",
     "part": "Adverb",
+    "ipa": "veːreː",
     "position": 3065
   },
   "vere": {
     "meaning": "truly",
     "part": "Adverb",
+    "ipa": "veːreː",
     "position": 3066
   },
   "aegrē": {
     "meaning": "with difficulty",
     "part": "Adverb",
+    "ipa": "ɛɡreː",
     "position": 3067
   },
   "aegre": {
     "meaning": "with difficulty",
     "part": "Adverb",
+    "ipa": "ɛɡreː",
     "position": 3068
   },
   "fore": {
     "meaning": "to be going to be",
     "part": "Verb",
     "conjugation": "Irregular",
+    "ipa": "fore",
     "position": 3069
   },
   "advertō": {
     "meaning": "turn towards",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "advertoː",
     "position": 3070
   },
   "adverto": {
     "meaning": "turn towards",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "advertoː",
     "position": 3071
   },
   "advertere": {
     "meaning": "turn towards",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "advertere",
     "position": 3072
   },
   "advertī": {
     "meaning": "turn towards",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "advertiː",
     "position": 3073
   },
   "adverti": {
     "meaning": "turn towards",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "advertiː",
     "position": 3074
   },
   "adveniō": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "advenioː",
     "position": 3075
   },
   "advenio": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "advenioː",
     "position": 3076
   },
   "advenīre": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "adveniːre",
     "position": 3077
   },
   "advenire": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "adveniːre",
     "position": 3078
   },
   "advēnī": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "adveːniː",
     "position": 3079
   },
   "adveni": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "adveːniː",
     "position": 3080
   },
   "adventum": {
     "meaning": "come to, arrive at",
     "part": "Verb",
     "conjugation": "4th",
+    "ipa": "adventum",
     "position": 3081
   },
   "pendō": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "pendoː",
     "position": 3082
   },
   "pendo": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "pendoː",
     "position": 3083
   },
   "pendere": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "pendere",
     "position": 3084
   },
   "pependī": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "pependiː",
     "position": 3085
   },
   "pependi": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "pependiː",
     "position": 3086
   },
   "pēnsum": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "peːnsum",
     "position": 3087
   },
   "pensum": {
     "meaning": "weigh, hang, suspend; pay",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "peːnsum",
     "position": 3088
   },
   "studeō": {
     "meaning": "be eager, be zealous, care for",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "studeoː",
     "position": 3089
   },
   "studeo": {
     "meaning": "be eager, be zealous, care for",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "studeoː",
     "position": 3090
   },
   "studeōre": {
     "meaning": "be eager, be zealous, care for",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "studeoːre",
     "position": 3091
   },
   "studeore": {
     "meaning": "be eager, be zealous, care for",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "studeoːre",
     "position": 3092
   },
   "studeuī": {
     "meaning": "be eager, be zealous, care for",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "studeuiː",
     "position": 3093
   },
   "studeui": {
     "meaning": "be eager, be zealous, care for",
     "part": "Verb",
     "conjugation": "2nd",
+    "ipa": "studeuiː",
     "position": 3094
   },
   "ascendō": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃendoː",
     "position": 3095
   },
   "ascendo": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃendoː",
     "position": 3096
   },
   "ascendere": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃendere",
     "position": 3097
   },
   "ascendī": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃendiː",
     "position": 3098
   },
   "ascendi": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃendiː",
     "position": 3099
   },
   "ascēnsum": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃeːnsum",
     "position": 3100
   },
   "ascensum": {
     "meaning": "climb up, ascend",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "aʃeːnsum",
     "position": 3101
   },
   "vulgō": {
     "meaning": "commonly",
     "part": "Adverb",
+    "ipa": "vulɡoː",
     "position": 3102
   },
   "vulgo": {
     "meaning": "commonly",
     "part": "Adverb",
+    "ipa": "vulɡoː",
     "position": 3103
   },
   "breviter": {
     "meaning": "briefly",
     "part": "Adverb",
+    "ipa": "breviter",
     "position": 3104
   },
   "fors": {
     "meaning": "chance",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "fors",
     "position": 3105
   },
   "fortis": {
     "meaning": "chance",
     "part": "Noun",
     "declension": "3rd",
+    "ipa": "fortis",
     "position": 3106
   },
   "fēlīciter": {
     "meaning": "luckily",
     "part": "Adverb",
+    "ipa": "feːliːtʃiter",
     "position": 3107
   },
   "feliciter": {
     "meaning": "luckily",
     "part": "Adverb",
+    "ipa": "feːliːtʃiter",
     "position": 3108
   },
   "revertō": {
     "meaning": "turn back",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "revertoː",
     "position": 3109
   },
   "reverto": {
     "meaning": "turn back",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "revertoː",
     "position": 3110
   },
   "revertere": {
     "meaning": "turn back",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "revertere",
     "position": 3111
   },
   "revertī": {
     "meaning": "turn back",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "revertiː",
     "position": 3112
   },
   "reverti": {
     "meaning": "turn back",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "revertiː",
     "position": 3113
   },
   "ēdīcō": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiːkoː",
     "position": 3114
   },
   "edico": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiːkoː",
     "position": 3115
   },
   "ēdīcere": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiːtʃere",
     "position": 3116
   },
   "edicere": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiːtʃere",
     "position": 3117
   },
   "ēdīxī": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiːksiː",
     "position": 3118
   },
   "edixi": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiːksiː",
     "position": 3119
   },
   "ēdictum": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiktum",
     "position": 3120
   },
   "edictum": {
     "meaning": "declare",
     "part": "Verb",
     "conjugation": "3rd",
+    "ipa": "eːdiktum",
     "position": 3121
   },
   "munda": {
     "meaning": "clean, neat, elegant",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "munda",
     "position": 3122
   },
   "mundum": {
     "meaning": "clean, neat, elegant",
     "part": "Adjective",
     "declension": "1st and 2nd",
+    "ipa": "mundum",
     "position": 3123
   },
   "adveniat": {
     "meaning": "to come to, to arrive",
     "part": "Verb",
     "pronunciation": "ad-vayniat",
+    "ipa": "adveniat",
     "position": 3124
   },
   "africa": {
     "meaning": "Africa",
     "part": "Noun",
     "pronunciation": "africa",
+    "ipa": "afrika",
     "position": 3125
   },
   "alma": {
     "meaning": "nourishing, kind, propitious",
     "part": "Adjective",
     "pronunciation": "almuh",
+    "ipa": "alma",
     "position": 3126
   },
   "amamus": {
     "meaning": "to come to, to arrive",
     "part": "Verb",
     "pronunciation": "ah-mah-moose",
+    "ipa": "amamus",
     "position": 3127
   },
   "creavit": {
     "meaning": "to create, to bring into being, to make",
     "part": "Verb",
     "pronunciation": "kray-ah-veet",
+    "ipa": "kreavit",
     "position": 3128
   },
   "duodeviginti": {
     "meaning": "eighteen",
     "part": "Adjective",
     "pronunciation": "duo-day-veejin-tee",
+    "ipa": "duodevidʒinti",
     "position": 3129
   },
   "es": {
     "meaning": "to be",
     "part": "Verb",
     "pronunciation": "es",
+    "ipa": "es",
     "position": 3130
   },
   "estis": {
     "meaning": "to be",
     "part": "Verb",
     "pronunciation": "estis",
+    "ipa": "estis",
     "position": 3131
   },
   "europa": {
     "meaning": "Europe",
     "part": "Verb",
     "pronunciation": "yoorope-uh",
+    "ipa": "europa",
     "position": 3132
   },
   "germania": {
     "meaning": "Germany",
     "part": "Noun",
     "pronunciation": "jer-maneeah",
+    "ipa": "dʒermania",
     "position": 3133
   },
   "hominem": {
     "meaning": "man, human being, person, fellow",
     "part": "Noun",
     "pronunciation": "hominem",
+    "ipa": "ominem",
     "position": 3134
   },
   "italia": {
     "meaning": "Italy",
     "part": "Noun",
     "pronunciation": "italia",
+    "ipa": "italia",
     "position": 3135
   },
   "octo": {
     "meaning": "eight",
     "part": "Adjective",
     "pronunciation": "awk-toh",
+    "ipa": "okto",
     "position": 3136
   },
   "omnia": {
     "meaning": "in all respects",
     "part": "Noun",
     "pronunciation": "ohm-nia",
+    "ipa": "omnia",
     "position": 3137
   },
   "optime": {
     "meaning": "very well, best",
     "part": "Adverb",
     "pronunciation": "op-tee-may",
+    "ipa": "optime",
     "position": 3138
   },
   "principio": {
     "meaning": "at the beginning",
     "part": "Adverb",
     "pronunciation": "preen-cheepio",
+    "ipa": "printʃipio",
     "position": 3139
   },
   "rhenus": {
     "meaning": "the Rhine",
     "part": "Noun",
     "pronunciation": "ray-noose",
+    "ipa": "renus",
     "position": 3140
   },
   "repetite": {
     "meaning": "to return to",
     "part": "Verb",
     "pronunciation": "reppa-teetay",
+    "ipa": "repetite",
     "position": 3141
   },
   "sanctificetur": {
     "meaning": "to sanctify, to treat as holy",
     "part": "Verb",
     "pronunciation": "sahnk-teefee-chaytoor",
+    "ipa": "sanktifitʃetur",
     "position": 3142
   },
   "septemdecim": {
     "meaning": "seventeen",
     "part": "Adjective",
     "pronunciation": "septem-daycheem",
+    "ipa": "septemdetʃim",
     "position": 3143
   },
   "septimus": {
     "meaning": "seventh",
     "part": "Adjective",
     "pronunciation": "sep-tee-moose",
+    "ipa": "septimus",
     "position": 3144
   },
   "sextus": {
     "meaning": "sixth",
     "part": "Adjective",
     "pronunciation": "sextus",
+    "ipa": "sekstus",
     "position": 3145
   },
   "stibium": {
     "meaning": "antimony",
     "part": "Noun",
     "pronunciation": "stih-bium",
+    "ipa": "stibium",
     "position": 3146
   },
   "terram": {
     "meaning": "earth, land, ground",
     "part": "Noun",
     "pronunciation": "terram",
+    "ipa": "terram",
     "position": 3147
   },
   "toga": {
     "meaning": "toga",
     "part": "Noun",
     "pronunciation": "toga",
+    "ipa": "toɡa",
     "position": 3148
   },
   "undeviginti": {
     "meaning": "nineteen",
     "part": "Adjective",
     "pronunciation": "oon-day-veejin-tee",
+    "ipa": "undevidʒinti",
     "position": 3149
   },
   "acerbus": {

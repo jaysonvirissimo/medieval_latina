@@ -1,2114 +1,2114 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      hūc
+      inanis
     </grapheme>
     <phoneme>
-      hukː
+      ɪˈnanɪs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      huc
+      incertus
     </grapheme>
     <phoneme>
-      hukː
+      ɪnˈkɛrtʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      taceō
+      infirmus
     </grapheme>
     <phoneme>
-      tatʃeoː
+      ɪnˈfɪrmʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      taceo
+      informis
     </grapheme>
     <phoneme>
-      tatʃeoː
+      ɪnˈfɔrmɪs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tacēre
+      iniustus
     </grapheme>
     <phoneme>
-      tatʃere
+      ɪˈnjʊstʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tacere
+      integer
     </grapheme>
     <phoneme>
-      tatʃere
+      ˈɪntɛɡɛr
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tacuī
+      invictus
     </grapheme>
     <phoneme>
-      tatʃuiː
+      ɪnˈʋɪktʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tacui
+      iratus
     </grapheme>
     <phoneme>
-      tatʃuiː
+      ɪˈratʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tacitum
+      militaris
     </grapheme>
     <phoneme>
-      tatʃitum
+      mɪlɪˈtarɪs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      legiō
+      mirus
     </grapheme>
     <phoneme>
-      ledʒioː
+      ˈmɪrʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      legio
+      obstinatus
     </grapheme>
     <phoneme>
-      ledʒioː
+      ɔbstɪˈnatʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      legiōnis
+      opportunus
     </grapheme>
     <phoneme>
-      ledʒionisː
+      ɔpˈpɔrtʊnʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      legionis
+      praeclarus
     </grapheme>
     <phoneme>
-      ledʒionisː
+      prɛˈklarus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ostendō
+      praeteritus
     </grapheme>
     <phoneme>
-      ostendoː
+      praɪˈtɛrɪtʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ostendo
+      prudens
     </grapheme>
     <phoneme>
-      ostendoː
+      ˈprʊdɛns
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ostendere
+      pudicus
     </grapheme>
     <phoneme>
-      ostendɛre
+      ˈpʊdɪkʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ostendī
+      rectus
     </grapheme>
     <phoneme>
-      ostendiː
+      ˈrɛktʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ostendi
+      rusticus
     </grapheme>
     <phoneme>
-      ostendiː
+      ˈrʊstɪkʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ostentum
+      sacrilegus
     </grapheme>
     <phoneme>
-      ostɛntum
+      sakrɪˈlɛɡʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      socius
+      salvus
     </grapheme>
     <phoneme>
-      sotʃius
+      ˈsalʋʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      socii
+      scelestus
     </grapheme>
     <phoneme>
-      sotʃii
+      skɛˈlɛstʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      prōsum
+      serius
     </grapheme>
     <phoneme>
-      prosumː
+      ˈsɛrɪʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      prosum
+      simplex
     </grapheme>
     <phoneme>
-      prosumː
+      ˈsɪmplɛks
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      prodesse
+      sollicitus
     </grapheme>
     <phoneme>
-      prodesse
+      sɔlˈlɪkɪtʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      profuī
+      stabilis
     </grapheme>
     <phoneme>
-      profuiː
+      ˈstabilɪs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      profui
+      studiosus
     </grapheme>
     <phoneme>
-      profuiː
+      stuˈdjɔsʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      āra
+      subitus
     </grapheme>
     <phoneme>
-      araː
+      ˈsʊbɪtʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ara
+      urbanus
     </grapheme>
     <phoneme>
-      araː
+      ʊrˈbanʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ārae
+      vehemens
     </grapheme>
     <phoneme>
-      araeː
+      ʋɛˈhɛmɛns
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      arae
+      velox
     </grapheme>
     <phoneme>
-      araeː
+      ˈʋɛlɔks
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      lūmen
+      vetus
     </grapheme>
     <phoneme>
-      lumenː
+      ˈʋɛtʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      lumen
+      abhinc
     </grapheme>
     <phoneme>
-      lumenː
+      ˈabɪŋk
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      luminis
+      admodum
     </grapheme>
     <phoneme>
-      luminis
+      adˈmɔdʊm
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tegō
+      alias
     </grapheme>
     <phoneme>
-      tegoː
+      ˈaliːas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tego
+      aliqua
     </grapheme>
     <phoneme>
-      tegoː
+      ˈalikʷa
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tegere
+      amplius
     </grapheme>
     <phoneme>
-      tɛgɛre
+      ˈampliʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tēxī
+      bis
     </grapheme>
     <phoneme>
-      teksiː
+      bɪs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      texi
+      clam
     </grapheme>
     <phoneme>
-      teksiː
+      klam
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tēctum
+      comminus
     </grapheme>
     <phoneme>
-      tektumː
+      kɔmˈmɪnʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tectum
+      cotidie
     </grapheme>
     <phoneme>
-      tektumː
+      kɔˈtidiɛ
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      turpis
+      demisse
     </grapheme>
     <phoneme>
-      turpis
+      dɛˈmɪssɛ
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      voluptās
+      diligenter
     </grapheme>
     <phoneme>
-      voluptasː
+      dɪlɪˈɡɛntɛr
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      voluptas
+      fortasse
     </grapheme>
     <phoneme>
-      voluptasː
+      fɔrˈtassɛ
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      voluptātis
+      fortiter
     </grapheme>
     <phoneme>
-      voluptatisː
+      fɔrˈtitɛr
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      voluptatis
+      graviter
     </grapheme>
     <phoneme>
-      voluptatisː
+      ˈgraʋitɛr
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      adhūc
+      interdum
     </grapheme>
     <phoneme>
-      adhukː
+      ɪntɛrˈdʊm
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      adhuc
+      intus
     </grapheme>
     <phoneme>
-      adhukː
+      ˈintʊs
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      grātia
+      palam
     </grapheme>
     <phoneme>
-      gratiaː
+      ˈpalam
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gratia
+      partim
     </grapheme>
     <phoneme>
-      gratiaː
+      ˈpartɪm
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      grātiae
+      passim
     </grapheme>
     <phoneme>
-      gratiaeː
+      ˈpassɪm
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gratiae
+      plane
     </grapheme>
     <phoneme>
-      gratiaeː
+      ˈplanɛ
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iniūria
+      recte
     </grapheme>
     <phoneme>
-      iniuriaː
+      ˈrɛktɛ
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iniuria
+      retro
     </grapheme>
     <phoneme>
-      iniuriaː
+      ˈrɛtro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iniūriae
+      statim
     </grapheme>
     <phoneme>
-      iniuriaeː
+      ˈstatɪm
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iniuriae
+      ultro
     </grapheme>
     <phoneme>
-      iniuriaeː
+      ˈʊltro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      latus
+      utinam
     </grapheme>
     <phoneme>
-      latus
+      ʊˈtinam
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      lateris
+      accusator
     </grapheme>
     <phoneme>
-      lateris
+      akˈkuːsator
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      dulcis
+      acerbitas
     </grapheme>
     <phoneme>
-      dulkis
+      aˈkɛrbitas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      dulce
+      adulatio
     </grapheme>
     <phoneme>
-      dulke
+      aduˈlatio
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      postquam
+      adulescens
     </grapheme>
     <phoneme>
-      postkʷam
+      aduˈleskens
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      extrēmus
+      adulescentia
     </grapheme>
     <phoneme>
-      ɛkstremusː
+      adulesˈkentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      extremus
+      aedificium
     </grapheme>
     <phoneme>
-      ɛkstremusː
+      ɛːdiˈfikium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      extrēma
+      aequitas
     </grapheme>
     <phoneme>
-      ɛkstremaː
+      ɛːˈkwitas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      extrema
+      agricola
     </grapheme>
     <phoneme>
-      ɛkstremaː
+      aˈɡrikola
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      extrēmum
+      agricultura
     </grapheme>
     <phoneme>
-      ɛkstremumː
+      aɡrikulˈtura
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      extremum
+      ambitio
     </grapheme>
     <phoneme>
-      ɛkstremumː
+      amˈbitio
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tēctī
+      ancilla
     </grapheme>
     <phoneme>
-      tektiː
+      ˈankilla
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tecti
+      angellus
     </grapheme>
     <phoneme>
-      tektiː
+      anˈɡellus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ingenium
+      animal
     </grapheme>
     <phoneme>
-      indʒenium
+      aˈnimal
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ingeniī
+      apparatus
     </grapheme>
     <phoneme>
-      indʒeniiː
+      appaˈratus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ingenii
+      aratrum
     </grapheme>
     <phoneme>
-      indʒeniiː
+      ˈaratrum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pāx
+      arbitrium
     </grapheme>
     <phoneme>
-      paksː
+      arˈbitrium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pax
+      arcus
     </grapheme>
     <phoneme>
-      paksː
+      ˈarkus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pācis
+      argumentum
     </grapheme>
     <phoneme>
-      pakisː
+      arɡuˈmentum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pacis
+      audacia
     </grapheme>
     <phoneme>
-      pakisː
+      auˈdatʃia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      canō
+      auditor
     </grapheme>
     <phoneme>
-      kanoː
+      auˈditor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cano
+      augur
     </grapheme>
     <phoneme>
-      kanoː
+      ˈauɡur
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      canere
+      avaritia
     </grapheme>
     <phoneme>
-      kanɛre
+      awaˈritia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cecinī
+      aviditas
     </grapheme>
     <phoneme>
-      tʃekiniː
+      awiˈditas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cecini
+      belua
     </grapheme>
     <phoneme>
-      tʃekiniː
+      ˈbelua
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cantum
+      bestia
     </grapheme>
     <phoneme>
-      kantum
+      ˈbestia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iuvō
+      bos
     </grapheme>
     <phoneme>
-      juvoː
+      bos
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iuvo
+      calamitas
     </grapheme>
     <phoneme>
-      juvoː
+      kalaˈmitas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iuvāre
+      caritas
     </grapheme>
     <phoneme>
-      juvareː
+      ˈkaritas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iuvare
+      celeritas
     </grapheme>
     <phoneme>
-      juvareː
+      tʃeleˈritas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iūvī
+      cena
     </grapheme>
     <phoneme>
-      juviː
+      ˈkena
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iuvi
+      certamen
     </grapheme>
     <phoneme>
-      juviː
+      kerˈtamen
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iūtum
+      clementia
     </grapheme>
     <phoneme>
-      jutumː
+      kleˈmentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      iutum
+      concilium
     </grapheme>
     <phoneme>
-      jutumː
+      konˈkilium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      campus
+      coniuratio
     </grapheme>
     <phoneme>
-      kampus
+      konjuraˈtio
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      campī
+      conscientia
     </grapheme>
     <phoneme>
-      kampiː
+      konʃiˈentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      campi
+      cupiditas
     </grapheme>
     <phoneme>
-      kampiː
+      kupiˈditas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      claudō
+      custodia
     </grapheme>
     <phoneme>
-      klawdoː
+      kusˈtodia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      claudo
+      decor
     </grapheme>
     <phoneme>
-      klawdoː
+      ˈdekor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      claudere
+      decretum
     </grapheme>
     <phoneme>
-      klawdere
+      deˈkretum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clausī
+      detrimentum
     </grapheme>
     <phoneme>
-      klausiː
+      detriˈmentum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clausi
+      dictator
     </grapheme>
     <phoneme>
-      klausiː
+      dikˈtator
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clausum
+      diligentia
     </grapheme>
     <phoneme>
-      klaʊsum
+      diliˈɡentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      doceō
+      discessus
     </grapheme>
     <phoneme>
-      dokɛoː
+      disˈkessus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      doceo
+      discipulus
     </grapheme>
     <phoneme>
-      dokɛoː
+      disˈkipulus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      docēre
+      disputatio
     </grapheme>
     <phoneme>
-      dokɛre
+      disputaˈtio
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      docere
+      doctrina
     </grapheme>
     <phoneme>
-      dokɛre
+      dokˈtrina
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      docuī
+      dominatus
     </grapheme>
     <phoneme>
-      dokuiː
+      domiˈnatus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      docui
+      ecclesia
     </grapheme>
     <phoneme>
-      dokuiː
+      ekˈklesia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      doctum
+      eloquentia
     </grapheme>
     <phoneme>
-      doktum
+      eloˈkwentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      excipiō
+      excellentia
     </grapheme>
     <phoneme>
-      ɛksitʃipjoː
+      ekselˈlentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      excipio
+      excidium
     </grapheme>
     <phoneme>
-      ɛksitʃipjoː
+      ekˈsidium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      excipere
+      exilium
     </grapheme>
     <phoneme>
-      ɛksitʃipɛre
+      eksˈilium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      excēpī
+      exitium
     </grapheme>
     <phoneme>
-      ɛksitʃepiː
+      eksˈitium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      excepi
+      exsul
     </grapheme>
     <phoneme>
-      ɛksitʃepiː
+      ˈeksul
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      exceptum
+      facultas
     </grapheme>
     <phoneme>
-      ɛksitʃɛptum
+      fakulˈtas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clārus
+      feriae
     </grapheme>
     <phoneme>
-      klarusː
+      ˈferiae
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clarus
+      forum
     </grapheme>
     <phoneme>
-      klarusː
+      ˈforum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clāra
+      frigus
     </grapheme>
     <phoneme>
-      klaraː
+      ˈfriɡus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clara
+      gemma
     </grapheme>
     <phoneme>
-      klaraː
+      ˈɡemma
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clārum
+      gravitas
     </grapheme>
     <phoneme>
-      klarumː
+      ɡraˈvitas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      clarum
+      habitus
     </grapheme>
     <phoneme>
-      klarumː
+      ˈhabitus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      illīc
+      hasta
     </grapheme>
     <phoneme>
-      illikː
+      ˈhasta
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      illic
+      honor
     </grapheme>
     <phoneme>
-      illikː
+      ˈhonor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      procul
+      ignavia
     </grapheme>
     <phoneme>
-      prokul
+      iɲˈnaʋia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sacer
+      ignominia
     </grapheme>
     <phoneme>
-      saker
+      iɲnoˈminia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sacra
+      industria
     </grapheme>
     <phoneme>
-      sakra
+      indusˈtria
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sacrum
+      insidia
     </grapheme>
     <phoneme>
-      sakrum
+      inˈsidia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      mora
+      iuventus
     </grapheme>
     <phoneme>
-      mora
+      iuˈwentus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      morae
+      ludus
     </grapheme>
     <phoneme>
-      mɔraɛ
+      ˈludus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      longē
+      medica
     </grapheme>
     <phoneme>
-      longeː
+      ˈmedika
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      longe
+      medicus
     </grapheme>
     <phoneme>
-      longeː
+      ˈmedikus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      super
+      merx
     </grapheme>
     <phoneme>
-      super
+      merks
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      errō
+      miseria
     </grapheme>
     <phoneme>
-      ɛrroː
+      miˈseria
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      erro
+      mores
     </grapheme>
     <phoneme>
-      ɛrroː
+      ˈmores
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      errāre
+      munia
     </grapheme>
     <phoneme>
-      ɛrrareː
+      ˈmunia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      errare
+      nauta
     </grapheme>
     <phoneme>
-      ɛrrareː
+      ˈnauta
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sēdēs
+      navigatio
     </grapheme>
     <phoneme>
-      sedesː
+      naʋiˈɡatio
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sedes
+      nubes
     </grapheme>
     <phoneme>
-      sedesː
+      ˈnubes
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sēdis
+      nuptiae
     </grapheme>
     <phoneme>
-      sɛdɪsː
+      ˈnuptiae
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      sedis
+      obses
     </grapheme>
     <phoneme>
-      sɛdɪsː
+      ˈobses
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cūr
+      obsidio
     </grapheme>
     <phoneme>
-      kurː
+      obˈsidio
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cur
+      opes
     </grapheme>
     <phoneme>
-      kurː
+      ˈopes
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      coma
+      paedagogus
     </grapheme>
     <phoneme>
-      koma
+      pɛːdaˈɡoɡus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      comae
+      patientia
     </grapheme>
     <phoneme>
-      kɔmaɛ
+      patiˈentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      aiō
+      paupertas
     </grapheme>
     <phoneme>
-      ajoː
+      pauˈpertas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      aio
+      pedes
     </grapheme>
     <phoneme>
-      ajoː
+      ˈpedes
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gaudeō
+      philosophia
     </grapheme>
     <phoneme>
-      gaudeoː
+      filoˈsofia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gaudeo
+      portus
     </grapheme>
     <phoneme>
-      gaudeoː
+      ˈportus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gaudēre
+      probitas
     </grapheme>
     <phoneme>
-      gaudɛrɛ
+      proˈbitas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gaudere
+      prudentia
     </grapheme>
     <phoneme>
-      gaudɛrɛ
+      pruˈdentia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      beātus
+      rapina
     </grapheme>
     <phoneme>
-      beatʊsː
+      raˈpina
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      beatus
+      sagitta
     </grapheme>
     <phoneme>
-      beatʊsː
+      saˈɡitta
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      beāta
+      satura
     </grapheme>
     <phoneme>
-      beataː
+      ˈsatura
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      beata
+      schola
     </grapheme>
     <phoneme>
-      beataː
+      ˈskola
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      beātum
+      scriptor
     </grapheme>
     <phoneme>
-      beatumː
+      ˈskriptor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      beatum
+      senator
     </grapheme>
     <phoneme>
-      beatumː
+      seˈnator
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      perveniō
+      senectus
     </grapheme>
     <phoneme>
-      pɛrvɛnjoː
+      seˈnektus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pervenio
+      serva
     </grapheme>
     <phoneme>
-      pɛrvɛnjoː
+      ˈserʋa
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pervenīre
+      status
     </grapheme>
     <phoneme>
-      pɛrvɛnire
+      ˈstatus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      pervenire
+      summa
     </grapheme>
     <phoneme>
-      pɛrvɛnire
+      ˈsumma
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vērus
+      temeritas
     </grapheme>
     <phoneme>
-      verʊsː
+      teˈmeritas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      verus
+      temperantia
     </grapheme>
     <phoneme>
-      verʊsː
+      tempeˈrantia
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vēra
+      tyrannus
     </grapheme>
     <phoneme>
-      veraː
+      tyˈrannus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vera
+      valetudo
     </grapheme>
     <phoneme>
-      veraː
+      valeˈtudo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vērum
+      vacca
     </grapheme>
     <phoneme>
-      verʊmː
+      ˈvakka
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      verum
+      venenum
     </grapheme>
     <phoneme>
-      verʊmː
+      veˈnenum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      incipiō
+      veritas
     </grapheme>
     <phoneme>
-      intʃipjoː
+      veˈritas
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      incipio
+      victus
     </grapheme>
     <phoneme>
-      intʃipjoː
+      ˈvictus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      incipere
+      vicus
     </grapheme>
     <phoneme>
-      intʃipɛre
+      ˈvikus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      parcō
+      villa
     </grapheme>
     <phoneme>
-      parkoː
+      ˈvilla
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      parco
+      vires
     </grapheme>
     <phoneme>
-      parkoː
+      ˈvires
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      parcere
+      visus
     </grapheme>
     <phoneme>
-      parkɛre
+      ˈvisus
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vestis
+      accendo
     </grapheme>
     <phoneme>
-      vɛstis
+      akˈtʃen.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      similis
+      ait
     </grapheme>
     <phoneme>
-      similis
+      ˈait
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      simile
+      alo
     </grapheme>
     <phoneme>
-      simile
+      ˈa.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      caedēs
+      ambulo
     </grapheme>
     <phoneme>
-      kɛdɛsː
+      amˈbu.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      caedes
+      bello
     </grapheme>
     <phoneme>
-      kɛdɛsː
+      ˈbel.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ōrdō
+      bibo
     </grapheme>
     <phoneme>
-      ordoː
+      ˈbi.bo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ordo
+      caleo
     </grapheme>
     <phoneme>
-      ordoː
+      ˈka.le.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      optō
+      capto
     </grapheme>
     <phoneme>
-      optoː
+      ˈkap.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      opto
+      carpo
     </grapheme>
     <phoneme>
-      optoː
+      ˈkar.po
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      optāre
+      castigo
     </grapheme>
     <phoneme>
-      optareː
+      kasˈti.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      optare
+      cedo
     </grapheme>
     <phoneme>
-      optareː
+      ˈtʃe.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      virgō
+      ceno
     </grapheme>
     <phoneme>
-      virgoː
+      ˈtʃe.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      virgo
+      censeo
     </grapheme>
     <phoneme>
-      virgoː
+      ˈtʃen.se.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      legō
+      cesso
     </grapheme>
     <phoneme>
-      lɛgoː
+      ˈtʃes.so
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      lego
+      cieo
     </grapheme>
     <phoneme>
-      lɛgoː
+      ˈtʃi.e.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      legere
+      cingo
     </grapheme>
     <phoneme>
-      lɛgɛre
+      ˈtʃin.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      aura
+      cito
     </grapheme>
     <phoneme>
-      aura
+      ˈtʃi.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      impetus
+      coco
     </grapheme>
     <phoneme>
-      impɛtʊs
+      ˈko.ko
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      fōrma
+      coepio
     </grapheme>
     <phoneme>
-      formaː
+      ˈtʃe.pi.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      forma
+      coerceo
     </grapheme>
     <phoneme>
-      formaː
+      koˈer.tʃe.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      praestō
+      compello
     </grapheme>
     <phoneme>
-      praɛstoː
+      komˈpel.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      praesto
+      concido
     </grapheme>
     <phoneme>
-      praɛstoː
+      konˈtʃi.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      praestāre
+      confido
     </grapheme>
     <phoneme>
-      praɛstareː
+      konˈfi.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      praestare
+      congrego
     </grapheme>
     <phoneme>
-      praɛstareː
+      konˈgre.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      aequor
+      conservo
     </grapheme>
     <phoneme>
-      ɛkwor
+      konˈser.vo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      misceō
+      convoco
     </grapheme>
     <phoneme>
-      miskɛoː
+      konˈvo.ko
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      misceo
+      culpo
     </grapheme>
     <phoneme>
-      miskɛoː
+      ˈkul.po
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      miscēre
+      dedo
     </grapheme>
     <phoneme>
-      miskɛrɛ
+      ˈde.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      miscere
+      defero
     </grapheme>
     <phoneme>
-      miskɛrɛ
+      ˈde.fe.ro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      spatium
+      deleo
     </grapheme>
     <phoneme>
-      spatjum
+      ˈde.le.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tandem
+      despicio
     </grapheme>
     <phoneme>
-      tandɛm
+      deˈspi.tʃo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      īnferus
+      dimico
     </grapheme>
     <phoneme>
-      inferʊsː
+      diˈmi.ko
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      inferus
+      eicio
     </grapheme>
     <phoneme>
-      inferʊsː
+      ˈei.tʃo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      īnfera
+      emendo
     </grapheme>
     <phoneme>
-      inferaː
+      eˈmen.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      infera
+      emo
     </grapheme>
     <phoneme>
-      inferaː
+      ˈe.mo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      īnferum
+      excogito
     </grapheme>
     <phoneme>
-      inferʊmː
+      ekˈko.dʒi.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      inferum
+      expello
     </grapheme>
     <phoneme>
-      inferʊmː
+      ekˈspel.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      metuō
+      firmo
     </grapheme>
     <phoneme>
-      metwoː
+      ˈfir.mo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      metuo
+      fungor
     </grapheme>
     <phoneme>
-      metwoː
+      ˈfun.gor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      metuere
+      gemo
     </grapheme>
     <phoneme>
-      metwɛre
+      ˈdʒe.mo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      temptō
+      guberno
     </grapheme>
     <phoneme>
-      temptoː
+      guˈber.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      tempto
+      gusto
     </grapheme>
     <phoneme>
-      temptoː
+      ˈgus.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      temptāre
+      horrifico
     </grapheme>
     <phoneme>
-      temptareː
+      horˈri.fi.ko
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      temptare
+      ignoro
     </grapheme>
     <phoneme>
-      temptareː
+      igˈno.ro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      trānseō
+      impello
     </grapheme>
     <phoneme>
-      transeoː
+      imˈpel.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      transeo
+      incedo
     </grapheme>
     <phoneme>
-      transeoː
+      inˈtʃe.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      trānsīre
+      incito
     </grapheme>
     <phoneme>
-      transire
+      inˈtʃi.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      transire
+      ineo
     </grapheme>
     <phoneme>
-      transire
+      iˈne.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ultimus
+      insulto
     </grapheme>
     <phoneme>
-      ultimus
+      inˈsul.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ultima
+      insurgo
     </grapheme>
     <phoneme>
-      ultima
+      inˈsur.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ultimum
+      laetor
     </grapheme>
     <phoneme>
-      ultimum
+      ˈle.tor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      addō
+      ligo
     </grapheme>
     <phoneme>
-      addoː
+      ˈli.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      addo
+      mereor
     </grapheme>
     <phoneme>
-      addoː
+      ˈme.re.or
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      addere
+      misereor
     </grapheme>
     <phoneme>
-      addɛre
+      mi.seˈre.or
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      grātus
+      mutilo
     </grapheme>
     <phoneme>
-      gratusː
+      muˈti.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gratus
+      navigo
     </grapheme>
     <phoneme>
-      gratusː
+      naˈvi.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      grāta
+      neco
     </grapheme>
     <phoneme>
-      grataː
+      ˈne.ko
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      grata
+      nego
     </grapheme>
     <phoneme>
-      grataː
+      ˈne.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      grātum
+      nitor
     </grapheme>
     <phoneme>
-      gratumː
+      ˈni.tor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      gratum
+      nuntio
     </grapheme>
     <phoneme>
-      gratumː
+      nunˈti.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      laudō
+      obsideo
     </grapheme>
     <phoneme>
-      laudoː
+      obˈsi.de.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      laudo
+      occido
     </grapheme>
     <phoneme>
-      laudoː
+      okˈtʃi.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      laudāre
+      occulo
     </grapheme>
     <phoneme>
-      laudareː
+      ˈok.ku.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      laudare
+      offero
     </grapheme>
     <phoneme>
-      laudareː
+      ˈof.fe.ro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      nōndum
+      oppono
     </grapheme>
     <phoneme>
-      nondum
+      opˈpo.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      nondum
+      opprimo
     </grapheme>
     <phoneme>
-      nondum
+      opˈpri.mo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      impōnō
+      pario
     </grapheme>
     <phoneme>
-      imponoː
+      ˈpa.ri.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      impono
+      pasco
     </grapheme>
     <phoneme>
-      imponoː
+      ˈpas.ko
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      impōnere
+      pono
     </grapheme>
     <phoneme>
-      imponɛre
+      ˈpo.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      imponere
+      protego
     </grapheme>
     <phoneme>
-      imponɛre
+      proˈte.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      somnus
+      provideo
     </grapheme>
     <phoneme>
-      somnus
+      proˈvi.de.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      aciēs
+      punio
     </grapheme>
     <phoneme>
-      atʃiɛs
+      ˈpu.ni.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      acies
+      quaescivi
     </grapheme>
     <phoneme>
-      atʃiɛs
+      kwaˈes.ki.vi
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      rūrsus
+      quatio
     </grapheme>
     <phoneme>
-      rursusː
+      ˈkwa.ti.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      rursus
+      reficio
     </grapheme>
     <phoneme>
-      rursusː
+      reˈfi.tʃo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cupiō
+      rego
     </grapheme>
     <phoneme>
-      kupjoː
+      ˈre.go
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cupio
+      resisto
     </grapheme>
     <phoneme>
-      kupjoː
+      reˈsis.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      cupere
+      resto
     </grapheme>
     <phoneme>
-      kupɛre
+      ˈres.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      exspectō
+      saluto
     </grapheme>
     <phoneme>
-      ɛkspɛktoː
+      saˈlu.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      exspecto
+      salveo
     </grapheme>
     <phoneme>
-      ɛkspɛktoː
+      ˈsal.ve.o
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      exspectāre
+      sano
     </grapheme>
     <phoneme>
-      ɛkspɛktareː
+      ˈsa.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      exspectare
+      scindo
     </grapheme>
     <phoneme>
-      ɛkspɛktareː
+      ˈsin.do
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      compōnō
+      secerno
     </grapheme>
     <phoneme>
-      komponoː
+      seˈtʃer.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      compono
+      servo
     </grapheme>
     <phoneme>
-      komponoː
+      ˈser.vo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      compōnere
+      spiro
     </grapheme>
     <phoneme>
-      komponɛre
+      ˈspi.ro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      componere
+      sumpsi
     </grapheme>
     <phoneme>
-      komponɛre
+      ˈsum.psi
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      laus
+      termino
     </grapheme>
     <phoneme>
-      laus
+      terˈmi.no
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      laudis
+      tero
     </grapheme>
     <phoneme>
-      laudis
+      ˈte.ro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      absum
+      tollo
     </grapheme>
     <phoneme>
-      absum
+      ˈtol.lo
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      abesse
+      tutor
     </grapheme>
     <phoneme>
-      abɛsse
+      ˈtu.tor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      velut
+      uro
     </grapheme>
     <phoneme>
-      vɛlʊt
+      ˈu.ro
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      comes
+      usurpo
     </grapheme>
     <phoneme>
-      komɛs
+      uˈsur.po
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      comitis
+      vagor
     </grapheme>
     <phoneme>
-      komitis
+      ˈva.gor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      ob
+      versor
     </grapheme>
     <phoneme>
-      ob
+      ˈver.sor
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      studium
+      verto
     </grapheme>
     <phoneme>
-      studjum
+      ˈver.to
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      facilis
+      vigilo
     </grapheme>
     <phoneme>
-      fatʃilis
+      viˈdʒi.lo
     </phoneme>
   </lexeme>
 </lexicon>
