@@ -8,7 +8,7 @@ class MedievalLatina
   def self.[](text)
     prepared_words = prepare_text(text).map do |string|
       if word?(string)
-        metadata = DICTIONARY.fetch(string, {})
+        metadata = entry_for(string) || {}
 
         if metadata.key?("pronunciation")
           metadata["pronunciation"]
@@ -46,20 +46,31 @@ class MedievalLatina
     word.gsub(/\P{Alnum}+/, " ").strip.downcase
   end
 
+  # Looks a word up by its exact spelling first, then falls back to a
+  # diacritic-insensitive (macron-stripped) match. Returns the entry or nil.
+  def self.entry_for(word)
+    DICTIONARY[word] || NORMALIZED[I18n.transliterate(word.to_s.downcase)]
+  end
+
   def self.adjective?(word)
-    adjectives.key?(prepare_word(word))
+    part?(word, "Adjective")
   end
 
   def self.adverb?(word)
-    adverbs.key?(prepare_word(word))
+    part?(word, "Adverb")
   end
 
   def self.noun?(word)
-    nouns.key?(prepare_word(word))
+    part?(word, "Noun")
   end
 
   def self.verb?(word)
-    verbs.key?(prepare_word(word))
+    part?(word, "Verb")
+  end
+
+  def self.part?(word, part)
+    entry = entry_for(prepare_word(word))
+    !entry.nil? && entry["part"] == part
   end
 
   def self.adjectives
@@ -82,7 +93,7 @@ class MedievalLatina
 
   def self.pronunciations_for(words)
     words.map(&:downcase).each_with_object({}) do |word, hash|
-      metadata = DICTIONARY[word]
+      metadata = entry_for(word)
 
       if metadata && metadata["ipa"]
         hash[word] = metadata["ipa"]
@@ -200,12 +211,17 @@ class MedievalLatina
 
   class Error < StandardError; end
 
-  DICTIONARY = dictionary.each_with_object({}) do |(word, metadata), hash|
-    hash[word] = metadata
+  DICTIONARY = dictionary
 
-    sanitized_word = I18n.transliterate(word)
-    unless hash.key?(sanitized_word)
-      hash[sanitized_word] = metadata
-    end
+  # Diacritic-insensitive fallback index: maps each macron-stripped spelling to
+  # its canonical entry, but only when no exact key already claims that spelling
+  # (so an exact match always wins). When several entries share a normalized
+  # spelling, the earliest one (by dictionary order) wins, keeping lookups
+  # deterministic.
+  NORMALIZED = dictionary.each_with_object({}) do |(word, metadata), hash|
+    normalized = I18n.transliterate(word)
+    next if dictionary.key?(normalized)
+
+    hash[normalized] ||= metadata
   end
 end

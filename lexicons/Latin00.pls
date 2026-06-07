@@ -33,14 +33,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      fui
-    </grapheme>
-    <phoneme>
-      fui
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       futūrum
     </grapheme>
     <phoneme>
@@ -49,23 +41,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      futurum
-    </grapheme>
-    <phoneme>
-      futuːrum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       quī
-    </grapheme>
-    <phoneme>
-      kwi
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      qui
     </grapheme>
     <phoneme>
       kwi
@@ -106,14 +82,6 @@
   <lexeme>
     <grapheme>
       nōn
-    </grapheme>
-    <phoneme>
-      non
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      non
     </grapheme>
     <phoneme>
       non
@@ -177,23 +145,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      tu
-    </grapheme>
-    <phoneme>
-      tuː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       tuī
-    </grapheme>
-    <phoneme>
-      tuiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      tui
     </grapheme>
     <phoneme>
       tuiː
@@ -210,14 +162,6 @@
   <lexeme>
     <grapheme>
       tē
-    </grapheme>
-    <phoneme>
-      teː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      te
     </grapheme>
     <phoneme>
       teː
@@ -249,14 +193,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      mei
-    </grapheme>
-    <phoneme>
-      meiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       mihi
     </grapheme>
     <phoneme>
@@ -266,14 +202,6 @@
   <lexeme>
     <grapheme>
       mē
-    </grapheme>
-    <phoneme>
-      meː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      me
     </grapheme>
     <phoneme>
       meː
@@ -345,14 +273,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      si
-    </grapheme>
-    <phoneme>
-      siː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       sui
     </grapheme>
     <phoneme>
@@ -377,23 +297,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      se
-    </grapheme>
-    <phoneme>
-      seː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       sēsē
-    </grapheme>
-    <phoneme>
-      seːseː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      sese
     </grapheme>
     <phoneme>
       seːseː
@@ -434,14 +338,6 @@
   <lexeme>
     <grapheme>
       ā
-    </grapheme>
-    <phoneme>
-      aː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      a
     </grapheme>
     <phoneme>
       aː
@@ -513,14 +409,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      potui
-    </grapheme>
-    <phoneme>
-      potui
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       aut
     </grapheme>
     <phoneme>
@@ -537,14 +425,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      magnus
-    </grapheme>
-    <phoneme>
-      maːgnus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       māgna
     </grapheme>
     <phoneme>
@@ -553,23 +433,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      magna
-    </grapheme>
-    <phoneme>
-      maːgna
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       māgnum
-    </grapheme>
-    <phoneme>
-      maːgnum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      magnum
     </grapheme>
     <phoneme>
       maːgnum
@@ -586,14 +450,6 @@
   <lexeme>
     <grapheme>
       ē
-    </grapheme>
-    <phoneme>
-      eː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      e
     </grapheme>
     <phoneme>
       eː
@@ -633,14 +489,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      do
-    </grapheme>
-    <phoneme>
-      doː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       dare
     </grapheme>
     <phoneme>
@@ -650,14 +498,6 @@
   <lexeme>
     <grapheme>
       dedī
-    </grapheme>
-    <phoneme>
-      dediː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      dedi
     </grapheme>
     <phoneme>
       dediː
@@ -697,23 +537,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      video
-    </grapheme>
-    <phoneme>
-      vide.oː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       vidēre
-    </grapheme>
-    <phoneme>
-      videre
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      videre
     </grapheme>
     <phoneme>
       videre
@@ -729,14 +553,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      vidi
-    </grapheme>
-    <phoneme>
-      vidiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       vīsum
     </grapheme>
     <phoneme>
@@ -745,23 +561,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      visum
-    </grapheme>
-    <phoneme>
-      viːsum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       faciō
-    </grapheme>
-    <phoneme>
-      fatʃio
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      facio
     </grapheme>
     <phoneme>
       fatʃio
@@ -785,14 +585,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      feci
-    </grapheme>
-    <phoneme>
-      fetʃiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       factum
     </grapheme>
     <phoneme>
@@ -809,14 +601,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      dico
-    </grapheme>
-    <phoneme>
-      diːko
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       dīcere
     </grapheme>
     <phoneme>
@@ -825,23 +609,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      dicere
-    </grapheme>
-    <phoneme>
-      diːkere
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       dīxī
-    </grapheme>
-    <phoneme>
-      diːksi
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      dixi
     </grapheme>
     <phoneme>
       diːksi
@@ -913,23 +681,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      res
-    </grapheme>
-    <phoneme>
-      reːs
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       habeō
-    </grapheme>
-    <phoneme>
-      habeo
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      habeo
     </grapheme>
     <phoneme>
       habeo
@@ -945,23 +697,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      habere
-    </grapheme>
-    <phoneme>
-      habere
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       habuī
-    </grapheme>
-    <phoneme>
-      habui
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      habui
     </grapheme>
     <phoneme>
       habui
@@ -1081,14 +817,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      fero
-    </grapheme>
-    <phoneme>
-      feroː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       ferre
     </grapheme>
     <phoneme>
@@ -1105,14 +833,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      tuli
-    </grapheme>
-    <phoneme>
-      tuli
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       lātum
     </grapheme>
     <phoneme>
@@ -1121,23 +841,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      latum
-    </grapheme>
-    <phoneme>
-      laːtum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       dē
-    </grapheme>
-    <phoneme>
-      deː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      de
     </grapheme>
     <phoneme>
       deː
@@ -1177,14 +881,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      nullus
-    </grapheme>
-    <phoneme>
-      nullus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       nūlla
     </grapheme>
     <phoneme>
@@ -1209,14 +905,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      nullum
-    </grapheme>
-    <phoneme>
-      nullum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       nunc
     </grapheme>
     <phoneme>
@@ -1226,14 +914,6 @@
   <lexeme>
     <grapheme>
       nōs
-    </grapheme>
-    <phoneme>
-      nos
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      nos
     </grapheme>
     <phoneme>
       nos
@@ -1257,23 +937,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      nostri
-    </grapheme>
-    <phoneme>
-      nostriː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       nōbīs
-    </grapheme>
-    <phoneme>
-      nobis
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      nobis
     </grapheme>
     <phoneme>
       nobis
@@ -1305,23 +969,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      unus
-    </grapheme>
-    <phoneme>
-      uːnus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       ūna
-    </grapheme>
-    <phoneme>
-      uːna
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      una
     </grapheme>
     <phoneme>
       uːna
@@ -1337,23 +985,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      unum
-    </grapheme>
-    <phoneme>
-      uːnum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       diēs
-    </grapheme>
-    <phoneme>
-      diːɛs
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      dies
     </grapheme>
     <phoneme>
       diːɛs
@@ -1449,14 +1081,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      rex
-    </grapheme>
-    <phoneme>
-      reks
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       nam
     </grapheme>
     <phoneme>
@@ -1489,14 +1113,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      venio
-    </grapheme>
-    <phoneme>
-      venio
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       venīre
     </grapheme>
     <phoneme>
@@ -1505,23 +1121,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      venire
-    </grapheme>
-    <phoneme>
-      venire
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       vēnī
-    </grapheme>
-    <phoneme>
-      veni
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      veni
     </grapheme>
     <phoneme>
       veni
@@ -1561,14 +1161,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      volo
-    </grapheme>
-    <phoneme>
-      volo
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       velle
     </grapheme>
     <phoneme>
@@ -1578,14 +1170,6 @@
   <lexeme>
     <grapheme>
       voluī
-    </grapheme>
-    <phoneme>
-      volui
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      volui
     </grapheme>
     <phoneme>
       volui
@@ -1633,14 +1217,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      ago
-    </grapheme>
-    <phoneme>
-      aɡoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       agere
     </grapheme>
     <phoneme>
@@ -1657,23 +1233,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      egi
-    </grapheme>
-    <phoneme>
-      eːɡi
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       āctum
-    </grapheme>
-    <phoneme>
-      aktum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      actum
     </grapheme>
     <phoneme>
       aktum
@@ -1785,23 +1345,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      totus
-    </grapheme>
-    <phoneme>
-      toːtus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       tōta
-    </grapheme>
-    <phoneme>
-      toːta
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      tota
     </grapheme>
     <phoneme>
       toːta
@@ -1817,23 +1361,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      totum
-    </grapheme>
-    <phoneme>
-      toːtum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       sīc
-    </grapheme>
-    <phoneme>
-      sik
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      sic
     </grapheme>
     <phoneme>
       sik
@@ -1889,14 +1417,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      peto
-    </grapheme>
-    <phoneme>
-      petoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       petere
     </grapheme>
     <phoneme>
@@ -1913,23 +1433,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      petivi
-    </grapheme>
-    <phoneme>
-      petiviː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       petītum
-    </grapheme>
-    <phoneme>
-      petitum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      petitum
     </grapheme>
     <phoneme>
       petitum
@@ -1945,14 +1449,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      iubeo
-    </grapheme>
-    <phoneme>
-      jubeoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       iubēre
     </grapheme>
     <phoneme>
@@ -1961,23 +1457,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      iubere
-    </grapheme>
-    <phoneme>
-      jubere
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       iussī
-    </grapheme>
-    <phoneme>
-      jussiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      iussi
     </grapheme>
     <phoneme>
       jussiː
@@ -2017,23 +1497,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      vita
-    </grapheme>
-    <phoneme>
-      viːta
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       homō
-    </grapheme>
-    <phoneme>
-      homoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      homo
     </grapheme>
     <phoneme>
       homoː
@@ -2073,23 +1537,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      primus
-    </grapheme>
-    <phoneme>
-      priːmus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       prīma
-    </grapheme>
-    <phoneme>
-      priːma
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      prima
     </grapheme>
     <phoneme>
       priːma
@@ -2105,10 +1553,498 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      primum
+      ubi
     </grapheme>
     <phoneme>
-      priːmum
+      ubi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      hostis
+    </grapheme>
+    <phoneme>
+      hostis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      an
+    </grapheme>
+    <phoneme>
+      an
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mors
+    </grapheme>
+    <phoneme>
+      mors
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mortis
+    </grapheme>
+    <phoneme>
+      mortis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      tam
+    </grapheme>
+    <phoneme>
+      tam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      eō
+    </grapheme>
+    <phoneme>
+      eoː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      īre
+    </grapheme>
+    <phoneme>
+      ire
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      iī
+    </grapheme>
+    <phoneme>
+      ii
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      īvī
+    </grapheme>
+    <phoneme>
+      iviː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      itum
+    </grapheme>
+    <phoneme>
+      itum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      arma
+    </grapheme>
+    <phoneme>
+      arma
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      superus
+    </grapheme>
+    <phoneme>
+      superus
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      supera
+    </grapheme>
+    <phoneme>
+      supera
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      superum
+    </grapheme>
+    <phoneme>
+      superum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      nisi
+    </grapheme>
+    <phoneme>
+      nisi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      nī
+    </grapheme>
+    <phoneme>
+      niː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      teneō
+    </grapheme>
+    <phoneme>
+      teneoː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      causa
+    </grapheme>
+    <phoneme>
+      kauza
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      sequor
+    </grapheme>
+    <phoneme>
+      sekʷor
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      crēdō
+    </grapheme>
+    <phoneme>
+      kredoː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      accipiō
+    </grapheme>
+    <phoneme>
+      akʧipio
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      virtus
+    </grapheme>
+    <phoneme>
+      virtus
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ante
+    </grapheme>
+    <phoneme>
+      ante
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quaero
+    </grapheme>
+    <phoneme>
+      kwaero
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mitto
+    </grapheme>
+    <phoneme>
+      mitto
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      vis
+    </grapheme>
+    <phoneme>
+      vis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      amor
+    </grapheme>
+    <phoneme>
+      amor
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      caelum
+    </grapheme>
+    <phoneme>
+      tʃɛlum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      sub
+    </grapheme>
+    <phoneme>
+      sub
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      nox
+    </grapheme>
+    <phoneme>
+      noks
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ita
+    </grapheme>
+    <phoneme>
+      ita
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      regnum
+    </grapheme>
+    <phoneme>
+      rɛɡnum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      populus
+    </grapheme>
+    <phoneme>
+      populus
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      autem
+    </grapheme>
+    <phoneme>
+      autɛm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      caput
+    </grapheme>
+    <phoneme>
+      kaput
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mare
+    </grapheme>
+    <phoneme>
+      mare
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quidam
+    </grapheme>
+    <phoneme>
+      kʷidam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quaedam
+    </grapheme>
+    <phoneme>
+      kʷɛdam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quoddam
+    </grapheme>
+    <phoneme>
+      kʷoddam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mater
+    </grapheme>
+    <phoneme>
+      matɛr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      pro
+    </grapheme>
+    <phoneme>
+      pro
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quisquis
+    </grapheme>
+    <phoneme>
+      kʷiskʷis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quidquid
+    </grapheme>
+    <phoneme>
+      kʷidkʷid
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      vos
+    </grapheme>
+    <phoneme>
+      vos
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      capio
+    </grapheme>
+    <phoneme>
+      kapio
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      capere
+    </grapheme>
+    <phoneme>
+      kapɛrɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      cēpī
+    </grapheme>
+    <phoneme>
+      tʃepiː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      captum
+    </grapheme>
+    <phoneme>
+      kaptum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quia
+    </grapheme>
+    <phoneme>
+      kʷia
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      duco
+    </grapheme>
+    <phoneme>
+      duko
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ducere
+    </grapheme>
+    <phoneme>
+      dukɛrɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      duxī
+    </grapheme>
+    <phoneme>
+      duksiː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ductum
+    </grapheme>
+    <phoneme>
+      duktum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ergo
+    </grapheme>
+    <phoneme>
+      ɛrɡo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      nomen
+    </grapheme>
+    <phoneme>
+      nomen
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      nominis
+    </grapheme>
+    <phoneme>
+      nominis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quidem
+    </grapheme>
+    <phoneme>
+      kʷidɛm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      miser
+    </grapheme>
+    <phoneme>
+      miser
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      misera
+    </grapheme>
+    <phoneme>
+      misɛra
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      miserum
+    </grapheme>
+    <phoneme>
+      miserum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      fortūna
+    </grapheme>
+    <phoneme>
+      fortuːna
     </phoneme>
   </lexeme>
 </lexicon>
