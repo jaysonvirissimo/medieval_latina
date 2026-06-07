@@ -19,6 +19,7 @@ GEM
       optimist (~> 3)
     language_server-protocol (3.17.0.3)
     lint_roller (1.1.0)
+    logger (1.7.0)
     mini_portile2 (2.8.9)
     nokogiri (1.19.3)
       mini_portile2 (~> 2.8.2)
@@ -88,6 +89,7 @@ PLATFORMS
 
 DEPENDENCIES
   jsonlint
+  logger
   medieval_latina!
   nokogiri
   rake (~> 12.0)
