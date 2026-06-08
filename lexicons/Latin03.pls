@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      lateris
+    </grapheme>
+    <phoneme>
+      lateris
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       dulcis
     </grapheme>
     <phoneme>
@@ -2037,14 +2045,6 @@
     </grapheme>
     <phoneme>
       spargɛre
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      trēs
-    </grapheme>
-    <phoneme>
-      trɛs
     </phoneme>
   </lexeme>
 </lexicon>

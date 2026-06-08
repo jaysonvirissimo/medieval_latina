@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      fortūna
+    </grapheme>
+    <phoneme>
+      fortuːna
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       novus
     </grapheme>
     <phoneme>
@@ -2037,14 +2045,6 @@
     </grapheme>
     <phoneme>
       rationisː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      umbra
-    </grapheme>
-    <phoneme>
-      umbra
     </phoneme>
   </lexeme>
 </lexicon>

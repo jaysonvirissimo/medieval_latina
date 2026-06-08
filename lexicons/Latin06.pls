@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      fātus sum
+    </grapheme>
+    <phoneme>
+      faːtussum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       humus
     </grapheme>
     <phoneme>
@@ -2037,14 +2045,6 @@
     </grapheme>
     <phoneme>
       juːraːre
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      auctōritās
-    </grapheme>
-    <phoneme>
-      auktoːritaːs
     </phoneme>
   </lexeme>
 </lexicon>

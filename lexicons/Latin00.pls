@@ -1785,6 +1785,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      caelis
+    </grapheme>
+    <phoneme>
+      tʃɛlis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       sub
     </grapheme>
     <phoneme>
@@ -2037,14 +2045,6 @@
     </grapheme>
     <phoneme>
       miserum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      fortūna
-    </grapheme>
-    <phoneme>
-      fortuːna
     </phoneme>
   </lexeme>
 </lexicon>

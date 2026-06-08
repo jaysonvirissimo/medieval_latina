@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      auctōritās
+    </grapheme>
+    <phoneme>
+      auktoːritaːs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       auctōritātis
     </grapheme>
     <phoneme>
@@ -2037,14 +2045,6 @@
     </grapheme>
     <phoneme>
       ɪnˈfɪrmʊs
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      informis
-    </grapheme>
-    <phoneme>
-      ɪnˈfɔrmɪs
     </phoneme>
   </lexeme>
 </lexicon>
