@@ -83,7 +83,7 @@ RSpec.describe MedievalLatina do
       expect(actual).to eq(expected)
     end
 
-    it "is agnostic to diacritial marks" do
+    it "is agnostic to diacritical marks" do
       expect(described_class["terreō"]).to eq("tayrayo")
     end
   end
@@ -156,6 +156,26 @@ RSpec.describe MedievalLatina do
 
       expect(actual_keys).to eq(expected_keys)
     end
+
+    it "stores no redundant unmacronized aliases" do
+      strip_position = ->(metadata) { metadata.except("position") }
+
+      groups = subject.keys.group_by { |word| I18n.transliterate(word) }
+
+      redundant = subject.keys.select do |word|
+        normalized = I18n.transliterate(word)
+        next false unless word == normalized # only plain (macronless) keys
+
+        macronized = groups[normalized].reject { |candidate| candidate == normalized }
+        # Redundant only when exactly one macronized form normalizes here and the
+        # metadata is identical apart from position. Distinct homographs and
+        # ambiguous collision spellings (>1 macronized form) are preserved.
+        macronized.one? && strip_position.call(subject[macronized.first]) == strip_position.call(subject[word])
+      end
+
+      expect(redundant).to be_empty,
+        "Redundant unmacronized aliases reintroduced: #{redundant.join(", ")}"
+    end
   end
 
   describe ".adjectives" do
@@ -179,13 +199,45 @@ RSpec.describe MedievalLatina do
     it "doesn't break on words that aren't in the dictionary" do
       expect { described_class.pronunciations_for(["foo"]) }.not_to raise_error
     end
+
+    it "falls back to the canonical macronized entry for a macronless spelling" do
+      # "vates" is no longer stored; it must resolve to canonical "vātēs".
+      expect(described_class.dictionary).not_to have_key("vates")
+      expect(described_class.pronunciations_for(["vates"])).to eq("vates" => "vaːteːs")
+    end
+
+    it "prefers an exact spelling over its normalized sibling (homograph)" do
+      # hīc (adverb "here") and hic (pronoun "this") are distinct lemmas.
+      expect(described_class.pronunciations_for(["hīc"])).to eq("hīc" => "hik")
+      expect(described_class.pronunciations_for(["hic"])).to eq("hic" => "ik")
+    end
+
+    # Each ambiguous spelling normalizes from >1 macronized form; the retained
+    # exact entry must win so the result is deterministic.
+    %w[uti nulla cecidi senatus casus navis spiritus sensus].each do |spelling|
+      it "resolves the ambiguous spelling #{spelling.inspect} to its exact entry" do
+        expected = described_class.dictionary.fetch(spelling).fetch("ipa")
+        expect(described_class.pronunciations_for([spelling])).to eq(spelling => expected)
+      end
+    end
+  end
+
+  describe "diacritic-insensitive lookups" do
+    it "pronounces a macronless spelling whose alias was removed" do
+      expect(described_class.dictionary).not_to have_key("voco")
+      expect(described_class["voco"]).to eq(described_class["vocō"])
+    end
+
+    it "answers part-of-speech predicates via the macronless fallback" do
+      expect(described_class.verb?("voco")).to be(true)
+    end
   end
 
   describe ".verbs" do
     specify { expect(described_class).to respond_to(:verbs) }
   end
 
-  describe ".verbs" do
+  describe ".nouns" do
     specify { expect(described_class).to respond_to(:nouns) }
   end
 
