@@ -46,10 +46,10 @@ class MedievalLatina
     word.gsub(/\P{Alnum}+/, " ").strip.downcase
   end
 
-  # Looks a word up by its exact spelling first, then falls back to a
-  # diacritic-insensitive (macron-stripped) match. Returns the entry or nil.
+  # Exact spelling first, then a macron-stripped fallback.
   def self.entry_for(word)
-    DICTIONARY[word] || NORMALIZED[I18n.transliterate(word.to_s.downcase)]
+    key = word.to_s.downcase
+    DICTIONARY[key] || NORMALIZED[I18n.transliterate(key)]
   end
 
   def self.adjective?(word)
@@ -213,14 +213,10 @@ class MedievalLatina
 
   DICTIONARY = dictionary
 
-  # Diacritic-insensitive fallback index: maps each macron-stripped spelling to
-  # its canonical entry, but only when no exact key already claims that spelling
-  # (so an exact match always wins). When several entries share a normalized
-  # spelling, the earliest one (by dictionary order) wins, keeping lookups
-  # deterministic.
-  NORMALIZED = dictionary.each_with_object({}) do |(word, metadata), hash|
+  # Macron-stripped fallback; exact keys win, earliest entry wins on collision.
+  NORMALIZED = DICTIONARY.each_with_object({}) do |(word, metadata), hash|
     normalized = I18n.transliterate(word)
-    next if dictionary.key?(normalized)
+    next if DICTIONARY.key?(normalized)
 
     hash[normalized] ||= metadata
   end

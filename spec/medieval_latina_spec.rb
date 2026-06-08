@@ -83,7 +83,7 @@ RSpec.describe MedievalLatina do
       expect(actual).to eq(expected)
     end
 
-    it "is agnostic to diacritial marks" do
+    it "is agnostic to diacritical marks" do
       expect(described_class["terreō"]).to eq("tayrayo")
     end
   end
@@ -212,11 +212,13 @@ RSpec.describe MedievalLatina do
       expect(described_class.pronunciations_for(["hic"])).to eq("hic" => "ik")
     end
 
-    it "resolves an ambiguous normalized spelling deterministically" do
-      # "senatus" normalizes from both senātus and senātūs; the retained exact
-      # entry wins so the result is stable.
-      expect(described_class.pronunciations_for(["senatus"])).to eq("senatus" => "senatusː")
-      expect(described_class.pronunciations_for(["navis"])).to eq("navis" => "navisː")
+    # Each ambiguous spelling normalizes from >1 macronized form; the retained
+    # exact entry must win so the result is deterministic.
+    %w[uti nulla cecidi senatus casus navis spiritus sensus].each do |spelling|
+      it "resolves the ambiguous spelling #{spelling.inspect} to its exact entry" do
+        expected = described_class.dictionary.fetch(spelling).fetch("ipa")
+        expect(described_class.pronunciations_for([spelling])).to eq(spelling => expected)
+      end
     end
   end
 
@@ -235,7 +237,7 @@ RSpec.describe MedievalLatina do
     specify { expect(described_class).to respond_to(:verbs) }
   end
 
-  describe ".verbs" do
+  describe ".nouns" do
     specify { expect(described_class).to respond_to(:nouns) }
   end
 
