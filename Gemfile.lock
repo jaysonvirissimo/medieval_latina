@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    medieval_latina (3.1.2)
+    medieval_latina (3.2.0)
       i18n
 
 GEM
