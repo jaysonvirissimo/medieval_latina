@@ -38,8 +38,7 @@ class MedievalLatina
     SPECIFICATION = {
       "version" => "1.0",
       "xmlns" => "http://www.w3.org/2005/01/pronunciation-lexicon",
-      "alphabet" => "ipa",
-      "xml:lang" => "en-US"
+      "alphabet" => "ipa"
     }.freeze
   end
 end

@@ -56,19 +56,21 @@ lexicon = MedievalLatina::LexiconBuilder.new(pronunciations, lang: lang).call.to
 polly = Aws::Polly::Client.new(region: REGION)
 polly.put_lexicon(name: lexicon_name, content: lexicon) # idempotent; overwrites
 
-response = polly.synthesize_speech(
-  text: SENTENCE,
-  lexicon_names: [lexicon_name],
-  voice_id: voice,
-  engine: config[:engine],
-  output_format: "mp3"
-)
-
 FileUtils.mkdir_p("tmp")
 output_path = "tmp/sample-#{voice}.mp3"
-File.binwrite(output_path, response.audio_stream.read)
 
-# Leave no lexicon behind in the AWS account; each run re-uploads it anyway.
-polly.delete_lexicon(name: lexicon_name)
+# Always remove the lexicon from the AWS account, even if synthesis/write raises.
+begin
+  response = polly.synthesize_speech(
+    text: SENTENCE,
+    lexicon_names: [lexicon_name],
+    voice_id: voice,
+    engine: config[:engine],
+    output_format: "mp3"
+  )
+  File.binwrite(output_path, response.audio_stream.read)
+ensure
+  polly.delete_lexicon(name: lexicon_name)
+end
 
 puts "#{voice} (#{lang}, #{config[:engine]}) -> #{output_path} (#{File.size(output_path)} bytes)"
