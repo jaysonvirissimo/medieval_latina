@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      orior
-    </grapheme>
-    <phoneme>
-      orjor
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       orīrī
     </grapheme>
     <phoneme>
@@ -2045,6 +2037,14 @@
     </grapheme>
     <phoneme>
       faːriː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      fātus sum
+    </grapheme>
+    <phoneme>
+      faːtussum
     </phoneme>
   </lexeme>
 </lexicon>

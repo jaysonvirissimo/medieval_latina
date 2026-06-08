@@ -17,6 +17,7 @@ RSpec.describe MedievalLatina do
       "aeternus" => "aeternus",
       "aut" => "out",
       "Caelum" => "chayloom",
+      "caelis" => "chaylees",
       "clamo" => "klahmoh",
       "creavit" => "kray-ah-veet",
       "deus" => "dayoos",
@@ -220,6 +221,10 @@ RSpec.describe MedievalLatina do
         expect(described_class.pronunciations_for([spelling])).to eq(spelling => expected)
       end
     end
+
+    it "returns the ipa for caelis" do
+      expect(described_class.pronunciations_for(["caelis"])).to eq("caelis" => "tʃɛlis")
+    end
   end
 
   describe "diacritic-insensitive lookups" do
@@ -230,6 +235,20 @@ RSpec.describe MedievalLatina do
 
     it "answers part-of-speech predicates via the macronless fallback" do
       expect(described_class.verb?("voco")).to be(true)
+    end
+  end
+
+  describe MedievalLatina::LexiconBuilder do
+    let(:words) { {"caelis" => "tʃɛlis"} }
+
+    it "defaults to the en-US lexicon language" do
+      expect(described_class.new(words).call.to_s).to include("xml:lang='en-US'")
+    end
+
+    it "honors a custom lexicon language" do
+      xml = described_class.new(words, lang: "it-IT").call.to_s
+      expect(xml).to include("xml:lang='it-IT'")
+      expect(xml).not_to include("xml:lang='en-US'")
     end
   end
 

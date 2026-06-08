@@ -1467,14 +1467,6 @@
     "ipa": "tʃɛlum",
     "position": 301
   },
-  "caelis": {
-    "meaning": "sky, heavens",
-    "part": "Noun",
-    "gender": "neuter",
-    "declension": "2nd",
-    "ipa": "tʃɛlis",
-    "position": 3150
-  },
   "sub": {
     "meaning": "under, close to",
     "part": "Preposition",
@@ -15654,5 +15646,13 @@
     "meaning": "wound, injure",
     "part": "Verb",
     "ipa": "ˈvul.ne.ro"
+  },
+  "caelis": {
+    "meaning": "sky, heavens",
+    "part": "Noun",
+    "gender": "neuter",
+    "declension": "2nd",
+    "ipa": "tʃɛlis",
+    "position": 3150
   }
 }

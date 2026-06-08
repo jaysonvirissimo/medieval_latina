@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      umbra
-    </grapheme>
-    <phoneme>
-      umbra
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       umbrae
     </grapheme>
     <phoneme>
@@ -2045,6 +2037,14 @@
     </grapheme>
     <phoneme>
       latus
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      lateris
+    </grapheme>
+    <phoneme>
+      lateris
     </phoneme>
   </lexeme>
 </lexicon>

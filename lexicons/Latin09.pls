@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      usurpo
-    </grapheme>
-    <phoneme>
-      uˈsur.po
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       vagor
     </grapheme>
     <phoneme>
@@ -45,6 +37,14 @@
     </grapheme>
     <phoneme>
       ˈvul.ne.ro
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      caelis
+    </grapheme>
+    <phoneme>
+      tʃɛlis
     </phoneme>
   </lexeme>
 </lexicon>

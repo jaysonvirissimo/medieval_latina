@@ -15,8 +15,10 @@
 
 require "medieval_latina"
 require "aws-sdk-polly"
+require "fileutils"
 
-REGION = "us-east-1"
+# us-east-1 is where the voices/engines below are available; override via env if needed.
+REGION = ENV["AWS_REGION"] || ENV["AWS_DEFAULT_REGION"] || "us-east-1"
 # Polly matches lexicon graphemes case-sensitively and our graphemes are lowercase,
 # so synthesize from lowercased text (the README still shows it capitalized).
 SENTENCE = "pater noster qui es in caelis"
@@ -36,6 +38,8 @@ VOICES = {
 
 LEXICON_NAMES = {"en-US" => "MedievalLatinaEnUs", "it-IT" => "MedievalLatinaItIt"}.freeze
 
+abort "Usage: #{$PROGRAM_NAME} <voice>\nChoices: #{VOICES.keys.join(", ")}" if ARGV.empty?
+
 voice = ARGV[0]
 config = VOICES[voice]
 abort "Unknown voice #{voice.inspect}. Choose one of: #{VOICES.keys.join(", ")}" unless config
@@ -43,18 +47,14 @@ abort "Unknown voice #{voice.inspect}. Choose one of: #{VOICES.keys.join(", ")}"
 # Build the {word => IPA} map from the gem's dictionary for every word in the sentence.
 pronunciations = MedievalLatina.pronunciations_for(SENTENCE.split)
 
-en_lexicon = MedievalLatina::LexiconBuilder.new(pronunciations).call.to_s
-lexicon_content = {
-  "en-US" => en_lexicon,
-  "it-IT" => en_lexicon.sub("xml:lang='en-US'", "xml:lang='it-IT'")
-}
-
-polly = Aws::Polly::Client.new(region: REGION)
-
-# (Re)register the lexicon for this voice's language (idempotent; overwrites).
+# Build a lexicon whose xml:lang matches the voice's language (Polly applies a lexicon
+# only when the languages match).
 lang = config[:lang]
 lexicon_name = LEXICON_NAMES[lang]
-polly.put_lexicon(name: lexicon_name, content: lexicon_content.fetch(lang))
+lexicon = MedievalLatina::LexiconBuilder.new(pronunciations, lang: lang).call.to_s
+
+polly = Aws::Polly::Client.new(region: REGION)
+polly.put_lexicon(name: lexicon_name, content: lexicon) # idempotent; overwrites
 
 response = polly.synthesize_speech(
   text: SENTENCE,
@@ -64,9 +64,11 @@ response = polly.synthesize_speech(
   output_format: "mp3"
 )
 
-require "fileutils"
 FileUtils.mkdir_p("tmp")
 output_path = "tmp/sample-#{voice}.mp3"
 File.binwrite(output_path, response.audio_stream.read)
+
+# Leave no lexicon behind in the AWS account; each run re-uploads it anyway.
+polly.delete_lexicon(name: lexicon_name)
 
 puts "#{voice} (#{lang}, #{config[:engine]}) -> #{output_path} (#{File.size(output_path)} bytes)"
