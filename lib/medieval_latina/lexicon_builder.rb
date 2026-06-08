@@ -5,13 +5,14 @@ class MedievalLatina
   class LexiconBuilder
     include REXML
 
-    def initialize(words)
+    def initialize(words, lang: "en-US")
       @document = Document.new
       @words = words
+      @lang = lang
     end
 
     def call
-      document.add_element "lexicon", SPECIFICATION
+      document.add_element "lexicon", SPECIFICATION.merge("xml:lang" => lang)
 
       words.each do |word, pronunciation|
         lexeme = Element.new("lexeme")
@@ -32,13 +33,12 @@ class MedievalLatina
 
     private
 
-    attr_reader :document, :words
+    attr_reader :document, :words, :lang
 
     SPECIFICATION = {
       "version" => "1.0",
       "xmlns" => "http://www.w3.org/2005/01/pronunciation-lexicon",
-      "alphabet" => "ipa",
-      "xml:lang" => "en-US"
+      "alphabet" => "ipa"
     }.freeze
   end
 end

@@ -3,6 +3,22 @@
 There are good text-to-speech engines for English and classical Latin, but none for medieval Latin.
 `MedievalLatina` converts Latin text to a kind of phonetic spelling that can be read by English language text-to-speech engines.
 
+## Hear it
+
+A line of the Lord's Prayer — *Pater noster qui es in caelis* — spoken by Amazon Polly using this gem's IPA pronunciation lexicon, so you hear MedievalLatina's pronunciation rather than raw Latin:
+
+▶️ **[Play the sample](https://github.com/jaysonvirissimo/medieval_latina/raw/master/audio/pater-noster.mp3)** (`audio/pater-noster.mp3`)
+
+<!-- Inline player: drag-and-drop audio/pater-noster.mp3 into a GitHub PR/comment composer to
+     mint a https://github.com/user-attachments/assets/<id> URL, then paste that URL on its own
+     line directly below to render an inline audio player in the rendered README. -->
+
+- **Text:** *Pater noster qui es in caelis* — "Our Father, who art in heaven", the traditional Latin Lord's Prayer (public domain).
+- **Gem output:** `MedievalLatina["Pater noster qui es in caelis"]` → `"pah-tare nohstayr kwee es een chaylees"`.
+- **Voice:** Amazon Polly **Bianca** (Italian, `it-IT`, neural engine), driven by MedievalLatina's IPA via a PLS lexicon.
+- **Reproduce:** `ruby -Ilib bin/sample_audio Bianca` (requires AWS credentials in the environment and the `aws-sdk-polly` gem).
+- **Provenance:** audio generated with Amazon Polly on 2026-06-07; Polly output may be used and redistributed under the [AWS Service Terms](https://aws.amazon.com/service-terms/).
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -40,7 +56,8 @@ responsiveVoice.speak(sentence, "UK English Female");
 polly = Aws::Polly::Client.new
 s3 = Aws::S3::Client.new
 
-sentence = "PATER NOSTER qui es in caelis"
+# Lowercase so the text matches the lexicon's (case-sensitive) lowercase graphemes.
+sentence = "pater noster qui es in caelis"
 
 words = sentence.split(" ")
 pronunciations = MedievalLatina.pronunciations_for(words)

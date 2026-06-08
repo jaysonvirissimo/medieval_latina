@@ -1,0 +1,76 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Generates the README's spoken sample with Amazon Polly, using MedievalLatina's
+# IPA pronunciations via a PLS lexicon so Polly pronounces the Latin our way.
+#
+# Usage:
+#   AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY must be in the environment.
+#   aws-sdk-polly must be available, e.g. run through a bundle that provides it:
+#     BUNDLE_GEMFILE=/path/to/aws/Gemfile bundle exec ruby -Ilib bin/sample_audio Joanna
+#   Output: tmp/sample-<voice>.mp3
+#
+# Credentials are read from the AWS SDK default chain only; they are never echoed,
+# logged, or written to disk.
+
+require "medieval_latina"
+require "aws-sdk-polly"
+require "fileutils"
+
+# us-east-1 is where the voices/engines below are available; override via env if needed.
+REGION = ENV["AWS_REGION"] || ENV["AWS_DEFAULT_REGION"] || "us-east-1"
+# Polly matches lexicon graphemes case-sensitively and our graphemes are lowercase,
+# so synthesize from lowercased text (the README still shows it capitalized).
+SENTENCE = "pater noster qui es in caelis"
+
+# Polly applies a lexicon only when its xml:lang matches the voice's language, and
+# lexicons work on the standard/neural engines (not generative). Each voice below is
+# paired with the matching lexicon language and a lexicon-capable engine.
+VOICES = {
+  "Joanna" => {lang: "en-US", engine: "neural"},
+  "Matthew" => {lang: "en-US", engine: "neural"},
+  "Danielle" => {lang: "en-US", engine: "neural"},
+  "Stephen" => {lang: "en-US", engine: "neural"},
+  "Bianca" => {lang: "it-IT", engine: "neural"},
+  "Carla" => {lang: "it-IT", engine: "standard"},
+  "Giorgio" => {lang: "it-IT", engine: "standard"}
+}.freeze
+
+LEXICON_NAMES = {"en-US" => "MedievalLatinaEnUs", "it-IT" => "MedievalLatinaItIt"}.freeze
+
+abort "Usage: #{$PROGRAM_NAME} <voice>\nChoices: #{VOICES.keys.join(", ")}" if ARGV.empty?
+
+voice = ARGV[0]
+config = VOICES[voice]
+abort "Unknown voice #{voice.inspect}. Choose one of: #{VOICES.keys.join(", ")}" unless config
+
+# Build the {word => IPA} map from the gem's dictionary for every word in the sentence.
+pronunciations = MedievalLatina.pronunciations_for(SENTENCE.split)
+
+# Build a lexicon whose xml:lang matches the voice's language (Polly applies a lexicon
+# only when the languages match).
+lang = config[:lang]
+lexicon_name = LEXICON_NAMES[lang]
+lexicon = MedievalLatina::LexiconBuilder.new(pronunciations, lang: lang).call.to_s
+
+polly = Aws::Polly::Client.new(region: REGION)
+polly.put_lexicon(name: lexicon_name, content: lexicon) # idempotent; overwrites
+
+FileUtils.mkdir_p("tmp")
+output_path = "tmp/sample-#{voice}.mp3"
+
+# Always remove the lexicon from the AWS account, even if synthesis/write raises.
+begin
+  response = polly.synthesize_speech(
+    text: SENTENCE,
+    lexicon_names: [lexicon_name],
+    voice_id: voice,
+    engine: config[:engine],
+    output_format: "mp3"
+  )
+  File.binwrite(output_path, response.audio_stream.read)
+ensure
+  polly.delete_lexicon(name: lexicon_name)
+end
+
+puts "#{voice} (#{lang}, #{config[:engine]}) -> #{output_path} (#{File.size(output_path)} bytes)"

@@ -39,4 +39,12 @@
       ˈvul.ne.ro
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      caelis
+    </grapheme>
+    <phoneme>
+      tʃɛlis
+    </phoneme>
+  </lexeme>
 </lexicon>
