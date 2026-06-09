@@ -7,7 +7,9 @@ There are good text-to-speech engines for English and classical Latin, but none 
 
 A line of the Lord's Prayer — *Pater noster qui es in caelis* — spoken by Amazon Polly using this gem's IPA pronunciation lexicon, so you hear MedievalLatina's pronunciation rather than raw Latin:
 
-▶️ **[Play the sample](https://github.com/user-attachments/files/28738151/audio_pater-noster.mp3)** (`audio/pater-noster.mp3`)
+▶️ **[Play the sample](https://github.com/jaysonvirissimo/medieval_latina/raw/master/audio/pater-noster.mp3)** (`audio/pater-noster.mp3`)
+
+https://github.com/user-attachments/assets/3659f3e3-3bd1-477e-89fa-add4388a94d3
 
 <!-- Inline player: drag-and-drop audio/pater-noster.mp3 into a GitHub PR/comment composer to
      mint a https://github.com/user-attachments/assets/<id> URL, then paste that URL on its own
