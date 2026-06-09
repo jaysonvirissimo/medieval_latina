@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      novus
-    </grapheme>
-    <phoneme>
-      novus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       nova
     </grapheme>
     <phoneme>
@@ -2045,6 +2037,22 @@
     </grapheme>
     <phoneme>
       umbra
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      umbrae
+    </grapheme>
+    <phoneme>
+      umbrae
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ars
+    </grapheme>
+    <phoneme>
+      ars
     </phoneme>
   </lexeme>
 </lexicon>

@@ -1,62 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      auctōritātis
-    </grapheme>
-    <phoneme>
-      auktoːritaːtis
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      iaciō
-    </grapheme>
-    <phoneme>
-      jatʃioː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      iēcī
-    </grapheme>
-    <phoneme>
-      jeːtʃiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      iactum
-    </grapheme>
-    <phoneme>
-      jaktum
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      labōrō
-    </grapheme>
-    <phoneme>
-      laboːroː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      labōrāre
-    </grapheme>
-    <phoneme>
-      laboːraːre
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      librī
-    </grapheme>
-    <phoneme>
-      libriː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       lūna
     </grapheme>
     <phoneme>
@@ -2045,6 +1989,70 @@
     </grapheme>
     <phoneme>
       ɪnˈfɔrmɪs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      iniustus
+    </grapheme>
+    <phoneme>
+      ɪˈnjʊstʊs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      integer
+    </grapheme>
+    <phoneme>
+      ˈɪntɛɡɛr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      invictus
+    </grapheme>
+    <phoneme>
+      ɪnˈʋɪktʊs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      iratus
+    </grapheme>
+    <phoneme>
+      ɪˈratʊs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      militaris
+    </grapheme>
+    <phoneme>
+      mɪlɪˈtarɪs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mirus
+    </grapheme>
+    <phoneme>
+      ˈmɪrʊs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      obstinatus
+    </grapheme>
+    <phoneme>
+      ɔbstɪˈnatʊs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      opportunus
+    </grapheme>
+    <phoneme>
+      ɔpˈpɔrtʊnʊs
     </phoneme>
   </lexeme>
 </lexicon>

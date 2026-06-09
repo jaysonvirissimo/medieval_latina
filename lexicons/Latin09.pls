@@ -1,50 +1,50 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      vagor
+      equum
     </grapheme>
     <phoneme>
-      ˈva.gor
+      ɛkʷum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      versor
+      fīlium
     </grapheme>
     <phoneme>
-      ˈver.sor
+      fiːlium
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      verto
+      mūrum
     </grapheme>
     <phoneme>
-      ˈver.to
+      murum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vigilo
+      puellae
     </grapheme>
     <phoneme>
-      viˈdʒi.lo
+      puɛllae
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      vulnero
+      servum
     </grapheme>
     <phoneme>
-      ˈvul.ne.ro
+      servum
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      caelis
+      terrae
     </grapheme>
     <phoneme>
-      tʃɛlis
+      terrae
     </phoneme>
   </lexeme>
 </lexicon>

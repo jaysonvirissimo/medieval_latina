@@ -1,38 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      tria
-    </grapheme>
-    <phoneme>
-      tria
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      tangō
-    </grapheme>
-    <phoneme>
-      tangoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      tangere
-    </grapheme>
-    <phoneme>
-      tangɛre
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      respondeō
-    </grapheme>
-    <phoneme>
-      rɛspondɛoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       respondēre
     </grapheme>
     <phoneme>
@@ -2045,6 +2013,46 @@
     </grapheme>
     <phoneme>
       orjor
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      orīrī
+    </grapheme>
+    <phoneme>
+      oririː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ortus sum
+    </grapheme>
+    <phoneme>
+      ortus sʊmː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      ecce
+    </grapheme>
+    <phoneme>
+      ɛkkɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      quamquam
+    </grapheme>
+    <phoneme>
+      kʷamkʷam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      cōnferō
+    </grapheme>
+    <phoneme>
+      konferoː
     </phoneme>
   </lexeme>
 </lexicon>

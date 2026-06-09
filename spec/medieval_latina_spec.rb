@@ -225,6 +225,22 @@ RSpec.describe MedievalLatina do
     it "returns the ipa for caelis" do
       expect(described_class.pronunciations_for(["caelis"])).to eq("caelis" => "tʃɛlis")
     end
+
+    # fix #42: common inflected forms were missing IPA, so callers fell back to
+    # the rule engine's anglicized respelling instead of true IPA.
+    it "returns IPA for common inflected forms" do
+      expected = {
+        "amat" => "amat", "amās" => "amaːs", "dominum" => "dominum",
+        "equum" => "ɛkʷum", "fīlium" => "fiːlium", "mūrum" => "murum",
+        "puellae" => "puɛllae", "servum" => "servum", "terrae" => "terrae"
+      }
+      expect(described_class.pronunciations_for(expected.keys)).to eq(expected)
+    end
+
+    it "resolves macronless spellings of the new inflected forms via fallback" do
+      expect(described_class.pronunciations_for(%w[filium murum amas]))
+        .to eq("filium" => "fiːlium", "murum" => "murum", "amas" => "amaːs")
+    end
   end
 
   describe "diacritic-insensitive lookups" do

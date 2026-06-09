@@ -45,6 +45,23 @@ The main conversion algorithm handles:
 3. Otherwise → apply phonetic transformation rules
 4. Rejoin with proper punctuation spacing
 
+### Inflected Forms in the Dictionary
+
+`dictionary.json` stores canonical (macronized) keys. Runtime lookups are
+diacritic-insensitive (exact key first, then a macron-stripped `NORMALIZED`
+fallback), so a macronless spelling of a stored lemma resolves automatically —
+but morphologically inflected forms (e.g. `dominum` from `dominus`) are *not*
+generated and need their own entries when their pronunciation differs from what
+fallback yields. When adding an inflected form:
+
+- Key it by its canonical macronized spelling; the `NORMALIZED` fallback keeps
+  macronless lookups working.
+- Derive its `ipa` from the base lemma's existing IPA by swapping the
+  inflectional ending (the rule engine only produces anglicized respelling, not
+  IPA, so there is nothing to generate from); hand-tune irregular forms.
+- Inherit `part`/`declension`/`gender`/`conjugation` from the base lemma.
+- Regenerate the PLS lexicons with `bin/build` afterward.
+
 ## Key Files
 
 - `lib/medieval_latina.rb` - Main conversion logic and API

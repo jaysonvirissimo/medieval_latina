@@ -1,54 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      humus
-    </grapheme>
-    <phoneme>
-      umus
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      humī
-    </grapheme>
-    <phoneme>
-      umiː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      testis
-    </grapheme>
-    <phoneme>
-      testis
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      īnferō
-    </grapheme>
-    <phoneme>
-      iːnfero
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      īnferre
-    </grapheme>
-    <phoneme>
-      iːnferre
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      intulī
-    </grapheme>
-    <phoneme>
-      intuliː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       illātum
     </grapheme>
     <phoneme>
@@ -2045,6 +1997,62 @@
     </grapheme>
     <phoneme>
       auktoːritaːs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      auctōritātis
+    </grapheme>
+    <phoneme>
+      auktoːritaːtis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      iaciō
+    </grapheme>
+    <phoneme>
+      jatʃioː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      iēcī
+    </grapheme>
+    <phoneme>
+      jeːtʃiː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      iactum
+    </grapheme>
+    <phoneme>
+      jaktum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      labōrō
+    </grapheme>
+    <phoneme>
+      laboːroː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      labōrāre
+    </grapheme>
+    <phoneme>
+      laboːraːre
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      librī
+    </grapheme>
+    <phoneme>
+      libriː
     </phoneme>
   </lexeme>
 </lexicon>

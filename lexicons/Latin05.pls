@@ -1,46 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      orīrī
-    </grapheme>
-    <phoneme>
-      oririː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      ortus sum
-    </grapheme>
-    <phoneme>
-      ortus sʊmː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      ecce
-    </grapheme>
-    <phoneme>
-      ɛkkɛ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      quamquam
-    </grapheme>
-    <phoneme>
-      kʷamkʷam
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      cōnferō
-    </grapheme>
-    <phoneme>
-      konferoː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       cōnferre
     </grapheme>
     <phoneme>
@@ -2045,6 +2005,54 @@
     </grapheme>
     <phoneme>
       faːtussum
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      humus
+    </grapheme>
+    <phoneme>
+      umus
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      humī
+    </grapheme>
+    <phoneme>
+      umiː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      testis
+    </grapheme>
+    <phoneme>
+      testis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      īnferō
+    </grapheme>
+    <phoneme>
+      iːnfero
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      īnferre
+    </grapheme>
+    <phoneme>
+      iːnferre
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      intulī
+    </grapheme>
+    <phoneme>
+      intuliː
     </phoneme>
   </lexeme>
 </lexicon>

@@ -2047,4 +2047,12 @@
       fortuːna
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      novus
+    </grapheme>
+    <phoneme>
+      novus
+    </phoneme>
+  </lexeme>
 </lexicon>

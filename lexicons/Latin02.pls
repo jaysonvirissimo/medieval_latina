@@ -1,22 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      umbrae
-    </grapheme>
-    <phoneme>
-      umbrae
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      ars
-    </grapheme>
-    <phoneme>
-      ars
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       artis
     </grapheme>
     <phoneme>
@@ -2045,6 +2029,30 @@
     </grapheme>
     <phoneme>
       lateris
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      dulcis
+    </grapheme>
+    <phoneme>
+      dulkis
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      dulce
+    </grapheme>
+    <phoneme>
+      dulke
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      postquam
+    </grapheme>
+    <phoneme>
+      postkʷam
     </phoneme>
   </lexeme>
 </lexicon>

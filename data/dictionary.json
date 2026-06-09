@@ -15654,5 +15654,75 @@
     "declension": "2nd",
     "ipa": "tʃɛlis",
     "position": 3150
+  },
+  "amat": {
+    "meaning": "to love (3rd person singular present active)",
+    "part": "Verb",
+    "conjugation": "1st",
+    "ipa": "amat",
+    "position": 3151
+  },
+  "amās": {
+    "meaning": "to love (2nd person singular present active)",
+    "part": "Verb",
+    "conjugation": "1st",
+    "ipa": "amaːs",
+    "position": 3152
+  },
+  "dominum": {
+    "meaning": "household master, lord (accusative singular)",
+    "part": "Noun",
+    "declension": "2nd",
+    "gender": "masculine",
+    "ipa": "dominum",
+    "position": 3153
+  },
+  "equum": {
+    "meaning": "horse (accusative singular)",
+    "part": "Noun",
+    "declension": "2nd",
+    "gender": "masculine",
+    "ipa": "ɛkʷum",
+    "position": 3154
+  },
+  "fīlium": {
+    "meaning": "son (accusative singular)",
+    "part": "Noun",
+    "declension": "2nd",
+    "gender": "masculine",
+    "ipa": "fiːlium",
+    "position": 3155
+  },
+  "mūrum": {
+    "meaning": "wall (accusative singular)",
+    "part": "Noun",
+    "declension": "2nd",
+    "gender": "masculine",
+    "ipa": "murum",
+    "position": 3156
+  },
+  "puellae": {
+    "meaning": "girl (genitive/dative singular or nominative plural)",
+    "part": "Noun",
+    "declension": "1st",
+    "gender": "feminine",
+    "ipa": "puɛllae",
+    "position": 3157
+  },
+  "servum": {
+    "meaning": "slave (accusative singular)",
+    "part": "Noun",
+    "declension": "2nd",
+    "gender": "masculine",
+    "ipa": "servum",
+    "position": 3158
+  },
+  "terrae": {
+    "meaning": "land (genitive/dative singular or nominative plural)",
+    "part": "Noun",
+    "declension": "1st",
+    "gender": "feminine",
+    "ipa": "terrae",
+    "position": 3159
   }
 }
